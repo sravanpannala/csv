@@ -608,12 +608,16 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-14,Nuggets,1627750,Jamal Murray,True,False,activated from IL
 2023-12-14,Timberwolves,1630162,Anthony Edwards,True,False,activated from IL
 2023-12-14,Warriors,1630586,Usman Garuba,True,False,returned to lineup
+2023-12-15,Celtics,1630625,Dalano Banton,False,True,illness (DTD)
+2023-12-15,Rockets,1630256,Jae'Sean Tate,False,True,illness (DTD)
+2023-12-16,Bucks,203114,Khris Middleton,False,True,right knee injury (DTD)
+2023-12-16,Mavericks,1626158,Richaun Holmes,False,True,illness (DTD)
 2023-12-15,Blazers,1630688,Ish Wainright,True,False,activated from IL
 2023-12-15,Bucks,1641753,Chris Livingston,True,False,activated from IL
 2023-12-15,Bucks,1626192,Pat Connaughton,True,False,activated from IL
 2023-12-15,Cavaliers,1629636,Darius Garland,False,True,fractured jaw (out indefinitely)
 2023-12-15,Cavaliers,1630596,Evan Mobley,False,True,surgery on left knee (out indefinitely)
-2023-12-15,Celtics,1630625,Dalano Banton,False,True,illness (DTD)
+2023-12-15,Celtics,1630625,Dalano Banton,False,True,placed on IL with illness
 2023-12-15,Celtics,204001,Kristaps Porzingis,False,True,left calf injury (DTD)
 2023-12-15,Grizzlies,1630217,Desmond Bane,True,False,activated from IL
 2023-12-15,Heat,1629312,Haywood Highsmith,True,False,activated from IL
@@ -623,12 +627,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-15,Lakers,1629629,Cam Reddish,False,True,sore right knee (DTD)
 2023-12-15,Lakers,1626156,D'Angelo Russell,False,True,migraine headache (DTD)
 2023-12-15,Pelicans,1629627,Zion Williamson,True,False,activated from IL
-2023-12-15,Rockets,1630256,Jae'Sean Tate,False,True,illness (DTD)
+2023-12-15,Rockets,1630256,Jae'Sean Tate,False,True,placed on IL with illness
 2023-12-15,Spurs,1630200,Tre Jones,False,True,illness (DTD)
 2023-12-15,Suns,1628960,Grayson Allen,True,False,activated from IL
 2023-12-15,Wizards,1630647,Eugene Omoruyi,True,False,activated from IL
 2023-12-16,Blazers,203924,Jerami Grant,True,False,activated from IL
-2023-12-16,Bucks,203114,Khris Middleton,False,True,right knee injury (DTD)
+2023-12-16,Bucks,203114,Khris Middleton,False,True,placed on IL with right knee injury
 2023-12-16,Bucks,1627736,Malik Beasley,False,True,illness (DTD)
 2023-12-16,Bulls,1627936,Alex Caruso,False,True,sprained left ankle (DTD)
 2023-12-16,Celtics,204001,Kristaps Porzingis,True,False,returned to lineup
@@ -641,10 +645,22 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-16,Jazz,1630209,Omer Yurtseven,False,True,illness (DTD)
 2023-12-16,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
 2023-12-16,Kings,1628368,De'Aaron Fox,False,True,right shoulder injury (DTD)
-2023-12-16,Mavericks,1626158,Richaun Holmes,False,True,illness (DTD)
+2023-12-16,Mavericks,1626158,Richaun Holmes,False,True,placed on IL with illness
 2023-12-16,Mavericks,203552,Seth Curry,True,False,activated from IL
 2023-12-16,Nets,1627827,Dorian Finney-Smith,False,True,sore left knee (DTD)
 2023-12-16,Pacers,1630169,Tyrese Haliburton,False,True,bruised left knee (DTD)
 2023-12-16,Pistons,1630191,Isaiah Stewart,False,True,sprained left shoulder (DTD)
 2023-12-16,Suns,203078,Bradley Beal,False,True,sprained right ankle (DTD)
 2023-12-16,Timberwolves,1631169,Josh Minott,False,True,illness (DTD)
+2023-12-17,Bucks,203114,Khris Middleton,True,False,activated from IL
+2023-12-17,Celtics,1630625,Dalano Banton,True,False,activated from IL
+2023-12-17,Grizzlies,201565,Derrick Rose,False,True,strained left hamstring (out indefinitely)
+2023-12-17,Heat,200768,Kyle Lowry,False,True,general soreness (DTD)
+2023-12-17,Heat,1628389,Bam Adebayo,True,False,activated from IL
+2023-12-17,Heat,1629639,Tyler Herro,True,False,activated from IL
+2023-12-17,Lakers,1629629,Cam Reddish,True,False,returned to lineup
+2023-12-17,Magic,204060,Joe Ingles,False,True,sprained left ankle (DTD)
+2023-12-17,Mavericks,1626158,Richaun Holmes,True,False,activated from IL
+2023-12-17,Rockets,1630256,Jae'Sean Tate,True,False,activated from IL
+2023-12-17,Spurs,1630200,Tre Jones,True,False,returned to lineup
+2023-12-17,Suns,201569,Eric Gordon,True,False,activated from IL
