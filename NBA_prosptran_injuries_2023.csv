@@ -4,9 +4,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-08-02,76ers,1626149,Montrezl Harrell,False,True,torn ACL in knee (out indefinitely)
 2023-08-02,Spurs,1628984,Devonte' Graham,False,True,suspended by NBA for 2 games for pleading guilty to a charge of impaired driving
 2023-08-05,Nuggets,1628427,Vlatko Cancar,False,True,torn ACL in knee (out indefinitely)
-2023-08-09,Timberwolves,1630162,Anthony Edwards,False,True,"fined $50,000 by NBA for recklessly swinging a chair in frustration that struck two bystanders"
 2023-08-21,Bulls,1628366,Lonzo Ball,False,True,recovering from surgery on left knee (out for season)
-2023-08-22,76ers,201935,James Harden,False,True,fined $100K by NBA for comments on August 14 and 17 indicating that he would not perform the services called for under his player contract unless traded to another team
 2023-09-25,Hornets,1628970,Miles Bridges,False,True,suspended by NBA for 30 games
 2023-09-29,Clippers,1630563,Joshua Primo,False,True,suspended by NBA for 4 games for conduct detrimental to the league
 2023-09-30,Hornets,1630539,Kai Jones,False,True,personal reasons (out indefinitely)
@@ -20,7 +18,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-10-02,Warriors,203110,Draymond Green,False,True,placed on IL with sprained left ankle
 2023-10-08,Celtics,1630206,Jay Scrubb,False,True,torn ACL in knee (out for season)
 2023-10-10,Hornets,1630547,James Bouknight,False,True,surgery on left knee (out indefinitely)
-2023-10-12,Rockets,1628415,Dillon Brooks,False,True,"fined $25,000 by NBA"
 2023-10-12,Wizards,1630264,Anthony Gill,False,True,left hamstring injury (out indefinitely)
 2023-10-13,Spurs,1628984,Devonte' Graham,True,False,reinstated from suspension
 2023-10-15,Pelicans,1630230,Naji Marshall,False,True,placed on IL with bruised right knee
@@ -58,20 +55,16 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-10-25,Mavericks,1630702,Jaden Hardy,False,True,sprained left ankle (DTD)
 2023-10-25,Nets,1641727,Dariq Whitehead,False,True,right foot injury (out indefinitely)
 2023-10-25,Pistons,1630587,Isaiah Livers,False,True,placed on IL with sprained left ankle
-2023-10-25,Suns,1629006,Josh Okogie,False,True,"fined $2,000 by NBA for flopping"
 2023-10-25,Thunder,1631119,Jaylin Williams,False,True,placed on IL with strained right hamstring
 2023-10-25,Timberwolves,203546,Jaylen Clark,False,True,right Achilles injury (DTD)
-2023-10-26,Bulls,1628975,Jevon Carter,False,True,"fined $2,000 by NBA for flopping"
 2023-10-26,Grizzlies,1628379,Luke Kennard,False,True,placed on IL with concussion protocols
 2023-10-26,Nets,1629651,Nic Claxton,False,True,placed on IL with sprained left ankle
 2023-10-26,Rockets,1629111,Jock Landale,False,True,placed on IL with concussion
 2023-10-26,Suns,1626164,Devin Booker,False,True,placed on IL with sore left foot
 2023-10-27,Blazers,1629014,Anfernee Simons,False,True,placed on IL with surgery on right thumb
-2023-10-27,Bucks,203109,Jae Crowder,False,True,"fined $2,000 by NBA for flopping"
 2023-10-27,Cavaliers,1629636,Darius Garland,False,True,placed on IL with strained left hamstring
 2023-10-27,Cavaliers,1629731,Dean Wade,True,False,activated from IL
 2023-10-27,Heat,1628997,Caleb Martin,False,True,left knee tendinosis (DTD)
-2023-10-27,Hornets,1629023,P.J. Washington,False,True,"fined $2,000 by NBA for ejection from game"
 2023-10-27,Kings,1641771,Jalen Slawson,True,False,returned to lineup
 2023-10-27,Mavericks,203939,Dwight Powell,True,False,returned to lineup
 2023-10-27,Mavericks,1630702,Jaden Hardy,True,False,returned to lineup
@@ -82,12 +75,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-10-28,Cavaliers,1629660,Ty Jerome,False,True,sprained right ankle (DTD)
 2023-10-28,Heat,1628997,Caleb Martin,False,True,placed on IL with left knee tendinosis
 2023-10-28,Heat,201567,Kevin Love,False,True,placed on IL with bruised left shoulder
-2023-10-28,Knicks,1628973,Jalen Brunson,False,True,"fined $2,000 by NBA for flopping"
 2023-10-28,Raptors,1628384,O.G. Anunoby,False,True,placed on IL with muscle cramps
 2023-10-28,Warriors,203110,Draymond Green,True,False,activated from IL
 2023-10-28,Wizards,1630264,Anthony Gill,True,False,returned to lineup
-2023-10-29,Bulls,1629632,Coby White,False,True,"fined $2,000 by NBA for flopping"
-2023-10-29,Jazz,203903,Jordan Clarkson,False,True,"fined $2,000 by NBA for flopping"
 2023-10-29,Rockets,1630207,Nate Hinton,True,False,returned to lineup
 2023-10-29,Spurs,1628984,Devonte' Graham,True,False,reinstated from suspension
 2023-10-30,Bucks,203114,Khris Middleton,True,False,activated from IL
@@ -105,7 +95,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-10-30,Warriors,202691,Klay Thompson,False,True,placed on IL with sore knee
 2023-10-30,Wizards,1629655,Daniel Gafford,False,True,placed on IL with ankle injury
 2023-10-30,Wizards,1631098,Johnny Davis (Christian),True,False,activated from IL
-2023-10-31,76ers,203954,Joel Embiid,False,True,"fined $35,000 by NBA for repeatedly making an obscene gesture during game"
 2023-10-31,Cavaliers,1628378,Donovan Mitchell,True,False,activated from IL
 2023-10-31,Grizzlies,201565,Derrick Rose,False,True,placed on IL with sore left knee
 2023-10-31,Grizzlies,1628379,Luke Kennard,True,False,activated from IL
@@ -113,7 +102,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-10-31,Nuggets,1630643,Jay Huff,True,False,returned to lineup
 2023-10-31,Rockets,1629111,Jock Landale,True,False,activated from IL
 2023-10-31,Wizards,1629013,Landry Shamet,True,False,activated from IL
-2023-11-01,Clippers,202331,Paul George,False,True,"fined $2,000 by NBA for flopping"
 2023-11-01,Heat,201567,Kevin Love,False,True,placed on IL with bruised left shoulder
 2023-11-01,Heat,1628389,Bam Adebayo,True,False,activated from IL
 2023-11-01,Heat,1629312,Haywood Highsmith,True,False,activated from IL
@@ -173,7 +161,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-11-05,Mavericks,202693,Markieff Morris,True,False,returned to lineup
 2023-11-05,Nuggets,1627750,Jamal Murray,False,True,placed on IL with strained right hamstring
 2023-11-05,Pistons,1631093,Jaden Ivey,False,True,illness (DTD)
-2023-11-05,Pistons,1631105,Jalen Duren,False,True,"fined $4,000 by NBA for ejection from game"
 2023-11-06,76ers,201587,Nicolas Batum,True,False,activated from IL
 2023-11-06,Bulls,1630245,Ayo Dosunmu,True,False,activated from IL
 2023-11-06,Heat,1631107,Nikola Jovic,False,True,placed on IL with illness
@@ -405,7 +392,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-11-26,Hawks,1630552,Jalen Johnson,False,True,fractured left wrist (out indefinitely)
 2023-11-26,Hornets,1629023,P.J. Washington,True,False,returned to lineup
 2023-11-26,Hornets,1626179,Terry Rozier,True,False,activated from IL
-2023-11-26,Jazz,1629012,Collin Sexton,False,True,"fined $2,000 by NBA for flopping"
 2023-11-26,Jazz,203903,Jordan Clarkson,True,False,activated from IL
 2023-11-26,Knicks,1630613,Duane Washington Jr.,False,True,right thumb injury (DTD)
 2023-11-26,Magic,1628371,Jonathan Isaac,False,True,sore left ankle (DTD)
@@ -436,7 +422,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-11-29,Bucks,1626192,Pat Connaughton,False,True,placed on IL with sprained right ankle
 2023-11-29,Jazz,1627739,Kris Dunn,False,True,placed on IL for personal reasons
 2023-11-29,Lakers,1629629,Cam Reddish,True,False,activated from IL
-2023-11-29,Mavericks,1629029,Luka Doncic,False,True,"fined $2,000 by NBA for flopping"
 2023-11-29,Nuggets,1641816,Hunter Tyson,True,False,activated from IL
 2023-11-29,Nuggets,1627750,Jamal Murray,True,False,activated from IL
 2023-11-29,Nuggets,203999,Nikola Jokic,True,False,activated from IL
@@ -501,8 +486,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-02,Suns,201569,Eric Gordon,False,True,placed on IL with bruised right knee
 2023-12-02,Suns,1626164,Devin Booker,True,False,activated from IL
 2023-12-03,Kings,1630558,Davion Mitchell,True,False,activated from IL
-2023-12-03,Nuggets,203999,Nikola Jokic,False,True,"fined $2,000 by NBA for flopping"
-2023-12-03,Warriors,1630541,Moses Moody,False,True,"fined $2,000 by NBA for flopping"
 2023-12-04,76ers,203954,Joel Embiid,True,False,activated from IL
 2023-12-04,76ers,1626162,Kelly Oubre Jr.,True,False,activated from IL
 2023-12-04,76ers,1630178,Tyrese Maxey,True,False,returned to lineup
@@ -544,7 +527,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-07,Heat,1630181,R.J. Hampton,True,False,activated from IL
 2023-12-07,Kings,1641732,Colby Jones,False,True,placed on IL with sore lower back
 2023-12-07,Knicks,203095,Evan Fournier,True,False,activated from IL
-2023-12-07,Magic,1629021,Moe Wagner,False,True,"fined $2,000 by NBA for flopping"
 2023-12-07,Pistons,1631105,Jalen Duren,False,True,sprained left ankle (out indefinitely)
 2023-12-07,Rockets,201145,Jeff Green,True,False,activated from IL
 2023-12-07,Suns,1628960,Grayson Allen,False,True,placed on IL with strained groin
@@ -556,7 +538,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-08,Clippers,1628464,Daniel Theis,False,True,placed on IL with illness
 2023-12-08,Hawks,1629027,Trae Young,False,True,placed on IL with illness
 2023-12-08,Heat,1629312,Haywood Highsmith,False,True,placed on IL with bruised lower back
-2023-12-08,Heat,1626196,Josh Richardson,False,True,"fined $2,000 by NBA for flopping"
 2023-12-08,Hornets,1641733,Nick Smith Jr.,False,True,sprained right ankle (DTD)
 2023-12-08,Hornets,1631109,Mark Williams,True,False,activated from IL
 2023-12-08,Jazz,203903,Jordan Clarkson,True,False,activated from IL
