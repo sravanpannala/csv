@@ -1,12 +1,7 @@
 Date,Team,playerID,Player,In,Out,Notes
-2023-06-12,Heat,1629639,Tyler Herro,True,False,activated from IL
-2023-06-16,Grizzlies,1629630,Ja Morant,False,True,suspended by NBA for 25 games for conduct detrimental to the league (brandishing a gun on social media)
 2023-08-02,76ers,1626149,Montrezl Harrell,False,True,torn ACL in knee (out indefinitely)
-2023-08-02,Spurs,1628984,Devonte' Graham,False,True,suspended by NBA for 2 games for pleading guilty to a charge of impaired driving
 2023-08-05,Nuggets,1628427,Vlatko Cancar,False,True,torn ACL in knee (out indefinitely)
 2023-08-21,Bulls,1628366,Lonzo Ball,False,True,recovering from surgery on left knee (out for season)
-2023-09-25,Hornets,1628970,Miles Bridges,False,True,suspended by NBA for 30 games
-2023-09-29,Clippers,1630563,Joshua Primo,False,True,suspended by NBA for 4 games for conduct detrimental to the league
 2023-09-30,Hornets,1630539,Kai Jones,False,True,personal reasons (out indefinitely)
 2023-10-01,Suns,1627814,Damion Lee,False,True,right knee injury (DTD)
 2023-10-01,Wizards,1629013,Landry Shamet,False,True,fractured big toe (out indefinitely)
@@ -19,9 +14,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-10-08,Celtics,1630206,Jay Scrubb,False,True,torn ACL in knee (out for season)
 2023-10-10,Hornets,1630547,James Bouknight,False,True,surgery on left knee (out indefinitely)
 2023-10-12,Wizards,1630264,Anthony Gill,False,True,left hamstring injury (out indefinitely)
-2023-10-13,Spurs,1628984,Devonte' Graham,True,False,reinstated from suspension
 2023-10-15,Pelicans,1630230,Naji Marshall,False,True,placed on IL with bruised right knee
-2023-10-16,Rockets,1629645,Kevin Porter Jr.,False,True,suspended by team
 2023-10-21,Hornets,1628373,Frank Ntilikina,False,True,fractured tibia in leg (out indefinitely)
 2023-10-22,Grizzlies,203500,Steven Adams,False,True,surgery on right knee (out for season)
 2023-10-22,Rockets,1631106,Tari Eason,False,True,placed on IL
@@ -79,7 +72,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-10-28,Warriors,203110,Draymond Green,True,False,activated from IL
 2023-10-28,Wizards,1630264,Anthony Gill,True,False,returned to lineup
 2023-10-29,Rockets,1630207,Nate Hinton,True,False,returned to lineup
-2023-10-29,Spurs,1628984,Devonte' Graham,True,False,reinstated from suspension
 2023-10-30,Bucks,203114,Khris Middleton,True,False,activated from IL
 2023-10-30,Celtics,1629674,Neemias Queta,False,True,sore right foot (DTD)
 2023-10-30,Heat,1628389,Bam Adebayo,False,True,placed on IL with hip injury
@@ -272,9 +264,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-11-15,Mavericks,202681,Kyrie Irving,False,True,placed on IL with sprained left foot
 2023-11-15,Suns,203078,Bradley Beal,False,True,placed on IL with back spasms / strained lower back
 2023-11-15,Suns,201569,Eric Gordon,True,False,activated from IL
-2023-11-15,Warriors,203110,Draymond Green,False,True,suspended by NBA for 5 games
 2023-11-15,Pacers,1628464,Daniel Theis,True,False,activated from IL
-2023-11-16,Hornets,1628970,Miles Bridges,True,False,reinstated from suspension
 2023-11-16,Spurs,1630170,Devin Vassell,False,True,placed on IL with left adductor injury
 2023-11-17,Blazers,1630688,Ish Wainright,False,True,sprained MCL in left knee (DTD)
 2023-11-17,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
@@ -404,7 +394,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-11-26,Suns,1629234,Drew Eubanks,True,False,activated from IL
 2023-11-26,Suns,1629139,Yuta Watanabe,True,False,activated from IL
 2023-11-26,Thunder,1631114,Jalen Williams,True,False,activated from IL
-2023-11-26,Warriors,203110,Draymond Green,True,False,reinstated from suspension
 2023-11-26,Wizards,1629673,Jordan Poole,True,False,activated from IL
 2023-11-28,Bucks,203114,Khris Middleton,True,False,activated from IL
 2023-11-28,Bulls,1627936,Alex Caruso,True,False,activated from IL
@@ -605,7 +594,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-13,Suns,201142,Kevin Durant,True,False,activated from IL
 2023-12-13,Suns,1629642,Nassir Little,True,False,activated from IL
 2023-12-13,Thunder,1629652,Luguentz Dort,True,False,activated from IL
-2023-12-13,Warriors,203110,Draymond Green,False,True,suspended by NBA indefinitely
 2023-12-13,Wizards,1629655,Daniel Gafford,True,False,activated from IL
 2023-12-14,Blazers,1629028,Deandre Ayton,True,False,activated from IL
 2023-12-14,Blazers,1627763,Malcolm Brogdon,True,False,activated from IL
