@@ -547,6 +547,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-11,Clippers,1630527,B.J. Boston Jr.,True,False,returned to lineup
 2023-12-11,Hawks,1629631,De'Andre Hunter,False,True,placed on IL with sore right quadriceps tendon / various injuries
 2023-12-11,Hornets,1631109,Mark Williams,False,True,bruised lower back (DTD)
+2023-12-11,Jazz,1628381,John Collins (Martin),False,True,placed on IL with illness
 2023-12-11,Jazz,1631117,Walker Kessler,False,True,sore right foot (DTD)
 2023-12-11,Kings,1641732,Colby Jones,True,False,activated from IL
 2023-12-11,Knicks,1630193,Immanuel Quickley,False,True,right knee inflammation (DTD)
@@ -580,12 +581,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-13,Grizzlies,1630217,Desmond Bane,False,True,placed on IL with illness
 2023-12-13,Hawks,1631100,A.J. Griffin,False,True,personal reasons (DTD)
 2023-12-13,Heat,1626196,Josh Richardson,False,True,placed on IL with various injuries
-2023-12-13,Jazz,1629677,Luka Samanic,False,True,illness (DTD)
+2023-12-13,Jazz,1629677,Luka Samanic,False,True,placed on IL with illness
 2023-12-13,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
 2023-12-13,Jazz,1631117,Walker Kessler,True,False,returned to lineup
 2023-12-13,Knicks,1630193,Immanuel Quickley,True,False,returned to lineup
 2023-12-13,Lakers,1629020,Jarred Vanderbilt,True,False,returned to lineup
-2023-12-13,Nuggets,203484,Kentavious Caldwell-Pope,False,True,concussion protocols (DTD)
+2023-12-13,Nuggets,203484,Kentavious Caldwell-Pope,False,True,placed on IL with concussion protocols
 2023-12-13,Pelicans,1629627,Zion Williamson,False,True,placed on IL with sprained left ankle
 2023-12-13,Raptors,203490,Otto Porter Jr.,True,False,activated from IL
 2023-12-13,Rockets,1641708,Amen Thompson,False,True,illness (DTD)
@@ -618,7 +619,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-15,Grizzlies,1630217,Desmond Bane,True,False,activated from IL
 2023-12-15,Heat,1629312,Haywood Highsmith,True,False,activated from IL
 2023-12-15,Heat,1626196,Josh Richardson,True,False,activated from IL
-2023-12-15,Hornets,1629023,P.J. Washington,False,True,left shoulder injury (DTD)
+2023-12-15,Hornets,1629023,P.J. Washington,False,True,placed on IL with left shoulder injury
 2023-12-15,Lakers,203076,Anthony Davis,False,True,left adductor injury (DTD)
 2023-12-15,Lakers,1629629,Cam Reddish,False,True,sore right knee (DTD)
 2023-12-15,Lakers,1626156,D'Angelo Russell,False,True,migraine headache (DTD)
@@ -629,25 +630,25 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-15,Wizards,1630647,Eugene Omoruyi,True,False,activated from IL
 2023-12-16,Blazers,203924,Jerami Grant,True,False,activated from IL
 2023-12-16,Bucks,203114,Khris Middleton,False,True,placed on IL with right knee injury
-2023-12-16,Bucks,1627736,Malik Beasley,False,True,illness (DTD)
+2023-12-16,Bucks,1627736,Malik Beasley,False,True,placed on IL with illness
 2023-12-16,Bulls,1627936,Alex Caruso,False,True,sprained left ankle (DTD)
 2023-12-16,Celtics,204001,Kristaps Porzingis,True,False,returned to lineup
 2023-12-16,Clippers,1630538,Bones Hyland,False,True,sore right knee (DTD)
 2023-12-16,Clippers,202331,Paul George,True,False,activated from IL
 2023-12-16,Hawks,203992,Bogdan Bogdanovic,False,True,sprained right ankle (DTD)
-2023-12-16,Hawks,203991,Clint Capela,False,True,sore left knee (DTD)
+2023-12-16,Hawks,203991,Clint Capela,False,True,placed on IL with sore left knee
 2023-12-16,Hawks,1629631,De'Andre Hunter,True,False,activated from IL
 2023-12-16,Hornets,202330,Gordon Hayward,False,True,stomach virus (DTD)
 2023-12-16,Jazz,1630209,Omer Yurtseven,False,True,illness (DTD)
 2023-12-16,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
-2023-12-16,Kings,1628368,De'Aaron Fox,False,True,right shoulder injury (DTD)
+2023-12-16,Kings,1628368,De'Aaron Fox,False,True,placed on IL with right shoulder injury
 2023-12-16,Mavericks,1626158,Richaun Holmes,False,True,placed on IL with illness
 2023-12-16,Mavericks,203552,Seth Curry,True,False,activated from IL
 2023-12-16,Nets,1627827,Dorian Finney-Smith,False,True,sore left knee (DTD)
-2023-12-16,Pacers,1630169,Tyrese Haliburton,False,True,bruised left knee (DTD)
+2023-12-16,Pacers,1630169,Tyrese Haliburton,False,True,placed on IL with bruised left knee
 2023-12-16,Pistons,1630191,Isaiah Stewart,False,True,sprained left shoulder (DTD)
 2023-12-16,Suns,203078,Bradley Beal,False,True,sprained right ankle (DTD)
-2023-12-16,Timberwolves,1631169,Josh Minott,False,True,illness (DTD)
+2023-12-16,Timberwolves,1631169,Josh Minott,False,True,placed on IL with illness
 2023-12-17,Bucks,203114,Khris Middleton,True,False,activated from IL
 2023-12-17,Celtics,1630625,Dalano Banton,True,False,activated from IL
 2023-12-17,Grizzlies,201565,Derrick Rose,False,True,strained left hamstring (out indefinitely)
@@ -660,3 +661,23 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-17,Rockets,1630256,Jae'Sean Tate,True,False,activated from IL
 2023-12-17,Spurs,1630200,Tre Jones,True,False,returned to lineup
 2023-12-17,Suns,201569,Eric Gordon,True,False,activated from IL
+2023-12-18,76ers,202694,Marcus Morris,False,True,illness (DTD)
+2023-12-18,Bucks,1627736,Malik Beasley,True,False,activated from IL
+2023-12-18,Bulls,1628470,Torrey Craig,False,True,heel injury (out indefinitely)
+2023-12-18,Bulls,1627936,Alex Caruso,True,False,returned to lineup
+2023-12-18,Grizzlies,202687,Bismack Biyombo,False,True,sore back (DTD)
+2023-12-18,Hawks,203991,Clint Capela,True,False,activated from IL
+2023-12-18,Hornets,1641877,Nathan Mensah,False,True,personal reasons (DTD)
+2023-12-18,Hornets,1629023,P.J. Washington,True,False,activated from IL
+2023-12-18,Jazz,1628381,John Collins (Martin),True,False,activated from IL
+2023-12-18,Jazz,1629677,Luka Samanic,True,False,activated from IL
+2023-12-18,Kings,1628368,De'Aaron Fox,True,False,activated from IL
+2023-12-18,Lakers,203076,Anthony Davis,True,False,returned to lineup
+2023-12-18,Lakers,1626156,D'Angelo Russell,True,False,returned to lineup
+2023-12-18,Nets,1627827,Dorian Finney-Smith,True,False,returned to lineup
+2023-12-18,Nuggets,203484,Kentavious Caldwell-Pope,True,False,activated from IL
+2023-12-18,Pacers,1626167,Myles Turner,False,True,hamstring injury (DTD)
+2023-12-18,Pacers,1630169,Tyrese Haliburton,True,False,activated from IL
+2023-12-18,Pistons,1630165,Killian Hayes,False,True,illness (DTD)
+2023-12-18,Spurs,1641705,Victor Wembanyama,False,True,sore right ankle (DTD)
+2023-12-18,Timberwolves,1631169,Josh Minott,True,False,activated from IL
