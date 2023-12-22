@@ -649,10 +649,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-16,Pistons,1630191,Isaiah Stewart,False,True,sprained left shoulder (DTD)
 2023-12-16,Suns,203078,Bradley Beal,False,True,sprained right ankle (DTD)
 2023-12-16,Timberwolves,1631169,Josh Minott,False,True,placed on IL with illness
+2023-12-17,Heat,200768,Kyle Lowry,False,True,general soreness (DTD)
+2023-12-18,Hornets,1641877,Nathan Mensah,False,True,personal reasons (DTD)
 2023-12-17,Bucks,203114,Khris Middleton,True,False,activated from IL
 2023-12-17,Celtics,1630625,Dalano Banton,True,False,activated from IL
 2023-12-17,Grizzlies,201565,Derrick Rose,False,True,strained left hamstring (out indefinitely)
-2023-12-17,Heat,200768,Kyle Lowry,False,True,general soreness (DTD)
+2023-12-17,Heat,200768,Kyle Lowry,False,True,placed on IL with general soreness
 2023-12-17,Heat,1628389,Bam Adebayo,True,False,activated from IL
 2023-12-17,Heat,1629639,Tyler Herro,True,False,activated from IL
 2023-12-17,Lakers,1629629,Cam Reddish,True,False,returned to lineup
@@ -667,7 +669,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-18,Bulls,1627936,Alex Caruso,True,False,returned to lineup
 2023-12-18,Grizzlies,202687,Bismack Biyombo,False,True,sore back (DTD)
 2023-12-18,Hawks,203991,Clint Capela,True,False,activated from IL
-2023-12-18,Hornets,1641877,Nathan Mensah,False,True,personal reasons (DTD)
+2023-12-18,Hornets,1641877,Nathan Mensah,False,True,placed on IL for personal reasons
 2023-12-18,Hornets,1629023,P.J. Washington,True,False,activated from IL
 2023-12-18,Jazz,1628381,John Collins (Martin),True,False,activated from IL
 2023-12-18,Jazz,1629677,Luka Samanic,True,False,activated from IL
@@ -681,3 +683,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-18,Pistons,1630165,Killian Hayes,False,True,illness (DTD)
 2023-12-18,Spurs,1641705,Victor Wembanyama,False,True,sore right ankle (DTD)
 2023-12-18,Timberwolves,1631169,Josh Minott,True,False,activated from IL
+2023-12-19,76ers,201587,Nicolas Batum,False,True,right hamstring injury (DTD)
+2023-12-19,Bulls,1627740,Henri Drell,False,True,sprained right thumb (DTD)
+2023-12-19,Bulls,1641931,Onuralp Bitim,False,True,nasal fracture (out indefinitely)
+2023-12-19,Grizzlies,202687,Bismack Biyombo,True,False,returned to lineup
+2023-12-19,Heat,202710,Jimmy Butler,False,True,strained left calf (DTD)
+2023-12-19,Heat,200768,Kyle Lowry,True,False,activated from IL
+2023-12-19,Hornets,1641877,Nathan Mensah,True,False,activated from IL
+2023-12-19,Magic,1628976,Wendell Carter Jr.,True,False,activated from IL
