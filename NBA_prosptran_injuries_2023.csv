@@ -664,6 +664,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-17,Spurs,1630200,Tre Jones,True,False,returned to lineup
 2023-12-17,Suns,201569,Eric Gordon,True,False,activated from IL
 2023-12-18,76ers,202694,Marcus Morris,False,True,illness (DTD)
+2023-12-18,76ers,202694,Marcus Morris,False,True,placed on IL with illness
 2023-12-18,Bucks,1627736,Malik Beasley,True,False,activated from IL
 2023-12-18,Bulls,1628470,Torrey Craig,False,True,heel injury (out indefinitely)
 2023-12-18,Bulls,1627936,Alex Caruso,True,False,returned to lineup
@@ -691,3 +692,20 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-19,Heat,200768,Kyle Lowry,True,False,activated from IL
 2023-12-19,Hornets,1641877,Nathan Mensah,True,False,activated from IL
 2023-12-19,Magic,1628976,Wendell Carter Jr.,True,False,activated from IL
+2023-12-20,76ers,203496,Robert Covington,False,True,illness (DTD)
+2023-12-20,76ers,202694,Marcus Morris,True,False,activated from IL
+2023-12-20,Blazers,1631101,Shaedon Sharpe,False,True,right adductor injury (DTD)
+2023-12-20,Cavaliers,1628378,Donovan Mitchell,False,True,illness (DTD)
+2023-12-20,Celtics,1628369,Jayson Tatum,False,True,sprained left ankle (DTD)
+2023-12-20,Clippers,202331,Paul George,False,True,illness (DTD)
+2023-12-20,Clippers,1630538,Bones Hyland,True,False,activated from IL
+2023-12-20,Hawks,203992,Bogdan Bogdanovic,True,False,returned to lineup
+2023-12-20,Heat,201567,Kevin Love,False,True,stomach illness (DTD)
+2023-12-20,Hornets,202330,Gordon Hayward,True,False,activated from IL
+2023-12-20,Knicks,1630579,Jericho Sims,False,True,sprained right ankle (DTD)
+2023-12-20,Lakers,1629216,Gabe Vincent,True,False,activated from IL
+2023-12-20,Pacers,1630188,Jalen Smith,True,False,activated from IL
+2023-12-20,Pacers,1626167,Myles Turner,True,False,returned to lineup
+2023-12-20,Rockets,1631106,Tari Eason,False,True,sore leg (DTD)
+2023-12-20,Rockets,1641708,Amen Thompson,True,False,activated from IL
+2023-12-20,Wizards,1631157,Ryan Rollins,True,False,activated from IL
