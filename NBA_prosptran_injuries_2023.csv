@@ -684,6 +684,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-18,Pistons,1630165,Killian Hayes,False,True,illness (DTD)
 2023-12-18,Spurs,1641705,Victor Wembanyama,False,True,sore right ankle (DTD)
 2023-12-18,Timberwolves,1631169,Josh Minott,True,False,activated from IL
+2023-12-20,Clippers,202331,Paul George,False,True,illness (DTD)
+2023-12-20,Heat,201567,Kevin Love,False,True,stomach illness (DTD)
 2023-12-19,76ers,201587,Nicolas Batum,False,True,right hamstring injury (DTD)
 2023-12-19,Bulls,1627740,Henri Drell,False,True,sprained right thumb (DTD)
 2023-12-19,Bulls,1641931,Onuralp Bitim,False,True,nasal fracture (out indefinitely)
@@ -697,10 +699,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-20,Blazers,1631101,Shaedon Sharpe,False,True,right adductor injury (DTD)
 2023-12-20,Cavaliers,1628378,Donovan Mitchell,False,True,illness (DTD)
 2023-12-20,Celtics,1628369,Jayson Tatum,False,True,sprained left ankle (DTD)
-2023-12-20,Clippers,202331,Paul George,False,True,illness (DTD)
+2023-12-20,Clippers,202331,Paul George,False,True,placed on IL with illness
 2023-12-20,Clippers,1630538,Bones Hyland,True,False,activated from IL
 2023-12-20,Hawks,203992,Bogdan Bogdanovic,True,False,returned to lineup
-2023-12-20,Heat,201567,Kevin Love,False,True,stomach illness (DTD)
+2023-12-20,Heat,201567,Kevin Love,False,True,placed on IL with stomach illness
 2023-12-20,Hornets,202330,Gordon Hayward,True,False,activated from IL
 2023-12-20,Knicks,1630579,Jericho Sims,False,True,sprained right ankle (DTD)
 2023-12-20,Lakers,1629216,Gabe Vincent,True,False,activated from IL
@@ -709,3 +711,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-20,Rockets,1631106,Tari Eason,False,True,sore leg (DTD)
 2023-12-20,Rockets,1641708,Amen Thompson,True,False,activated from IL
 2023-12-20,Wizards,1631157,Ryan Rollins,True,False,activated from IL
+2023-12-21,Clippers,202695,Kawhi Leonard,False,True,bruised left hip (DTD)
+2023-12-21,Clippers,202331,Paul George,True,False,activated from IL
+2023-12-21,Heat,201567,Kevin Love,True,False,activated from IL
+2023-12-21,Jazz,1628374,Lauri Markkanen,False,True,left hamstring injury (DTD)
+2023-12-21,Jazz,1629659,Talen Horton-Tucker,False,True,sore left foot (DTD)
+2023-12-21,Lakers,1629216,Gabe Vincent,False,True,left knee injury (DTD)
+2023-12-21,Magic,1630591,Jalen Suggs,False,True,sprained left wrist (DTD)
+2023-12-21,Mavericks,203957,Dante Exum,False,True,bruised left lower leg (DTD)
+2023-12-21,Mavericks,1629029,Luka Doncic,False,True,quadriceps injury (DTD)
+2023-12-21,Pacers,1630188,Jalen Smith,False,True,various injuries (DTD)
+2023-12-21,Pacers,1629614,Andrew Nembhard,True,False,activated from IL
+2023-12-21,Pelicans,203469,Cody Zeller,False,True,sprained right ankle (DTD)
+2023-12-21,Pelicans,1629627,Zion Williamson,False,True,illness (DTD)
+2023-12-21,Pistons,1630191,Isaiah Stewart,True,False,returned to lineup
+2023-12-21,Spurs,1641705,Victor Wembanyama,True,False,activated from IL
+2023-12-21,Suns,203994,Jusuf Nurkic,False,True,personal reasons (DTD)
