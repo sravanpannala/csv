@@ -1,0 +1,2497 @@
+Date,Team,playerID,Player,In,Out,Notes
+2005-07-09,Hornets,101108,Chris Paul,False,True,sprained right wrist
+2005-07-09,Kings,1730,Brian Skinner,False,True,underwent shockwave treatment to alleviate pain from plantar fasciitis in his feet
+2005-07-11,Mavericks,2734,Devin Harris,False,True,sprained right shoulder
+2005-07-22,Lakers,101142,Ronny Turiaf,False,True,diagnosed with an enlarged aortic root in heart and will need open heart surgery
+2005-07-26,Lakers,101142,Ronny Turiaf,False,True,open heart surgery to repair an enlarged aortic root and preserve aortic valve
+2005-07-28,Nuggets,248,George Karl,False,True,surgery for prostate cancer
+2005-07-31,76ers,2584,Willie Green,False,True,left knee injury (date approximate)
+2005-08-16,76ers,2584,Willie Green,False,True,"arthroscopic surgery on left knee to repair torn ACL, torn lateral meniscus (out indefinitely)"
+2005-08-22,Nuggets,101125,Julius Hodge,False,True,arthroscopic surgery to repair torn lateral meniscus in left knee
+2005-08-25,Cavaliers,2760,Anderson Varejao,False,True,dislocated right shoulder
+2005-08-29,Nuggets,77,Doug Moe,False,True,assistant coach diagnosed with prostate cancer (will have surgery next month)
+2005-09-02,Cavaliers,2760,Anderson Varejao,False,True,arthroscopic surgery on dislocated right shoulder
+2005-09-12,Nuggets,77,Doug Moe,False,True,assistant coach had surgery for prostate cancer
+2005-09-13,Bobcats,101118,Sean May,False,True,arthroscopic surgery on right knee to remove damaged cartilage
+2005-09-14,Celtics,2754,Tony Allen,False,True,arthroscopic surgery on right knee to repair torn cartilage
+2005-09-25,Wizards,101154,Andray Blatche,False,True,shot in chest
+2005-09-28,Bobcats,101187,Alan Anderson,False,True,arthroscopic surgery on right knee to remove damaged cartilage
+2005-09-29,Rockets,682,Bob Sura,False,True,arthroscopic surgery on right knee to remove loose particles
+2005-10-03,Grizzlies,2073,Brian Cardinal,False,True,suffered setback in rehab of left knee (will not be ready for training camp)
+2005-10-03,Magic,2435,Mario Kasun,False,True,left ankle tendinitis
+2005-10-03,Magic,278,Stacey Augmon,False,True,will have surgery to repair hernia in groin area (out 6-8 weeks) (date approximate)
+2005-10-05,Pistons,283,Lindsey Hunter,False,True,arthroscopic surgery on left ankle to remove loose particles
+2005-10-06,Warriors,101147,Chris Taft,False,True,strained right groin (missed practice)
+2005-10-06,Warriors,2211,Troy Murphy,False,True,sprained ankle (missed practice)
+2005-10-09,Pacers,979,Jermaine O'Neal,False,True,bruised thigh (missed practice)
+2005-10-10,Warriors,101113,Ike Diogu,False,True,fractured bone in left hand (out at least 3 weeks)
+2005-10-10,Wizards,2406,Caron Butler,False,True,strained groin (missed pre-season game)
+2005-10-11,76ers,185,Chris Webber,False,True,bruised thigh (missed pre-season game)
+2005-10-11,76ers,2223,Samuel Dalembert,False,True,strained right quadricep (missed pre-season game)
+2005-10-11,76ers,101183,Shavlik Randolph,False,True,stress fracture in left foot (out 2-4 weeks)
+2005-10-11,Bulls,2768,Chris Duhon,False,True,strained groin (missed pre-season game)
+2005-10-11,Bulls,2443,Darius Songaila,False,True,shoulder injury (missed pre-season game)
+2005-10-11,Bulls,15,Eric Piatkowski,False,True,sore knee (missed pre-season game)
+2005-10-11,Knicks,101112,Channing Frye,False,True,stress reaction in right foot (out indefinitely)
+2005-10-11,Mavericks,57,Doug Christie,False,True,precautionary (missed pre-season game)
+2005-10-11,Mavericks,1496,Keith Van Horn,False,True,sprained right thumb (left pre-season game)
+2005-10-11,Nuggets,2030,Kenyon Martin (Sr.),False,True,left knee patella tendinitis
+2005-10-12,Lakers,2575,Luke Walton,False,True,strained left hamstring (out 2-6 weeks)
+2005-10-12,Timberwolves,708,Kevin Garnett,False,True,sore right knee (missed pre-season game)
+2005-10-12,Timberwolves,2060,Marko Jaric,False,True,sprained right ankle (missed pre-season game)
+2005-10-14,76ers,2214,Michael Bradley,False,True,arthroscopic surgery on right knee to repair torn meniscus (out 4-6 weeks)
+2005-10-17,Celtics,2556,Marcus Banks,False,True,stress fracture in left shin (out indefinitely)
+2005-10-27,Magic,255,Grant Hill,False,True,will undergo surgery next week to repair sports hernia
+2005-10-31,76ers,469,Jamal Mashburn,False,True,placed on IL with knee injury
+2005-10-31,76ers,2214,Michael Bradley,False,True,placed on IL with surgery on right knee
+2005-10-31,76ers,101183,Shavlik Randolph,False,True,placed on IL with stress fracture in left foot
+2005-10-31,Celtics,2556,Marcus Banks,False,True,placed on IL with stress fracture in left shin
+2005-10-31,Celtics,2754,Tony Allen,False,True,placed on IL with right knee rehab
+2005-10-31,Grizzlies,101194,Anthony Roberson,False,True,placed on IL
+2005-10-31,Grizzlies,2073,Brian Cardinal,False,True,placed on IL with left knee rehab
+2005-10-31,Grizzlies,1519,John Thomas,False,True,placed on IL
+2005-10-31,Heat,1899,James Posey,False,True,placed on IL with sprained right thumb
+2005-10-31,Heat,1720,Michael Doleac,False,True,placed on IL with strained left calf
+2005-10-31,Heat,1000,Shandon Anderson,False,True,placed on IL with lower back spasms
+2005-10-31,Jazz,101261,Andre Owens,False,True,placed on IL
+2005-10-31,Jazz,101139,C.J. Miles,False,True,placed on IL
+2005-10-31,Jazz,2430,Carlos Boozer,False,True,placed on IL with strained left hamstring
+2005-10-31,Kings,2441,Jamal Sampson,False,True,placed on IL
+2005-10-31,Knicks,896,Penny Hardaway,False,True,placed on IL
+2005-10-31,Knicks,101135,David Lee,False,True,placed on IL
+2005-10-31,Knicks,2866,Jackie Butler,False,True,placed on IL
+2005-10-31,Lakers,101209,Devin Green,False,True,placed on IL
+2005-10-31,Lakers,2575,Luke Walton,False,True,placed on IL with strained left hamstring
+2005-10-31,Lakers,101144,Von Wafer,False,True,placed on IL
+2005-10-31,Magic,255,Grant Hill,False,True,placed on IL with sports hernia
+2005-10-31,Magic,2435,Mario Kasun,False,True,placed on IL with right ankle tendinitis
+2005-10-31,Magic,278,Stacey Augmon,False,True,placed on IL with surgery to repair hernia
+2005-10-31,Mavericks,711,Jerry Stackhouse,False,True,placed on IL with sore right knee
+2005-10-31,Mavericks,2750,Pavel Podkolzine,False,True,placed on IL with stress fracture in right foot
+2005-10-31,Mavericks,101185,Rawle Marshall,False,True,placed on IL
+2005-10-31,Nets,101120,Antoine Wright,False,True,placed on IL
+2005-10-31,Nets,1052,Ben Handlogten,False,True,placed on IL
+2005-10-31,Nuggets,935,Bryon Russell,False,True,placed on IL with torn medial meniscus in right knee
+2005-10-31,Nuggets,101125,Julius Hodge,False,True,placed on IL with torn lateral meniscus in left knee
+2005-10-31,Nuggets,101132,Linas Kleiza,False,True,placed on IL
+2005-10-31,Pacers,2109,Eddie Gill,False,True,placed on IL
+2005-10-31,Pacers,1902,Jeff Foster,False,True,placed on IL with sore left Achilles tendon
+2005-10-31,Pacers,1513,Scot Pollard,False,True,placed on IL with strained left calf
+2005-10-31,Raptors,677,Eric Williams,False,True,placed on IL
+2005-10-31,Raptors,2776,Pape Sow,False,True,placed on IL with groin injury
+2005-10-31,Rockets,682,Bob Sura,False,True,placed on IL with surgery on right knee
+2005-10-31,Rockets,1901,Dion Glover,False,True,placed on IL with sprained right knee
+2005-10-31,Rockets,983,Moochie Norris,False,True,placed on IL
+2005-10-31,Suns,2876,Jared Reiner,False,True,placed on IL
+2005-10-31,Suns,101195,Lucas Tischer,False,True,placed on IL with visa problems
+2005-10-31,Timberwolves,101152,Bracey Wright,False,True,placed on IL
+2005-10-31,Timberwolves,101204,Dwayne Jones,False,True,placed on IL
+2005-10-31,Warriors,101113,Ike Diogu,False,True,placed on IL with fractured bone in left hand
+2005-10-31,Warriors,101145,Monta Ellis,False,True,placed on IL
+2005-10-31,Timberwolves,2648,Ronald Dupree,False,True,placed on IL
+2005-11-01,76ers,2223,Samuel Dalembert,False,True,strained right quadricep (DNP)
+2005-11-01,Mavericks,2750,Pavel Podkolzine,False,True,surgery on right foot to insert two screws for stress fracture
+2005-11-01,Nuggets,2403,Nene Hilario ,False,True,"torn ACL, sprained MCL, and torn meniscus in right knee"
+2005-11-02,76ers,2223,Samuel Dalembert,False,True,strained right quadricep (DNP)
+2005-11-02,Blazers,2775,Ha Seung-Jin,False,True,placed on IL
+2005-11-02,Blazers,2752,Sergei Monia,False,True,placed on IL
+2005-11-02,Blazers,2751,Viktor Khryapa,False,True,placed on IL
+2005-11-02,Bucks,101141,Ersan Ilyasova,False,True,placed on IL
+2005-11-02,Bucks,2412,Jiri Welsch,False,True,placed on IL with bruised left quadriceps
+2005-11-02,Bucks,693,Joe Smith (Leynard),False,True,placed on IL with sore left knee
+2005-11-02,Clippers,1894,Corey Maggette,False,True,placed on IL with left hamstring injury
+2005-11-02,Clippers,2733,Shaun Livingston,False,True,placed on IL with lower back stress reaction
+2005-11-02,Hawks,960,Tony Delk,False,True,placed on IL
+2005-11-02,Hawks,960,Tony Delk,False,True,family illness (DNP)
+2005-11-02,Hornets,2745,Kirk Snyder,False,True,placed on IL
+2005-11-02,Hornets,2573,Maciej Lampe,False,True,placed on IL
+2005-11-02,Hornets,2556,Sean Banks,False,True,placed on IL
+2005-11-02,Magic,2039,Keyon Dooling,False,True,bruised right heel (DNP)
+2005-11-02,Nuggets,2403,Nene Hilario ,False,True,"placed on IL with torn ACL, sprained MCL, and torn meniscus in right knee"
+2005-11-02,Nuggets,101132,Linas Kleiza,True,False,activated from IL
+2005-11-02,Rockets,2437,Lonny Baxter,False,True,placed on IL
+2005-11-02,Rockets,983,Moochie Norris,True,False,activated from IL
+2005-11-02,Sonics,958,Vitaly Potapenko,False,True,placed on IL
+2005-11-02,Spurs,1752,Sean Marks,False,True,placed on IL
+2005-11-03,Bobcats,101187,Alan Anderson,False,True,placed on IL with surgery on right knee
+2005-11-03,Bobcats,2063,Jake Voskuhl,False,True,placed on IL with sprained left knee
+2005-11-03,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2005-11-03,Bulls,101188,Eddie Basden,False,True,placed on IL
+2005-11-03,Bulls,2457,Jannero Pargo,False,True,placed on IL
+2005-11-03,Cavaliers,1956,Ira Newble,False,True,placed on IL
+2005-11-03,Cavaliers,101149,Martynas Andriuskevicius,False,True,placed on IL
+2005-11-03,Pistons,101165,Alex Acker,False,True,placed on IL
+2005-11-03,Pistons,101161,Amir Johnson,False,True,placed on IL
+2005-11-03,Sonics,2043,Mateen Cleaves,False,True,placed on IL
+2005-11-03,Sonics,2741,Robert Swift,False,True,placed on IL
+2005-11-03,Wizards,101154,Andray Blatche,False,True,placed on IL
+2005-11-03,Wizards,2852,Awvee Storey,False,True,placed on IL
+2005-11-03,Wizards,2762,Peter John Ramos,False,True,placed on IL
+2005-11-04,Heat,406,Shaquille O'Neal,False,True,sprained right ankle (out indefinitely)
+2005-11-04,Magic,2039,Keyon Dooling,False,True,bruised right heel (DNP)
+2005-11-04,Magic,1727,Pat Garrity,False,True,placed on IL
+2005-11-04,Magic,2435,Mario Kasun,True,False,activated from IL
+2005-11-04,Mavericks,711,Jerry Stackhouse,False,True,bone bruise in right knee (out 2 weeks)
+2005-11-04,Nuggets,935,Bryon Russell,False,True,microfracture surgery on right knee to repair torn medial meniscus (out 4-5 months)
+2005-11-04,Sonics,1630,Mikki Moore,False,True,placed on IL
+2005-11-04,Sonics,1594,Rick Brunson,False,True,placed on IL with sore left foot
+2005-11-04,Sonics,2043,Mateen Cleaves,True,False,activated from IL
+2005-11-04,Sonics,958,Vitaly Potapenko,True,False,activated from IL
+2005-11-04,Warriors,1884,Baron Davis,False,True,strained left hamstring (DNP)
+2005-11-04,Wizards,2406,Caron Butler,False,True,placed on IL with bruised left thigh
+2005-11-04,Wizards,2852,Awvee Storey,True,False,activated from IL
+2005-11-05,Blazers,2566,Travis Outlaw,False,True,placed on IL
+2005-11-05,Blazers,2752,Sergei Monia,True,False,activated from IL
+2005-11-05,Cavaliers,923,Donyell Marshall,False,True,placed on IL with strained left calf
+2005-11-05,Cavaliers,101149,Martynas Andriuskevicius,True,False,activated from IL
+2005-11-05,Heat,406,Shaquille O'Neal,False,True,placed on IL with sprained right ankle
+2005-11-05,Heat,1899,James Posey,True,False,activated from IL
+2005-11-05,Jazz,101156,Robert Whaley,False,True,placed on IL
+2005-11-05,Jazz,101261,Andre Owens,True,False,activated from IL
+2005-11-05,Suns,101159,Dijon Thompson,False,True,placed on IL
+2005-11-06,Knicks,1508,Maurice Taylor,False,True,placed on IL
+2005-11-06,Knicks,101135,David Lee,True,False,activated from IL
+2005-11-07,Bulls,1501,Tim Thomas,False,True,foot injury (DNP)
+2005-11-07,Heat,1899,James Posey,False,True,sprained right thumb (DNP)
+2005-11-07,Kings,101128,Francisco Garcia,False,True,sprained right ankle
+2005-11-08,Hawks,2767,Royal Ivey,False,True,placed on IL
+2005-11-08,Hawks,960,Tony Delk,True,False,activated from IL
+2005-11-09,76ers,2223,Samuel Dalembert,False,True,placed on IL with strained right quadricep
+2005-11-09,76ers,101183,Shavlik Randolph,True,False,activated from IL
+2005-11-09,Bobcats,2416,Kareem Rush,False,True,placed on IL
+2005-11-09,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2005-11-09,Bulls,2768,Chris Duhon,False,True,placed on IL with bruised right knee
+2005-11-09,Bulls,2124,Malik Allen,False,True,placed on IL
+2005-11-09,Bulls,101188,Eddie Basden,True,False,activated from IL
+2005-11-09,Bulls,2457,Jannero Pargo,True,False,activated from IL
+2005-11-09,Cavaliers,101149,Martynas Andriuskevicius,False,True,placed on IL
+2005-11-09,Cavaliers,923,Donyell Marshall,True,False,activated from IL
+2005-11-09,Clippers,101238,Boniface N'Dong,False,True,placed on IL
+2005-11-09,Clippers,1894,Corey Maggette,True,False,activated from IL
+2005-11-09,Knicks,2440,Matt Barnes,False,True,placed on IL
+2005-11-09,Knicks,1508,Maurice Taylor,True,False,activated from IL
+2005-11-09,Magic,2039,Keyon Dooling,False,True,placed on IL with bruised right heel
+2005-11-09,Magic,1727,Pat Garrity,True,False,activated from IL
+2005-11-09,Nuggets,101132,Linas Kleiza,True,False,activated from IL
+2005-11-09,Pacers,955,Samaki Walker,False,True,placed on IL
+2005-11-09,Pacers,1513,Scot Pollard,True,False,activated from IL
+2005-11-09,Spurs,699,Brent Barry,False,True,placed on IL with lower back spasms
+2005-11-09,Spurs,714,Michael Finley,False,True,placed on IL with strained groin
+2005-11-09,Spurs,1752,Sean Marks,True,False,activated from IL
+2005-11-09,Warriors,2740,Andris Biedrins,False,True,placed on IL with sprained right ankle
+2005-11-09,Warriors,101145,Monta Ellis,True,False,activated from IL
+2005-11-09,Wizards,1498,Antonio Daniels,False,True,placed on IL with sprained left knee
+2005-11-09,Wizards,2852,Awvee Storey,False,True,placed on IL
+2005-11-09,Wizards,101154,Andray Blatche,True,False,activated from IL
+2005-11-09,Wizards,2406,Caron Butler,True,False,activated from IL
+2005-11-10,Hawks,960,Tony Delk,False,True,placed on IL
+2005-11-10,Hawks,2767,Royal Ivey,True,False,activated from IL
+2005-11-10,Rockets,2437,Lonny Baxter,True,False,activated from IL
+2005-11-11,Bobcats,2222,Gerald Wallace,False,True,placed on IL with chipped bone in right wrist
+2005-11-11,Bobcats,1908,Jumaine Jones,False,True,placed on IL with birth of child
+2005-11-11,Bobcats,2063,Jake Voskuhl,True,False,activated from IL
+2005-11-11,Bobcats,2416,Kareem Rush,True,False,activated from IL
+2005-11-11,Cavaliers,1956,Ira Newble,False,True,out 4-6 more weeks with plantar fasciitis in right foot
+2005-11-11,Kings,2441,Jamal Sampson,False,True,placed on IL
+2005-11-11,Kings,101128,Francisco Garcia,True,False,activated from IL
+2005-11-11,Knicks,1744,Jerome James,False,True,placed on IL with strained left hamstring
+2005-11-11,Knicks,896,Penny Hardaway,True,False,activated from IL
+2005-11-11,Lakers,2098,Stanislav Medvedenko,False,True,placed on IL
+2005-11-11,Lakers,101209,Devin Green,True,False,activated from IL
+2005-11-11,Nets,361,Clifford Robinson (R.),False,True,placed on IL
+2005-11-11,Nets,2215,Jason Collins,False,True,strained lower right leg muscle (DNP)
+2005-11-11,Pacers,2758,David Harrison,False,True,placed on IL
+2005-11-11,Pacers,955,Samaki Walker,True,False,activated from IL
+2005-11-11,Raptors,1541,Alvin Williams,False,True,placed on IL
+2005-11-11,Raptors,2776,Pape Sow,True,False,activated from IL
+2005-11-11,Sonics,101130,Johan Petro,False,True,placed on IL
+2005-11-11,Sonics,1630,Mikki Moore,True,False,activated from IL
+2005-11-11,Wizards,101182,Donell Taylor,False,True,placed on IL
+2005-11-11,Wizards,1913,Michael Ruffin,False,True,placed on IL
+2005-11-11,Wizards,2852,Awvee Storey,True,False,activated from IL
+2005-11-12,Bobcats,2408,Melvin Ely,False,True,placed on IL with sore shin
+2005-11-12,Bobcats,101187,Alan Anderson,True,False,activated from IL
+2005-11-12,Bucks,2668,Josh Davis,False,True,placed on IL
+2005-11-12,Bucks,2558,Reece Gaines,False,True,placed on IL
+2005-11-12,Bucks,2412,Jiri Welsch,True,False,activated from IL
+2005-11-12,Bucks,693,Joe Smith (Leynard),True,False,activated from IL
+2005-11-12,Bulls,2457,Jannero Pargo,False,True,placed on IL
+2005-11-12,Bulls,2768,Chris Duhon,True,False,activated from IL
+2005-11-12,Grizzlies,757,Damon Stoudamire,False,True,sprained left ankle (DNP)
+2005-11-12,Grizzlies,2054,Jake Tsakalidis,False,True,placed on IL
+2005-11-12,Grizzlies,1519,John Thomas,True,False,activated from IL
+2005-11-12,Jazz,1723,Matt Harpring,False,True,placed on IL
+2005-11-12,Jazz,101139,C.J. Miles,True,False,activated from IL
+2005-11-12,Nets,361,Clifford Robinson (R.),True,False,activated from IL
+2005-11-12,Pacers,2224,Jamaal Tinsley,False,True,placed on IL
+2005-11-12,Pacers,1886,Jonathan Bender,False,True,left knee rehab (DNP)
+2005-11-12,Pacers,2109,Eddie Gill,True,False,activated from IL
+2005-11-12,Rockets,1763,Ryan Bowen,False,True,placed on IL
+2005-11-12,Wizards,101154,Andray Blatche,False,True,placed on IL
+2005-11-12,Wizards,1913,Michael Ruffin,True,False,activated from IL
+2005-11-13,Knicks,896,Penny Hardaway,False,True,placed on IL
+2005-11-13,Knicks,1508,Maurice Taylor,False,True,placed on IL
+2005-11-13,Knicks,2866,Jackie Butler,True,False,activated from IL
+2005-11-13,Knicks,2440,Matt Barnes,True,False,activated from IL
+2005-11-13,Magic,101143,Travis Diener,False,True,placed on IL
+2005-11-13,Magic,2039,Keyon Dooling,True,False,activated from IL
+2005-11-13,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL with sore left knee
+2005-11-13,Nuggets,101125,Julius Hodge,True,False,activated from IL
+2005-11-13,Rockets,2437,Lonny Baxter,False,True,placed on IL
+2005-11-13,Rockets,1763,Ryan Bowen,True,False,activated from IL
+2005-11-13,Sonics,2043,Mateen Cleaves,False,True,placed on IL
+2005-11-13,Sonics,958,Vitaly Potapenko,False,True,placed on IL
+2005-11-13,Sonics,101130,Johan Petro,True,False,activated from IL
+2005-11-13,Sonics,2741,Robert Swift,True,False,activated from IL
+2005-11-13,Timberwolves,2401,Nikoloz Tskitishvili,False,True,placed on IL
+2005-11-13,Timberwolves,2648,Ronald Dupree,True,False,activated from IL
+2005-11-14,Bulls,101188,Eddie Basden,False,True,placed on IL
+2005-11-14,Bulls,15,Eric Piatkowski,False,True,placed on IL
+2005-11-14,Bulls,2457,Jannero Pargo,True,False,activated from IL
+2005-11-14,Bulls,2124,Malik Allen,True,False,activated from IL
+2005-11-14,Grizzlies,1519,John Thomas,False,True,placed on IL
+2005-11-14,Grizzlies,2054,Jake Tsakalidis,True,False,activated from IL
+2005-11-14,Jazz,1905,Andrei Kirilenko,False,True,placed on IL with back spasms
+2005-11-14,Jazz,1921,Gordan Giricek,False,True,placed on IL with tonsillitis
+2005-11-14,Jazz,1723,Matt Harpring,True,False,activated from IL
+2005-11-14,Jazz,101156,Robert Whaley,True,False,activated from IL
+2005-11-14,Warriors,101145,Monta Ellis,False,True,placed on IL
+2005-11-14,Warriors,2740,Andris Biedrins,True,False,activated from IL
+2005-11-15,76ers,101184,Deng Gai,False,True,placed on IL
+2005-11-15,76ers,2214,Michael Bradley,True,False,activated from IL
+2005-11-15,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2005-11-15,Bobcats,1908,Jumaine Jones,True,False,activated from IL
+2005-11-15,Clippers,101117,Yaroslav Korolev,False,True,placed on IL
+2005-11-15,Hornets,2747,J.R. Smith,False,True,placed on IL with sprained left ankle
+2005-11-15,Hornets,2745,Kirk Snyder,True,False,activated from IL
+2005-11-15,Jazz,1723,Matt Harpring,False,True,right knee rehab (DNP)
+2005-11-15,Mavericks,1496,Keith Van Horn,False,True,placed on IL with sprained middle finger on right hand
+2005-11-15,Mavericks,101185,Rawle Marshall,True,False,activated from IL
+2005-11-15,Nets,2215,Jason Collins,False,True,placed on IL with muscle strain in lower right leg
+2005-11-15,Nuggets,101125,Julius Hodge,False,True,placed on IL
+2005-11-15,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2005-11-15,Sonics,2741,Robert Swift,False,True,placed on IL
+2005-11-15,Sonics,2436,Flip Murray,False,True,back spasms (DNP)
+2005-11-15,Sonics,2043,Mateen Cleaves,True,False,activated from IL
+2005-11-16,Blazers,1520,Charles Smith (Cornelius),False,True,placed on IL
+2005-11-16,Blazers,2566,Travis Outlaw,True,False,activated from IL
+2005-11-16,Bobcats,1510,Brevin Knight,False,True,placed on IL with left knee tendinitis
+2005-11-16,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2005-11-16,Bulls,1501,Tim Thomas,False,True,placed on IL
+2005-11-16,Bulls,15,Eric Piatkowski,True,False,activated from IL
+2005-11-16,Grizzlies,953,Lorenzen Wright,False,True,placed on IL
+2005-11-16,Grizzlies,1519,John Thomas,True,False,activated from IL
+2005-11-16,Lakers,2098,Stanislav Medvedenko,False,True,herniated disc (out 6 weeks)
+2005-11-16,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL with left knee tendinitis
+2005-11-16,Nuggets,101125,Julius Hodge,True,False,activated from IL
+2005-11-16,Pacers,2109,Eddie Gill,False,True,placed on IL
+2005-11-16,Pacers,1886,Jonathan Bender,False,True,placed on IL
+2005-11-16,Pacers,2758,David Harrison,True,False,activated from IL
+2005-11-16,Pacers,2224,Jamaal Tinsley,True,False,activated from IL
+2005-11-16,Sonics,1504,Danny Fortson,False,True,placed on IL
+2005-11-16,Sonics,2436,Flip Murray,False,True,placed on IL
+2005-11-16,Sonics,2741,Robert Swift,True,False,activated from IL
+2005-11-16,Sonics,958,Vitaly Potapenko,True,False,activated from IL
+2005-11-17,Mavericks,57,Doug Christie,False,True,placed on IL with sore right ankle
+2005-11-17,Mavericks,1496,Keith Van Horn,True,False,activated from IL
+2005-11-17,Spurs,1752,Sean Marks,False,True,placed on IL
+2005-11-18,Bobcats,101187,Alan Anderson,False,True,placed on IL
+2005-11-18,Bobcats,1510,Brevin Knight,True,False,activated from IL
+2005-11-18,Clippers,2624,Quinton Ross,False,True,placed on IL
+2005-11-18,Clippers,101117,Yaroslav Korolev,True,False,activated from IL
+2005-11-18,Heat,2853,Earl Barron,False,True,stress fracture in lower back (DNP)
+2005-11-18,Heat,1715,Jason Williams,False,True,placed on IL with bruised right knee
+2005-11-18,Heat,1000,Shandon Anderson,True,False,activated from IL
+2005-11-18,Hornets,2747,J.R. Smith,False,True,sprained left ankle (DNP)
+2005-11-18,Hornets,136,P.J. Brown,False,True,placed on IL with death in family
+2005-11-18,Hornets,2747,J.R. Smith,True,False,activated from IL
+2005-11-18,Jazz,1905,Andrei Kirilenko,False,True,sprained right ankle (out 2-4 weeks)
+2005-11-18,Jazz,1723,Matt Harpring,False,True,placed on IL
+2005-11-18,Jazz,1921,Gordan Giricek,True,False,activated from IL
+2005-11-18,Knicks,2440,Matt Barnes,False,True,placed on IL with foot injury
+2005-11-18,Knicks,1508,Maurice Taylor,True,False,activated from IL
+2005-11-18,Rockets,1747,Rafer Alston,False,True,placed on IL with bruised right leg
+2005-11-18,Rockets,2437,Lonny Baxter,True,False,activated from IL
+2005-11-18,Sonics,2741,Robert Swift,False,True,placed on IL
+2005-11-18,Sonics,1504,Danny Fortson,True,False,activated from IL
+2005-11-19,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2005-11-19,Bobcats,101187,Alan Anderson,True,False,activated from IL
+2005-11-19,Grizzlies,1519,John Thomas,False,True,placed on IL
+2005-11-19,Grizzlies,953,Lorenzen Wright,True,False,activated from IL
+2005-11-19,Hornets,2049,Speedy Claxton,False,True,sprained right ankle (DNP)
+2005-11-19,Hornets,2747,J.R. Smith,False,True,sprained left ankle (DNP)
+2005-11-19,Jazz,1723,Matt Harpring,True,False,activated from IL
+2005-11-19,Mavericks,1496,Keith Van Horn,False,True,sprained right middle finger (DNP)
+2005-11-19,Nets,2215,Jason Collins,True,False,activated from IL
+2005-11-19,Spurs,714,Michael Finley,True,False,activated from IL
+2005-11-20,Bulls,2457,Jannero Pargo,False,True,placed on IL
+2005-11-20,Bulls,101188,Eddie Basden,True,False,activated from IL
+2005-11-20,Heat,2853,Earl Barron,False,True,stress fracture in lower back (DNP)
+2005-11-20,Kings,722,Corliss Williamson,False,True,placed on IL
+2005-11-20,Kings,2441,Jamal Sampson,True,False,activated from IL
+2005-11-20,Knicks,2047,Quentin Richardson,False,True,back spasms (DNP)
+2005-11-20,Lakers,2198,Kwame Brown,False,True,placed on IL with strained right hamstring (out 2 weeks)
+2005-11-20,Lakers,101144,Von Wafer,True,False,activated from IL
+2005-11-20,Sonics,101130,Johan Petro,False,True,placed on IL with stomach flu
+2005-11-20,Sonics,2741,Robert Swift,True,False,activated from IL
+2005-11-21,Hornets,101178,Arvydas Macijauskas,False,True,placed on IL
+2005-11-21,Hornets,136,P.J. Brown,True,False,activated from IL
+2005-11-21,Kings,978,Peja Stojakovic,False,True,placed on IL with sprained finger
+2005-11-21,Kings,722,Corliss Williamson,True,False,activated from IL
+2005-11-21,Nets,2215,Jason Collins,False,True,placed on IL with lower right leg injury
+2005-11-21,Nuggets,2403,Nene Hilario ,False,True,"surgery on right knee to repair torn ACL, torn MCL, and torn lateral meniscus"
+2005-11-22,Blazers,2751,Viktor Khryapa,True,False,activated from IL
+2005-11-22,Lakers,1904,Devean George,False,True,sore left foot (out 1 week)
+2005-11-22,Mavericks,1496,Keith Van Horn,False,True,sprained right middle finger (DNP)
+2005-11-22,Rockets,682,Bob Sura,False,True,surgery on back to repair ruptured disc (likely out for season)
+2005-11-22,Rockets,1901,Dion Glover,False,True,surgery on right knee to repair bone defect
+2005-11-22,Sonics,1630,Mikki Moore,False,True,placed on IL
+2005-11-22,Sonics,2741,Robert Swift,False,True,placed on IL
+2005-11-22,Sonics,101130,Johan Petro,True,False,activated from IL
+2005-11-22,Sonics,2436,Flip Murray,True,False,activated from IL
+2005-11-22,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (out indefinitely)
+2005-11-22,Warriors,2554,Mickael Pietrus,False,True,sprained ligament in right knee (out up to 4 weeks)
+2005-11-23,Bobcats,101187,Alan Anderson,False,True,placed on IL
+2005-11-23,Bobcats,2774,Bernard Robinson,False,True,placed on IL
+2005-11-23,Bobcats,2222,Gerald Wallace,True,False,activated from IL
+2005-11-23,Bobcats,2408,Melvin Ely,True,False,activated from IL
+2005-11-23,Celtics,2753,Delonte West,False,True,hip pointer (DNP)
+2005-11-23,Clippers,101117,Yaroslav Korolev,False,True,placed on IL
+2005-11-23,Clippers,2624,Quinton Ross,True,False,activated from IL
+2005-11-23,Heat,2853,Earl Barron,False,True,placed on IL
+2005-11-23,Heat,1715,Jason Williams,True,False,activated from IL
+2005-11-23,Hornets,2365,Chris Andersen,False,True,placed on IL with bruised back & right knee
+2005-11-23,Hornets,101178,Arvydas Macijauskas,True,False,activated from IL
+2005-11-23,Knicks,2201,Eddy Curry,False,True,strained left calf (DNP)
+2005-11-23,Magic,1883,Steve Francis,False,True,placed on IL with bruised ribs
+2005-11-23,Magic,101143,Travis Diener,True,False,activated from IL
+2005-11-23,Nuggets,101125,Julius Hodge,False,True,placed on IL
+2005-11-23,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2005-11-23,Suns,2571,Leandro Barbosa,False,True,left knee injury (DNP)
+2005-11-23,Warriors,2554,Mickael Pietrus,False,True,placed on IL with strained ligament in right knee
+2005-11-23,Warriors,101113,Ike Diogu,True,False,activated from IL
+2005-11-23,Wizards,2852,Awvee Storey,False,True,placed on IL
+2005-11-23,Wizards,101154,Andray Blatche,True,False,activated from IL
+2005-11-24,Bucks,101106,Andrew Bogut,False,True,surgery on broken nose
+2005-11-24,Clippers,1442,Zeljko Rebraca,False,True,irregular heartbeat (out indefinitely)
+2005-11-24,Lakers,1904,Devean George,False,True,sore left foot (DNP)
+2005-11-24,Sonics,1504,Danny Fortson,False,True,placed on IL with right big toe injury
+2005-11-24,Sonics,1630,Mikki Moore,True,False,activated from IL
+2005-11-25,Blazers,689,Theo Ratliff,False,True,placed on IL
+2005-11-25,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2005-11-25,Bobcats,2063,Jake Voskuhl,False,True,swelling in right knee (DNP)
+2005-11-25,Bobcats,1908,Jumaine Jones,False,True,placed on IL
+2005-11-25,Bobcats,2679,Matt Carroll,False,True,placed on IL
+2005-11-25,Bobcats,101187,Alan Anderson,True,False,activated from IL
+2005-11-25,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2005-11-25,Celtics,2753,Delonte West,False,True,placed on IL with hip pointer
+2005-11-25,Clippers,1442,Zeljko Rebraca,False,True,placed on IL with irregular heartbeat (out 1 month)
+2005-11-25,Clippers,101117,Yaroslav Korolev,True,False,activated from IL
+2005-11-25,Magic,2242,Terence Morris,False,True,placed on IL
+2005-11-25,Magic,101143,Travis Diener,False,True,placed on IL
+2005-11-25,Magic,278,Stacey Augmon,True,False,activated from IL
+2005-11-25,Magic,1883,Steve Francis,True,False,activated from IL
+2005-11-25,Nets,2215,Jason Collins,True,False,activated from IL
+2005-11-25,Pacers,1897,Metta World Peace,False,True,placed on IL with bruised right wrist
+2005-11-25,Pacers,2109,Eddie Gill,True,False,activated from IL
+2005-11-26,76ers,101150,Lou Williams,False,True,placed on IL
+2005-11-26,76ers,2223,Samuel Dalembert,True,False,activated from IL
+2005-11-26,Bobcats,2063,Jake Voskuhl,False,True,placed on IL with sore right knee
+2005-11-26,Bobcats,101118,Sean May,False,True,placed on IL with sore right knee
+2005-11-26,Bobcats,2774,Bernard Robinson,True,False,activated from IL
+2005-11-26,Bobcats,2679,Matt Carroll,True,False,activated from IL
+2005-11-26,Bucks,693,Joe Smith (Leynard),False,True,placed on IL with sore left knee
+2005-11-26,Bucks,2558,Reece Gaines,True,False,activated from IL
+2005-11-26,Grizzlies,2034,Mike Miller,False,True,placed on IL with concussion
+2005-11-26,Grizzlies,101194,Anthony Roberson,True,False,activated from IL
+2005-11-26,Knicks,2201,Eddy Curry,False,True,strained left calf (DNP)
+2005-11-26,Magic,2039,Keyon Dooling,False,True,placed on IL with inflamed plantar fascia
+2005-11-26,Magic,2242,Terence Morris,True,False,activated from IL
+2005-11-26,Rockets,468,Jon Barry,False,True,bruised right foot (DNP)
+2005-11-26,Sonics,958,Vitaly Potapenko,False,True,placed on IL
+2005-11-26,Sonics,2741,Robert Swift,True,False,activated from IL
+2005-11-27,Blazers,2775,Ha Seung-Jin,False,True,placed on IL
+2005-11-27,Blazers,2413,Juan Dixon,False,True,placed on IL with flu-like symptoms
+2005-11-27,Blazers,1520,Charles Smith (Cornelius),True,False,activated from IL
+2005-11-27,Blazers,689,Theo Ratliff,True,False,activated from IL
+2005-11-27,Lakers,1904,Devean George,False,True,placed on IL with sore left foot
+2005-11-27,Lakers,2575,Luke Walton,True,False,activated from IL
+2005-11-27,Pacers,1513,Scot Pollard,False,True,placed on IL with food poisoning
+2005-11-27,Pacers,1897,Metta World Peace,True,False,activated from IL
+2005-11-28,Celtics,2753,Delonte West,True,False,activated from IL
+2005-11-28,Heat,101134,Wayne Simien,False,True,placed on IL with back spasms
+2005-11-28,Heat,1720,Michael Doleac,True,False,activated from IL
+2005-11-28,Hornets,2365,Chris Andersen,True,False,activated from IL
+2005-11-28,Knicks,2201,Eddy Curry,False,True,strained left calf (DNP)
+2005-11-28,Magic,101143,Travis Diener,False,True,placed on IL
+2005-11-28,Magic,2242,Terence Morris,True,False,activated from IL
+2005-11-28,Mavericks,2572,Josh Howard,False,True,placed on IL with sprained right ankle
+2005-11-28,Nuggets,101125,Julius Hodge,False,True,placed on IL
+2005-11-28,Nuggets,948,Marcus Camby,True,False,activated from IL
+2005-11-28,Suns,2571,Leandro Barbosa,False,True,placed on IL with left knee injury
+2005-11-29,76ers,101183,Shavlik Randolph,False,True,placed on IL
+2005-11-29,76ers,101150,Lou Williams,True,False,activated from IL
+2005-11-29,Blazers,1520,Charles Smith (Cornelius),False,True,placed on IL
+2005-11-29,Blazers,2413,Juan Dixon,True,False,activated from IL
+2005-11-29,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2005-11-29,Bobcats,2063,Jake Voskuhl,True,False,activated from IL
+2005-11-29,Bucks,2072,Michael Redd,False,True,right quadricep injury (DNP)
+2005-11-29,Clippers,101117,Yaroslav Korolev,False,True,placed on IL
+2005-11-29,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2005-11-29,Hawks,1731,Tyronn Lue,False,True,root canal (DNP)
+2005-11-29,Jazz,1921,Gordan Giricek,False,True,placed on IL
+2005-11-29,Jazz,1905,Andrei Kirilenko,True,False,activated from IL
+2005-11-29,Kings,2441,Jamal Sampson,False,True,placed on IL
+2005-11-29,Kings,978,Peja Stojakovic,True,False,activated from IL
+2005-11-29,Pacers,2109,Eddie Gill,False,True,placed on IL
+2005-11-29,Pacers,1513,Scot Pollard,True,False,activated from IL
+2005-11-29,Rockets,468,Jon Barry,False,True,placed on IL with bruised right foot
+2005-11-29,Rockets,1747,Rafer Alston,False,True,bruised right leg (DNP)
+2005-11-29,Rockets,1747,Rafer Alston,True,False,activated from IL
+2005-11-29,Sonics,1594,Rick Brunson,False,True,torn fascia in left foot (out at least 2 months)
+2005-11-30,76ers,101150,Lou Williams,False,True,placed on IL
+2005-11-30,76ers,101183,Shavlik Randolph,True,False,activated from IL
+2005-11-30,Blazers,689,Theo Ratliff,False,True,placed on IL
+2005-11-30,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2005-11-30,Bobcats,101187,Alan Anderson,False,True,placed on IL
+2005-11-30,Bobcats,1908,Jumaine Jones,True,False,activated from IL
+2005-11-30,Clippers,101238,Boniface N'Dong,False,True,placed on IL
+2005-11-30,Clippers,101117,Yaroslav Korolev,True,False,activated from IL
+2005-11-30,Hawks,1731,Tyronn Lue,False,True,placed on IL with root canal
+2005-11-30,Heat,2809,Gerald Fitch,False,True,placed on IL
+2005-11-30,Heat,101134,Wayne Simien,True,False,activated from IL
+2005-11-30,Hornets,2411,Bostjan Nachbar,False,True,placed on IL
+2005-11-30,Hornets,101178,Arvydas Macijauskas,True,False,activated from IL
+2005-11-30,Knicks,2201,Eddy Curry,False,True,strained left calf (DNP)
+2005-11-30,Nuggets,2546,Carmelo Anthony,False,True,placed on IL with sprained left ankle
+2005-11-30,Nuggets,1761,Greg Buckner,False,True,swollen left knee (DNP)
+2005-11-30,Nuggets,101125,Julius Hodge,True,False,activated from IL
+2005-11-30,Pacers,955,Samaki Walker,False,True,placed on IL
+2005-11-30,Pacers,2109,Eddie Gill,True,False,activated from IL
+2005-11-30,Sonics,1630,Mikki Moore,False,True,placed on IL
+2005-11-30,Sonics,958,Vitaly Potapenko,True,False,activated from IL
+2005-11-30,Suns,101159,Dijon Thompson,True,False,activated from IL
+2005-11-30,Warriors,101147,Chris Taft,False,True,placed on IL
+2005-11-30,Warriors,101145,Monta Ellis,True,False,activated from IL
+2005-11-30,Wizards,1913,Michael Ruffin,False,True,placed on IL
+2005-11-30,Wizards,101182,Donell Taylor,True,False,activated from IL
+2005-12-01,Jazz,101156,Robert Whaley,False,True,placed on IL
+2005-12-01,Jazz,1921,Gordan Giricek,True,False,activated from IL
+2005-12-01,Spurs,1938,Manu Ginobili,False,True,placed on IL with right foot injury
+2005-12-01,Spurs,1752,Sean Marks,True,False,activated from IL
+2005-12-02,76ers,101183,Shavlik Randolph,False,True,placed on IL
+2005-12-02,76ers,101150,Lou Williams,True,False,activated from IL
+2005-12-02,Blazers,101110,Martell Webster,False,True,placed on IL with death in family
+2005-12-02,Blazers,1520,Charles Smith (Cornelius),True,False,activated from IL
+2005-12-02,Bobcats,2063,Jake Voskuhl,False,True,placed on IL with sprained right ankle
+2005-12-02,Bobcats,101118,Sean May,True,False,activated from IL
+2005-12-02,Bucks,2250,Bobby Simmons,False,True,sprained right ankle (DNP)
+2005-12-02,Grizzlies,2766,Antonio Burks,False,True,placed on IL
+2005-12-02,Grizzlies,2034,Mike Miller,True,False,activated from IL
+2005-12-02,Hawks,1731,Tyronn Lue,True,False,activated from IL
+2005-12-02,Knicks,2201,Eddy Curry,False,True,placed on IL with strained left calf
+2005-12-02,Knicks,1744,Jerome James,True,False,activated from IL
+2005-12-02,Lakers,1904,Devean George,True,False,activated from IL
+2005-12-02,Magic,1883,Steve Francis,False,True,placed on IL with bruised chest and left shoulder
+2005-12-02,Magic,101143,Travis Diener,True,False,activated from IL
+2005-12-02,Nuggets,702,Voshon Lenard,False,True,placed on IL
+2005-12-02,Nuggets,2546,Carmelo Anthony,True,False,activated from IL
+2005-12-02,Pacers,2224,Jamaal Tinsley,False,True,placed on IL with sore left groin
+2005-12-02,Pacers,1902,Jeff Foster,True,False,activated from IL
+2005-12-02,Sonics,101130,Johan Petro,False,True,placed on IL
+2005-12-02,Sonics,1504,Danny Fortson,True,False,activated from IL
+2005-12-02,Suns,258,Brian Grant,False,True,arthroscopic surgery on right knee (out 3 months)
+2005-12-02,Suns,258,Brian Grant,False,True,right knee injury (DNP)
+2005-12-02,Wizards,101182,Donell Taylor,False,True,placed on IL
+2005-12-03,76ers,101150,Lou Williams,False,True,placed on IL
+2005-12-03,76ers,101183,Shavlik Randolph,True,False,activated from IL
+2005-12-03,Bucks,2250,Bobby Simmons,False,True,sprained right ankle (DNP)
+2005-12-03,Heat,2748,Dorell Wright,False,True,placed on IL
+2005-12-03,Heat,2809,Gerald Fitch,True,False,activated from IL
+2005-12-03,Magic,2045,Hedo Turkoglu,False,True,flu-like symptoms (DNP)
+2005-12-03,Nuggets,1922,Francisco Elson,False,True,placed on IL
+2005-12-03,Nuggets,702,Voshon Lenard,True,False,activated from IL
+2005-12-03,Raptors,2229,Mike James (Lamont),False,True,sore lower back (DNP)
+2005-12-03,Rockets,468,Jon Barry,False,True,left foot injury (DNP)
+2005-12-03,Rockets,1747,Rafer Alston,False,True,placed on IL
+2005-12-03,Rockets,468,Jon Barry,True,False,activated from IL
+2005-12-04,Blazers,1520,Charles Smith (Cornelius),False,True,placed on IL
+2005-12-04,Blazers,2032,Darius Miles,False,True,placed on IL with cartilage damage in right knee
+2005-12-04,Blazers,101110,Martell Webster,True,False,activated from IL
+2005-12-04,Blazers,1739,Ruben Patterson,True,False,activated from IL
+2005-12-04,Bobcats,2416,Kareem Rush,False,True,placed on IL with sprained left index finger
+2005-12-04,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2005-12-04,Knicks,101135,David Lee,False,True,placed on IL
+2005-12-04,Knicks,2201,Eddy Curry,True,False,activated from IL
+2005-12-04,Pacers,1506,Austin Croshere,False,True,placed on IL with abdominal injury
+2005-12-04,Pacers,955,Samaki Walker,True,False,activated from IL
+2005-12-05,Cavaliers,2562,Sasha Pavlovic,False,True,sprained left ankle (out 2 weeks)
+2005-12-05,Jazz,731,Greg Ostertag,False,True,back spasms (DNP)
+2005-12-05,Spurs,1752,Sean Marks,False,True,placed on IL
+2005-12-05,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2005-12-06,Blazers,2775,Ha Seung-Jin,False,True,placed on IL
+2005-12-06,Blazers,689,Theo Ratliff,True,False,activated from IL
+2005-12-06,Bucks,693,Joe Smith (Leynard),False,True,arthroscopic surgery on left knee to remove loose cartilage (out 6-8 weeks)
+2005-12-06,Bucks,2558,Reece Gaines,False,True,placed on IL
+2005-12-06,Cavaliers,2562,Sasha Pavlovic,False,True,placed on IL with sprained left ankle
+2005-12-06,Cavaliers,101149,Martynas Andriuskevicius,True,False,activated from IL
+2005-12-06,Knicks,2047,Quentin Richardson,False,True,placed on IL with family emergency (death of brother)
+2005-12-06,Knicks,896,Penny Hardaway,True,False,activated from IL
+2005-12-06,Mavericks,1891,Jason Terry,False,True,strained right hamstring (DNP)
+2005-12-06,Rockets,1747,Rafer Alston,False,True,placed on IL
+2005-12-06,Rockets,468,Jon Barry,True,False,activated from IL
+2005-12-06,Suns,258,Brian Grant,False,True,right knee injury (DNP)
+2005-12-06,Knicks,2417,Qyntel Woods,False,True,placed on IL
+2005-12-07,76ers,1924,Lee Nailon,False,True,placed on IL
+2005-12-07,76ers,101150,Lou Williams,True,False,activated from IL
+2005-12-07,Bucks,389,Toni Kukoc,False,True,placed on IL
+2005-12-07,Bucks,2558,Reece Gaines,True,False,activated from IL
+2005-12-07,Bulls,2550,Kirk Hinrich,False,True,placed on IL with concussion
+2005-12-07,Bulls,2457,Jannero Pargo,True,False,activated from IL
+2005-12-07,Clippers,101238,Boniface N'Dong,False,True,sore left knee (DNP)
+2005-12-07,Clippers,1894,Corey Maggette,False,True,placed on IL with sprained left foot
+2005-12-07,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2005-12-07,Jazz,101139,C.J. Miles,False,True,placed on IL
+2005-12-07,Jazz,101156,Robert Whaley,True,False,activated from IL
+2005-12-07,Magic,1509,Kelvin Cato,False,True,placed on IL
+2005-12-07,Magic,1883,Steve Francis,True,False,activated from IL
+2005-12-07,Nets,2215,Jason Collins,False,True,placed on IL with lower right leg injury
+2005-12-07,Raptors,1541,Alvin Williams,False,True,arthroscopic surgery on right knee to remove bone spurs and clean up scar tissue
+2005-12-07,Timberwolves,1607,Troy Hudson,False,True,placed on IL with sore knee
+2005-12-07,Timberwolves,2401,Nikoloz Tskitishvili,True,False,activated from IL
+2005-12-07,Warriors,2211,Troy Murphy,False,True,illness (DNP)
+2005-12-08,Pacers,1897,Metta World Peace,False,True,placed on IL with wrist injury
+2005-12-08,Pacers,1506,Austin Croshere,True,False,activated from IL
+2005-12-08,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2005-12-08,Wizards,2852,Awvee Storey,False,True,placed on IL
+2005-12-08,Wizards,101182,Donell Taylor,True,False,activated from IL
+2005-12-09,Blazers,689,Theo Ratliff,False,True,placed on IL with sore left foot
+2005-12-09,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2005-12-09,Bobcats,2056,Primoz Brezec,False,True,placed on IL with flu-like symptoms
+2005-12-09,Bobcats,2416,Kareem Rush,True,False,activated from IL
+2005-12-09,Bulls,2732,Ben Gordon,False,True,placed on IL with sprained right knee
+2005-12-09,Bulls,2550,Kirk Hinrich,True,False,activated from IL
+2005-12-09,Grizzlies,101194,Anthony Roberson,False,True,placed on IL
+2005-12-09,Grizzlies,2766,Antonio Burks,True,False,activated from IL
+2005-12-09,Heat,1715,Jason Williams,False,True,placed on IL with right knee tendinitis
+2005-12-09,Heat,1000,Shandon Anderson,False,True,placed on IL
+2005-12-09,Heat,2748,Dorell Wright,True,False,activated from IL
+2005-12-09,Jazz,1921,Gordan Giricek,False,True,placed on IL
+2005-12-09,Jazz,101139,C.J. Miles,True,False,activated from IL
+2005-12-09,Mavericks,1891,Jason Terry,False,True,strained right hamstring (DNP)
+2005-12-09,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL with left knee tendinitis
+2005-12-09,Nuggets,1922,Francisco Elson,True,False,activated from IL
+2005-12-09,Sonics,2741,Robert Swift,False,True,placed on IL
+2005-12-09,Sonics,101130,Johan Petro,True,False,activated from IL
+2005-12-09,Suns,258,Brian Grant,False,True,placed on IL with right knee surgery
+2005-12-09,Suns,2571,Leandro Barbosa,True,False,activated from IL
+2005-12-10,Bobcats,2408,Melvin Ely,False,True,placed on IL with flu-like symptoms
+2005-12-10,Bobcats,2056,Primoz Brezec,True,False,activated from IL
+2005-12-10,Bucks,2558,Reece Gaines,False,True,placed on IL
+2005-12-10,Bucks,389,Toni Kukoc,True,False,activated from IL
+2005-12-10,Grizzlies,1517,Bobby Jackson,False,True,placed on IL with strained right hamstring
+2005-12-10,Grizzlies,101194,Anthony Roberson,True,False,activated from IL
+2005-12-10,Lakers,101144,Von Wafer,False,True,placed on IL
+2005-12-10,Lakers,2198,Kwame Brown,True,False,activated from IL
+2005-12-10,Sonics,958,Vitaly Potapenko,False,True,placed on IL
+2005-12-10,Sonics,1630,Mikki Moore,True,False,activated from IL
+2005-12-10,Wizards,101154,Andray Blatche,False,True,placed on IL
+2005-12-10,Wizards,101182,Donell Taylor,False,True,placed on IL
+2005-12-10,Wizards,2852,Awvee Storey,True,False,activated from IL
+2005-12-10,Wizards,1913,Michael Ruffin,True,False,activated from IL
+2005-12-11,Heat,2748,Dorell Wright,False,True,placed on IL
+2005-12-11,Heat,2853,Earl Barron,False,True,placed on IL
+2005-12-11,Heat,1000,Shandon Anderson,True,False,activated from IL
+2005-12-11,Heat,406,Shaquille O'Neal,True,False,activated from IL
+2005-12-11,Hornets,2365,Chris Andersen,False,True,placed on IL
+2005-12-11,Hornets,2573,Maciej Lampe,True,False,activated from IL
+2005-12-12,76ers,2214,Michael Bradley,False,True,placed on IL with strained back
+2005-12-12,76ers,1924,Lee Nailon,True,False,activated from IL
+2005-12-12,Bucks,2250,Bobby Simmons,False,True,placed on IL with shoulder injury
+2005-12-12,Bucks,2558,Reece Gaines,True,False,activated from IL
+2005-12-12,Knicks,896,Penny Hardaway,False,True,placed on IL
+2005-12-12,Knicks,213,Antonio Davis,False,True,placed on IL
+2005-12-12,Knicks,2047,Quentin Richardson,True,False,activated from IL
+2005-12-12,Mavericks,101185,Rawle Marshall,False,True,placed on IL
+2005-12-12,Mavericks,2572,Josh Howard,True,False,activated from IL
+2005-12-13,Bobcats,2222,Gerald Wallace,False,True,sprained right index finger (DNP)
+2005-12-13,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2005-12-13,Bobcats,2408,Melvin Ely,True,False,activated from IL
+2005-12-13,Bulls,101188,Eddie Basden,False,True,placed on IL
+2005-12-13,Bulls,2732,Ben Gordon,True,False,activated from IL
+2005-12-13,Cavaliers,980,Zydrunas Ilgauskas,False,True,sprained knee (DNP)
+2005-12-13,Nets,2215,Jason Collins,True,False,activated from IL
+2005-12-13,Nuggets,1863,Earl Boykins,False,True,placed on IL with strained left hamstring
+2005-12-13,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2005-12-13,Spurs,1938,Manu Ginobili,False,True,placed on IL with sprained foot
+2005-12-13,Spurs,1752,Sean Marks,True,False,activated from IL
+2005-12-13,Wizards,2240,Gilbert Arenas,False,True,bruised back (DNP)
+2005-12-14,Bucks,2294,Charlie Bell,False,True,placed on IL with sprained MCL in right knee (out 6-8 weeks)
+2005-12-14,Bucks,2590,Mo Williams,False,True,bruised thigh (DNP)
+2005-12-14,Clippers,101238,Boniface N'Dong,False,True,placed on IL
+2005-12-14,Clippers,2733,Shaun Livingston,True,False,activated from IL
+2005-12-14,Grizzlies,2203,Shane Battier,False,True,placed on IL with jammed right index finger
+2005-12-14,Grizzlies,2073,Brian Cardinal,True,False,activated from IL
+2005-12-14,Hawks,2585,Zaza Pachulia,False,True,back spasms (DNP)
+2005-12-14,Jazz,1921,Gordan Giricek,False,True,Achilles tendinitis (DNP)
+2005-12-14,Jazz,731,Greg Ostertag,False,True,placed on IL with sore right knee
+2005-12-14,Jazz,1921,Gordan Giricek,True,False,activated from IL
+2005-12-14,Knicks,1744,Jerome James,False,True,placed on IL with sore left Achilles
+2005-12-14,Knicks,213,Antonio Davis,True,False,activated from IL
+2005-12-14,Magic,101143,Travis Diener,False,True,placed on IL
+2005-12-14,Magic,255,Grant Hill,True,False,activated from IL
+2005-12-14,Mavericks,1496,Keith Van Horn,False,True,placed on IL with bruised right hip
+2005-12-14,Mavericks,101185,Rawle Marshall,True,False,activated from IL
+2005-12-14,Nets,2565,Zoran Planinic,False,True,placed on IL
+2005-12-14,Pacers,1506,Austin Croshere,False,True,bruised lower back (DNP)
+2005-12-14,Rockets,468,Jon Barry,False,True,placed on IL
+2005-12-14,Suns,2592,James Jones (Andrew),False,True,sprained right ankle (DNP)
+2005-12-14,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-14,Suns,101213,Sharrod Ford,False,True,sprained right ankle (DNP)
+2005-12-14,Bucks,2250,Bobby Simmons,True,False,activated from IL
+2005-12-14,Bucks,2250,Bobby Simmons,False,True,shoulder injury (DNP)
+2005-12-15,Nuggets,948,Marcus Camby,False,True,sprained right pinkie finger (DNP)
+2005-12-15,Rockets,1507,Derek Anderson,False,True,right knee injury (DNP)
+2005-12-15,Sonics,101130,Johan Petro,False,True,placed on IL
+2005-12-15,Sonics,1630,Mikki Moore,False,True,placed on IL
+2005-12-15,Sonics,2741,Robert Swift,True,False,activated from IL
+2005-12-15,Sonics,958,Vitaly Potapenko,True,False,activated from IL
+2005-12-15,Timberwolves,2499,Richie Frahm,False,True,placed on IL
+2005-12-15,Timberwolves,1607,Troy Hudson,True,False,activated from IL
+2005-12-16,Blazers,2032,Darius Miles,False,True,arthroscopic surgery on right knee to repair cartilage damage
+2005-12-16,Blazers,2742,Sebastian Telfair,False,True,placed on IL with sprained ligament in right thumb
+2005-12-16,Blazers,1520,Charles Smith (Cornelius),True,False,activated from IL
+2005-12-16,Bucks,2250,Bobby Simmons,False,True,bruised right shoulder (DNP)
+2005-12-16,Celtics,2770,Justin Reed,False,True,placed on IL
+2005-12-16,Celtics,2556,Marcus Banks,True,False,activated from IL
+2005-12-16,Hornets,2365,Chris Andersen,False,True,viral infection (DNP)
+2005-12-16,Hornets,2573,Maciej Lampe,False,True,placed on IL
+2005-12-16,Hornets,2365,Chris Andersen,True,False,activated from IL
+2005-12-16,Jazz,101139,C.J. Miles,False,True,placed on IL
+2005-12-16,Jazz,731,Greg Ostertag,True,False,activated from IL
+2005-12-16,Knicks,2201,Eddy Curry,False,True,placed on IL
+2005-12-16,Knicks,1744,Jerome James,True,False,activated from IL
+2005-12-16,Mavericks,2605,Marquis Daniels,False,True,placed on IL with strained neck
+2005-12-16,Mavericks,1496,Keith Van Horn,True,False,activated from IL
+2005-12-16,Pacers,955,Samaki Walker,False,True,placed on IL
+2005-12-16,Pacers,2224,Jamaal Tinsley,True,False,activated from IL
+2005-12-16,Suns,2592,James Jones (Andrew),False,True,sprained right ankle (DNP)
+2005-12-16,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-16,Wizards,2852,Awvee Storey,False,True,placed on IL
+2005-12-16,Wizards,101182,Donell Taylor,True,False,activated from IL
+2005-12-17,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2005-12-17,Bobcats,2408,Melvin Ely,False,True,placed on IL with flu-like symptoms
+2005-12-17,Bobcats,2222,Gerald Wallace,True,False,activated from IL
+2005-12-17,Bucks,2250,Bobby Simmons,False,True,bruised right shoulder (DNP)
+2005-12-17,Cavaliers,101149,Martynas Andriuskevicius,False,True,placed on IL
+2005-12-17,Cavaliers,1956,Ira Newble,True,False,activated from IL
+2005-12-17,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2005-12-17,Grizzlies,2054,Jake Tsakalidis,False,True,placed on IL
+2005-12-17,Grizzlies,2203,Shane Battier,True,False,activated from IL
+2005-12-17,Jazz,1723,Matt Harpring,False,True,placed on IL with knee injury
+2005-12-17,Jazz,101139,C.J. Miles,True,False,activated from IL
+2005-12-17,Knicks,101126,Nate Robinson,False,True,placed on IL
+2005-12-17,Knicks,101135,David Lee,True,False,activated from IL
+2005-12-17,Pacers,2410,Fred Jones,False,True,placed on IL with sprained left ankle
+2005-12-17,Pacers,955,Samaki Walker,True,False,activated from IL
+2005-12-17,Rockets,1507,Derek Anderson,False,True,strained right calf (DNP)
+2005-12-17,Suns,2592,James Jones (Andrew),False,True,sprained right ankle (DNP)
+2005-12-17,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-17,Suns,2469,Pat Burke,False,True,strained right shoulder (DNP)
+2005-12-17,Suns,101213,Sharrod Ford,False,True,sprained right ankle (DNP)
+2005-12-18,76ers,2212,Steven Hunter,False,True,bruised left shin (DNP)
+2005-12-18,Nets,2565,Zoran Planinic,True,False,activated from IL
+2005-12-18,Nuggets,1761,Greg Buckner,False,True,strained groin (DNP)
+2005-12-18,Nuggets,2030,Kenyon Martin (Sr.),False,True,left knee tendinitis (DNP)
+2005-12-18,Nuggets,948,Marcus Camby,False,True,sprained right pinkie finger (DNP)
+2005-12-18,Raptors,101181,Jose Calderon,False,True,placed on IL
+2005-12-18,Raptors,677,Eric Williams,True,False,activated from IL
+2005-12-18,Rockets,1507,Derek Anderson,False,True,strained right calf (DNP)
+2005-12-18,Rockets,2397,Yao Ming,False,True,sore right big toe (DNP)
+2005-12-18,Wizards,2553,Jarvis Hayes,False,True,placed on IL with sore right knee
+2005-12-18,Wizards,2852,Awvee Storey,True,False,activated from IL
+2005-12-19,Bobcats,1510,Brevin Knight,False,True,placed on IL with arm injury
+2005-12-19,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2005-12-19,Celtics,2424,Dan Dickau,False,True,placed on IL with ruptured Achilles tendon (out for season)
+2005-12-19,Celtics,2753,Delonte West,False,True,placed on IL with concussion
+2005-12-19,Celtics,2770,Justin Reed,True,False,activated from IL
+2005-12-19,Celtics,2754,Tony Allen,True,False,activated from IL
+2005-12-19,Grizzlies,101194,Anthony Roberson,False,True,placed on IL
+2005-12-19,Grizzlies,2054,Jake Tsakalidis,True,False,activated from IL
+2005-12-19,Raptors,101111,Charlie Villanueva,False,True,bruised left calf (DNP)
+2005-12-19,Rockets,2397,Yao Ming,False,True,surgery on left big toe to clean infection
+2005-12-19,Sonics,2741,Robert Swift,False,True,placed on IL
+2005-12-19,Sonics,101130,Johan Petro,True,False,activated from IL
+2005-12-19,Wizards,2553,Jarvis Hayes,False,True,fractured right kneecap (out indefinitely)
+2005-12-20,Bobcats,2731,Emeka Okafor,False,True,sprained right ankle (out 10 days)
+2005-12-20,Bobcats,2731,Emeka Okafor,False,True,sprained right ankle (DNP)
+2005-12-20,Bobcats,2416,Kareem Rush,False,True,placed on IL with sprained left index finger
+2005-12-20,Bobcats,1510,Brevin Knight,True,False,activated from IL
+2005-12-20,Bulls,2736,Luol Deng,False,True,bruised right knee (DNP)
+2005-12-20,Bulls,2124,Malik Allen,False,True,flu-like symptoms
+2005-12-20,Clippers,101238,Boniface N'Dong,False,True,placed on IL
+2005-12-20,Heat,297,Alonzo Mourning,False,True,placed on IL with upper respiratory infection
+2005-12-20,Heat,2748,Dorell Wright,True,False,activated from IL
+2005-12-20,Jazz,1905,Andrei Kirilenko,False,True,placed on IL with back spasms
+2005-12-20,Jazz,1723,Matt Harpring,True,False,activated from IL
+2005-12-20,Lakers,1919,Laron Profit,False,True,ruptured left Achilles tendon
+2005-12-20,Mavericks,101185,Rawle Marshall,False,True,placed on IL
+2005-12-20,Mavericks,2605,Marquis Daniels,True,False,activated from IL
+2005-12-20,Sonics,1504,Danny Fortson,True,False,activated from IL
+2005-12-20,Sonics,1630,Mikki Moore,True,False,activated from IL
+2005-12-20,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-21,76ers,2212,Steven Hunter,False,True,placed on IL with leg injury
+2005-12-21,76ers,2214,Michael Bradley,True,False,activated from IL
+2005-12-21,Blazers,2775,Ha Seung-Jin,False,True,placed on IL
+2005-12-21,Blazers,689,Theo Ratliff,True,False,activated from IL
+2005-12-21,Celtics,2754,Tony Allen,False,True,placed on IL
+2005-12-21,Celtics,2753,Delonte West,True,False,activated from IL
+2005-12-21,Clippers,2624,Quinton Ross,False,True,placed on IL
+2005-12-21,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2005-12-21,Grizzlies,224,Eddie Jones,False,True,placed on IL with right ankle injury
+2005-12-21,Grizzlies,101194,Anthony Roberson,True,False,activated from IL
+2005-12-21,Hornets,101138,Brandon Bass,False,True,placed on IL
+2005-12-21,Hornets,2573,Maciej Lampe,True,False,activated from IL
+2005-12-21,Jazz,101139,C.J. Miles,False,True,placed on IL
+2005-12-21,Kings,1719,Bonzi Wells,False,True,groin injury (out 4 weeks)
+2005-12-21,Kings,978,Peja Stojakovic,False,True,back injury (out 2 weeks)
+2005-12-21,Nuggets,1761,Greg Buckner,False,True,strained groin (DNP)
+2005-12-21,Pacers,955,Samaki Walker,False,True,placed on IL
+2005-12-21,Pacers,2410,Fred Jones,True,False,activated from IL
+2005-12-21,Raptors,2254,Loren Woods,False,True,placed on IL
+2005-12-21,Raptors,101181,Jose Calderon,True,False,activated from IL
+2005-12-21,Rockets,1507,Derek Anderson,False,True,strained right calf (DNP)
+2005-12-21,Rockets,87,Dikembe Mutombo,False,True,dislocated right middle finger (DNP)
+2005-12-21,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2005-12-21,Rockets,2397,Yao Ming,False,True,placed on IL with toe surgery
+2005-12-21,Rockets,468,Jon Barry,True,False,activated from IL
+2005-12-22,Bulls,2124,Malik Allen,False,True,placed on IL
+2005-12-22,Bulls,101188,Eddie Basden,True,False,activated from IL
+2005-12-22,Kings,1719,Bonzi Wells,False,True,placed on IL with torn groin
+2005-12-22,Kings,978,Peja Stojakovic,False,True,back injury (DNP)
+2005-12-22,Kings,2441,Jamal Sampson,True,False,activated from IL
+2005-12-22,Mavericks,2605,Marquis Daniels,False,True,placed on IL with strained neck
+2005-12-22,Mavericks,101185,Rawle Marshall,True,False,activated from IL
+2005-12-23,76ers,2214,Michael Bradley,False,True,placed on IL with birth of child
+2005-12-23,76ers,2212,Steven Hunter,True,False,activated from IL
+2005-12-23,Bobcats,2731,Emeka Okafor,False,True,placed on IL with ankle injury
+2005-12-23,Bobcats,101118,Sean May,False,True,right knee injury (DNP)
+2005-12-23,Bobcats,2408,Melvin Ely,True,False,activated from IL
+2005-12-23,Bulls,101188,Eddie Basden,False,True,placed on IL
+2005-12-23,Bulls,2124,Malik Allen,True,False,activated from IL
+2005-12-23,Heat,2748,Dorell Wright,False,True,placed on IL
+2005-12-23,Heat,1000,Shandon Anderson,False,True,placed on IL
+2005-12-23,Heat,297,Alonzo Mourning,True,False,activated from IL
+2005-12-23,Heat,1715,Jason Williams,True,False,activated from IL
+2005-12-23,Knicks,2866,Jackie Butler,False,True,placed on IL
+2005-12-23,Knicks,101126,Nate Robinson,True,False,activated from IL
+2005-12-23,Lakers,1919,Laron Profit,False,True,placed on IL with ruptured left Achilles tendon
+2005-12-23,Lakers,101144,Von Wafer,True,False,activated from IL
+2005-12-23,Magic,2242,Terence Morris,False,True,placed on IL
+2005-12-23,Magic,101143,Travis Diener,True,False,activated from IL
+2005-12-23,Mavericks,101185,Rawle Marshall,False,True,placed on IL
+2005-12-23,Mavericks,711,Jerry Stackhouse,True,False,activated from IL
+2005-12-23,Nets,2215,Jason Collins,False,True,placed on IL
+2005-12-23,Rockets,1507,Derek Anderson,False,True,strained right calf (DNP)
+2005-12-23,Rockets,87,Dikembe Mutombo,False,True,dislocated right middle finger (DNP)
+2005-12-23,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2005-12-23,Sonics,1630,Mikki Moore,False,True,placed on IL
+2005-12-23,Sonics,1504,Danny Fortson,True,False,activated from IL
+2005-12-23,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-23,Timberwolves,2401,Nikoloz Tskitishvili,False,True,placed on IL
+2005-12-23,Timberwolves,2499,Richie Frahm,True,False,activated from IL
+2005-12-23,Wizards,2041,Etan Thomas,False,True,strained left hip (DNP)
+2005-12-25,Heat,2809,Gerald Fitch,False,True,placed on IL
+2005-12-25,Heat,2748,Dorell Wright,True,False,activated from IL
+2005-12-26,Grizzlies,101160,Lawrence Roberts,False,True,placed on IL
+2005-12-26,Grizzlies,224,Eddie Jones,True,False,activated from IL
+2005-12-26,Jazz,1921,Gordan Giricek,False,True,placed on IL with Achilles tendinitis
+2005-12-26,Jazz,1905,Andrei Kirilenko,True,False,activated from IL
+2005-12-26,Kings,1719,Bonzi Wells,False,True,placed on IL with torn groin
+2005-12-26,Kings,978,Peja Stojakovic,True,False,activated from IL
+2005-12-26,Knicks,101135,David Lee,False,True,placed on IL
+2005-12-26,Knicks,2201,Eddy Curry,True,False,activated from IL
+2005-12-26,Magic,101143,Travis Diener,False,True,placed on IL
+2005-12-26,Magic,1509,Kelvin Cato,True,False,activated from IL
+2005-12-26,Mavericks,1496,Keith Van Horn,False,True,stomach flu (DNP)
+2005-12-26,Nets,2215,Jason Collins,True,False,activated from IL
+2005-12-26,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL with left knee tendinitis
+2005-12-26,Nuggets,1863,Earl Boykins,True,False,activated from IL
+2005-12-26,Sonics,101130,Johan Petro,False,True,placed on IL
+2005-12-26,Sonics,2741,Robert Swift,True,False,activated from IL
+2005-12-26,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-26,Timberwolves,1709,Michael Olowokandi,False,True,placed on IL with sore right elbow
+2005-12-26,Timberwolves,2401,Nikoloz Tskitishvili,True,False,activated from IL
+2005-12-27,76ers,101150,Lou Williams,False,True,placed on IL
+2005-12-27,76ers,2214,Michael Bradley,True,False,activated from IL
+2005-12-27,Bobcats,101118,Sean May,False,True,right knee injury (DNP)
+2005-12-27,Heat,2748,Dorell Wright,False,True,placed on IL
+2005-12-27,Heat,101134,Wayne Simien,False,True,placed on IL
+2005-12-27,Heat,2809,Gerald Fitch,True,False,activated from IL
+2005-12-27,Heat,1000,Shandon Anderson,True,False,activated from IL
+2005-12-27,Jazz,1723,Matt Harpring,False,True,placed on IL with sore knee
+2005-12-27,Jazz,1921,Gordan Giricek,True,False,activated from IL
+2005-12-27,Kings,978,Peja Stojakovic,False,True,sore back (DNP)
+2005-12-27,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (out indefinitely)
+2005-12-27,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2005-12-27,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2005-12-27,Spurs,1752,Sean Marks,False,True,placed on IL
+2005-12-27,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2005-12-28,Blazers,2038,Joel Przybilla,False,True,placed on IL with sore knee
+2005-12-28,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2005-12-28,Bobcats,101118,Sean May,False,True,right knee injury (DNP)
+2005-12-28,Knicks,2417,Qyntel Woods,False,True,placed on IL
+2005-12-28,Knicks,101135,David Lee,True,False,activated from IL
+2005-12-28,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2005-12-28,Sonics,2557,Luke Ridnour,False,True,placed on IL with bruised chest
+2005-12-28,Sonics,1630,Mikki Moore,True,False,activated from IL
+2005-12-28,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-29,Bucks,2551,T.J. Ford,False,True,sprained left midfoot (out 2-3 weeks)
+2005-12-29,Heat,2809,Gerald Fitch,False,True,placed on IL
+2005-12-29,Heat,101134,Wayne Simien,True,False,activated from IL
+2005-12-29,Nuggets,948,Marcus Camby,False,True,surgery on fractured right pinkie finger
+2005-12-29,Nuggets,948,Marcus Camby,False,True,placed on IL with broken right pinkie finger
+2005-12-29,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2005-12-29,Sonics,2741,Robert Swift,False,True,placed on IL
+2005-12-29,Sonics,101130,Johan Petro,True,False,activated from IL
+2005-12-30,Bobcats,101118,Sean May,False,True,placed on IL with right knee injury
+2005-12-30,Bobcats,2416,Kareem Rush,True,False,activated from IL
+2005-12-30,Bucks,2551,T.J. Ford,False,True,sprained left midfoot (DNP)
+2005-12-30,Grizzlies,101194,Anthony Roberson,False,True,placed on IL (date unsure)
+2005-12-30,Grizzlies,757,Damon Stoudamire,False,True,ruptured right patellar tendon (out for season)
+2005-12-30,Grizzlies,1517,Bobby Jackson,True,False,activated from IL
+2005-12-30,Kings,978,Peja Stojakovic,False,True,strained right groin (DNP)
+2005-12-30,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2005-12-30,Knicks,2047,Quentin Richardson,False,True,placed on IL
+2005-12-30,Knicks,2417,Qyntel Woods,True,False,activated from IL
+2005-12-30,Magic,1509,Kelvin Cato,False,True,placed on IL with sore ankle
+2005-12-30,Magic,2242,Terence Morris,True,False,activated from IL
+2005-12-30,Mavericks,2694,Josh Powell,False,True,placed on IL
+2005-12-30,Mavericks,2605,Marquis Daniels,True,False,activated from IL
+2005-12-30,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2005-12-30,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-31,Grizzlies,757,Damon Stoudamire,False,True,placed on IL with ruptured right patellar tendon
+2005-12-31,Grizzlies,2034,Mike Miller,False,True,placed on IL with sprained left ankle
+2005-12-31,Grizzlies,101194,Anthony Roberson,True,False,activated from IL
+2005-12-31,Grizzlies,101160,Lawrence Roberts,True,False,activated from IL
+2005-12-31,Rockets,1507,Derek Anderson,False,True,placed on IL with strained right calf
+2005-12-31,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2005-12-31,Rockets,1747,Rafer Alston,True,False,activated from IL
+2005-12-31,Sonics,1630,Mikki Moore,False,True,placed on IL
+2005-12-31,Sonics,101130,Johan Petro,True,False,activated from IL
+2005-12-31,Spurs,89,Nick Van Exel,False,True,placed on IL
+2005-12-31,Spurs,1752,Sean Marks,True,False,activated from IL
+2005-12-31,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2005-12-31,Warriors,1502,Adonal Foyle,False,True,placed on IL with back spasms
+2005-12-31,Warriors,101147,Chris Taft,True,False,activated from IL
+2006-01-01,Blazers,2775,Ha Seung-Jin,False,True,placed on IL
+2006-01-01,Blazers,2038,Joel Przybilla,True,False,activated from IL
+2006-01-01,Timberwolves,2401,Nikoloz Tskitishvili,False,True,placed on IL
+2006-01-01,Timberwolves,1709,Michael Olowokandi,True,False,activated from IL
+2006-01-02,Bobcats,2408,Melvin Ely,False,True,sprained right ankle (DNP)
+2006-01-02,Bucks,2551,T.J. Ford,False,True,sprained left midfoot (DNP)
+2006-01-02,Hornets,101178,Arvydas Macijauskas,False,True,placed on IL
+2006-01-02,Hornets,2573,Maciej Lampe,False,True,placed on IL
+2006-01-02,Hornets,2411,Bostjan Nachbar,True,False,activated from IL
+2006-01-02,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-01-02,Knicks,1744,Jerome James,False,True,placed on IL
+2006-01-02,Knicks,2866,Jackie Butler,True,False,activated from IL
+2006-01-02,Pacers,2224,Jamaal Tinsley,False,True,placed on IL with torn right biceps
+2006-01-02,Pacers,979,Jermaine O'Neal,False,True,flu (DNP)
+2006-01-02,Pacers,955,Samaki Walker,True,False,activated from IL
+2006-01-02,Sonics,2043,Mateen Cleaves,False,True,placed on IL
+2006-01-02,Sonics,1630,Mikki Moore,True,False,activated from IL
+2006-01-02,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2006-01-03,Grizzlies,757,Damon Stoudamire,False,True,surgery on torn right patellar tendon
+2006-01-03,Jazz,101261,Andre Owens,False,True,placed on IL
+2006-01-03,Jazz,1723,Matt Harpring,True,False,activated from IL
+2006-01-03,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2006-01-03,Wizards,101182,Donell Taylor,False,True,placed on IL
+2006-01-03,Wizards,101154,Andray Blatche,True,False,activated from IL
+2006-01-04,76ers,185,Chris Webber,False,True,placed on IL with strained lower back
+2006-01-04,76ers,101150,Lou Williams,True,False,activated from IL
+2006-01-04,Bobcats,2408,Melvin Ely,False,True,placed on IL
+2006-01-04,Bobcats,2063,Jake Voskuhl,True,False,activated from IL
+2006-01-04,Bucks,2551,T.J. Ford,False,True,sprained left midfoot (DNP)
+2006-01-04,Bulls,2199,Tyson Chandler,False,True,placed on IL with sprained right ankle
+2006-01-04,Bulls,101188,Eddie Basden,True,False,activated from IL
+2006-01-04,Cavaliers,1716,Larry Hughes,False,True,placed on IL with broken finger in right hand (out 6-8 weeks)
+2006-01-04,Cavaliers,101149,Martynas Andriuskevicius,True,False,activated from IL
+2006-01-04,Hornets,2411,Bostjan Nachbar,False,True,placed on IL
+2006-01-04,Hornets,101178,Arvydas Macijauskas,True,False,activated from IL
+2006-01-04,Magic,255,Grant Hill,False,True,placed on IL with strained groin
+2006-01-04,Magic,101143,Travis Diener,True,False,activated from IL
+2006-01-04,Pacers,979,Jermaine O'Neal,False,True,pneumonia (DNP)
+2006-01-04,Raptors,101181,Jose Calderon,False,True,placed on IL
+2006-01-04,Raptors,2254,Loren Woods,True,False,activated from IL
+2006-01-04,Sonics,1504,Danny Fortson,False,True,sore left knee (DNP)
+2006-01-04,Sonics,958,Vitaly Potapenko,False,True,placed on IL
+2006-01-04,Sonics,2741,Robert Swift,True,False,activated from IL
+2006-01-04,Spurs,1752,Sean Marks,False,True,placed on IL
+2006-01-04,Spurs,89,Nick Van Exel,True,False,activated from IL
+2006-01-04,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2006-01-04,Timberwolves,2058,Mark Madsen,False,True,placed on IL with death of grandmother
+2006-01-04,Timberwolves,2401,Nikoloz Tskitishvili,True,False,activated from IL
+2006-01-05,Cavaliers,2562,Sasha Pavlovic,True,False,activated from IL
+2006-01-05,Pacers,979,Jermaine O'Neal,False,True,pneumonia (DNP)
+2006-01-05,Pacers,1513,Scot Pollard,False,True,flu-like symptoms (DNP)
+2006-01-05,Rockets,1507,Derek Anderson,False,True,strained right calf (DNP)
+2006-01-05,Rockets,1507,Derek Anderson,True,False,activated from IL
+2006-01-05,Warriors,1502,Adonal Foyle,True,False,activated from IL
+2006-01-06,76ers,101150,Lou Williams,False,True,placed on IL
+2006-01-06,76ers,185,Chris Webber,True,False,activated from IL
+2006-01-06,Blazers,2216,Zach Randolph,False,True,placed on IL with flu
+2006-01-06,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2006-01-06,Bucks,2551,T.J. Ford,False,True,sprained left midfoot (DNP)
+2006-01-06,Bulls,15,Eric Piatkowski,False,True,placed on IL
+2006-01-06,Cavaliers,1716,Larry Hughes,False,True,surgery on broken right middle finger
+2006-01-06,Celtics,101155,Ryan Gomes,False,True,placed on IL
+2006-01-06,Celtics,2754,Tony Allen,True,False,activated from IL
+2006-01-06,Clippers,101238,Boniface N'Dong,False,True,placed on IL
+2006-01-06,Clippers,2624,Quinton Ross,True,False,activated from IL
+2006-01-06,Grizzlies,2054,Jake Tsakalidis,False,True,placed on IL
+2006-01-06,Grizzlies,2034,Mike Miller,True,False,activated from IL
+2006-01-06,Heat,2548,Dwyane Wade,False,True,sprained MCL in left knee (DNP)
+2006-01-06,Heat,1715,Jason Williams,False,True,placed on IL
+2006-01-06,Heat,2809,Gerald Fitch,True,False,activated from IL
+2006-01-06,Hornets,101108,Chris Paul,False,True,torn ligament in right thumb (out 2 weeks)
+2006-01-06,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2006-01-06,Knicks,2037,Jamal Crawford,False,True,placed on IL with sprained foot
+2006-01-06,Knicks,1744,Jerome James,True,False,activated from IL
+2006-01-06,Magic,101143,Travis Diener,False,True,placed on IL
+2006-01-06,Magic,255,Grant Hill,True,False,activated from IL
+2006-01-06,Mavericks,2605,Marquis Daniels,False,True,placed on IL with sore neck
+2006-01-06,Mavericks,2694,Josh Powell,True,False,activated from IL
+2006-01-06,Raptors,1425,Aaron Williams,False,True,placed on IL
+2006-01-06,Raptors,101181,Jose Calderon,True,False,activated from IL
+2006-01-06,Spurs,2757,Beno Udrih,False,True,placed on IL
+2006-01-06,Spurs,1752,Sean Marks,True,False,activated from IL
+2006-01-06,Suns,2571,Leandro Barbosa,False,True,bruised left shin (DNP)
+2006-01-06,Timberwolves,2499,Richie Frahm,False,True,placed on IL
+2006-01-06,Timberwolves,2058,Mark Madsen,True,False,activated from IL
+2006-01-06,Wizards,2852,Awvee Storey,False,True,placed on IL
+2006-01-06,Wizards,101154,Andray Blatche,True,False,activated from IL
+2006-01-07,76ers,101150,Lou Williams,False,True,placed on IL
+2006-01-07,Bobcats,2063,Jake Voskuhl,False,True,swollen right knee (DNP)
+2006-01-07,Bobcats,2416,Kareem Rush,False,True,DNP
+2006-01-07,Hornets,101108,Chris Paul,False,True,placed on IL with torn ligament in right thumb
+2006-01-07,Hornets,2411,Bostjan Nachbar,True,False,activated from IL
+2006-01-07,Magic,255,Grant Hill,False,True,placed on IL with strained groin
+2006-01-07,Magic,101143,Travis Diener,True,False,activated from IL
+2006-01-07,Suns,2571,Leandro Barbosa,False,True,sprained left ankle (DNP)
+2006-01-07,Timberwolves,2648,Ronald Dupree,False,True,placed on IL
+2006-01-07,Timberwolves,2499,Richie Frahm,True,False,activated from IL
+2006-01-07,Wizards,2407,Jared Jeffries,False,True,placed on IL with left eye abrasion
+2006-01-07,Wizards,2852,Awvee Storey,True,False,activated from IL
+2006-01-08,Blazers,1520,Charles Smith (Cornelius),False,True,placed on IL
+2006-01-08,Blazers,2752,Sergei Monia,False,True,placed on IL
+2006-01-08,Blazers,2742,Sebastian Telfair,True,False,activated from IL
+2006-01-08,Blazers,2216,Zach Randolph,True,False,activated from IL
+2006-01-08,Kings,722,Corliss Williamson,False,True,death in family (DNP)
+2006-01-08,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2006-01-08,Knicks,2866,Jackie Butler,False,True,placed on IL
+2006-01-08,Knicks,2047,Quentin Richardson,True,False,activated from IL
+2006-01-08,Rockets,1507,Derek Anderson,False,True,placed on IL with strained calf
+2006-01-08,Sonics,1504,Danny Fortson,False,True,placed on IL
+2006-01-08,Sonics,958,Vitaly Potapenko,False,True,strained lower back (DNP)
+2006-01-08,Sonics,958,Vitaly Potapenko,True,False,activated from IL
+2006-01-09,76ers,185,Chris Webber,False,True,placed on IL with strained lower back
+2006-01-09,76ers,101150,Lou Williams,True,False,activated from IL
+2006-01-09,Bulls,101188,Eddie Basden,False,True,placed on IL
+2006-01-09,Bulls,2199,Tyson Chandler,True,False,activated from IL
+2006-01-09,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-01-09,Raptors,2254,Loren Woods,False,True,placed on IL
+2006-01-09,Raptors,1425,Aaron Williams,True,False,activated from IL
+2006-01-09,Sonics,958,Vitaly Potapenko,False,True,lower back strain (DNP)
+2006-01-09,Wizards,1088,Chucky Atkins,False,True,placed on IL with birth of child
+2006-01-09,Wizards,2407,Jared Jeffries,True,False,activated from IL
+2006-01-10,Bobcats,2063,Jake Voskuhl,False,True,sprained right ankle (DNP)
+2006-01-10,Bobcats,2416,Kareem Rush,False,True,placed on IL
+2006-01-10,Bobcats,2731,Emeka Okafor,True,False,activated from IL
+2006-01-10,Bucks,2590,Mo Williams,False,True,plantar fasciitis in left foot (DNP)
+2006-01-10,Clippers,1882,Elton Brand,False,True,placed on IL with bruised right hip
+2006-01-10,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2006-01-10,Hornets,101138,Brandon Bass,False,True,placed on IL
+2006-01-10,Hornets,101108,Chris Paul,True,False,activated from IL
+2006-01-10,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2006-01-10,Knicks,2417,Qyntel Woods,False,True,placed on IL
+2006-01-10,Knicks,2037,Jamal Crawford,True,False,activated from IL
+2006-01-10,Magic,101143,Travis Diener,False,True,placed on IL
+2006-01-10,Magic,1509,Kelvin Cato,True,False,activated from IL
+2006-01-10,Nets,2210,Richard Jefferson,False,True,placed on IL with back spasms
+2006-01-10,Nuggets,2030,Kenyon Martin (Sr.),False,True,back strain (DNP)
+2006-01-10,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-10,Rockets,2031,Stromile Swift,False,True,scratched left eye (DNP)
+2006-01-10,Spurs,1752,Sean Marks,False,True,placed on IL with sprained ankle
+2006-01-10,Spurs,2757,Beno Udrih,True,False,activated from IL
+2006-01-10,Suns,101159,Dijon Thompson,False,True,ill (DNP)
+2006-01-10,Suns,2571,Leandro Barbosa,False,True,sprained MCL in left knee (DNP)
+2006-01-10,Timberwolves,2401,Nikoloz Tskitishvili,False,True,placed on IL
+2006-01-10,Timberwolves,2648,Ronald Dupree,True,False,activated from IL
+2006-01-11,76ers,1924,Lee Nailon,False,True,placed on IL
+2006-01-11,76ers,185,Chris Webber,True,False,activated from IL
+2006-01-11,Blazers,2775,Ha Seung-Jin,False,True,placed on IL
+2006-01-11,Blazers,2752,Sergei Monia,True,False,activated from IL
+2006-01-11,Bobcats,2731,Emeka Okafor,False,True,placed on IL with sprained ankle
+2006-01-11,Bobcats,2063,Jake Voskuhl,False,True,knee injury (DNP)
+2006-01-11,Bobcats,101118,Sean May,False,True,sore right knee (DNP)
+2006-01-11,Bobcats,101118,Sean May,True,False,activated from IL
+2006-01-11,Bucks,2590,Mo Williams,False,True,plantar fasciitis in left foot (DNP)
+2006-01-11,Kings,1730,Brian Skinner,False,True,stomach virus (DNP)
+2006-01-11,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2006-01-11,Knicks,990,Malik Rose,False,True,placed on IL
+2006-01-11,Knicks,2417,Qyntel Woods,True,False,activated from IL
+2006-01-11,Magic,2242,Terence Morris,False,True,placed on IL
+2006-01-11,Magic,2039,Keyon Dooling,True,False,activated from IL
+2006-01-11,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-11,Rockets,2031,Stromile Swift,False,True,scratched left eye (DNP)
+2006-01-11,Sonics,2501,Reggie Evans,False,True,funeral (DNP)
+2006-01-11,Timberwolves,2499,Richie Frahm,False,True,placed on IL
+2006-01-11,Timberwolves,2401,Nikoloz Tskitishvili,True,False,activated from IL
+2006-01-12,Cavaliers,101149,Martynas Andriuskevicius,False,True,placed on IL
+2006-01-12,Cavaliers,2760,Anderson Varejao,True,False,activated from IL
+2006-01-12,Lakers,2098,Stanislav Medvedenko,False,True,surgery to repair herniated disk in back (out for season)
+2006-01-12,Pistons,101131,Jason Maxiell,False,True,placed on IL
+2006-01-12,Pistons,101165,Alex Acker,True,False,activated from IL
+2006-01-12,Spurs,1752,Sean Marks,False,True,placed on IL
+2006-01-12,Spurs,2757,Beno Udrih,True,False,activated from IL
+2006-01-12,Suns,2571,Leandro Barbosa,False,True,sprained left knee (DNP)
+2006-01-12,Warriors,384,Calbert Cheaney,False,True,strained left thigh (DNP)
+2006-01-13,Bobcats,1510,Brevin Knight,False,True,back spasms (DNP)
+2006-01-13,Bobcats,2063,Jake Voskuhl,False,True,sprained right ankle (DNP)
+2006-01-13,Bobcats,101118,Sean May,False,True,knee injury (DNP)
+2006-01-13,Bucks,2590,Mo Williams,False,True,plantar fasciitis in left foot (DNP)
+2006-01-13,Grizzlies,101194,Anthony Roberson,False,True,placed on IL
+2006-01-13,Grizzlies,2054,Jake Tsakalidis,True,False,activated from IL
+2006-01-13,Heat,1000,Shandon Anderson,False,True,placed on IL
+2006-01-13,Heat,2809,Gerald Fitch,True,False,activated from IL
+2006-01-13,Hornets,2365,Chris Andersen,False,True,placed on IL with flu
+2006-01-13,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-01-13,Kings,978,Peja Stojakovic,False,True,bulging disc (DNP)
+2006-01-13,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2006-01-13,Knicks,2772,Trevor Ariza,False,True,placed on IL
+2006-01-13,Knicks,990,Malik Rose,True,False,activated from IL
+2006-01-13,Magic,1883,Steve Francis,False,True,placed on IL (due to suspension)
+2006-01-13,Magic,2242,Terence Morris,True,False,activated from IL
+2006-01-13,Nets,101120,Antoine Wright,True,False,activated from IL
+2006-01-13,Nuggets,1761,Greg Buckner,False,True,sprained right wrist (DNP)
+2006-01-13,Pacers,1513,Scot Pollard,False,True,sore lower back (DNP)
+2006-01-13,Sonics,2501,Reggie Evans,False,True,placed on IL (funeral)
+2006-01-13,Sonics,1504,Danny Fortson,True,False,activated from IL
+2006-01-14,Bobcats,2063,Jake Voskuhl,False,True,sprained right ankle (DNP)
+2006-01-14,Bobcats,101118,Sean May,False,True,knee injury (DNP)
+2006-01-14,Clippers,1882,Elton Brand,False,True,bruised right hip (DNP)
+2006-01-14,Clippers,2079,Kaniel Dickens,False,True,placed on IL with right ankle injury
+2006-01-14,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2006-01-14,Grizzlies,2054,Jake Tsakalidis,False,True,placed on IL
+2006-01-14,Grizzlies,101194,Anthony Roberson,True,False,activated from IL
+2006-01-14,Hawks,1731,Tyronn Lue,False,True,sore back (DNP)
+2006-01-14,Heat,1715,Jason Williams,False,True,placed on IL
+2006-01-14,Heat,1000,Shandon Anderson,True,False,activated from IL
+2006-01-14,Nuggets,1761,Greg Buckner,False,True,sprained right wrist (DNP)
+2006-01-14,Pacers,1513,Scot Pollard,False,True,sore lower back (DNP)
+2006-01-14,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-14,Rockets,2031,Stromile Swift,False,True,scratched left eye (DNP)
+2006-01-14,Sonics,1504,Danny Fortson,False,True,placed on IL with sore left knee
+2006-01-14,Sonics,2501,Reggie Evans,False,True,upper respiratory problem (DNP)
+2006-01-14,Sonics,958,Vitaly Potapenko,False,True,placed on IL with strained lower back
+2006-01-14,Sonics,2501,Reggie Evans,True,False,activated from IL
+2006-01-14,Sonics,1594,Rick Brunson,True,False,activated from IL
+2006-01-14,Warriors,384,Calbert Cheaney,False,True,placed on IL
+2006-01-14,Warriors,2554,Mickael Pietrus,True,False,activated from IL
+2006-01-15,Blazers,101110,Martell Webster,False,True,placed on IL
+2006-01-15,Blazers,2752,Sergei Monia,False,True,placed on IL
+2006-01-15,Blazers,1520,Charles Smith (Cornelius),True,False,activated from IL
+2006-01-15,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2006-01-15,Cavaliers,2400,Drew Gooden,False,True,strained right thigh (DNP)
+2006-01-15,Cavaliers,1985,Zendon Hamilton,True,False,activated from IL
+2006-01-15,Kings,978,Peja Stojakovic,False,True,bulging disc (DNP)
+2006-01-15,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2006-01-15,Knicks,2417,Qyntel Woods,False,True,placed on IL
+2006-01-15,Knicks,2772,Trevor Ariza,True,False,activated from IL
+2006-01-15,Magic,448,Bo Outlaw,False,True,placed on IL
+2006-01-15,Magic,255,Grant Hill,True,False,activated from IL
+2006-01-15,Raptors,2229,Mike James (Lamont),False,True,placed on IL with back spasms
+2006-01-15,Raptors,2254,Loren Woods,True,False,activated from IL
+2006-01-16,Bobcats,2063,Jake Voskuhl,False,True,sprained right ankle (DNP)
+2006-01-16,Bobcats,101118,Sean May,False,True,knee injury (DNP)
+2006-01-16,Bulls,101188,Eddie Basden,True,False,activated from IL
+2006-01-16,Grizzlies,2766,Antonio Burks,False,True,placed on IL
+2006-01-16,Grizzlies,2054,Jake Tsakalidis,True,False,activated from IL
+2006-01-16,Hawks,1731,Tyronn Lue,False,True,strained back muscle (DNP)
+2006-01-16,Knicks,2772,Trevor Ariza,False,True,placed on IL
+2006-01-16,Knicks,2417,Qyntel Woods,True,False,activated from IL
+2006-01-16,Nets,2210,Richard Jefferson,True,False,activated from IL
+2006-01-16,Pacers,979,Jermaine O'Neal,False,True,sprained left ankle (DNP)
+2006-01-16,Pacers,1513,Scot Pollard,False,True,strained back muscle (DNP)
+2006-01-16,Pistons,101165,Alex Acker,False,True,placed on IL
+2006-01-16,Pistons,101131,Jason Maxiell,True,False,activated from IL
+2006-01-16,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-16,Rockets,2031,Stromile Swift,False,True,scratched left eye (DNP)
+2006-01-16,Warriors,101147,Chris Taft,False,True,back spasms (DNP)
+2006-01-17,Jazz,2260,Jarron Collins,False,True,sprained right ankle (DNP)
+2006-01-17,Kings,978,Peja Stojakovic,False,True,back injury (DNP)
+2006-01-17,Kings,949,Shareef Abdur-Rahim,False,True,broken jaw (DNP)
+2006-01-17,Raptors,2254,Loren Woods,False,True,placed on IL
+2006-01-17,Raptors,2229,Mike James (Lamont),True,False,activated from IL
+2006-01-18,Blazers,1739,Ruben Patterson,False,True,bronchitis (DNP)
+2006-01-18,Bobcats,2063,Jake Voskuhl,False,True,sprained right ankle (DNP)
+2006-01-18,Bobcats,101118,Sean May,False,True,knee injury (DNP)
+2006-01-18,Grizzlies,953,Lorenzen Wright,False,True,placed on IL with bruised left knee
+2006-01-18,Grizzlies,2766,Antonio Burks,True,False,activated from IL
+2006-01-18,Hawks,2823,John Edwards,False,True,lower back pain (DNP)
+2006-01-18,Hawks,1731,Tyronn Lue,False,True,strained back (DNP)
+2006-01-18,Hornets,2411,Bostjan Nachbar,False,True,placed on IL
+2006-01-18,Hornets,2365,Chris Andersen,True,False,activated from IL
+2006-01-18,Knicks,950,Stephon Marbury,False,True,placed on IL with sprained left shoulder
+2006-01-18,Knicks,2772,Trevor Ariza,True,False,activated from IL
+2006-01-18,Magic,255,Grant Hill,False,True,placed on IL with abdominal pain
+2006-01-18,Mavericks,1496,Keith Van Horn,False,True,sprained left ankle (DNP)
+2006-01-18,Pacers,979,Jermaine O'Neal,False,True,sprained left ankle (DNP)
+2006-01-18,Pacers,1513,Scot Pollard,False,True,sore lower back (DNP)
+2006-01-18,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-18,Rockets,2031,Stromile Swift,False,True,scratched left eye (DNP)
+2006-01-18,Spurs,109,Robert Horry,False,True,lower abdominal strain (DNP)
+2006-01-18,Timberwolves,2401,Nikoloz Tskitishvili,False,True,placed on IL
+2006-01-18,Timberwolves,101152,Bracey Wright,True,False,activated from IL
+2006-01-18,Wizards,2041,Etan Thomas,False,True,death in family (DNP)
+2006-01-19,Bobcats,101118,Sean May,False,True,arthroscopic surgery on right knee to repair torn cartilage
+2006-01-19,Lakers,101142,Ronny Turiaf,False,True,placed on IL with heart problems
+2006-01-20,76ers,101150,Lou Williams,False,True,placed on IL
+2006-01-20,76ers,1924,Lee Nailon,True,False,activated from IL
+2006-01-20,Bobcats,2222,Gerald Wallace,False,True,sprained left knee
+2006-01-20,Bobcats,2408,Melvin Ely,False,True,sprained right ankle (DNP)
+2006-01-20,Bobcats,101118,Sean May,False,True,placed on IL with torn cartilage in right knee (out at least 6 weeks)
+2006-01-20,Bobcats,2408,Melvin Ely,True,False,activated from IL
+2006-01-20,Bucks,2551,T.J. Ford,False,True,strained left hamstring (DNP)
+2006-01-20,Cavaliers,2400,Drew Gooden,True,False,activated from IL
+2006-01-20,Grizzlies,101160,Lawrence Roberts,False,True,placed on IL
+2006-01-20,Grizzlies,953,Lorenzen Wright,True,False,activated from IL
+2006-01-20,Hawks,2823,John Edwards,False,True,sore back (DNP)
+2006-01-20,Hawks,1731,Tyronn Lue,False,True,strained back (DNP)
+2006-01-20,Heat,2809,Gerald Fitch,False,True,placed on IL
+2006-01-20,Heat,2748,Dorell Wright,True,False,activated from IL
+2006-01-20,Jazz,2260,Jarron Collins,False,True,placed on IL
+2006-01-20,Jazz,101261,Andre Owens,True,False,activated from IL
+2006-01-20,Magic,1509,Kelvin Cato,False,True,placed on IL with sprained ankle
+2006-01-20,Magic,2242,Terence Morris,True,False,activated from IL
+2006-01-20,Mavericks,1496,Keith Van Horn,False,True,sprained left ankle (DNP)
+2006-01-20,Pacers,1513,Scot Pollard,False,True,sore back (DNP)
+2006-01-20,Pacers,2224,Jamaal Tinsley,True,False,activated from IL
+2006-01-20,Raptors,2737,Rafael Araujo,False,True,placed on IL with sore right shoulder
+2006-01-20,Raptors,2776,Pape Sow,True,False,activated from IL
+2006-01-20,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-20,Rockets,983,Moochie Norris,False,True,bruised left foot (DNP)
+2006-01-20,Rockets,2031,Stromile Swift,False,True,scratched left eye (DNP)
+2006-01-20,Spurs,109,Robert Horry,False,True,placed on IL with strained lower abdominal muscle
+2006-01-20,Spurs,1752,Sean Marks,True,False,activated from IL
+2006-01-20,Wizards,2041,Etan Thomas,False,True,placed on IL with death of grandmother
+2006-01-20,Wizards,2762,Peter John Ramos,True,False,activated from IL
+2006-01-21,Bobcats,2222,Gerald Wallace,False,True,bruised left leg (DNP)
+2006-01-21,Bobcats,2408,Melvin Ely,False,True,sprained right ankle (DNP)
+2006-01-21,Bucks,2551,T.J. Ford,False,True,strained left hamstring (DNP)
+2006-01-21,Magic,2749,Jameer Nelson,False,True,sprained right foot (DNP)
+2006-01-21,Nets,2215,Jason Collins,False,True,sore right knee (DNP)
+2006-01-21,Nets,441,Lamond Murray,False,True,placed on IL with strained left knee
+2006-01-22,Clippers,101238,Boniface N'Dong,False,True,placed on IL
+2006-01-22,Clippers,1442,Zeljko Rebraca,True,False,activated from IL
+2006-01-22,Grizzlies,2054,Jake Tsakalidis,False,True,placed on IL
+2006-01-22,Grizzlies,101160,Lawrence Roberts,True,False,activated from IL
+2006-01-22,Mavericks,1496,Keith Van Horn,False,True,sprained left ankle (DNP)
+2006-01-22,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-22,Rockets,983,Moochie Norris,False,True,bruised left foot (DNP)
+2006-01-22,Rockets,2031,Stromile Swift,False,True,eye injury (DNP)
+2006-01-22,Spurs,1938,Manu Ginobili,False,True,placed on IL with sprained right ankle
+2006-01-22,Timberwolves,1709,Michael Olowokandi,False,True,abscessed tooth (DNP)
+2006-01-22,Timberwolves,1607,Troy Hudson,False,True,flu (DNP)
+2006-01-22,Warriors,101147,Chris Taft,False,True,strained back muscle (DNP)
+2006-01-23,Hawks,2823,John Edwards,False,True,lower back pain (DNP)
+2006-01-23,Jazz,101261,Andre Owens,False,True,placed on IL
+2006-01-23,Jazz,1723,Matt Harpring,False,True,placed on IL
+2006-01-23,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-23,Rockets,983,Moochie Norris,False,True,bruised left foot (DNP)
+2006-01-23,Rockets,1763,Ryan Bowen,False,True,irregular heartbeat (DNP)
+2006-01-23,Rockets,2031,Stromile Swift,False,True,eye injury (DNP)
+2006-01-23,Warriors,101147,Chris Taft,False,True,back spasms (DNP)
+2006-01-24,76ers,1924,Lee Nailon,False,True,placed on IL with arrest for domestic disturbance
+2006-01-24,76ers,101150,Lou Williams,True,False,activated from IL
+2006-01-24,Bobcats,2222,Gerald Wallace,False,True,medial tibia bone bruise (DNP)
+2006-01-24,Bobcats,2586,Keith Bogans,False,True,sprained MCL in right knee (DNP)
+2006-01-24,Grizzlies,101194,Anthony Roberson,False,True,placed on IL
+2006-01-24,Grizzlies,1088,Chucky Atkins,False,True,placed on IL
+2006-01-24,Grizzlies,2054,Jake Tsakalidis,True,False,activated from IL
+2006-01-24,Kings,2441,Jamal Sampson,False,True,stomach virus (DNP)
+2006-01-24,Kings,978,Peja Stojakovic,False,True,pending trade (DNP)
+2006-01-24,Magic,2749,Jameer Nelson,False,True,sprained right foot (DNP)
+2006-01-24,Pacers,1513,Scot Pollard,False,True,sore lower back (DNP)
+2006-01-24,Pistons,2568,Carlos Delfino,False,True,placed on IL
+2006-01-24,Pistons,101161,Amir Johnson,True,False,activated from IL
+2006-01-25,Bobcats,2222,Gerald Wallace,False,True,medial tibia bone bruise (DNP)
+2006-01-25,Bobcats,2586,Keith Bogans,False,True,sprained MCL in right knee (DNP)
+2006-01-25,Celtics,2770,Justin Reed,False,True,placed on IL
+2006-01-25,Celtics,101155,Ryan Gomes,True,False,activated from IL
+2006-01-25,Grizzlies,2766,Antonio Burks,False,True,placed on IL
+2006-01-25,Grizzlies,101160,Lawrence Roberts,True,False,activated from IL
+2006-01-25,Jazz,1921,Gordan Giricek,False,True,sore left Achilles tendon (DNP)
+2006-01-25,Jazz,1723,Matt Harpring,False,True,placed on IL with knee injury
+2006-01-25,Jazz,101156,Robert Whaley,False,True,torn cartilage in right knee (will require surgery) (DNP)
+2006-01-25,Jazz,101261,Andre Owens,True,False,activated from IL
+2006-01-25,Kings,1730,Brian Skinner,False,True,sprained right ankle (DNP)
+2006-01-25,Knicks,2772,Trevor Ariza,False,True,placed on IL
+2006-01-25,Knicks,950,Stephon Marbury,True,False,activated from IL
+2006-01-25,Pistons,101161,Amir Johnson,False,True,placed on IL
+2006-01-25,Pistons,905,Dale Davis,False,True,flu-like symptoms (DNP)
+2006-01-25,Pistons,101165,Alex Acker,True,False,activated from IL
+2006-01-25,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-25,Rockets,1763,Ryan Bowen,False,True,irregular heartbeat (DNP)
+2006-01-25,Rockets,2031,Stromile Swift,False,True,eye injury (DNP)
+2006-01-25,Sonics,1594,Rick Brunson,False,True,plantar fasciitis in left foot (DNP)
+2006-01-25,Warriors,101147,Chris Taft,False,True,back spasms (DNP)
+2006-01-25,Wizards,2762,Peter John Ramos,False,True,placed on IL
+2006-01-25,Wizards,2041,Etan Thomas,True,False,activated from IL
+2006-01-26,Heat,1715,Jason Williams,False,True,placed on IL with a cut right ring finger
+2006-01-26,Heat,2809,Gerald Fitch,True,False,activated from IL
+2006-01-26,Magic,2749,Jameer Nelson,False,True,sprained right foot (DNP)
+2006-01-26,Mavericks,2734,Devin Harris,False,True,sprained right shoulder (DNP)
+2006-01-26,Pacers,979,Jermaine O'Neal,False,True,torn left groin (out 8 weeks)
+2006-01-26,Sonics,2557,Luke Ridnour,False,True,sprained left knee (DNP)
+2006-01-26,Sonics,1594,Rick Brunson,False,True,plantar fasciitis in left foot (DNP)
+2006-01-26,Sonics,2209,Vladimir Radmanovic,False,True,sprained right foot (DNP)
+2006-01-27,Bobcats,2222,Gerald Wallace,False,True,medial tibia bone bruise (DNP)
+2006-01-27,Bobcats,2586,Keith Bogans,False,True,sprained MCL in right knee (DNP)
+2006-01-27,Bucks,2558,Reece Gaines,False,True,placed on IL
+2006-01-27,Bucks,2294,Charlie Bell,True,False,activated from IL
+2006-01-27,Celtics,101204,Dwayne Jones,False,True,placed on IL
+2006-01-27,Clippers,1442,Zeljko Rebraca,False,True,placed on IL with chest pains
+2006-01-27,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2006-01-27,Heat,2548,Dwyane Wade,False,True,placed on IL
+2006-01-27,Heat,2853,Earl Barron,False,True,placed on IL with back injury
+2006-01-27,Kings,1897,Metta World Peace,True,False,activated from IL
+2006-01-27,Knicks,1744,Jerome James,False,True,placed on IL with strained neck
+2006-01-27,Knicks,2866,Jackie Butler,True,False,activated from IL
+2006-01-27,Magic,2749,Jameer Nelson,False,True,sprained right foot (DNP)
+2006-01-27,Nets,1713,Vince Carter,False,True,placed on IL with sore lower back
+2006-01-27,Nets,441,Lamond Murray,True,False,activated from IL
+2006-01-27,Nuggets,101125,Julius Hodge,False,True,placed on IL
+2006-01-27,Nuggets,948,Marcus Camby,True,False,activated from IL
+2006-01-27,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-01-27,Pacers,1902,Jeff Foster,False,True,back spasms (DNP)
+2006-01-27,Pacers,979,Jermaine O'Neal,False,True,placed on IL with torn left groin
+2006-01-27,Pistons,101165,Alex Acker,False,True,placed on IL
+2006-01-27,Pistons,2568,Carlos Delfino,True,False,activated from IL
+2006-01-27,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-27,Rockets,436,Juwan Howard,False,True,flu-like symptoms (DNP)
+2006-01-27,Suns,2401,Nikoloz Tskitishvili,False,True,placed on IL
+2006-01-27,Timberwolves,101152,Bracey Wright,False,True,placed on IL
+2006-01-27,Timberwolves,2556,Marcus Banks,False,True,placed on IL
+2006-01-27,Warriors,2202,Jason Richardson,False,True,sore back (personal reasons per CBC) (DNP)
+2006-01-28,76ers,947,Allen Iverson,False,True,sprained left ankle (DNP)
+2006-01-28,Bobcats,1510,Brevin Knight,False,True,concussion (DNP)
+2006-01-28,Bobcats,2222,Gerald Wallace,False,True,medial tibia bone bruise (DNP)
+2006-01-28,Bobcats,2586,Keith Bogans,False,True,sprained MCL in right knee (DNP)
+2006-01-28,Bucks,2590,Mo Williams,False,True,sprained left ankle (out 2 weeks)
+2006-01-28,Grizzlies,101160,Lawrence Roberts,False,True,placed on IL
+2006-01-28,Grizzlies,2766,Antonio Burks,True,False,activated from IL
+2006-01-28,Hornets,2411,Bostjan Nachbar,True,False,activated from IL
+2006-01-28,Jazz,731,Greg Ostertag,False,True,placed on IL with suspension
+2006-01-28,Jazz,1723,Matt Harpring,False,True,right knee inflammation (DNP)
+2006-01-28,Jazz,101156,Robert Whaley,False,True,torn cartilage in right knee (DNP)
+2006-01-28,Jazz,1723,Matt Harpring,True,False,activated from IL
+2006-01-28,Mavericks,2734,Devin Harris,False,True,placed on IL with strained right shoulder
+2006-01-28,Mavericks,2605,Marquis Daniels,True,False,activated from IL
+2006-01-28,Nets,1713,Vince Carter,True,False,activated from IL
+2006-01-28,Sonics,1594,Rick Brunson,False,True,placed on IL
+2006-01-28,Spurs,2684,Melvin Sanders,False,True,placed on IL
+2006-01-28,Spurs,1752,Sean Marks,False,True,placed on IL
+2006-01-28,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2006-01-28,Spurs,109,Robert Horry,True,False,activated from IL
+2006-01-28,Warriors,101147,Chris Taft,False,True,back spasms (DNP)
+2006-01-28,Warriors,2202,Jason Richardson,False,True,sore back (DNP)
+2006-01-28,Warriors,2399,Mike Dunleavy Jr.,False,True,sprained left ankle (DNP)
+2006-01-28,Wizards,2852,Awvee Storey,False,True,placed on IL
+2006-01-28,Wizards,2762,Peter John Ramos,True,False,activated from IL
+2006-01-29,76ers,947,Allen Iverson,False,True,sprained right foot (DNP)
+2006-01-29,76ers,2440,Matt Barnes,False,True,sprained left ankle (DTD)
+2006-01-29,Bucks,2590,Mo Williams,False,True,placed on IL with sprained left ankle
+2006-01-29,Bucks,2558,Reece Gaines,True,False,activated from IL
+2006-01-29,Kings,2078,Jason Hart,False,True,strained left knee (DNP)
+2006-01-29,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-01-29,Suns,1952,Raja Bell,False,True,bruised thigh (DNP)
+2006-01-30,Bobcats,2586,Keith Bogans,False,True,placed on IL with sprained MCL in right knee
+2006-01-30,Bobcats,2416,Kareem Rush,True,False,activated from IL
+2006-01-30,Jazz,101156,Robert Whaley,False,True,placed on IL with torn cartilage in right knee
+2006-01-30,Jazz,731,Greg Ostertag,True,False,activated from IL
+2006-01-30,Knicks,213,Antonio Davis,False,True,lower back pain (DTD)
+2006-01-30,Knicks,2417,Qyntel Woods,False,True,hip injury (DTD)
+2006-01-30,Rockets,468,Jon Barry,False,True,placed on IL with strained right calf
+2006-01-30,Rockets,2397,Yao Ming,True,False,activated from IL
+2006-01-30,Spurs,89,Nick Van Exel,False,True,placed on IL with elbow injury
+2006-01-30,Spurs,109,Robert Horry,False,True,placed on IL with abdominal strain
+2006-01-30,Spurs,2684,Melvin Sanders,True,False,activated from IL
+2006-01-30,Spurs,1752,Sean Marks,True,False,activated from IL
+2006-01-30,Timberwolves,2648,Ronald Dupree,False,True,placed on IL
+2006-01-30,Timberwolves,2556,Marcus Banks,True,False,activated from IL
+2006-01-31,Kings,1802,Brad Miller,False,True,placed on IL with broken right thumb
+2006-01-31,Kings,1719,Bonzi Wells,True,False,activated from IL
+2006-01-31,Mavericks,2694,Josh Powell,False,True,placed on IL
+2006-01-31,Mavericks,2734,Devin Harris,True,False,activated from IL
+2006-01-31,Suns,2401,Nikoloz Tskitishvili,True,False,activated from IL
+2006-01-31,Wizards,2762,Peter John Ramos,False,True,placed on IL
+2006-01-31,Wizards,2852,Awvee Storey,True,False,activated from IL
+2006-02-01,Bobcats,2222,Gerald Wallace,False,True,medial tibia bone bruise (DNP)
+2006-02-01,Bucks,2072,Michael Redd,False,True,back spasms (DNP)
+2006-02-01,Cavaliers,1956,Ira Newble,False,True,placed on IL with facial abscess
+2006-02-01,Cavaliers,101149,Martynas Andriuskevicius,True,False,activated from IL
+2006-02-01,Hawks,101107,Marvin Williams,False,True,sore left Achilles tendon (DNP)
+2006-02-01,Hornets,101138,Brandon Bass,False,True,placed on IL
+2006-02-01,Jazz,1921,Gordan Giricek,False,True,left Achilles tendinitis (DNP)
+2006-02-01,Magic,255,Grant Hill,False,True,hernia (DNP)
+2006-02-01,Magic,2749,Jameer Nelson,False,True,placed on IL with sprained right foot
+2006-02-01,Magic,255,Grant Hill,True,False,activated from IL
+2006-02-01,Nuggets,948,Marcus Camby,False,True,placed on IL with strained muscle in left shoulder
+2006-02-01,Nuggets,101125,Julius Hodge,True,False,activated from IL
+2006-02-01,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-02-01,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-02-01,Raptors,2254,Loren Woods,True,False,activated from IL
+2006-02-01,Rockets,468,Jon Barry,False,True,strained right calf (DNP)
+2006-02-01,Rockets,2031,Stromile Swift,False,True,placed on IL for being late for shoot around
+2006-02-01,Rockets,468,Jon Barry,True,False,activated from IL
+2006-02-01,Spurs,2684,Melvin Sanders,False,True,placed on IL
+2006-02-01,Spurs,109,Robert Horry,False,True,abdominal strain (DNP)
+2006-02-01,Spurs,109,Robert Horry,True,False,activated from IL
+2006-02-01,Warriors,101147,Chris Taft,False,True,placed on IL
+2006-02-01,Warriors,2202,Jason Richardson,False,True,sore back (DNP)
+2006-02-01,Warriors,384,Calbert Cheaney,True,False,activated from IL
+2006-02-01,Hornets,2212,Steven Hunter,False,True,placed on IL
+2006-02-02,Heat,2748,Dorell Wright,False,True,placed on IL
+2006-02-02,Heat,2809,Gerald Fitch,False,True,placed on IL
+2006-02-02,Heat,1715,Jason Williams,True,False,activated from IL
+2006-02-02,Heat,1000,Shandon Anderson,True,False,activated from IL
+2006-02-02,Spurs,101177,Fabricio Oberto,False,True,placed on IL
+2006-02-02,Spurs,89,Nick Van Exel,False,True,sore left elbow (DNP)
+2006-02-02,Spurs,109,Robert Horry,False,True,lower abdominal strain (DNP)
+2006-02-02,Spurs,89,Nick Van Exel,True,False,activated from IL
+2006-02-02,Warriors,2202,Jason Richardson,False,True,sore back (DNP)
+2006-02-03,76ers,947,Allen Iverson,False,True,sprained left ankle (DNP)
+2006-02-03,Bobcats,2222,Gerald Wallace,False,True,medial tibia bone bruise (DNP)
+2006-02-03,Celtics,2744,Al Jefferson,False,True,sprained right ankle (out 2 weeks)
+2006-02-03,Jazz,101261,Andre Owens,False,True,placed on IL
+2006-02-03,Jazz,1921,Gordan Giricek,False,True,left Achilles tendinitis (DNP)
+2006-02-03,Knicks,950,Stephon Marbury,False,True,placed on IL with sore shoulder
+2006-02-03,Knicks,2772,Trevor Ariza,True,False,activated from IL
+2006-02-03,Lakers,1885,Lamar Odom,False,True,sprained ribs (DNP)
+2006-02-03,Magic,255,Grant Hill,False,True,hernia (DNP)
+2006-02-03,Pistons,2545,Darko Milicic,False,True,placed on IL
+2006-02-03,Pistons,101165,Alex Acker,True,False,activated from IL
+2006-02-03,Rockets,468,Jon Barry,False,True,placed on IL with strained right calf
+2006-02-03,Rockets,2031,Stromile Swift,True,False,activated from IL
+2006-02-03,Jazz,101139,C.J. Miles,True,False,activated from IL
+2006-02-04,Bucks,2558,Reece Gaines,False,True,placed on IL
+2006-02-04,Bucks,693,Joe Smith (Leynard),True,False,activated from IL
+2006-02-04,Celtics,2744,Al Jefferson,False,True,sprained right ankle (DNP)
+2006-02-04,Heat,2617,Udonis Haslem,False,True,placed on IL with death in family
+2006-02-04,Heat,2748,Dorell Wright,True,False,activated from IL
+2006-02-04,Magic,255,Grant Hill,False,True,hernia (DNP)
+2006-02-04,Nets,2420,Nenad Krstic,False,True,placed on IL with flu
+2006-02-04,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL with bruised left knee
+2006-02-04,Nuggets,948,Marcus Camby,True,False,activated from IL
+2006-02-04,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-02-04,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-02-04,Pistons,101165,Alex Acker,False,True,placed on IL
+2006-02-04,Pistons,2545,Darko Milicic,True,False,activated from IL
+2006-02-04,Timberwolves,1607,Troy Hudson,False,True,placed on IL with sore ankle
+2006-02-04,Timberwolves,2648,Ronald Dupree,True,False,activated from IL
+2006-02-05,Cavaliers,2739,Luke Jackson (Ryan),False,True,fractured left wrist (surgery) (out indefinitely)
+2006-02-05,Jazz,1921,Gordan Giricek,False,True,left Achilles tendinitis (DNP)
+2006-02-05,Kings,1719,Bonzi Wells,False,True,strained right groin (DNP)
+2006-02-05,Knicks,2772,Trevor Ariza,False,True,placed on IL
+2006-02-05,Knicks,1744,Jerome James,True,False,activated from IL
+2006-02-05,Raptors,213,Antonio Davis,False,True,placed on IL
+2006-02-05,Raptors,2737,Rafael Araujo,True,False,activated from IL
+2006-02-06,Bobcats,2222,Gerald Wallace,False,True,bruised tibia (DNP)
+2006-02-06,Bulls,2768,Chris Duhon,False,True,bruised left thigh (DNP)
+2006-02-06,Cavaliers,2739,Luke Jackson (Ryan),False,True,placed on IL with broken left wrist
+2006-02-06,Celtics,2744,Al Jefferson,False,True,sprained right ankle (DNP)
+2006-02-06,Hawks,1731,Tyronn Lue,False,True,sprained MCL in right knee (out indefinitely)
+2006-02-06,Heat,2748,Dorell Wright,False,True,placed on IL
+2006-02-06,Heat,2617,Udonis Haslem,True,False,activated from IL
+2006-02-06,Jazz,101114,Deron Williams,False,True,sprained left ankle (DNP)
+2006-02-06,Jazz,1921,Gordan Giricek,False,True,left ankle tendinitis (DNP)
+2006-02-06,Magic,255,Grant Hill,False,True,hernia (DNP)
+2006-02-06,Nets,2420,Nenad Krstic,True,False,activated from IL
+2006-02-06,Nuggets,101125,Julius Hodge,False,True,placed on IL
+2006-02-06,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2006-02-06,Sonics,2209,Vladimir Radmanovic,False,True,strained right quadriceps (DNP)
+2006-02-06,Wizards,2407,Jared Jeffries,False,True,bruised lower back (DNP)
+2006-02-07,Hawks,1731,Tyronn Lue,False,True,sprained MCL in right knee (DNP)
+2006-02-07,Kings,1719,Bonzi Wells,False,True,placed on IL with strained right groin
+2006-02-07,Kings,1802,Brad Miller,True,False,activated from IL
+2006-02-07,Lakers,2036,Chris Mihm,False,True,strained right shoulder (DNP)
+2006-02-07,Pistons,101131,Jason Maxiell,False,True,placed on IL
+2006-02-07,Pistons,283,Lindsey Hunter,True,False,activated from IL
+2006-02-08,Bobcats,2222,Gerald Wallace,False,True,medial tibia bone bruise (DNP)
+2006-02-08,Bucks,389,Toni Kukoc,False,True,placed on IL with sprained left elbow
+2006-02-08,Bucks,2558,Reece Gaines,True,False,activated from IL
+2006-02-08,Clippers,208,Sam Cassell,False,True,back spasms (DNP)
+2006-02-08,Lakers,2036,Chris Mihm,False,True,placed on IL with sore right shoulder
+2006-02-08,Lakers,101142,Ronny Turiaf,True,False,activated from IL
+2006-02-08,Magic,255,Grant Hill,False,True,hernia (DNP)
+2006-02-08,Nuggets,2030,Kenyon Martin (Sr.),False,True,bruised left knee (DNP)
+2006-02-08,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-02-08,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-02-08,Sonics,2209,Vladimir Radmanovic,False,True,strained right quadriceps (DNP)
+2006-02-08,Spurs,1495,Tim Duncan,False,True,flu-like symptoms (DNP)
+2006-02-08,76ers,2212,Steven Hunter,False,True,placed on IL
+2006-02-09,Heat,297,Alonzo Mourning,False,True,placed on IL with flu
+2006-02-09,Heat,2809,Gerald Fitch,True,False,activated from IL
+2006-02-10,Blazers,2038,Joel Przybilla,False,True,placed on IL
+2006-02-10,Blazers,101110,Martell Webster,True,False,activated from IL
+2006-02-10,Bobcats,1510,Brevin Knight,False,True,bruised left knee (DNP)
+2006-02-10,Bobcats,2222,Gerald Wallace,False,True,placed on IL with medial tibia bone bruise
+2006-02-10,Bobcats,101109,Raymond Felton,False,True,sprained right big toe (DNP)
+2006-02-10,Celtics,2744,Al Jefferson,False,True,placed on IL with sprained right ankle
+2006-02-10,Celtics,2570,Kendrick Perkins,False,True,dislocated left shoulder (DNP)
+2006-02-10,Celtics,101204,Dwayne Jones,True,False,activated from IL
+2006-02-10,Grizzlies,2034,Mike Miller,False,True,sprained left ankle (DNP)
+2006-02-10,Hornets,101108,Chris Paul,False,True,placed on IL with bruised ribs
+2006-02-10,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-02-10,Jazz,1921,Gordan Giricek,False,True,placed on IL
+2006-02-10,Jazz,2430,Carlos Boozer,True,False,activated from IL
+2006-02-10,Magic,255,Grant Hill,False,True,hernia (DNP)
+2006-02-10,Mavericks,2734,Devin Harris,False,True,placed on IL with strained quadricep
+2006-02-10,Mavericks,2694,Josh Powell,True,False,activated from IL
+2006-02-10,Nets,2215,Jason Collins,False,True,placed on IL with bruised thigh
+2006-02-10,Nuggets,948,Marcus Camby,False,True,strained lower back (DNP)
+2006-02-10,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-02-10,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-02-10,Timberwolves,2648,Ronald Dupree,False,True,placed on IL
+2006-02-10,Timberwolves,2499,Richie Frahm,True,False,activated from IL
+2006-02-10,Warriors,2211,Troy Murphy,False,True,sprained left ankle (DNP)
+2006-02-10,Warriors,2560,Zarko Cabarkapa,False,True,back spasms (DNP)
+2006-02-11,Bobcats,2416,Kareem Rush,False,True,personal reasons (DTD)
+2006-02-11,Bucks,1983,Jermaine Jackson,False,True,placed on IL with death in family
+2006-02-11,Bucks,389,Toni Kukoc,True,False,activated from IL
+2006-02-11,Grizzlies,2034,Mike Miller,False,True,sprained left ankle (DNP)
+2006-02-11,Rockets,2031,Stromile Swift,False,True,placed on IL for being late to practice
+2006-02-11,Rockets,468,Jon Barry,True,False,activated from IL
+2006-02-11,Rockets,2586,Keith Bogans,True,False,activated from IL
+2006-02-11,Timberwolves,2060,Marko Jaric,False,True,placed on IL with knee injury
+2006-02-11,Timberwolves,2648,Ronald Dupree,True,False,activated from IL
+2006-02-11,Warriors,2211,Troy Murphy,False,True,sprained left ankle (DNP)
+2006-02-11,Warriors,2560,Zarko Cabarkapa,False,True,back spasms (DNP)
+2006-02-12,76ers,2212,Steven Hunter,True,False,activated from IL
+2006-02-12,Bucks,2250,Bobby Simmons,False,True,plantar fasciitis in right foot (DNP)
+2006-02-12,Bulls,2768,Chris Duhon,False,True,bruised left thigh (DNP)
+2006-02-12,Celtics,2570,Kendrick Perkins,False,True,dislocated left shoulder (DNP)
+2006-02-12,Heat,2809,Gerald Fitch,False,True,placed on IL
+2006-02-12,Heat,297,Alonzo Mourning,True,False,activated from IL
+2006-02-12,Nets,2215,Jason Collins,True,False,activated from IL
+2006-02-12,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-02-12,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-02-12,Rockets,468,Jon Barry,False,True,placed on IL
+2006-02-12,Rockets,2031,Stromile Swift,True,False,activated from IL
+2006-02-12,Sonics,1740,Rashard Lewis,False,True,right quadriceps injury (DNP)
+2006-02-13,Blazers,689,Theo Ratliff,False,True,placed on IL with knee injury
+2006-02-13,Blazers,2032,Darius Miles,True,False,activated from IL
+2006-02-13,Bobcats,2063,Jake Voskuhl,False,True,flu-like symptoms (DNP)
+2006-02-13,Grizzlies,2073,Brian Cardinal,False,True,flu (DNP)
+2006-02-13,Grizzlies,2034,Mike Miller,False,True,sprained left ankle (DNP)
+2006-02-13,Hornets,101138,Brandon Bass,False,True,placed on IL
+2006-02-13,Knicks,2037,Jamal Crawford,False,True,sore lower back (DNP)
+2006-02-13,Knicks,1744,Jerome James,False,True,placed on IL
+2006-02-13,Knicks,2772,Trevor Ariza,True,False,activated from IL
+2006-02-13,Mavericks,2694,Josh Powell,False,True,placed on IL
+2006-02-13,Mavericks,2734,Devin Harris,True,False,activated from IL
+2006-02-13,Nuggets,2059,Eduardo Najera,False,True,surgery on right knee to remove loose particles
+2006-02-13,Raptors,948,Marcus Camby,False,True,sprained right thumb (DNP)
+2006-02-13,Spurs,109,Robert Horry,False,True,placed on IL with lower abdominal strain
+2006-02-13,Spurs,101177,Fabricio Oberto,True,False,activated from IL
+2006-02-13,Warriors,2740,Andris Biedrins,False,True,stiff neck (DNP)
+2006-02-13,Warriors,1884,Baron Davis,False,True,sprained right ankle (DNP)
+2006-02-13,Warriors,2211,Troy Murphy,False,True,sprained left ankle (DNP)
+2006-02-14,Bucks,2558,Reece Gaines,False,True,placed on IL
+2006-02-14,Bucks,1983,Jermaine Jackson,True,False,activated from IL
+2006-02-14,Bulls,2768,Chris Duhon,False,True,bruised left thigh (DNP)
+2006-02-14,Cavaliers,1716,Larry Hughes,False,True,second surgery on broken right middle finger
+2006-02-14,Clippers,2624,Quinton Ross,False,True,sore lower back (DNP)
+2006-02-14,Heat,1899,James Posey,False,True,placed on IL with flu
+2006-02-14,Heat,2748,Dorell Wright,True,False,activated from IL
+2006-02-14,Kings,722,Corliss Williamson,False,True,back spasms (DNP)
+2006-02-14,Rockets,2573,Maciej Lampe,False,True,placed on IL
+2006-02-14,Rockets,468,Jon Barry,True,False,activated from IL
+2006-02-15,Bobcats,2056,Primoz Brezec,False,True,Achilles tendinitos (DNP)
+2006-02-15,Clippers,2624,Quinton Ross,False,True,sore lower back (DNP)
+2006-02-15,Hornets,101178,Arvydas Macijauskas,False,True,placed on IL
+2006-02-15,Hornets,101108,Chris Paul,True,False,activated from IL
+2006-02-15,Magic,2306,Carlos Arroyo,False,True,placed on IL
+2006-02-15,Magic,2545,Darko Milicic,False,True,placed on IL
+2006-02-15,Magic,448,Bo Outlaw,True,False,activated from IL
+2006-02-15,Nuggets,2059,Eduardo Najera,False,True,placed on IL with right knee surgery
+2006-02-15,Nuggets,935,Bryon Russell,True,False,activated from IL
+2006-02-15,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-02-15,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-02-15,Warriors,2740,Andris Biedrins,False,True,stiff neck (DNP)
+2006-02-15,Warriors,1884,Baron Davis,False,True,sprained right ankle (DNP)
+2006-02-15,Warriors,2211,Troy Murphy,False,True,sprained left ankle (DNP)
+2006-02-15,Wizards,2553,Jarvis Hayes,False,True,surgery on fractured right kneecap (out for season)
+2006-02-16,Bulls,15,Eric Piatkowski,True,False,activated from IL
+2006-02-16,Suns,2592,James Jones (Andrew),False,True,sprained right wrist (DNP)
+2006-02-21,Bucks,1983,Jermaine Jackson,False,True,placed on IL
+2006-02-21,Bucks,2590,Mo Williams,True,False,activated from IL
+2006-02-21,Celtics,2570,Kendrick Perkins,False,True,dislocated left shoulder (DNP)
+2006-02-21,Clippers,2624,Quinton Ross,False,True,placed on IL with sore lower back
+2006-02-21,Clippers,452,Vin Baker,False,True,placed on IL
+2006-02-21,Clippers,1442,Zeljko Rebraca,True,False,activated from IL
+2006-02-21,Hornets,2561,David West,False,True,placed on IL with birth of child
+2006-02-21,Hornets,101178,Arvydas Macijauskas,True,False,activated from IL
+2006-02-21,Lakers,101144,Von Wafer,False,True,placed on IL
+2006-02-21,Lakers,2036,Chris Mihm,True,False,activated from IL
+2006-02-21,Magic,448,Bo Outlaw,False,True,placed on IL
+2006-02-21,Magic,101143,Travis Diener,False,True,placed on IL
+2006-02-21,Magic,2306,Carlos Arroyo,True,False,activated from IL
+2006-02-21,Magic,2545,Darko Milicic,True,False,activated from IL
+2006-02-21,Nuggets,2030,Kenyon Martin (Sr.),False,True,left knee injury (DNP)
+2006-02-21,Pistons,1509,Kelvin Cato,False,True,placed on IL
+2006-02-21,Pistons,101165,Alex Acker,True,False,activated from IL
+2006-02-21,Pistons,101131,Jason Maxiell,True,False,activated from IL
+2006-02-21,Sonics,1594,Rick Brunson,True,False,activated from IL
+2006-02-21,Timberwolves,2499,Richie Frahm,False,True,placed on IL
+2006-02-21,Timberwolves,2060,Marko Jaric,True,False,activated from IL
+2006-02-21,Warriors,1884,Baron Davis,False,True,sprained right ankle (DNP)
+2006-02-22,Blazers,2216,Zach Randolph,False,True,placed on IL with swollen mouth
+2006-02-22,Blazers,2752,Sergei Monia,True,False,activated from IL
+2006-02-22,Bobcats,2774,Bernard Robinson,False,True,placed on IL
+2006-02-22,Bobcats,2222,Gerald Wallace,True,False,activated from IL
+2006-02-22,Celtics,2570,Kendrick Perkins,False,True,dislocated left shoulder (DNP)
+2006-02-22,Celtics,1887,Wally Szczerbiak,False,True,bruised left knee (DNP)
+2006-02-22,Hawks,1731,Tyronn Lue,False,True,knee injury (DNP)
+2006-02-22,Heat,2574,Jason Kapono,False,True,placed on IL
+2006-02-22,Heat,1899,James Posey,True,False,activated from IL
+2006-02-22,Hornets,2049,Speedy Claxton,False,True,placed on IL with sprained left ankle
+2006-02-22,Hornets,2761,Jackson Vroman,False,True,fractured right wrist (out for season)
+2006-02-22,Hornets,2561,David West,True,False,activated from IL
+2006-02-22,Jazz,101261,Andre Owens,False,True,surgery on left leg to replace rod (out for season)
+2006-02-22,Knicks,950,Stephon Marbury,True,False,activated from IL
+2006-02-22,Magic,255,Grant Hill,False,True,lower abdominal pain (DNP)
+2006-02-22,Magic,2045,Hedo Turkoglu,False,True,sprained left ankle (DNP)
+2006-02-22,Magic,1883,Steve Francis,False,True,placed on IL
+2006-02-22,Magic,101143,Travis Diener,True,False,activated from IL
+2006-02-22,Rockets,2573,Maciej Lampe,True,False,activated from IL
+2006-02-22,Sonics,2741,Robert Swift,False,True,surgery on broken nose
+2006-02-22,Magic,2772,Trevor Ariza,False,True,placed on IL
+2006-02-22,Magic,896,Penny Hardaway,False,True,placed on IL
+2006-02-24,76ers,2223,Samuel Dalembert,False,True,sprained left ankle (DNP)
+2006-02-24,Celtics,2570,Kendrick Perkins,False,True,dislocated left shoulder (DNP)
+2006-02-24,Knicks,101126,Nate Robinson,False,True,placed on IL
+2006-02-24,Knicks,1883,Steve Francis,True,False,activated from IL
+2006-02-24,Lakers,101144,Von Wafer,False,True,placed on IL
+2006-02-24,Lakers,2036,Chris Mihm,True,False,activated from IL
+2006-02-24,Magic,2045,Hedo Turkoglu,False,True,placed on IL with sprained left ankle
+2006-02-24,Magic,2772,Trevor Ariza,True,False,activated from IL
+2006-02-24,Nuggets,1761,Greg Buckner,False,True,placed on IL with hyperextended right knee
+2006-02-24,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-02-24,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-02-24,Rockets,2809,Gerald Fitch,False,True,placed on IL
+2006-02-24,Sonics,2555,Nick Collison,False,True,birth of child (DNP)
+2006-02-24,Sonics,951,Ray Allen,False,True,flu (DNP)
+2006-02-24,Timberwolves,2648,Ronald Dupree,False,True,placed on IL
+2006-02-24,Timberwolves,2499,Richie Frahm,True,False,activated from IL
+2006-02-24,Warriors,1884,Baron Davis,False,True,sprained right ankle (DNP)
+2006-02-24,Magic,448,Bo Outlaw,False,True,placed on IL
+2006-02-24,Nuggets,101125,Julius Hodge,True,False,activated from IL
+2006-02-25,76ers,185,Chris Webber,False,True,flu (DNP)
+2006-02-25,76ers,2223,Samuel Dalembert,False,True,sprained left ankle (DNP)
+2006-02-25,Bobcats,2408,Melvin Ely,False,True,placed on IL with ankle injury
+2006-02-25,Bobcats,2774,Bernard Robinson,True,False,activated from IL
+2006-02-25,Bucks,2590,Mo Williams,False,True,placed on IL
+2006-02-25,Bucks,1983,Jermaine Jackson,True,False,activated from IL
+2006-02-25,Heat,1507,Derek Anderson,False,True,placed on IL
+2006-02-25,Heat,2748,Dorell Wright,False,True,placed on IL
+2006-02-25,Heat,2574,Jason Kapono,True,False,activated from IL
+2006-02-25,Hornets,2046,Desmond Mason,False,True,placed on IL with bruised tailbone
+2006-02-25,Hornets,2761,Jackson Vroman,False,True,placed on IL with fractured right wrist
+2006-02-25,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-02-25,Mavericks,2572,Josh Howard,False,True,placed on IL with sprained right ankle
+2006-02-25,Mavericks,2694,Josh Powell,True,False,activated from IL
+2006-02-25,Sonics,2555,Nick Collison,False,True,birth of child (DNP)
+2006-02-25,Suns,101159,Dijon Thompson,False,True,sore right knee (DNP)
+2006-02-25,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (out 6 weeks)
+2006-02-25,Suns,2401,Nikoloz Tskitishvili,False,True,sprained right knee (DNP)
+2006-02-25,Warriors,1884,Baron Davis,False,True,sprained right ankle (DNP)
+2006-02-26,Blazers,2216,Zach Randolph,True,False,activated from IL
+2006-02-26,Celtics,2570,Kendrick Perkins,False,True,dislocated left shoulder (DNP)
+2006-02-26,Grizzlies,224,Eddie Jones,False,True,placed on IL with sore left foot
+2006-02-26,Grizzlies,101194,Anthony Roberson,True,False,activated from IL
+2006-02-26,Hornets,101138,Brandon Bass,False,True,placed on IL
+2006-02-26,Hornets,2046,Desmond Mason,True,False,activated from IL
+2006-02-26,Magic,101143,Travis Diener,False,True,placed on IL
+2006-02-26,Magic,2045,Hedo Turkoglu,True,False,activated from IL
+2006-02-26,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-02-26,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-02-27,76ers,2223,Samuel Dalembert,False,True,left knee injury (DNP)
+2006-02-27,Bobcats,2416,Kareem Rush,False,True,placed on IL
+2006-02-27,Bobcats,2408,Melvin Ely,True,False,activated from IL
+2006-02-27,Clippers,2549,Chris Kaman,False,True,placed on IL with sprained left ankle
+2006-02-27,Clippers,452,Vin Baker,True,False,activated from IL
+2006-02-27,Grizzlies,101194,Anthony Roberson,False,True,placed on IL
+2006-02-27,Grizzlies,224,Eddie Jones,True,False,activated from IL
+2006-02-27,Hawks,1731,Tyronn Lue,False,True,sprained right knee (DNP)
+2006-02-27,Kings,2752,Sergei Monia,False,True,placed on IL
+2006-02-27,Mavericks,2734,Devin Harris,False,True,placed on IL with strained left quadricep
+2006-02-27,Mavericks,2572,Josh Howard,False,True,sprained ankle (DNP)
+2006-02-27,Mavericks,2694,Josh Powell,False,True,placed on IL
+2006-02-27,Mavericks,1496,Keith Van Horn,False,True,flu (DNP)
+2006-02-27,Mavericks,2572,Josh Howard,True,False,activated from IL
+2006-02-27,Mavericks,101185,Rawle Marshall,True,False,activated from IL
+2006-02-27,Nuggets,1761,Greg Buckner,False,True,right knee injury (DNP)
+2006-02-27,Nuggets,101125,Julius Hodge,False,True,placed on IL
+2006-02-27,Nuggets,1761,Greg Buckner,True,False,activated from IL
+2006-02-27,Warriors,1884,Baron Davis,False,True,sprained right ankle (DNP)
+2006-02-28,Bulls,2457,Jannero Pargo,False,True,sprained left big toe (DNP)
+2006-03-01,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2006-03-01,Bobcats,2416,Kareem Rush,True,False,activated from IL
+2006-03-01,Cavaliers,1956,Ira Newble,True,False,activated from IL
+2006-03-01,Celtics,2570,Kendrick Perkins,False,True,placed on IL
+2006-03-01,Celtics,2744,Al Jefferson,True,False,activated from IL
+2006-03-01,Hawks,1731,Tyronn Lue,False,True,sprained MCL in right knee (DNP)
+2006-03-01,Hornets,2747,J.R. Smith,False,True,placed on IL
+2006-03-01,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-03-01,Jazz,1905,Andrei Kirilenko,False,True,back spasms (DNP)
+2006-03-01,Nuggets,2059,Eduardo Najera,False,True,right knee injury (DNP)
+2006-03-01,Nuggets,1761,Greg Buckner,False,True,right knee injury (DNP)
+2006-03-01,Nuggets,2059,Eduardo Najera,True,False,activated from IL
+2006-03-01,Pacers,1533,Anthony Johnson,False,True,stomach virus (DNP)
+2006-03-01,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-01,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-03-01,Raptors,213,Antonio Davis,False,True,back spasms (DNP)
+2006-03-01,Raptors,677,Eric Williams,False,True,right knee inflammation (DNP)
+2006-03-01,Raptors,2737,Rafael Araujo,False,True,placed on IL
+2006-03-01,Raptors,213,Antonio Davis,True,False,activated from IL
+2006-03-01,Rockets,2031,Stromile Swift,True,False,activated from IL
+2006-03-01,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-03-01,Suns,2401,Nikoloz Tskitishvili,False,True,sprained right ankle (DNP)
+2006-03-01,Warriors,1884,Baron Davis,False,True,sprained right ankle (DNP)
+2006-03-01,Wizards,101154,Andray Blatche,False,True,flu-like symptoms (DNP)
+2006-03-01,Pistons,960,Tony Delk,False,True,placed on IL
+2006-03-02,Spurs,1752,Sean Marks,False,True,placed on IL
+2006-03-02,Spurs,109,Robert Horry,True,False,activated from IL
+2006-03-03,Clippers,101189,James Singleton,False,True,placed on IL
+2006-03-03,Clippers,101117,Yaroslav Korolev,False,True,placed on IL
+2006-03-03,Clippers,1442,Zeljko Rebraca,False,True,placed on IL with hamstring injury
+2006-03-03,Clippers,2549,Chris Kaman,True,False,activated from IL
+2006-03-03,Clippers,1894,Corey Maggette,True,False,activated from IL
+2006-03-03,Clippers,2624,Quinton Ross,True,False,activated from IL
+2006-03-03,Hawks,1731,Tyronn Lue,False,True,sprained MCL in right knee (DNP)
+2006-03-03,Kings,101128,Francisco Garcia,False,True,placed on IL with ankle injury
+2006-03-03,Kings,2441,Jamal Sampson,False,True,placed on IL
+2006-03-03,Kings,1719,Bonzi Wells,True,False,activated from IL
+2006-03-03,Kings,2752,Sergei Monia,True,False,activated from IL
+2006-03-03,Knicks,1508,Maurice Taylor,False,True,placed on IL with sore left knee
+2006-03-03,Knicks,1744,Jerome James,True,False,activated from IL
+2006-03-03,Magic,255,Grant Hill,False,True,placed on IL with sports hernia
+2006-03-03,Magic,2435,Mario Kasun,False,True,placed on IL
+2006-03-03,Magic,448,Bo Outlaw,True,False,activated from IL
+2006-03-03,Magic,2749,Jameer Nelson,True,False,activated from IL
+2006-03-03,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-03,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-03-03,Rockets,1594,Rick Brunson,False,True,placed on IL
+2006-03-03,Suns,101159,Dijon Thompson,False,True,knee injury (DNP)
+2006-03-03,Suns,703,Kurt Thomas,False,True,placed on IL with stress fracture in right foot
+2006-03-03,Suns,2401,Nikoloz Tskitishvili,False,True,sprained right ankle (DNP)
+2006-03-03,Nuggets,458,Howard Eisley,False,True,placed on IL
+2006-03-04,Bucks,1983,Jermaine Jackson,False,True,placed on IL
+2006-03-04,Bucks,2590,Mo Williams,True,False,activated from IL
+2006-03-04,Hawks,2735,Josh Childress,False,True,sprained left ankle (DNP)
+2006-03-04,Hawks,1731,Tyronn Lue,False,True,sprained MCL in right knee (DNP)
+2006-03-04,Heat,2548,Dwyane Wade,False,True,placed on IL with sprained wrist
+2006-03-04,Heat,1507,Derek Anderson,True,False,activated from IL
+2006-03-04,Magic,448,Bo Outlaw,False,True,placed on IL
+2006-03-04,Magic,255,Grant Hill,True,False,activated from IL
+2006-03-04,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL with knee injury
+2006-03-04,Nuggets,458,Howard Eisley,True,False,activated from IL
+2006-03-04,Raptors,213,Antonio Davis,False,True,sprained back (DNP)
+2006-03-05,Bulls,2124,Malik Allen,False,True,placed on IL with sprained neck
+2006-03-05,Clippers,452,Vin Baker,False,True,placed on IL
+2006-03-05,Clippers,101189,James Singleton,True,False,activated from IL
+2006-03-05,Jazz,101139,C.J. Miles,False,True,placed on IL
+2006-03-05,Jazz,101156,Robert Whaley,True,False,activated from IL
+2006-03-05,Kings,958,Vitaly Potapenko,False,True,back injury (out indefinitely)
+2006-03-05,Mavericks,2572,Josh Howard,False,True,strained hamstring (DNP)
+2006-03-05,Mavericks,1496,Keith Van Horn,False,True,placed on IL with sprained MCL in left knee
+2006-03-05,Mavericks,2694,Josh Powell,True,False,activated from IL
+2006-03-05,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-05,Pacers,2224,Jamaal Tinsley,False,True,sore right elbow (DNP)
+2006-03-05,Raptors,213,Antonio Davis,False,True,sprained back (DNP)
+2006-03-05,Rockets,2573,Maciej Lampe,False,True,placed on IL
+2006-03-05,Rockets,1594,Rick Brunson,True,False,activated from IL
+2006-03-05,Timberwolves,1853,Anthony Carter,False,True,personal reasons (DTD)
+2006-03-06,Bobcats,2774,Bernard Robinson,False,True,placed on IL with stomach virus
+2006-03-06,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2006-03-06,Grizzlies,2073,Brian Cardinal,False,True,placed on IL
+2006-03-06,Grizzlies,224,Eddie Jones,False,True,placed on IL
+2006-03-06,Grizzlies,101194,Anthony Roberson,True,False,activated from IL
+2006-03-06,Grizzlies,101160,Lawrence Roberts,True,False,activated from IL
+2006-03-06,Heat,2574,Jason Kapono,True,False,returned to lineup
+2006-03-06,Hornets,101178,Arvydas Macijauskas,False,True,placed on IL
+2006-03-06,Hornets,101138,Brandon Bass,False,True,placed on IL
+2006-03-06,Hornets,2049,Speedy Claxton,True,False,activated from IL
+2006-03-06,Hornets,2747,J.R. Smith,True,False,activated from IL
+2006-03-06,Jazz,101156,Robert Whaley,False,True,back spasms (DNP)
+2006-03-06,Kings,958,Vitaly Potapenko,True,False,returned to lineup
+2006-03-06,Lakers,101209,Devin Green,False,True,placed on IL
+2006-03-06,Magic,255,Grant Hill,False,True,placed on IL with lower abdominal pain
+2006-03-06,Magic,1727,Pat Garrity,False,True,shoulder injury (out indefinitely)
+2006-03-06,Magic,101143,Travis Diener,True,False,activated from IL
+2006-03-06,Sonics,2555,Nick Collison,False,True,partially torn plantar fascia in left foot
+2006-03-06,Suns,101159,Dijon Thompson,False,True,right knee injury (DNP)
+2006-03-06,Suns,2401,Nikoloz Tskitishvili,False,True,sprained right ankle (DNP)
+2006-03-07,Blazers,2775,Ha Seung-Jin,False,True,placed on IL
+2006-03-07,Blazers,689,Theo Ratliff,True,False,activated from IL
+2006-03-07,Bulls,2552,Mike Sweetney,False,True,placed on IL
+2006-03-07,Bulls,2124,Malik Allen,True,False,activated from IL
+2006-03-07,Celtics,2753,Delonte West,False,True,strained right groin (DNP)
+2006-03-07,Hawks,2823,John Edwards,False,True,sprained right ankle (DNP)
+2006-03-07,Hawks,2735,Josh Childress,False,True,sprained left ankle (DNP)
+2006-03-07,Hawks,1731,Tyronn Lue,False,True,placed on IL with sprained MCL in right knee
+2006-03-07,Hawks,2764,Donta Smith,True,False,activated from IL
+2006-03-07,Mavericks,2572,Josh Howard,False,True,placed on IL with strained hamstring
+2006-03-07,Mavericks,2734,Devin Harris,True,False,activated from IL
+2006-03-07,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-07,Raptors,213,Antonio Davis,False,True,placed on IL
+2006-03-07,Raptors,2737,Rafael Araujo,True,False,activated from IL
+2006-03-07,Sonics,2555,Nick Collison,False,True,injured left foot (out indefinitely)
+2006-03-07,Spurs,89,Nick Van Exel,False,True,placed on IL
+2006-03-07,Spurs,1752,Sean Marks,True,False,activated from IL
+2006-03-07,Timberwolves,2499,Richie Frahm,False,True,placed on IL
+2006-03-07,Timberwolves,2648,Ronald Dupree,True,False,activated from IL
+2006-03-07,Wizards,2407,Jared Jeffries,False,True,placed on IL with injured left calf
+2006-03-07,Wizards,2873,Billy Thomas,True,False,activated from IL
+2006-03-08,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2006-03-08,Bobcats,2774,Bernard Robinson,True,False,activated from IL
+2006-03-08,Bucks,2590,Mo Williams,False,True,placed on IL
+2006-03-08,Bucks,1983,Jermaine Jackson,True,False,activated from IL
+2006-03-08,Celtics,2753,Delonte West,False,True,strained right groin (DNP)
+2006-03-08,Heat,297,Alonzo Mourning,False,True,placed on IL with sprained left foot
+2006-03-08,Heat,2548,Dwyane Wade,True,False,activated from IL
+2006-03-08,Hornets,983,Moochie Norris,False,True,placed on IL
+2006-03-08,Hornets,101178,Arvydas Macijauskas,True,False,activated from IL
+2006-03-08,Jazz,731,Greg Ostertag,False,True,sprained left ankle (DNP)
+2006-03-08,Lakers,1904,Devean George,False,True,placed on IL with fracture in right wrist
+2006-03-08,Lakers,101209,Devin Green,True,False,activated from IL
+2006-03-08,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-08,Pacers,101122,Danny Granger,False,True,flu-like symptoms (DNP)
+2006-03-08,Pacers,2410,Fred Jones,False,True,sprained left thumb (DNP)
+2006-03-08,Sonics,2555,Nick Collison,False,True,placed on IL with partially torn plantar fascia in left foot
+2006-03-08,Warriors,2554,Mickael Pietrus,False,True,sprained right ankle (DNP)
+2006-03-09,76ers,1563,Kevin Ollie,False,True,sprained right ankle (DNP)
+2006-03-09,Suns,101159,Dijon Thompson,False,True,right knee injury (DNP)
+2006-03-09,Suns,2571,Leandro Barbosa,False,True,strained right groin (DNP)
+2006-03-09,Suns,959,Steve Nash,False,True,sprained right ankle (DNP)
+2006-03-10,Celtics,2753,Delonte West,False,True,strained right groin (DNP)
+2006-03-10,Grizzlies,2073,Brian Cardinal,False,True,knee injury (DTD)
+2006-03-10,Heat,2574,Jason Kapono,False,True,placed on IL
+2006-03-10,Heat,297,Alonzo Mourning,True,False,activated from IL
+2006-03-10,Hornets,2747,J.R. Smith,False,True,placed on IL
+2006-03-10,Hornets,983,Moochie Norris,True,False,activated from IL
+2006-03-10,Magic,1727,Pat Garrity,False,True,placed on IL with shoulder injury
+2006-03-10,Magic,101143,Travis Diener,False,True,placed on IL
+2006-03-10,Magic,448,Bo Outlaw,True,False,activated from IL
+2006-03-10,Magic,255,Grant Hill,True,False,activated from IL
+2006-03-10,Nuggets,948,Marcus Camby,False,True,strained Achilles tendon (DNP)
+2006-03-10,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-10,Pacers,2410,Fred Jones,False,True,torn ligament in left thumb (DNP)
+2006-03-10,Warriors,2554,Mickael Pietrus,False,True,sprained right ankle (DNP)
+2006-03-11,Bobcats,2416,Kareem Rush,False,True,placed on IL with stomach virus
+2006-03-11,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2006-03-11,Bulls,2443,Darius Songaila,False,True,placed on IL with stress fracture in right foot (out 6-8 weeks)
+2006-03-11,Bulls,2552,Mike Sweetney,True,False,activated from IL
+2006-03-11,Hawks,2591,James Lang,False,True,flu-like symptoms (DNP)
+2006-03-11,Hawks,2823,John Edwards,False,True,sprained right ankle (DNP)
+2006-03-11,Hawks,2735,Josh Childress,False,True,sprained left ankle (DNP)
+2006-03-11,Jazz,731,Greg Ostertag,False,True,sprained left ankle (DNP)
+2006-03-11,Jazz,101156,Robert Whaley,False,True,placed on IL
+2006-03-11,Jazz,101139,C.J. Miles,True,False,activated from IL
+2006-03-11,Magic,255,Grant Hill,False,True,placed on IL with abdominal strain
+2006-03-11,Magic,101143,Travis Diener,True,False,activated from IL
+2006-03-11,Suns,101159,Dijon Thompson,False,True,right knee injury (DNP)
+2006-03-11,Warriors,2554,Mickael Pietrus,False,True,sprained right ankle (DNP)
+2006-03-12,76ers,1563,Kevin Ollie,False,True,ankle injury (DTD)
+2006-03-12,Blazers,2413,Juan Dixon,False,True,sore left knee (DNP)
+2006-03-12,Celtics,1709,Michael Olowokandi,False,True,placed on IL with dental pain
+2006-03-12,Celtics,2570,Kendrick Perkins,True,False,activated from IL
+2006-03-12,Grizzlies,1517,Bobby Jackson,False,True,placed on IL with pulled rib muscle
+2006-03-12,Grizzlies,224,Eddie Jones,True,False,activated from IL
+2006-03-12,Hornets,101178,Arvydas Macijauskas,False,True,placed on IL
+2006-03-12,Hornets,2747,J.R. Smith,True,False,activated from IL
+2006-03-12,Mavericks,1559,Adrian Griffin,False,True,strained right hamstring (DNP)
+2006-03-12,Mavericks,2734,Devin Harris,False,True,placed on IL with strained left quadricep
+2006-03-12,Mavericks,2572,Josh Howard,True,False,activated from IL
+2006-03-12,Nuggets,458,Howard Eisley,False,True,placed on IL
+2006-03-12,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2006-03-12,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-12,Pacers,2410,Fred Jones,False,True,sprained left thumb (DNP)
+2006-03-12,Pacers,1513,Scot Pollard,False,True,sore lower back (DNP)
+2006-03-12,Raptors,677,Eric Williams,False,True,sore back (DNP)
+2006-03-12,Rockets,2573,Maciej Lampe,True,False,activated from IL
+2006-03-12,Suns,101159,Dijon Thompson,False,True,right knee injury (DNP)
+2006-03-13,Bucks,1983,Jermaine Jackson,False,True,placed on IL
+2006-03-13,Bucks,2590,Mo Williams,True,False,activated from IL
+2006-03-13,Hawks,2735,Josh Childress,False,True,sprained left ankle (DNP)
+2006-03-13,Knicks,2201,Eddy Curry,False,True,placed on IL with stomach virus
+2006-03-13,Knicks,101126,Nate Robinson,True,False,activated from IL
+2006-03-13,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-13,Rockets,133,David Wesley,False,True,rib injury (DNP)
+2006-03-14,76ers,947,Allen Iverson,False,True,right foot injury (DNP)
+2006-03-14,76ers,1563,Kevin Ollie,False,True,sprained right ankle (DNP)
+2006-03-14,Blazers,2413,Juan Dixon,False,True,left knee tendinitis (DNP)
+2006-03-14,Blazers,689,Theo Ratliff,False,True,ankle injury (DTD)
+2006-03-14,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2006-03-14,Bobcats,2416,Kareem Rush,True,False,activated from IL
+2006-03-14,Bulls,2768,Chris Duhon,False,True,placed on IL with sore back
+2006-03-14,Bulls,101188,Eddie Basden,True,False,activated from IL
+2006-03-14,Hornets,983,Moochie Norris,False,True,placed on IL
+2006-03-14,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-03-14,Lakers,2036,Chris Mihm,False,True,placed on IL with sprained right ankle
+2006-03-14,Mavericks,1559,Adrian Griffin,False,True,strained right hamstring (DNP)
+2006-03-14,Mavericks,2572,Josh Howard,False,True,placed on IL with strained left hamstring
+2006-03-14,Mavericks,1496,Keith Van Horn,False,True,sprained MCL in left knee (DNP)
+2006-03-14,Mavericks,1496,Keith Van Horn,True,False,activated from IL
+2006-03-14,Raptors,677,Eric Williams,False,True,placed on IL
+2006-03-14,Raptors,101181,Jose Calderon,False,True,left Achilles tendinitis (DNP)
+2006-03-14,Raptors,1541,Alvin Williams,True,False,activated from IL
+2006-03-14,Suns,101159,Dijon Thompson,False,True,right knee injury (DNP)
+2006-03-14,Wizards,2873,Billy Thomas,False,True,placed on IL
+2006-03-14,Wizards,2407,Jared Jeffries,True,False,activated from IL
+2006-03-15,Blazers,2413,Juan Dixon,False,True,placed on IL with left knee tendinitis
+2006-03-15,Blazers,2038,Joel Przybilla,True,False,activated from IL
+2006-03-15,Bobcats,2222,Gerald Wallace,False,True,placed on IL with sprained left ankle
+2006-03-15,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2006-03-15,Clippers,101189,James Singleton,False,True,placed on IL
+2006-03-15,Clippers,101117,Yaroslav Korolev,True,False,activated from IL
+2006-03-15,Hawks,2735,Josh Childress,False,True,sprained left ankle (DNP)
+2006-03-15,Knicks,2047,Quentin Richardson,False,True,placed on IL with sprained thumb
+2006-03-15,Knicks,2201,Eddy Curry,True,False,activated from IL
+2006-03-15,Mavericks,1559,Adrian Griffin,False,True,strained right hamstring (DNP)
+2006-03-15,Mavericks,1496,Keith Van Horn,False,True,sprained MCL in left knee (DNP)
+2006-03-15,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL with left knee tendinitis
+2006-03-15,Nuggets,458,Howard Eisley,True,False,activated from IL
+2006-03-15,Pacers,1513,Scot Pollard,False,True,sore left foot (DNP)
+2006-03-15,Raptors,101181,Jose Calderon,False,True,placed on IL
+2006-03-15,Raptors,677,Eric Williams,True,False,activated from IL
+2006-03-15,Rockets,133,David Wesley,False,True,cracked ribs (DNP)
+2006-03-15,Suns,101159,Dijon Thompson,False,True,right knee injury (DNP)
+2006-03-15,Timberwolves,2204,Eddie Griffin,False,True,placed on IL
+2006-03-15,Timberwolves,2499,Richie Frahm,True,False,activated from IL
+2006-03-16,76ers,947,Allen Iverson,False,True,sprained right foot (DNP)
+2006-03-16,Nuggets,1863,Earl Boykins,False,True,fractured left hand (out 4-5 weeks)
+2006-03-16,Timberwolves,2204,Eddie Griffin,True,False,activated from IL
+2006-03-16,Warriors,1884,Baron Davis,False,True,sprained right ankle (DNP)
+2006-03-17,76ers,947,Allen Iverson,False,True,sprained right foot (DNP)
+2006-03-17,Blazers,689,Theo Ratliff,False,True,placed on IL
+2006-03-17,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2006-03-17,Celtics,101204,Dwayne Jones,False,True,placed on IL
+2006-03-17,Celtics,1709,Michael Olowokandi,True,False,activated from IL
+2006-03-17,Clippers,101117,Yaroslav Korolev,False,True,placed on IL
+2006-03-17,Clippers,101189,James Singleton,True,False,activated from IL
+2006-03-17,Kings,2078,Jason Hart,False,True,placed on IL
+2006-03-17,Kings,2441,Jamal Sampson,True,False,activated from IL
+2006-03-17,Mavericks,1559,Adrian Griffin,False,True,strained right hamstring (DNP)
+2006-03-17,Mavericks,1496,Keith Van Horn,False,True,sprained MCL in left knee (DNP)
+2006-03-17,Nuggets,1863,Earl Boykins,False,True,placed on IL with fractured left hand
+2006-03-17,Nuggets,101132,Linas Kleiza,False,True,sprained left ankle (DNP)
+2006-03-17,Nuggets,101125,Julius Hodge,True,False,activated from IL
+2006-03-17,Spurs,1752,Sean Marks,False,True,placed on IL
+2006-03-17,Suns,101159,Dijon Thompson,False,True,surgery on right knee (DNP)
+2006-03-18,Blazers,2775,Ha Seung-Jin,False,True,placed on IL
+2006-03-18,Blazers,2216,Zach Randolph,False,True,bruised left knee (DNP)
+2006-03-18,Blazers,2413,Juan Dixon,True,False,activated from IL
+2006-03-18,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2006-03-18,Bobcats,2222,Gerald Wallace,True,False,activated from IL
+2006-03-18,Bucks,2590,Mo Williams,False,True,placed on IL with sprained left ankle
+2006-03-18,Bucks,1983,Jermaine Jackson,True,False,activated from IL
+2006-03-18,Bulls,101188,Eddie Basden,False,True,placed on IL
+2006-03-18,Bulls,2768,Chris Duhon,True,False,activated from IL
+2006-03-18,Hornets,101138,Brandon Bass,False,True,placed on IL
+2006-03-18,Hornets,2046,Desmond Mason,False,True,placed on IL with sprained MCL in left knee
+2006-03-18,Hornets,101178,Arvydas Macijauskas,True,False,activated from IL
+2006-03-18,Hornets,983,Moochie Norris,True,False,activated from IL
+2006-03-18,Nuggets,948,Marcus Camby,False,True,strained left knee (DNP)
+2006-03-18,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2006-03-18,Rockets,133,David Wesley,False,True,cracked ribs (DNP)
+2006-03-18,Spurs,1938,Manu Ginobili,False,True,calf injury (DNP)
+2006-03-19,76ers,947,Allen Iverson,False,True,sprained right foot (DNP)
+2006-03-19,Grizzlies,101194,Anthony Roberson,False,True,placed on IL
+2006-03-19,Grizzlies,1517,Bobby Jackson,True,False,activated from IL
+2006-03-19,Kings,2441,Jamal Sampson,False,True,placed on IL
+2006-03-19,Kings,2078,Jason Hart,True,False,activated from IL
+2006-03-19,Lakers,1904,Devean George,True,False,activated from IL
+2006-03-19,Mavericks,1559,Adrian Griffin,False,True,strained right hamstring (DNP)
+2006-03-19,Mavericks,1496,Keith Van Horn,False,True,sprained MCL in left knee (DNP)
+2006-03-19,Pacers,1513,Scot Pollard,False,True,sore left foot (DNP)
+2006-03-19,Warriors,1884,Baron Davis,False,True,placed on IL with sprained right ankle
+2006-03-20,Hawks,101107,Marvin Williams,False,True,family illness (DNP)
+2006-03-20,Hawks,101136,Salim Stoudamire,False,True,sprained right elbow (DNP)
+2006-03-20,Lakers,101209,Devin Green,False,True,placed on IL
+2006-03-20,Pistons,960,Tony Delk,False,True,hamstring injury (DTD)
+2006-03-20,Rockets,133,David Wesley,False,True,placed on IL with cracked ribs
+2006-03-21,Bobcats,1510,Brevin Knight,False,True,placed on IL with sore groin
+2006-03-21,Bobcats,2408,Melvin Ely,False,True,migraine headache (DNP)
+2006-03-21,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2006-03-21,Heat,406,Shaquille O'Neal,False,True,sprained right thumb (DNP)
+2006-03-21,Hornets,101178,Arvydas Macijauskas,False,True,placed on IL
+2006-03-21,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-03-21,Kings,2752,Sergei Monia,False,True,placed on IL
+2006-03-21,Kings,101128,Francisco Garcia,True,False,activated from IL
+2006-03-21,Knicks,990,Malik Rose,False,True,placed on IL with sprained right ankle
+2006-03-21,Knicks,2047,Quentin Richardson,True,False,activated from IL
+2006-03-21,Mavericks,1559,Adrian Griffin,False,True,strained right hamstring (DNP)
+2006-03-21,Mavericks,1496,Keith Van Horn,False,True,sprained MCL in left knee (DNP)
+2006-03-21,Pacers,1506,Austin Croshere,False,True,concussion (DNP)
+2006-03-21,Pacers,2224,Jamaal Tinsley,False,True,sinus infection (DNP)
+2006-03-21,Sonics,2248,Earl Watson,False,True,neck injury (DNP)
+2006-03-21,Suns,101159,Dijon Thompson,False,True,placed on IL with right knee injury
+2006-03-21,Timberwolves,2648,Ronald Dupree,False,True,knee injury (DTD)
+2006-03-21,Wizards,2852,Awvee Storey,False,True,placed on IL
+2006-03-21,Wizards,2873,Billy Thomas,True,False,activated from IL
+2006-03-22,Knicks,101112,Channing Frye,False,True,left knee injury (out for remainder of regular season)
+2006-03-23,Grizzlies,2054,Jake Tsakalidis,False,True,placed on IL with sprained left thumb
+2006-03-23,Grizzlies,2073,Brian Cardinal,True,False,activated from IL
+2006-03-23,Heat,297,Alonzo Mourning,False,True,partially torn right calf muscle
+2006-03-23,Knicks,990,Malik Rose,True,False,activated from IL
+2006-03-23,Mavericks,1559,Adrian Griffin,False,True,strained left hamstring (DNP)
+2006-03-23,Mavericks,1496,Keith Van Horn,False,True,sprained MCL in left knee (DNP)
+2006-03-23,Nuggets,2059,Eduardo Najera,False,True,right knee injury (DTD)
+2006-03-23,Suns,258,Brian Grant,True,False,activated from IL
+2006-03-23,Timberwolves,2239,Trenton Hassell,False,True,sprained left ankle (DNP)
+2006-03-24,76ers,2584,Willie Green,False,True,placed on IL
+2006-03-24,Blazers,2032,Darius Miles,False,True,placed on IL with death in family
+2006-03-24,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2006-03-24,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2006-03-24,Bobcats,1510,Brevin Knight,True,False,activated from IL
+2006-03-24,Bucks,2551,T.J. Ford,False,True,placed on IL with strained left quadriceps
+2006-03-24,Bucks,2558,Reece Gaines,True,False,activated from IL
+2006-03-24,Bulls,2124,Malik Allen,False,True,placed on IL with sore back
+2006-03-24,Bulls,15,Eric Piatkowski,True,False,activated from IL
+2006-03-24,Celtics,2744,Al Jefferson,False,True,placed on IL with sprained right ankle
+2006-03-24,Celtics,1709,Michael Olowokandi,True,False,activated from IL
+2006-03-24,Heat,297,Alonzo Mourning,False,True,placed on IL with partially torn right calf muscle
+2006-03-24,Heat,2853,Earl Barron,True,False,activated from IL
+2006-03-24,Hornets,101138,Brandon Bass,False,True,placed on IL
+2006-03-24,Hornets,101178,Arvydas Macijauskas,True,False,activated from IL
+2006-03-24,Knicks,2047,Quentin Richardson,False,True,placed on IL
+2006-03-24,Knicks,2417,Qyntel Woods,False,True,flu-like symptoms (DNP)
+2006-03-24,Nuggets,2030,Kenyon Martin (Sr.),False,True,bruised left knee (DNP)
+2006-03-24,Pacers,2410,Fred Jones,False,True,torn ligament in left thumb (DNP)
+2006-03-24,Pistons,101131,Jason Maxiell,False,True,placed on IL
+2006-03-24,Pistons,1509,Kelvin Cato,True,False,activated from IL
+2006-03-24,Timberwolves,2239,Trenton Hassell,False,True,sprained left ankle (DNP)
+2006-03-25,Clippers,101238,Boniface N'Dong,False,True,placed on IL
+2006-03-25,Clippers,1749,Cuttino Mobley,False,True,sprained right ankle (DNP)
+2006-03-25,Clippers,452,Vin Baker,True,False,activated from IL
+2006-03-25,Hawks,101136,Salim Stoudamire,False,True,sprained right elbow (DNP)
+2006-03-25,Hawks,1731,Tyronn Lue,False,True,sprained right elbow (DNP)
+2006-03-25,Hawks,1731,Tyronn Lue,True,False,activated from IL
+2006-03-25,Kings,2755,Kevin Martin,False,True,placed on IL with strained right thigh
+2006-03-25,Kings,2752,Sergei Monia,True,False,activated from IL
+2006-03-25,Mavericks,1559,Adrian Griffin,False,True,strained left hamstring (DNP)
+2006-03-25,Wizards,101154,Andray Blatche,False,True,placed on IL
+2006-03-25,Wizards,2852,Awvee Storey,True,False,activated from IL
+2006-03-26,76ers,2584,Willie Green,False,True,surgery on left knee (DTD)
+2006-03-26,Bobcats,101109,Raymond Felton,False,True,placed on IL with abdominal injury
+2006-03-26,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2006-03-26,Clippers,1749,Cuttino Mobley,False,True,placed on IL with sprained right ankle
+2006-03-26,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2006-03-26,Hawks,101136,Salim Stoudamire,False,True,sprained right elbow (DNP)
+2006-03-26,Hawks,1731,Tyronn Lue,False,True,sprained right elbow (DNP)
+2006-03-26,Kings,958,Vitaly Potapenko,False,True,back injury (out indefinitely)
+2006-03-26,Knicks,2417,Qyntel Woods,False,True,flu-like symptoms (DNP)
+2006-03-26,Lakers,101115,Andrew Bynum,False,True,placed on IL with sprained right foot
+2006-03-26,Lakers,101209,Devin Green,True,False,activated from IL
+2006-03-26,Pacers,2410,Fred Jones,False,True,torn ligament in left thumb (DNP)
+2006-03-26,Timberwolves,2239,Trenton Hassell,False,True,sprained left ankle (DNP)
+2006-03-27,Blazers,2032,Darius Miles,True,False,activated from IL
+2006-03-27,Hornets,2561,David West,False,True,sprained left ankle (DNP)
+2006-03-27,Pacers,2410,Fred Jones,False,True,torn ligament in left thumb (DNP)
+2006-03-27,Warriors,101147,Chris Taft,False,True,will undergo surgery to fix herniated disc in back (out for season)
+2006-03-28,Bobcats,2056,Primoz Brezec,False,True,placed on IL with back spasms
+2006-03-28,Bobcats,101109,Raymond Felton,True,False,activated from IL
+2006-03-28,Bucks,2558,Reece Gaines,False,True,placed on IL
+2006-03-28,Bucks,2590,Mo Williams,True,False,activated from IL
+2006-03-28,Bulls,15,Eric Piatkowski,False,True,placed on IL
+2006-03-28,Bulls,2124,Malik Allen,True,False,activated from IL
+2006-03-28,Clippers,101189,James Singleton,False,True,placed on IL
+2006-03-28,Clippers,1442,Zeljko Rebraca,True,False,activated from IL
+2006-03-28,Hawks,101136,Salim Stoudamire,False,True,placed on IL with sprained right elbow
+2006-03-28,Hawks,1731,Tyronn Lue,False,True,sprained right elbow (DNP)
+2006-03-28,Magic,101143,Travis Diener,False,True,placed on IL
+2006-03-28,Magic,1727,Pat Garrity,True,False,activated from IL
+2006-03-28,Mavericks,1559,Adrian Griffin,False,True,strained left hamstring (DNP)
+2006-03-28,Nuggets,2059,Eduardo Najera,True,False,activated from IL
+2006-03-28,Raptors,2547,Chris Bosh,False,True,sprained left thumb (out indefinitely)
+2006-03-28,Spurs,2225,(William) Tony Parker,False,True,foot injury (DTD)
+2006-03-28,Spurs,2225,(William) Tony Parker,False,True,placed on IL with sore right shin
+2006-03-28,Spurs,89,Nick Van Exel,True,False,activated from IL
+2006-03-28,Wizards,2217,Brendan Haywood,False,True,placed on IL with back spasms
+2006-03-28,Wizards,2240,Gilbert Arenas,False,True,placed on IL with flu
+2006-03-28,Wizards,2553,Jarvis Hayes,False,True,sore lower back (DNP)
+2006-03-28,Wizards,101154,Andray Blatche,True,False,activated from IL
+2006-03-28,Wizards,2553,Jarvis Hayes,True,False,activated from IL
+2006-03-29,Hawks,1731,Tyronn Lue,False,True,sprained right elbow (DNP)
+2006-03-29,Heat,406,Shaquille O'Neal,False,True,placed on IL with hyperextended left knee
+2006-03-29,Heat,2574,Jason Kapono,True,False,activated from IL
+2006-03-29,Hornets,101178,Arvydas Macijauskas,False,True,placed on IL
+2006-03-29,Hornets,2049,Speedy Claxton,False,True,bruised right big toe (DNP)
+2006-03-29,Hornets,2561,David West,False,True,sprained left ankle (DNP)
+2006-03-29,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-03-29,Knicks,2047,Quentin Richardson,False,True,thumb injury (DTD)
+2006-03-29,Mavericks,1559,Adrian Griffin,False,True,strained left hamstring (DNP)
+2006-03-29,Nuggets,948,Marcus Camby,False,True,placed on IL with strained back
+2006-03-29,Raptors,2547,Chris Bosh,False,True,placed on IL with sprained left thumb
+2006-03-29,Sonics,1740,Rashard Lewis,False,True,sprained right ankle (DNP)
+2006-03-29,Timberwolves,2239,Trenton Hassell,False,True,sprained left ankle (DNP)
+2006-03-30,Pacers,979,Jermaine O'Neal,False,True,placed on IL with groin injury
+2006-03-30,Spurs,2757,Beno Udrih,False,True,placed on IL with sprained left ankle
+2006-03-30,Spurs,2225,(William) Tony Parker,True,False,activated from IL
+2006-03-31,Bobcats,101207,Kevin Burleson,False,True,placed on IL
+2006-03-31,Bobcats,2056,Primoz Brezec,True,False,activated from IL
+2006-03-31,Hawks,1731,Tyronn Lue,False,True,sprained MCL in right knee (DNP)
+2006-03-31,Hornets,2561,David West,False,True,sprained left ankle (DNP)
+2006-03-31,Hornets,136,P.J. Brown,False,True,placed on IL with sprained left ankle
+2006-03-31,Knicks,1883,Steve Francis,False,True,sprained second toe on right foot (DNP)
+2006-03-31,Mavericks,1559,Adrian Griffin,False,True,placed on IL with strained left hamstring
+2006-03-31,Mavericks,2605,Marquis Daniels,False,True,strained neck (DNP)
+2006-03-31,Mavericks,2572,Josh Howard,True,False,activated from IL
+2006-03-31,Nuggets,2059,Eduardo Najera,False,True,placed on IL with sore right knee
+2006-03-31,Nuggets,948,Marcus Camby,True,False,activated from IL
+2006-03-31,Raptors,2591,James Lang,False,True,placed on IL
+2006-03-31,Raptors,101181,Jose Calderon,True,False,activated from IL
+2006-03-31,Timberwolves,2239,Trenton Hassell,False,True,sprained left ankle (DNP)
+2006-03-31,Wizards,2553,Jarvis Hayes,False,True,placed on IL
+2006-03-31,Wizards,2240,Gilbert Arenas,True,False,activated from IL
+2006-04-01,Bucks,1983,Jermaine Jackson,False,True,placed on IL
+2006-04-01,Bucks,2551,T.J. Ford,True,False,activated from IL
+2006-04-01,Jazz,1723,Matt Harpring,False,True,sprained left ankle (DNP)
+2006-04-01,Pacers,1536,Stephen Jackson,False,True,placed on IL with sprained left ankle
+2006-04-01,Pacers,979,Jermaine O'Neal,True,False,activated from IL
+2006-04-02,Bobcats,101207,Kevin Burleson,True,False,activated from IL
+2006-04-02,Hawks,2585,Zaza Pachulia,False,True,flu-like symptoms (DNP)
+2006-04-02,Heat,1899,James Posey,False,True,placed on IL with ankle tendinitis
+2006-04-02,Heat,1715,Jason Williams,False,True,placed on IL with knee tendinitis
+2006-04-02,Heat,2748,Dorell Wright,True,False,activated from IL
+2006-04-02,Heat,406,Shaquille O'Neal,True,False,activated from IL
+2006-04-02,Kings,2752,Sergei Monia,False,True,placed on IL
+2006-04-02,Kings,2755,Kevin Martin,True,False,activated from IL
+2006-04-02,Knicks,147,Jalen Rose,False,True,plantar fasciaitis in left foot (DNP)
+2006-04-02,Knicks,950,Stephon Marbury,False,True,strained left patella tendon (DNP)
+2006-04-02,Mavericks,1559,Adrian Griffin,False,True,strained left hamstring (DNP)
+2006-04-02,Mavericks,1496,Keith Van Horn,False,True,placed on IL with broken right hand
+2006-04-02,Mavericks,2605,Marquis Daniels,False,True,strained neck (DNP)
+2006-04-02,Mavericks,1559,Adrian Griffin,True,False,activated from IL
+2006-04-02,Nuggets,101125,Julius Hodge,False,True,placed on IL
+2006-04-02,Nuggets,2059,Eduardo Najera,True,False,activated from IL
+2006-04-02,Sonics,1740,Rashard Lewis,False,True,sprained right ankle (DNP)
+2006-04-02,Suns,2401,Nikoloz Tskitishvili,False,True,ankle injury (out indefinitely)
+2006-04-04,76ers,101150,Lou Williams,False,True,placed on IL
+2006-04-04,76ers,2584,Willie Green,True,False,activated from IL
+2006-04-04,Bobcats,2408,Melvin Ely,False,True,flu-like symptoms (DNP)
+2006-04-04,Cavaliers,101211,Stephen Graham,False,True,placed on IL
+2006-04-04,Cavaliers,1716,Larry Hughes,True,False,activated from IL
+2006-04-04,Grizzlies,101160,Lawrence Roberts,False,True,placed on IL
+2006-04-04,Grizzlies,2054,Jake Tsakalidis,True,False,activated from IL
+2006-04-04,Hawks,2735,Josh Childress,False,True,sprained right ankle (DNP)
+2006-04-04,Hawks,101107,Marvin Williams,False,True,family illness (DNP)
+2006-04-04,Hawks,2585,Zaza Pachulia,False,True,flu-like symptoms (DNP)
+2006-04-04,Knicks,147,Jalen Rose,False,True,placed on IL with plantar fasciaitis in left foot
+2006-04-04,Knicks,1744,Jerome James,False,True,upper respiratory infection (DNP)
+2006-04-04,Knicks,950,Stephon Marbury,False,True,strained left patella tendon (DNP)
+2006-04-04,Knicks,2047,Quentin Richardson,True,False,activated from IL
+2006-04-04,Mavericks,1559,Adrian Griffin,False,True,strained left hamstring (DNP)
+2006-04-04,Pacers,2410,Fred Jones,False,True,placed on IL
+2006-04-04,Pacers,1513,Scot Pollard,False,True,sore left foot (DTD)
+2006-04-04,Pacers,1536,Stephen Jackson,True,False,activated from IL
+2006-04-04,Sonics,101130,Johan Petro,False,True,broken nose (DNP)
+2006-04-04,Sonics,2555,Nick Collison,False,True,plantar fasciaitis in left foot (DNP)
+2006-04-04,Warriors,2740,Andris Biedrins,False,True,sprained left ankle (DNP)
+2006-04-04,Wizards,2852,Awvee Storey,False,True,placed on IL
+2006-04-04,Wizards,2217,Brendan Haywood,True,False,activated from IL
+2006-04-05,Blazers,101110,Martell Webster,False,True,placed on IL with back spasms
+2006-04-05,Blazers,689,Theo Ratliff,True,False,activated from IL
+2006-04-05,Bulls,988,Randy Livingston,False,True,placed on IL
+2006-04-05,Bulls,15,Eric Piatkowski,True,False,activated from IL
+2006-04-05,Cavaliers,980,Zydrunas Ilgauskas,False,True,placed on IL with sprained left ankle
+2006-04-05,Cavaliers,101211,Stephen Graham,True,False,activated from IL
+2006-04-05,Clippers,208,Sam Cassell,False,True,hyperextended right knee (DNP)
+2006-04-05,Clippers,452,Vin Baker,False,True,placed on IL
+2006-04-05,Clippers,101189,James Singleton,True,False,activated from IL
+2006-04-05,Hawks,1733,Al Harrington,False,True,strained pectoral muscle (DNP)
+2006-04-05,Knicks,2047,Quentin Richardson,False,True,sprained left thumb (DNP)
+2006-04-05,Knicks,950,Stephon Marbury,False,True,strained left patella tendon (DNP)
+2006-04-05,Pacers,2224,Jamaal Tinsley,False,True,sore right Achilles tendon (DNP)
+2006-04-05,Rockets,2499,Richie Frahm,False,True,placed on IL with strained left calf
+2006-04-05,Rockets,133,David Wesley,True,False,activated from IL
+2006-04-05,Suns,258,Brian Grant,False,True,ankle injury (DTD)
+2006-04-05,Timberwolves,1853,Anthony Carter,False,True,sore right foot (DNP)
+2006-04-05,Warriors,2740,Andris Biedrins,False,True,sprained left ankle (DNP)
+2006-04-06,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL with knee tendinitis
+2006-04-06,Nuggets,101125,Julius Hodge,True,False,activated from IL
+2006-04-07,Blazers,2038,Joel Przybilla,False,True,placed on IL with swollen knee
+2006-04-07,Blazers,101110,Martell Webster,True,False,activated from IL
+2006-04-07,Celtics,1887,Wally Szczerbiak,False,True,left knee injury (will require surgery) (out for season)
+2006-04-07,Clippers,1894,Corey Maggette,False,True,placed on IL with back spasms
+2006-04-07,Clippers,101238,Boniface N'Dong,True,False,activated from IL
+2006-04-07,Hornets,101138,Brandon Bass,False,True,placed on IL
+2006-04-07,Hornets,2033,Marcus Fizer,False,True,placed on IL
+2006-04-07,Hornets,2046,Desmond Mason,True,False,activated from IL
+2006-04-07,Hornets,136,P.J. Brown,True,False,activated from IL
+2006-04-07,Knicks,950,Stephon Marbury,False,True,strained left patella tendon (DNP)
+2006-04-07,Magic,2045,Hedo Turkoglu,False,True,right knee injury (DTD)
+2006-04-07,Mavericks,1559,Adrian Griffin,False,True,strained left hamstring (DNP)
+2006-04-07,Pacers,2758,David Harrison,False,True,placed on IL
+2006-04-07,Pacers,2224,Jamaal Tinsley,False,True,sore right Achilles tendon (DNP)
+2006-04-07,Pacers,2410,Fred Jones,True,False,activated from IL
+2006-04-07,Pistons,1888,Richard Hamilton,False,True,placed on IL with death in family
+2006-04-07,Pistons,101131,Jason Maxiell,True,False,activated from IL
+2006-04-07,Sonics,101130,Johan Petro,False,True,broken nose (DNP)
+2006-04-07,Sonics,2555,Nick Collison,True,False,activated from IL
+2006-04-07,Spurs,109,Robert Horry,False,True,placed on IL with death in family
+2006-04-07,Spurs,1752,Sean Marks,True,False,activated from IL
+2006-04-07,Timberwolves,1853,Anthony Carter,False,True,sore right foot (DNP)
+2006-04-07,Warriors,2740,Andris Biedrins,False,True,sprained left ankle (DNP)
+2006-04-07,Wizards,1498,Antonio Daniels,False,True,sprained left wrist (DNP)
+2006-04-07,Wizards,2406,Caron Butler,False,True,placed on IL with sprained right thumb
+2006-04-07,Wizards,2852,Awvee Storey,True,False,activated from IL
+2006-04-08,76ers,185,Chris Webber,False,True,lower back pain (DNP)
+2006-04-08,76ers,1563,Kevin Ollie,False,True,placed on IL with strained right quadriceps
+2006-04-08,76ers,101150,Lou Williams,True,False,activated from IL
+2006-04-08,Bulls,15,Eric Piatkowski,False,True,placed on IL with concussion
+2006-04-08,Bulls,2736,Luol Deng,False,True,placed on IL with concussion
+2006-04-08,Bulls,101188,Eddie Basden,True,False,activated from IL
+2006-04-08,Bulls,988,Randy Livingston,True,False,activated from IL
+2006-04-08,Mavericks,1559,Adrian Griffin,False,True,strained left hamstring (DNP)
+2006-04-08,Nuggets,2059,Eduardo Najera,False,True,compression fracture in right foot (DNP)
+2006-04-08,Nuggets,101125,Julius Hodge,False,True,placed on IL with gunshot wound
+2006-04-08,Nuggets,2030,Kenyon Martin (Sr.),False,True,knee tendinitis (DNP)
+2006-04-08,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2006-04-08,Warriors,2740,Andris Biedrins,False,True,sprained left ankle (DNP)
+2006-04-08,Warriors,2202,Jason Richardson,False,True,sore right knee (DNP)
+2006-04-08,Wizards,2041,Etan Thomas,False,True,lower back pain (DNP)
+2006-04-09,Bobcats,2774,Bernard Robinson,False,True,fractured right index finger (DNP)
+2006-04-09,Knicks,950,Stephon Marbury,False,True,strained left patella tendon (DNP)
+2006-04-09,Lakers,101209,Devin Green,False,True,placed on IL
+2006-04-09,Lakers,101115,Andrew Bynum,True,False,activated from IL
+2006-04-09,Pacers,2224,Jamaal Tinsley,False,True,sprained right ankle (DNP)
+2006-04-09,Pacers,1513,Scot Pollard,False,True,plantar fasciaitis (DTD)
+2006-04-09,Pistons,101131,Jason Maxiell,False,True,placed on IL
+2006-04-09,Pistons,1888,Richard Hamilton,True,False,activated from IL
+2006-04-09,Raptors,677,Eric Williams,False,True,strained left oblique muscle (DNP)
+2006-04-09,Spurs,1938,Manu Ginobili,False,True,placed on IL with bruised left calf & shin
+2006-04-09,Spurs,1752,Sean Marks,False,True,placed on IL
+2006-04-09,Spurs,2757,Beno Udrih,True,False,activated from IL
+2006-04-09,Spurs,109,Robert Horry,True,False,activated from IL
+2006-04-09,Timberwolves,1853,Anthony Carter,False,True,sore right foot (DNP)
+2006-04-09,Timberwolves,708,Kevin Garnett,False,True,right knee tendinitis (DNP)
+2006-04-09,Timberwolves,1729,Ricky Davis,False,True,strained left groin (DNP)
+2006-04-10,76ers,185,Chris Webber,False,True,strained back muscle (DNP)
+2006-04-10,Blazers,2032,Darius Miles,False,True,right knee injury (DNP)
+2006-04-10,Hawks,2585,Zaza Pachulia,False,True,right Achilles tendon injury (DNP)
+2006-04-10,Knicks,950,Stephon Marbury,False,True,strained left patella tendon (DNP)
+2006-04-10,Magic,2306,Carlos Arroyo,False,True,placed on IL with hamstring injury
+2006-04-10,Magic,101143,Travis Diener,True,False,activated from IL
+2006-04-10,Nuggets,2059,Eduardo Najera,False,True,compression fracture in right foot (DNP)
+2006-04-10,Nuggets,2030,Kenyon Martin (Sr.),False,True,left knee tendinitis (DNP)
+2006-04-10,Pacers,2109,Eddie Gill,False,True,placed on IL
+2006-04-10,Pacers,2758,David Harrison,True,False,activated from IL
+2006-04-10,Rockets,2397,Yao Ming,False,True,broken bone in left foot (out indefinitely)
+2006-04-10,Wizards,2041,Etan Thomas,False,True,sprained lower back (DNP)
+2006-04-11,Bulls,2768,Chris Duhon,False,True,lower back pain (DNP)
+2006-04-11,Celtics,1887,Wally Szczerbiak,False,True,arthroscopic surgery on left knee to repair cartilage
+2006-04-11,Heat,2548,Dwyane Wade,False,True,flu-like symptoms (DNP)
+2006-04-11,Nets,101120,Antoine Wright,False,True,strained left quadriceps (DNP)
+2006-04-11,Spurs,109,Robert Horry,False,True,placed on IL for personal reasons
+2006-04-11,Spurs,1752,Sean Marks,True,False,activated from IL
+2006-04-11,Timberwolves,1853,Anthony Carter,False,True,sore right foot (DNP)
+2006-04-11,Timberwolves,708,Kevin Garnett,False,True,right knee tendinitis (DNP)
+2006-04-11,Timberwolves,1729,Ricky Davis,False,True,placed on IL with strained left groin
+2006-04-11,Timberwolves,101152,Bracey Wright,True,False,activated from IL
+2006-04-11,Timberwolves,1607,Troy Hudson,False,True,placed on IL with right ankle injury
+2006-04-12,Blazers,2032,Darius Miles,False,True,right knee injury (DNP)
+2006-04-12,Blazers,2413,Juan Dixon,False,True,DNP
+2006-04-12,Blazers,2216,Zach Randolph,False,True,right knee injury (DNP)
+2006-04-12,Bobcats,2774,Bernard Robinson,False,True,fractured right index finger (DNP)
+2006-04-12,Bobcats,1510,Brevin Knight,False,True,strained right groin (DNP)
+2006-04-12,Bulls,2768,Chris Duhon,False,True,placed on IL with lower back pain
+2006-04-12,Bulls,15,Eric Piatkowski,True,False,activated from IL
+2006-04-12,Celtics,2753,Delonte West,False,True,strained left calf (DNP)
+2006-04-12,Hawks,1733,Al Harrington,False,True,bruised left hand (DNP)
+2006-04-12,Hornets,2561,David West,False,True,placed on IL with sprained left ankle
+2006-04-12,Hornets,101138,Brandon Bass,True,False,activated from IL
+2006-04-12,Jazz,1960,Milt Palacio,False,True,left knee inflammation (DNP)
+2006-04-12,Nets,101120,Antoine Wright,False,True,strained right quadriceps (DNP)
+2006-04-12,Nets,2215,Jason Collins,False,True,bruised right knee (DNP)
+2006-04-12,Nuggets,2059,Eduardo Najera,False,True,compression fracture in right foot (DNP)
+2006-04-12,Nuggets,2030,Kenyon Martin (Sr.),False,True,left knee tendinitis (DNP)
+2006-04-12,Nuggets,948,Marcus Camby,False,True,sore back (DNP)
+2006-04-12,Pacers,2410,Fred Jones,False,True,placed on IL with torn ligament in left thumb
+2006-04-12,Pacers,2109,Eddie Gill,True,False,activated from IL
+2006-04-12,Raptors,677,Eric Williams,False,True,strained left oblique muscle (DNP)
+2006-04-12,Raptors,2588,Matt Bonner,False,True,sprained left ankle (DNP)
+2006-04-12,Rockets,2397,Yao Ming,False,True,broken bone in left foot (DNP)
+2006-04-12,Timberwolves,1853,Anthony Carter,False,True,sore right foot (DNP)
+2006-04-12,Timberwolves,708,Kevin Garnett,False,True,right knee tendinitis (DNP)
+2006-04-13,Cavaliers,980,Zydrunas Ilgauskas,True,False,activated from IL
+2006-04-13,Knicks,950,Stephon Marbury,False,True,strained left patella tendon (DNP)
+2006-04-13,Knicks,1883,Steve Francis,False,True,placed on IL with sore back
+2006-04-13,Knicks,147,Jalen Rose,True,False,activated from IL
+2006-04-13,Mavericks,711,Jerry Stackhouse,False,True,placed on IL
+2006-04-13,Mavericks,2734,Devin Harris,True,False,activated from IL
+2006-04-13,Spurs,1752,Sean Marks,False,True,placed on IL
+2006-04-13,Spurs,109,Robert Horry,True,False,activated from IL
+2006-04-14,Blazers,2216,Zach Randolph,False,True,right knee injury (DNP)
+2006-04-14,Bobcats,2774,Bernard Robinson,False,True,fractured right index finger (DNP)
+2006-04-14,Bobcats,1510,Brevin Knight,False,True,strained right groin (DNP)
+2006-04-14,Bulls,101188,Eddie Basden,False,True,placed on IL
+2006-04-14,Bulls,988,Randy Livingston,False,True,placed on IL
+2006-04-14,Bulls,2768,Chris Duhon,True,False,activated from IL
+2006-04-14,Bulls,2736,Luol Deng,True,False,activated from IL
+2006-04-14,Celtics,2753,Delonte West,False,True,strained left calf (DNP)
+2006-04-14,Hawks,1733,Al Harrington,False,True,bruised left hand (DNP)
+2006-04-14,Hornets,1425,Aaron Williams,False,True,placed on IL with right knee injury
+2006-04-14,Hornets,2561,David West,True,False,activated from IL
+2006-04-14,Knicks,2047,Quentin Richardson,False,True,sprained left thumb (DNP)
+2006-04-14,Knicks,950,Stephon Marbury,False,True,placed on IL with strained left patella tendon
+2006-04-14,Knicks,1883,Steve Francis,True,False,activated from IL
+2006-04-14,Nets,101120,Antoine Wright,False,True,strained right quadriceps (DNP)
+2006-04-14,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2006-04-14,Pistons,1509,Kelvin Cato,False,True,placed on IL
+2006-04-14,Pistons,101131,Jason Maxiell,True,False,activated from IL
+2006-04-14,Raptors,677,Eric Williams,False,True,personal reasons (DNP)
+2006-04-14,Raptors,2588,Matt Bonner,False,True,sprained left ankle (DNP)
+2006-04-14,Rockets,2397,Yao Ming,False,True,broken bone in left foot (DNP)
+2006-04-14,Sonics,2404,Chris Wilcox,False,True,sprained right foot (DNP)
+2006-04-14,Suns,1952,Raja Bell,False,True,rest (DNP)
+2006-04-14,Suns,959,Steve Nash,False,True,rest (DNP)
+2006-04-14,Suns,2401,Nikoloz Tskitishvili,True,False,returned to lineup
+2006-04-14,Timberwolves,1853,Anthony Carter,False,True,sore right foot (DNP)
+2006-04-14,Timberwolves,708,Kevin Garnett,False,True,right knee tendinitis (DNP)
+2006-04-14,Warriors,2554,Mickael Pietrus,False,True,strained right groin (DNP)
+2006-04-14,Warriors,2211,Troy Murphy,False,True,sprained right ankle (DNP)
+2006-04-15,Blazers,2216,Zach Randolph,False,True,placed on IL with sore right knee
+2006-04-15,Blazers,2775,Ha Seung-Jin,True,False,activated from IL
+2006-04-15,Bobcats,2774,Bernard Robinson,False,True,fractured right index finger (DNP)
+2006-04-15,Bobcats,1510,Brevin Knight,False,True,strained right groin (DNP)
+2006-04-15,Bobcats,2222,Gerald Wallace,False,True,bruised ribs (DNP)
+2006-04-15,Hawks,1733,Al Harrington,False,True,bruised left hand (DNP)
+2006-04-15,Nuggets,2059,Eduardo Najera,False,True,compression fracture in right foot (DNP)
+2006-04-15,Pacers,2224,Jamaal Tinsley,False,True,sore right Achilles tendon (DNP)
+2006-04-15,Pacers,1902,Jeff Foster,False,True,strained back (DNP)
+2006-04-15,Rockets,2397,Yao Ming,False,True,surgery on left foot to repair broken bone
+2006-04-15,Warriors,2202,Jason Richardson,False,True,sore right knee (DNP)
+2006-04-15,Warriors,2554,Mickael Pietrus,False,True,strained right groin (DNP)
+2006-04-15,Warriors,2211,Troy Murphy,False,True,sprained right ankle (DNP)
+2006-04-16,Cavaliers,101211,Stephen Graham,False,True,placed on IL
+2006-04-16,Celtics,1718,Paul Pierce,False,True,left elbow injury (DNP)
+2006-04-16,Clippers,1749,Cuttino Mobley,False,True,placed on IL with ankle injury
+2006-04-16,Clippers,452,Vin Baker,True,False,activated from IL
+2006-04-16,Heat,2748,Dorell Wright,False,True,placed on IL
+2006-04-16,Heat,2574,Jason Kapono,False,True,placed on IL
+2006-04-16,Heat,1899,James Posey,True,False,activated from IL
+2006-04-16,Heat,1715,Jason Williams,True,False,activated from IL
+2006-04-16,Hornets,2049,Speedy Claxton,False,True,placed on IL with knee injury
+2006-04-16,Hornets,2561,David West,False,True,strained left calf (DNP)
+2006-04-16,Hornets,2033,Marcus Fizer,True,False,activated from IL
+2006-04-16,Jazz,1960,Milt Palacio,False,True,left knee injury (DNP)
+2006-04-16,Knicks,1883,Steve Francis,False,True,strained lower back (DNP)
+2006-04-16,Mavericks,2734,Devin Harris,False,True,placed on IL with sore left leg
+2006-04-16,Mavericks,711,Jerry Stackhouse,True,False,activated from IL
+2006-04-16,Nets,101120,Antoine Wright,False,True,strained left quadriceps (DNP)
+2006-04-16,Sonics,2741,Robert Swift,False,True,sprained right foot (DNP)
+2006-04-16,Spurs,2684,Melvin Sanders,False,True,placed on IL
+2006-04-16,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2006-04-16,Suns,1952,Raja Bell,False,True,strained left thigh (DNP)
+2006-04-16,Suns,959,Steve Nash,False,True,bruised right thigh (DNP)
+2006-04-16,Timberwolves,1853,Anthony Carter,False,True,sore right foot (DNP)
+2006-04-16,Timberwolves,708,Kevin Garnett,False,True,right knee tendinitis (DNP)
+2006-04-16,Wizards,2041,Etan Thomas,False,True,placed on IL with strained lower back
+2006-04-16,Wizards,2406,Caron Butler,True,False,activated from IL
+2006-04-17,Bobcats,2774,Bernard Robinson,False,True,fractured right index finger (DNP)
+2006-04-17,Bobcats,1510,Brevin Knight,False,True,strained right groin (DNP)
+2006-04-17,Bobcats,2222,Gerald Wallace,False,True,bruised ribs (DNP)
+2006-04-17,Bucks,2590,Mo Williams,False,True,placed on IL with sprained left ankle
+2006-04-17,Bucks,1983,Jermaine Jackson,True,False,activated from IL
+2006-04-17,Cavaliers,101211,Stephen Graham,True,False,activated from IL
+2006-04-17,Celtics,2753,Delonte West,False,True,strained left calf (DNP)
+2006-04-17,Celtics,1718,Paul Pierce,False,True,sore left elbow (DNP)
+2006-04-17,Hornets,2561,David West,False,True,placed on IL with sprained/sore left ankle
+2006-04-17,Hornets,101178,Arvydas Macijauskas,True,False,activated from IL
+2006-04-17,Jazz,1905,Andrei Kirilenko,False,True,back spasms (DNP)
+2006-04-17,Jazz,1960,Milt Palacio,False,True,left knee injury (DNP)
+2006-04-17,Knicks,147,Jalen Rose,False,True,DNP
+2006-04-17,Knicks,1883,Steve Francis,False,True,lower back spasms (DNP)
+2006-04-17,Magic,101143,Travis Diener,False,True,placed on IL
+2006-04-17,Magic,2306,Carlos Arroyo,True,False,activated from IL
+2006-04-17,Nuggets,2059,Eduardo Najera,False,True,compression fracture in right foot (DNP)
+2006-04-17,Pacers,2224,Jamaal Tinsley,False,True,sore right Achilles tendon (DNP)
+2006-04-17,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2006-04-17,Pistons,283,Lindsey Hunter,False,True,placed on IL for rest
+2006-04-17,Pistons,739,Rasheed Wallace,False,True,placed on IL for rest
+2006-04-17,Pistons,1888,Richard Hamilton,False,True,placed on IL for rest
+2006-04-17,Pistons,101165,Alex Acker,True,False,activated from IL
+2006-04-17,Pistons,101161,Amir Johnson,True,False,activated from IL
+2006-04-17,Pistons,1509,Kelvin Cato,True,False,activated from IL
+2006-04-17,Raptors,677,Eric Williams,False,True,strained left oblique muscle (DNP)
+2006-04-17,Raptors,2588,Matt Bonner,False,True,sprained left ankle (DNP)
+2006-04-17,Rockets,2397,Yao Ming,False,True,broken bone in left foot (DNP)
+2006-04-17,Suns,1890,Shawn Marion,False,True,sprained/sore right wrist (DNP)
+2006-04-17,Warriors,2554,Mickael Pietrus,False,True,pulled groin (DNP)
+2006-04-17,Warriors,2560,Zarko Cabarkapa,False,True,back injury (DNP)
+2006-04-18,76ers,947,Allen Iverson,False,True,ankle injury (DNP)
+2006-04-18,76ers,185,Chris Webber,False,True,sore back (DNP)
+2006-04-18,Bucks,1983,Jermaine Jackson,False,True,placed on IL
+2006-04-18,Bucks,2590,Mo Williams,True,False,activated from IL
+2006-04-18,Clippers,2549,Chris Kaman,False,True,left knee injury (DNP)
+2006-04-18,Clippers,208,Sam Cassell,False,True,rest (DNP)
+2006-04-18,Clippers,2209,Vladimir Radmanovic,False,True,placed on IL with strained right groin
+2006-04-18,Clippers,1749,Cuttino Mobley,True,False,activated from IL
+2006-04-18,Grizzlies,2200,Pau Gasol,False,True,placed on IL with sore left foot
+2006-04-18,Grizzlies,101160,Lawrence Roberts,True,False,activated from IL
+2006-04-18,Heat,2548,Dwyane Wade,False,True,placed on IL for rest
+2006-04-18,Heat,56,Gary Payton (Sr.),False,True,rest (DNP)
+2006-04-18,Heat,406,Shaquille O'Neal,False,True,placed on IL for rest
+2006-04-18,Heat,2748,Dorell Wright,True,False,activated from IL
+2006-04-18,Heat,2574,Jason Kapono,True,False,activated from IL
+2006-04-18,Nets,101120,Antoine Wright,False,True,placed on IL
+2006-04-18,Nets,467,Jason Kidd,False,True,placed on IL for personal reasons
+2006-04-18,Nets,2210,Richard Jefferson,False,True,rest (DNP)
+2006-04-18,Sonics,2741,Robert Swift,False,True,sprained right foot (DNP)
+2006-04-19,76ers,947,Allen Iverson,False,True,DNP
+2006-04-19,76ers,185,Chris Webber,False,True,DNP
+2006-04-19,Blazers,2032,Darius Miles,False,True,DNP
+2006-04-19,Bobcats,101187,Alan Anderson,False,True,hyperextended shoulder (DNP)
+2006-04-19,Bobcats,2774,Bernard Robinson,False,True,fractured right index finger (DNP)
+2006-04-19,Bobcats,1510,Brevin Knight,False,True,strained right groin (DNP)
+2006-04-19,Cavaliers,1716,Larry Hughes,False,True,placed on IL for rest
+2006-04-19,Cavaliers,2739,Luke Jackson (Ryan),True,False,activated from IL
+2006-04-19,Celtics,2753,Delonte West,False,True,strained left calf (DNP)
+2006-04-19,Celtics,1718,Paul Pierce,False,True,bursitis in left elbow (DNP)
+2006-04-19,Clippers,1882,Elton Brand,False,True,placed on IL for rest
+2006-04-19,Clippers,208,Sam Cassell,False,True,placed on IL for rest
+2006-04-19,Clippers,2209,Vladimir Radmanovic,False,True,strained right groin (DNP)
+2006-04-19,Clippers,1442,Zeljko Rebraca,False,True,sore lower back (DNP)
+2006-04-19,Clippers,1894,Corey Maggette,True,False,activated from IL
+2006-04-19,Clippers,2209,Vladimir Radmanovic,True,False,activated from IL
+2006-04-19,Grizzlies,224,Eddie Jones,False,True,placed on IL for rest
+2006-04-19,Grizzlies,101194,Anthony Roberson,True,False,activated from IL
+2006-04-19,Hawks,2767,Royal Ivey,False,True,bronchitis (DNP)
+2006-04-19,Heat,1715,Jason Williams,False,True,placed on IL for rest
+2006-04-19,Hornets,2745,Kirk Snyder,False,True,sore right hamstring (DNP)
+2006-04-19,Jazz,1905,Andrei Kirilenko,False,True,back spasms (DNP)
+2006-04-19,Jazz,1960,Milt Palacio,False,True,left knee inflammation (DNP)
+2006-04-19,Knicks,147,Jalen Rose,False,True,DNP
+2006-04-19,Knicks,1744,Jerome James,False,True,sprained left ankle (DNP)
+2006-04-19,Knicks,1883,Steve Francis,False,True,lower back spasms (DNP)
+2006-04-19,Lakers,101115,Andrew Bynum,False,True,placed on IL
+2006-04-19,Lakers,2036,Chris Mihm,True,False,activated from IL
+2006-04-19,Magic,2045,Hedo Turkoglu,False,True,strained back (DNP)
+2006-04-19,Mavericks,1717,Dirk Nowitzki,False,True,sore right toe (DNP)
+2006-04-19,Mavericks,2605,Marquis Daniels,False,True,placed on IL with strained left hamstring
+2006-04-19,Mavericks,2750,Pavel Podkolzine,True,False,activated from IL
+2006-04-19,Nets,2420,Nenad Krstic,False,True,rest (DNP)
+2006-04-19,Nets,1713,Vince Carter,False,True,rest (DNP)
+2006-04-19,Nuggets,2546,Carmelo Anthony,False,True,rest (DNP)
+2006-04-19,Nuggets,1761,Greg Buckner,False,True,bruised left knee (DNP)
+2006-04-19,Nuggets,2030,Kenyon Martin (Sr.),False,True,rest (DNP)
+2006-04-19,Nuggets,948,Marcus Camby,False,True,rest (DNP)
+2006-04-19,Pacers,2224,Jamaal Tinsley,False,True,sore right Achilles tendon (DNP)
+2006-04-19,Pistons,1497,Chauncey Billups,False,True,placed on IL for rest
+2006-04-19,Pistons,905,Dale Davis,False,True,placed on IL
+2006-04-19,Pistons,2230,Maurice Evans,False,True,placed on IL
+2006-04-19,Pistons,283,Lindsey Hunter,True,False,activated from IL
+2006-04-19,Pistons,739,Rasheed Wallace,True,False,activated from IL
+2006-04-19,Pistons,1888,Richard Hamilton,True,False,activated from IL
+2006-04-19,Raptors,677,Eric Williams,False,True,strained left oblique muscle (DNP)
+2006-04-19,Raptors,2588,Matt Bonner,False,True,sprained left ankle (DNP)
+2006-04-19,Raptors,2229,Mike James (Lamont),False,True,sore right groin (DNP)
+2006-04-19,Rockets,2397,Yao Ming,False,True,broken bone in left foot (DNP)
+2006-04-19,Sonics,2741,Robert Swift,False,True,sprained right foot (DNP)
+2006-04-19,Spurs,2225,(William) Tony Parker,False,True,placed on IL for rest
+2006-04-19,Spurs,1495,Tim Duncan,False,True,placed on IL for rest
+2006-04-19,Spurs,2684,Melvin Sanders,True,False,activated from IL
+2006-04-19,Spurs,1752,Sean Marks,True,False,activated from IL
+2006-04-19,Suns,2564,Boris Diaw,False,True,strep throat (DNP)
+2006-04-19,Timberwolves,1853,Anthony Carter,False,True,sore right foot (DNP)
+2006-04-19,Timberwolves,708,Kevin Garnett,False,True,right knee tendinitis (DNP)
+2006-04-19,Timberwolves,2060,Marko Jaric,False,True,bruised left shoulder (DNP)
+2006-04-19,Warriors,2202,Jason Richardson,False,True,sore right knee (DNP)
+2006-04-19,Warriors,2554,Mickael Pietrus,False,True,strained right groin (DNP)
+2006-04-19,Warriors,2211,Troy Murphy,False,True,DNP
+2006-04-19,Warriors,2560,Zarko Cabarkapa,False,True,sore lower back (DNP)
+2006-04-22,Bulls,988,Randy Livingston,False,True,placed on IL
+2006-04-22,Cavaliers,101211,Stephen Graham,False,True,placed on IL
+2006-04-22,Clippers,452,Vin Baker,False,True,placed on IL
+2006-04-22,Heat,297,Alonzo Mourning,False,True,calf injury (DNP)
+2006-04-22,Heat,1507,Derek Anderson,False,True,placed on IL
+2006-04-22,Kings,2441,Jamal Sampson,False,True,placed on IL
+2006-04-22,Nuggets,101132,Linas Kleiza,False,True,placed on IL with sprained left ankle
+2006-04-22,Spurs,1752,Sean Marks,False,True,placed on IL
+2006-04-22,Wizards,101154,Andray Blatche,False,True,placed on IL
+2006-04-23,Bucks,389,Toni Kukoc,False,True,placed on IL with back spasms
+2006-04-23,Grizzlies,101194,Anthony Roberson,False,True,placed on IL
+2006-04-23,Lakers,101115,Andrew Bynum,False,True,placed on IL
+2006-04-23,Lakers,2036,Chris Mihm,False,True,sprained right ankle (DTD)
+2006-04-23,Mavericks,353,Darrell Armstrong,False,True,sprained left ankle (DNP)
+2006-04-23,Mavericks,1496,Keith Van Horn,False,True,placed on IL
+2006-04-23,Nets,101120,Antoine Wright,False,True,placed on IL
+2006-04-23,Pacers,2224,Jamaal Tinsley,False,True,placed on IL
+2006-04-23,Pistons,101131,Jason Maxiell,False,True,placed on IL
+2006-04-25,Nets,1519,John Thomas,False,True,placed on IL
+2006-04-25,Nets,101120,Antoine Wright,True,False,activated from IL
+2006-04-25,Pacers,978,Peja Stojakovic,False,True,placed on IL with sore right knee
+2006-04-25,Pacers,2224,Jamaal Tinsley,True,False,activated from IL
+2006-04-26,Lakers,2036,Chris Mihm,False,True,placed on IL with sprained right ankle
+2006-04-26,Lakers,101115,Andrew Bynum,True,False,activated from IL
+2006-04-26,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-04-27,Heat,2574,Jason Kapono,False,True,placed on IL
+2006-04-27,Heat,1507,Derek Anderson,True,False,activated from IL
+2006-04-27,Nuggets,2030,Kenyon Martin (Sr.),False,True,placed on IL (suspended)
+2006-04-27,Nuggets,101132,Linas Kleiza,True,False,activated from IL
+2006-04-27,Pacers,2224,Jamaal Tinsley,False,True,placed on IL with sore right Achilles tendon
+2006-04-27,Pacers,978,Peja Stojakovic,True,False,activated from IL
+2006-04-28,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-04-29,Bucks,1983,Jermaine Jackson,False,True,placed on IL
+2006-04-29,Bucks,389,Toni Kukoc,True,False,activated from IL
+2006-04-29,Pacers,978,Peja Stojakovic,False,True,right knee injury (DNP)
+2006-04-30,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-01,Clippers,1442,Zeljko Rebraca,False,True,placed on IL with chest pains
+2006-05-01,Clippers,452,Vin Baker,True,False,activated from IL
+2006-05-01,Mavericks,2605,Marquis Daniels,False,True,strained right hamstring (DNP)
+2006-05-02,Pacers,978,Peja Stojakovic,False,True,sore right knee (DNP)
+2006-05-02,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-03,Cavaliers,2739,Luke Jackson (Ryan),False,True,surgery on back to repair herniated disc (date approximate)
+2006-05-04,Pacers,2224,Jamaal Tinsley,True,False,activated from IL
+2006-05-04,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-05,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-08,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-10,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-12,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-13,Cavaliers,1716,Larry Hughes,False,True,placed on IL with death of brother
+2006-05-13,Cavaliers,101211,Stephen Graham,True,False,activated from IL
+2006-05-14,Clippers,2549,Chris Kaman,False,True,sore right shoulder (DNP)
+2006-05-14,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-15,Mavericks,353,Darrell Armstrong,False,True,placed on IL with bruised left knee
+2006-05-15,Mavericks,1496,Keith Van Horn,True,False,activated from IL
+2006-05-16,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-18,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-19,Mavericks,2694,Josh Powell,False,True,placed on IL
+2006-05-19,Mavericks,353,Darrell Armstrong,True,False,activated from IL
+2006-05-21,Cavaliers,101211,Stephen Graham,False,True,placed on IL
+2006-05-21,Cavaliers,1716,Larry Hughes,True,False,activated from IL
+2006-05-22,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-24,Bulls,2768,Chris Duhon,False,True,surgery on back to remove herniated disc
+2006-05-24,Mavericks,2788,Didier Mbenga ,False,True,placed on IL
+2006-05-24,Mavericks,2694,Josh Powell,True,False,activated from IL
+2006-05-24,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-26,Suns,703,Kurt Thomas,False,True,stress fracture in right foot (DNP)
+2006-05-26,Suns,1952,Raja Bell,False,True,strained left calf (DNP)
+2006-05-30,Celtics,2570,Kendrick Perkins,False,True,arthroscopic surgery on left shoulder
+2006-06-18,Mavericks,2694,Josh Powell,False,True,placed on IL
+2006-06-18,Mavericks,2788,Didier Mbenga ,True,False,activated from IL

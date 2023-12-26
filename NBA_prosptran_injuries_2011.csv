@@ -1,0 +1,2333 @@
+Date,Team,playerID,Player,In,Out,Notes
+2011-07-17,Wizards,201785,Othyus Jeffers,False,True,ACL injury in knee (out indefinitely)
+2011-09-28,Timberwolves,101110,Martell Webster,False,True,surgery on back (out indefinitely)
+2011-10-07,Clippers,202339,Eric Bledsoe,False,True,surgery on right knee to repair torn lateral meniscus (out indefinitely)
+2011-12-01,Heat,2034,Mike Miller,False,True,surgery to repair hernia (out indefinitely) (date approximate)
+2011-12-12,Spurs,202390,Gary Neal,False,True,appendectomy (out indefinitely)
+2011-12-14,Lakers,202382,Derrick Caracter,False,True,surgery on left knee to repair torn menuscus (out indefinitely)
+2011-12-16,Bobcats,2059,Eduardo Najera,False,True,surgery on left knee to repair torn cartilage (out indefinitely)
+2011-12-16,Bobcats,202130,Reggie Williams,False,True,torn meniscus in left knee (out indefinitely)
+2011-12-17,Celtics,201145,Jeff Green,False,True,surgery on heart to repair aortic aneurysm (out for season)
+2011-12-20,Grizzlies,201589,Darrell Arthur,False,True,ruptured right Achilles tendon (out for season)
+2011-12-22,Nets,201572,Brook Lopez,False,True,surgery on right foot to repair stress fracture (out indefinitely)
+2011-12-25,Blazers,201141,Greg Oden,False,True,surgery on left knee (out indefinitely)
+2011-12-25,Bobcats,202130,Reggie Williams,False,True,surrgery on left knee to repair torn meniscus (out indefinitely)
+2011-12-25,Cavaliers,201623,Semih Erden,False,True,left thumb injury (out indefinitely)
+2011-12-25,Celtics,201145,Jeff Green,False,True,placed on IL with heart condition (out for season)
+2011-12-25,Celtics,2554,Mickael Pietrus,False,True,placed on IL with right knee injury
+2011-12-25,Celtics,1718,Paul Pierce,False,True,placed on IL with bone bruise in right heel
+2011-12-25,Clippers,203203,Chris Wright,False,True,placed on IL
+2011-12-25,Clippers,2501,Reggie Evans,False,True,sprained right foot (DNP)
+2011-12-25,Grizzlies,202333,Xavier Henry,False,True,right ankle injury (out indefinitely)
+2011-12-25,Hawks,2550,Kirk Hinrich,False,True,surgery on left shoulder (out indefinitely)
+2011-12-25,Heat,2201,Eddy Curry,False,True,placed on IL with strained left hip flexor
+2011-12-25,Heat,2034,Mike Miller,False,True,placed on IL recovering from surgery to repair hernia
+2011-12-25,Knicks,1884,Baron Davis,False,True,placed on IL with back injury
+2011-12-25,Knicks,202697,Iman Shumpert,False,True,sprained MCL in right knee (out indefinitely)
+2011-12-25,Knicks,1710,Mike Bibby,False,True,sore back (DNP)
+2011-12-25,Lakers,202721,Darius Morris,False,True,placed on IL
+2011-12-25,Lakers,202382,Derrick Caracter,False,True,placed on IL recovering from surgery on left knee to repair torn menuscus
+2011-12-25,Magic,202350,Daniel Orton,False,True,placed on IL
+2011-12-25,Mavericks,201157,Sean Williams,False,True,placed on IL
+2011-12-25,Raptors,101132,Linas Kleiza,False,True,recovering from microfracture surgery on right knee to repair cartilage damage (out indefinitely)
+2011-12-25,Thunder,202351,Lazar Hayward,False,True,placed on IL
+2011-12-25,Thunder,202385,Ryan Reid,False,True,placed on IL
+2011-12-25,Timberwolves,1802,Brad Miller,False,True,surgery on left knee (out indefinitely)
+2011-12-25,Clippers,202339,Eric Bledsoe,False,True,surgery on right knee to repair torn lateral meniscus (out indefinitely)
+2011-12-25,Clippers,202339,Eric Bledsoe,False,True,torn lateral meniscus in right knee (DTD)
+2011-12-26,76ers,2804,Andres Nocioni,False,True,toe injury (DTD)
+2011-12-26,76ers,202730,Lavoy Allen,False,True,placed on IL
+2011-12-26,Blazers,202356,Armon Johnson,False,True,placed on IL
+2011-12-26,Blazers,201141,Greg Oden,False,True,placed on IL recovering from surgery on left knee
+2011-12-26,Bobcats,2059,Eduardo Najera,False,True,placed on IL recovering from surgery on left knee to repair torn cartilage
+2011-12-26,Bobcats,202130,Reggie Williams,False,True,placed on IL with surrgery on left knee to repair torn meniscus
+2011-12-26,Bobcats,200748,Tyrus Thomas,False,True,sprained left ankle (DNP)
+2011-12-26,Bucks,2568,Carlos Delfino,False,True,sprained right wrist (DNP)
+2011-12-26,Bucks,202699,Tobias Harris,False,True,placed on IL with dehydration
+2011-12-26,Cavaliers,202814,Mychel Thompson,False,True,placed on IL
+2011-12-26,Cavaliers,201623,Semih Erden,False,True,placed on IL with left thumb injury
+2011-12-26,Grizzlies,201589,Darrell Arthur,False,True,placed on IL with ruptured right Achilles tendon (out for season)
+2011-12-26,Grizzlies,202333,Xavier Henry,False,True,placed on IL
+2011-12-26,Hornets,202970,Gustavo Ayon,False,True,placed on IL
+2011-12-26,Kings,202355,Hassan Whiteside,False,True,placed on IL recovering from surgery on left knee to repair torn patella tendon
+2011-12-26,Mavericks,201148,Brandan Wright,False,True,placed on IL
+2011-12-26,Mavericks,201157,Sean Williams,True,False,activated from IL
+2011-12-26,Nets,201572,Brook Lopez,False,True,placed on IL recovering from surgery on right foot to repair stress fracture
+2011-12-26,Nuggets,202706,Jordan Hamilton,False,True,placed on IL
+2011-12-26,Nuggets,202933,Julyan Stone,False,True,placed on IL
+2011-12-26,Pacers,1902,Jeff Foster,False,True,placed on IL with back injury
+2011-12-26,Pacers,201965,Jeff Ayres,False,True,placed on IL with sprained right knee
+2011-12-26,Raptors,201189,Aaron Gray,False,True,placed on IL with irregular heartbeat
+2011-12-26,Raptors,101132,Linas Kleiza,False,True,placed on IL recovering from microfracture surgery on right knee to repair cartilage damage
+2011-12-26,Rockets,201934,Hasheem Thabeet,False,True,placed on IL
+2011-12-26,Rockets,202335,Patrick Patterson,False,True,placed on IL with right ankle injury
+2011-12-26,Spurs,202390,Gary Neal,False,True,placed on IL recovering from appendectomy
+2011-12-26,Timberwolves,1802,Brad Miller,False,True,placed on IL recovering from surgery on left knee
+2011-12-26,Timberwolves,101110,Martell Webster,False,True,placed on IL recovering from surgery on back
+2011-12-26,Timberwolves,201593,Nikola Pekovic,False,True,groin injury (DTD)
+2011-12-26,Wizards,202380,Hamady N'Diaye,False,True,placed on IL
+2011-12-26,Wizards,202686,Jan Vesely,False,True,placed on IL with hip injury
+2011-12-27,Hawks,202388,Donald Sloan,False,True,placed on IL
+2011-12-27,Hawks,2550,Kirk Hinrich,False,True,placed on IL recovering from surgery on left shoulder
+2011-12-27,Lakers,2440,Matt Barnes,False,True,hip injury (DNP)
+2011-12-27,Nets,202716,Jordan Williams,False,True,dehydration (DTD)
+2011-12-28,Bobcats,200748,Tyrus Thomas,False,True,sprained left ankle (DNP)
+2011-12-28,Celtics,2404,Chris Wilcox,False,True,bruised left shoulder (DNP)
+2011-12-28,Clippers,203203,Chris Wright,True,False,activated from IL
+2011-12-28,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2011-12-28,Knicks,202697,Iman Shumpert,False,True,placed on IL with sprained MCL in right knee
+2011-12-28,Knicks,2407,Jared Jeffries,False,True,calf injury (DTD)
+2011-12-28,Thunder,2767,Royal Ivey,False,True,placed on IL
+2011-12-28,Thunder,202351,Lazar Hayward,True,False,activated from IL with throat injury
+2011-12-28,Warriors,201939,Stephen Curry,False,True,placed on IL with sprained right ankle
+2011-12-28,Wizards,2230,Maurice Evans,False,True,placed on IL with knee injury
+2011-12-28,Wizards,202380,Hamady N'Diaye,True,False,activated from IL
+2011-12-29,Rockets,202399,Jeff Adrien,False,True,placed on IL
+2011-12-29,Rockets,201934,Hasheem Thabeet,True,False,activated from IL
+2011-12-30,Bobcats,200748,Tyrus Thomas,False,True,sprained left ankle (DNP)
+2011-12-30,Celtics,2404,Chris Wilcox,False,True,placed on IL
+2011-12-30,Celtics,1718,Paul Pierce,True,False,activated from IL
+2011-12-30,Clippers,1497,Chauncey Billups,False,True,sore right groin (DNP)
+2011-12-30,Clippers,2501,Reggie Evans,False,True,sprained right foot (DNP)
+2011-12-30,Grizzlies,201144,Mike Conley Jr.,False,True,sprained left ankle (DNP)
+2011-12-30,Hawks,2215,Jason Collins,False,True,knee injury (DNP)
+2011-12-30,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2011-12-30,Jazz,2744,Al Jefferson,False,True,sprained right ankle (DNP)
+2011-12-30,Magic,2749,Jameer Nelson,False,True,placed on IL with strained neck
+2011-12-30,Magic,202350,Daniel Orton,True,False,activated from IL
+2011-12-30,Rockets,201934,Hasheem Thabeet,False,True,placed on IL
+2011-12-30,Rockets,202335,Patrick Patterson,True,False,activated from IL
+2011-12-30,Suns,2072,Michael Redd,False,True,placed on IL
+2011-12-30,Timberwolves,200826,Jose Barea ,False,True,strained left hamstring (DNP)
+2011-12-30,Timberwolves,202723,Malcolm Lee,False,True,surgery on left knee to repair torn meniscus (DNP)
+2011-12-30,Timberwolves,201593,Nikola Pekovic,False,True,strained left adductor muscle (DNP)
+2011-12-31,76ers,2804,Andres Nocioni,True,False,returned to lineup
+2011-12-31,Warriors,101145,Monta Ellis,False,True,placed on IL with death in family
+2011-12-31,Warriors,201939,Stephen Curry,True,False,activated from IL
+2012-01-01,Bobcats,200748,Tyrus Thomas,False,True,sprained left ankle (DNP)
+2012-01-01,Bulls,1888,Richard Hamilton,False,True,sore left groin (DNP)
+2012-01-01,Clippers,1497,Chauncey Billups,False,True,sore right groin (DNP)
+2012-01-01,Clippers,2501,Reggie Evans,False,True,sprained right foot (DNP)
+2012-01-01,Grizzlies,201144,Mike Conley Jr.,False,True,sprained left ankle (DNP)
+2012-01-01,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2012-01-01,Hornets,202970,Gustavo Ayon,True,False,activated from IL
+2012-01-01,Kings,202355,Hassan Whiteside,True,False,activated from IL
+2012-01-01,Magic,202350,Daniel Orton,False,True,placed on IL
+2012-01-01,Magic,2749,Jameer Nelson,True,False,activated from IL
+2012-01-01,Nuggets,202706,Jordan Hamilton,True,False,activated from IL
+2012-01-01,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-01,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-01,Wizards,2230,Maurice Evans,True,False,activated from IL
+2012-01-01,Grizzlies,202333,Xavier Henry,True,False,activated from IL
+2012-01-01,Wizards,202380,Hamady N'Diaye,False,True,placed on IL
+2012-01-01,Grizzlies,202333,Xavier Henry,False,True,sprained right ankle (DNP)
+2012-01-02,Bucks,2399,Mike Dunleavy Jr.,False,True,illness (DNP)
+2012-01-02,Celtics,979,Jermaine O'Neal,False,True,placed on IL with sore left hamstring
+2012-01-02,Celtics,2404,Chris Wilcox,True,False,activated from IL
+2012-01-02,Heat,202148,Mickell Gladness,False,True,left foot infection (DNP)
+2012-01-02,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2012-01-02,Nets,2743,Kris Humphries,False,True,placed on IL with sore left shoulder
+2012-01-02,Nets,202716,Jordan Williams,True,False,activated from IL
+2012-01-02,Nuggets,2403,Nene Hilario ,False,True,placed on IL with bruised left heel
+2012-01-02,Nuggets,202933,Julyan Stone,True,False,activated from IL
+2012-01-02,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-02,Spurs,1938,Manu Ginobili,False,True,broken bone in left hand (out indefinitely)
+2012-01-02,Timberwolves,200826,Jose Barea ,False,True,strained left hamstring (DNP)
+2012-01-02,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-02,Warriors,101135,David Lee,False,True,placed on IL with illness
+2012-01-02,Warriors,101145,Monta Ellis,True,False,activated from IL
+2012-01-02,Wizards,101142,Ronny Turiaf,False,True,placed on IL with broken left hand
+2012-01-02,Wizards,202686,Jan Vesely,True,False,activated from IL
+2012-01-02,Spurs,202390,Gary Neal,True,False,activated from IL
+2012-01-03,Bobcats,200748,Tyrus Thomas,False,True,sprained left ankle (DNP)
+2012-01-03,Bucks,101106,Andrew Bogut,False,True,personal reasons (DNP)
+2012-01-03,Bucks,2757,Beno Udrih,False,True,sprained/bruised left shoulder (DNP)
+2012-01-03,Bucks,2399,Mike Dunleavy Jr.,False,True,sore groin (DNP)
+2012-01-03,Bulls,201228,C.J. Watson,False,True,sprained left elbow (DNP)
+2012-01-03,Grizzlies,202333,Xavier Henry,False,True,sprained right ankle (DNP)
+2012-01-03,Grizzlies,2216,Zach Randolph,False,True,placed on IL with torn MCL in right knee
+2012-01-03,Kings,202355,Hassan Whiteside,False,True,placed on IL
+2012-01-03,Kings,202715,Tyler Honeycutt,False,True,placed on IL
+2012-01-03,Lakers,202721,Darius Morris,True,False,activated from IL
+2012-01-03,Rockets,202694,Marcus Morris,False,True,placed on IL
+2012-01-03,Rockets,201934,Hasheem Thabeet,True,False,activated from IL
+2012-01-03,Thunder,200757,Thabo Sefolosha,False,True,placed on IL with flu-like symptoms
+2012-01-03,Thunder,2767,Royal Ivey,True,False,activated from IL
+2012-01-03,Grizzlies,201632,Hamed Haddadi,True,False,activated from IL
+2012-01-03,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-04,76ers,202696,Nikola Vucevic,False,True,strained back (DNP)
+2012-01-04,Bobcats,200748,Tyrus Thomas,False,True,sprained left ankle (DNP)
+2012-01-04,Bulls,201228,C.J. Watson,False,True,sprained left elbow (DNP)
+2012-01-04,Cavaliers,202396,Samardo Samuels,False,True,placed on IL for personal reasons
+2012-01-04,Cavaliers,202814,Mychel Thompson,True,False,activated from IL
+2012-01-04,Celtics,951,Ray Allen,False,True,placed on IL with illness / flu
+2012-01-04,Celtics,979,Jermaine O'Neal,True,False,activated from IL
+2012-01-04,Clippers,203203,Chris Wright,False,True,placed on IL
+2012-01-04,Clippers,202339,Eric Bledsoe,False,True,placed on IL with torn lateral meniscus in right knee
+2012-01-04,Clippers,2501,Reggie Evans,False,True,sprained right foot (DNP)
+2012-01-04,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-04,Heat,2548,Dwyane Wade,False,True,bruised left foot (DNP)
+2012-01-04,Heat,202148,Mickell Gladness,False,True,left foot infection (DNP)
+2012-01-04,Hornets,2772,Trevor Ariza,False,True,strained groin (DNP)
+2012-01-04,Knicks,2407,Jared Jeffries,False,True,placed on IL with calf injury
+2012-01-04,Knicks,202697,Iman Shumpert,True,False,activated from IL
+2012-01-04,Mavericks,201157,Sean Williams,False,True,placed on IL
+2012-01-04,Mavericks,201148,Brandan Wright,True,False,activated from IL
+2012-01-04,Nets,101114,Deron Williams,False,True,sore ribs on right side (DNP)
+2012-01-04,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-04,Rockets,201584,Courtney Lee,False,True,placed on IL with calf injury
+2012-01-04,Rockets,202399,Jeff Adrien,True,False,activated from IL
+2012-01-04,Spurs,202709,Cory Joseph,False,True,placed on IL
+2012-01-04,Spurs,1938,Manu Ginobili,False,True,placed on IL with broken bone in left hand
+2012-01-04,Spurs,202390,Gary Neal,True,False,activated from IL
+2012-01-04,Thunder,202385,Ryan Reid,False,True,surgery to repair broken nose (out indefinitely)
+2012-01-04,Timberwolves,200826,Jose Barea ,False,True,strained left hamstring (DNP)
+2012-01-04,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-04,Warriors,101135,David Lee,True,False,activated from IL
+2012-01-04,Cavaliers,201963,Christian Eyenga,False,True,placed on IL
+2012-01-05,Bucks,101106,Andrew Bogut,False,True,placed on IL for personal reasons
+2012-01-05,Bucks,2399,Mike Dunleavy Jr.,False,True,sore groin (DNP)
+2012-01-05,Heat,2548,Dwyane Wade,False,True,bruised left foot (DNP)
+2012-01-05,Heat,202148,Mickell Gladness,False,True,left foot infection (DNP)
+2012-01-05,Kings,201590,Donte Greene,False,True,personal reasons (DNP)
+2012-01-05,Knicks,1710,Mike Bibby,False,True,foot injury (DNP)
+2012-01-06,Cavaliers,202396,Samardo Samuels,True,False,activated from IL
+2012-01-06,Celtics,202734,E'Twaun Moore,False,True,placed on IL
+2012-01-06,Celtics,951,Ray Allen,True,False,activated from IL
+2012-01-06,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-06,Hawks,202388,Donald Sloan,True,False,activated from IL
+2012-01-06,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2012-01-06,Hornets,2772,Trevor Ariza,False,True,strained groin (DNP)
+2012-01-06,Hornets,202333,Xavier Henry,False,True,placed on IL with right ankle inijury
+2012-01-06,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (out indefinitely)
+2012-01-06,Magic,2047,Quentin Richardson,False,True,placed on IL with right ankle injury
+2012-01-06,Magic,202350,Daniel Orton,True,False,activated from IL
+2012-01-06,Nets,202345,Damion James,False,True,sprained right ankle (DTD)
+2012-01-06,Nets,2743,Kris Humphries,True,False,activated from IL
+2012-01-06,Nuggets,202706,Jordan Hamilton,False,True,placed on IL
+2012-01-06,Nuggets,2403,Nene Hilario ,True,False,activated from IL
+2012-01-06,Pacers,202362,Lance Stephenson,False,True,sprained left ankle (DTD)
+2012-01-06,Pacers,1902,Jeff Foster,True,False,activated from IL
+2012-01-06,Pacers,201965,Jeff Ayres,True,False,activated from IL
+2012-01-06,Pistons,2732,Ben Gordon,False,True,personal reasons (DNP)
+2012-01-06,Pistons,201155,Rodney Stuckey,False,True,groin injury (DTD)
+2012-01-06,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-06,Rockets,200768,Kyle Lowry,False,True,bruised right foot (DTD)
+2012-01-06,Thunder,2767,Royal Ivey,False,True,placed on IL
+2012-01-06,Thunder,200757,Thabo Sefolosha,True,False,activated from IL
+2012-01-06,Timberwolves,200826,Jose Barea ,False,True,strained left hamstring (DNP)
+2012-01-06,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-06,Timberwolves,201593,Nikola Pekovic,True,False,returned to lineup
+2012-01-06,Warriors,2740,Andris Biedrins,False,True,placed on IL with right ankle injury
+2012-01-06,Warriors,201939,Stephen Curry,False,True,placed on IL with sprained right ankle
+2012-01-06,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-07,76ers,202730,Lavoy Allen,True,False,activated from IL
+2012-01-07,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-07,Bucks,2757,Beno Udrih,False,True,sprained/bruised left shoulder (DNP)
+2012-01-07,Bucks,2399,Mike Dunleavy Jr.,False,True,placed on IL with groin injury
+2012-01-07,Bucks,202699,Tobias Harris,True,False,activated from IL
+2012-01-07,Bulls,201228,C.J. Watson,False,True,sprained left elbow (DNP)
+2012-01-07,Hawks,202388,Donald Sloan,False,True,placed on IL
+2012-01-07,Heat,2548,Dwyane Wade,False,True,bruised left foot (DNP)
+2012-01-07,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2012-01-07,Hornets,201160,Jason Smith,False,True,personal reasons (DNP)
+2012-01-07,Hornets,2772,Trevor Ariza,False,True,strained groin (DNP)
+2012-01-07,Mavericks,467,Jason Kidd,False,True,strained lower back (DNP)
+2012-01-07,Nets,202345,Damion James,False,True,sore right foot (DNP)
+2012-01-07,Nets,2246,Mehmet Okur,False,True,placed on IL with back spasms
+2012-01-07,Nuggets,2403,Nene Hilario ,False,True,bruised left heel (DNP)
+2012-01-07,Pacers,201965,Jeff Ayres,False,True,sprained right knee (DTD)
+2012-01-07,Pistons,201948,Austin Daye,False,True,sore right ankle (DNP)
+2012-01-07,Pistons,101111,Charlie Villanueva,False,True,sore right ankle (DNP)
+2012-01-07,Pistons,201155,Rodney Stuckey,False,True,sore groin (DNP)
+2012-01-07,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-07,Rockets,200768,Kyle Lowry,False,True,bruised right foot (DTD)
+2012-01-07,Timberwolves,201563,Michael Beasley,False,True,sprained right foot (out indefinitely)
+2012-01-08,Bucks,2757,Beno Udrih,False,True,sprained/bruised left shoulder (DNP)
+2012-01-08,Cavaliers,202814,Mychel Thompson,False,True,placed on IL
+2012-01-08,Cavaliers,201623,Semih Erden,True,False,activated from IL
+2012-01-08,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-08,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-08,Thunder,201953,Eric Maynor,False,True,placed on IL with torn ACL in right knee (out for season)
+2012-01-08,Thunder,2767,Royal Ivey,True,False,activated from IL
+2012-01-08,Timberwolves,200826,Jose Barea ,False,True,strained left hamstring (DNP)
+2012-01-08,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-08,Timberwolves,201563,Michael Beasley,False,True,sprained right foot (DNP)
+2012-01-08,Wizards,1740,Rashard Lewis,False,True,sore right knee (DNP)
+2012-01-09,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-09,Bulls,201228,C.J. Watson,False,True,sprained left elbow (DNP)
+2012-01-09,Hawks,101107,Marvin Williams,False,True,placed on IL with sprained left ankle
+2012-01-09,Hawks,202388,Donald Sloan,True,False,activated from IL
+2012-01-09,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2012-01-09,Hornets,201160,Jason Smith,False,True,personal reasons (DNP)
+2012-01-09,Hornets,2772,Trevor Ariza,False,True,placed on IL
+2012-01-09,Nets,202345,Damion James,False,True,placed on IL with sore right foot (out for season)
+2012-01-09,Nuggets,202933,Julyan Stone,False,True,placed on IL
+2012-01-09,Pacers,101122,Danny Granger,False,True,food poisoning (DNP)
+2012-01-09,Pacers,201588,George Hill,False,True,sore back (DNP)
+2012-01-09,Pistons,101111,Charlie Villanueva,False,True,sore right ankle (DNP)
+2012-01-09,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-09,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-09,Timberwolves,201563,Michael Beasley,False,True,personal reasons (DNP)
+2012-01-09,Nets,2246,Mehmet Okur,True,False,activated from IL
+2012-01-09,Nets,2246,Mehmet Okur,False,True,back spasms (DNP)
+2012-01-10,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-10,Bobcats,200748,Tyrus Thomas,False,True,sprained left ankle (DNP)
+2012-01-10,Bucks,2757,Beno Udrih,False,True,sprained/bruised left shoulder (DNP)
+2012-01-10,Bucks,101106,Andrew Bogut,True,False,activated from IL
+2012-01-10,Bulls,201228,C.J. Watson,False,True,sprained left elbow (DNP)
+2012-01-10,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-10,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-10,Kings,201977,Marcus Thornton (T.),False,True,bruised left thigh (DNP)
+2012-01-10,Lakers,2574,Jason Kapono,False,True,personal reasons (DNP)
+2012-01-10,Lakers,2211,Troy Murphy,False,True,gastroenteritis (DNP)
+2012-01-10,Mavericks,467,Jason Kidd,False,True,placed on IL with sore lower back
+2012-01-10,Pacers,201965,Jeff Ayres,True,False,activated from IL
+2012-01-10,Pistons,101111,Charlie Villanueva,False,True,sore right ankle (DNP)
+2012-01-10,Pistons,201155,Rodney Stuckey,False,True,sore groin (DNP)
+2012-01-10,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-10,Thunder,202332,Cole Aldrich,False,True,personal reasons (DNP)
+2012-01-10,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-10,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-11,76ers,201150,Spencer Hawes,False,True,strained lower back (DNP)
+2012-01-11,Blazers,202337,Luke Babbitt,True,False,activated
+2012-01-11,Bulls,201228,C.J. Watson,False,True,placed on IL with sprained left elbow
+2012-01-11,Bulls,201565,Derrick Rose,False,True,sprained left big toe (DNP)
+2012-01-11,Bulls,1888,Richard Hamilton,False,True,sore left groin (DNP)
+2012-01-11,Celtics,2562,Sasha Pavlovic,False,True,placed on IL
+2012-01-11,Celtics,2605,Marquis Daniels,False,True,illness (DNP)
+2012-01-11,Celtics,202734,E'Twaun Moore,True,False,activated from IL
+2012-01-11,Celtics,2554,Mickael Pietrus,True,False,activated from IL
+2012-01-11,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2012-01-11,Hornets,201160,Jason Smith,False,True,personal reasons (DNP)
+2012-01-11,Jazz,202379,Jeremy Evans,False,True,flu (DNP)
+2012-01-11,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-11,Lakers,2574,Jason Kapono,False,True,personal reasons (DNP)
+2012-01-11,Lakers,2211,Troy Murphy,False,True,gastroenteritis (DNP)
+2012-01-11,Nuggets,201951,Ty Lawson,False,True,strained right foot (DNP)
+2012-01-11,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-11,Raptors,202374,Solomon Alabi,False,True,placed on IL
+2012-01-11,Raptors,101132,Linas Kleiza,True,False,activated from IL
+2012-01-11,Spurs,2551,T.J. Ford,False,True,placed on IL with torn left hamstring
+2012-01-11,Wizards,101154,Andray Blatche,False,True,sore right shoulder (DTD)
+2012-01-11,Spurs,202709,Cory Joseph,True,False,activated from IL
+2012-01-12,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-12,Bucks,2757,Beno Udrih,False,True,placed on IL with sprained/bruised left shoulder
+2012-01-12,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-12,Hawks,201143,Al Horford,False,True,placed on IL with torn left pectoral muscle
+2012-01-12,Magic,202350,Daniel Orton,False,True,placed on IL
+2012-01-12,Pistons,101111,Charlie Villanueva,False,True,sore right ankle (DNP)
+2012-01-12,Suns,2072,Michael Redd,True,False,activated from IL
+2012-01-12,Warriors,2748,Dorell Wright,False,True,bruised left knee (DNP)
+2012-01-12,Warriors,2198,Kwame Brown,False,True,placed on IL with surgery to repair torn pectoralis major muscle in chest
+2012-01-12,Warriors,2740,Andris Biedrins,True,False,activated from IL
+2012-01-12,Hawks,101107,Marvin Williams,True,False,activated from IL
+2012-01-12,Hawks,101107,Marvin Williams,False,True,sprained left ankle (DNP)
+2012-01-13,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-13,Bucks,101106,Andrew Bogut,False,True,concussion (DNP)
+2012-01-13,Celtics,2039,Keyon Dooling,False,True,placed on IL with knee injury
+2012-01-13,Hornets,201569,Eric Gordon,False,True,personal reasons (DNP)
+2012-01-13,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-13,Lakers,203946,Ron Artest,False,True,rest (DNP)
+2012-01-13,Lakers,2581,Steve Blake,False,True,placed on IL with costochondral (rib) fracture in chest
+2012-01-13,Nets,202862,Dennis Horner,False,True,sprained left ankle (DNP)
+2012-01-13,Nuggets,202706,Jordan Hamilton,False,True,placed on IL
+2012-01-13,Nuggets,202933,Julyan Stone,True,False,activated from IL
+2012-01-13,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-01-13,Pistons,101111,Charlie Villanueva,False,True,sore right ankle (DNP)
+2012-01-13,Raptors,200745,Andrea Bargnani,False,True,strained left calf (DNP)
+2012-01-13,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-13,Suns,255,Grant Hill,False,True,strained right quadriceps (DNP)
+2012-01-13,Suns,959,Steve Nash,False,True,bruised right quadricep (DNP)
+2012-01-13,Timberwolves,200826,Jose Barea ,False,True,sprained left ankle (DNP)
+2012-01-13,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-13,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-13,Wizards,101154,Andray Blatche,False,True,sore right shoulder (DTD)
+2012-01-14,Blazers,948,Marcus Camby,False,True,sprained left ankle (DNP)
+2012-01-14,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-14,Bobcats,201591,D.J. White,False,True,personal reasons (DNP)
+2012-01-14,Celtics,2404,Chris Wilcox,False,True,sore left calf (DNP)
+2012-01-14,Clippers,2590,Mo Williams,False,True,sore right foot (DNP)
+2012-01-14,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-14,Hornets,201569,Eric Gordon,False,True,personal reasons (DNP)
+2012-01-14,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-14,Knicks,2546,Carmelo Anthony,False,True,placed on IL with sprained ankle / sprained left wrist (CBC)
+2012-01-14,Knicks,2407,Jared Jeffries,True,False,activated from IL
+2012-01-14,Mavericks,467,Jason Kidd,True,False,activated from IL
+2012-01-14,Nets,200761,Shawne Williams,False,True,shin splits (DNP)
+2012-01-14,Raptors,200745,Andrea Bargnani,False,True,strained left calf (DNP)
+2012-01-14,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-14,Timberwolves,200826,Jose Barea ,False,True,sprained left ankle (DNP)
+2012-01-14,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-14,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-14,Mavericks,202346,Dominique Jones,False,True,placed on IL
+2012-01-15,Jazz,2572,Josh Howard,False,True,strained left quadricep (DNP)
+2012-01-15,Pistons,101111,Charlie Villanueva,False,True,sore right ankle (DNP)
+2012-01-15,Pistons,2863,Damien Wilkins,False,True,personal reasons (DNP)
+2012-01-15,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-16,76ers,202323,Evan Turner,False,True,bruised right quadricep (DNP)
+2012-01-16,Blazers,948,Marcus Camby,False,True,placed on IL with sprained left ankle
+2012-01-16,Blazers,202356,Armon Johnson,True,False,activated from IL
+2012-01-16,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-16,Bucks,2757,Beno Udrih,True,False,activated from IL
+2012-01-16,Bulls,201565,Derrick Rose,False,True,sprained left big toe / turf toe (DNP)
+2012-01-16,Bulls,1888,Richard Hamilton,False,True,placed on IL with sore left groin
+2012-01-16,Bulls,201228,C.J. Watson,True,False,activated from IL
+2012-01-16,Celtics,2404,Chris Wilcox,False,True,placed on IL with left calf injury
+2012-01-16,Celtics,2562,Sasha Pavlovic,True,False,activated from IL
+2012-01-16,Clippers,2567,Brian Cook,False,True,placed on IL with sprained left ankle
+2012-01-16,Clippers,101108,Chris Paul,False,True,strained left hamstring (DNP)
+2012-01-16,Clippers,2590,Mo Williams,False,True,sore right foot (DNP)
+2012-01-16,Hornets,201569,Eric Gordon,False,True,bruised right knee (DNP)
+2012-01-16,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-16,Knicks,202391,Jeremy Lin,False,True,placed on IL
+2012-01-16,Knicks,2546,Carmelo Anthony,True,False,activated from IL
+2012-01-16,Magic,2202,Jason Richardson,False,True,placed on IL with left knee injury
+2012-01-16,Magic,2047,Quentin Richardson,True,False,activated from IL
+2012-01-16,Nets,200761,Shawne Williams,False,True,shin splits (DNP)
+2012-01-16,Raptors,200745,Andrea Bargnani,False,True,strained left calf (DNP)
+2012-01-16,Raptors,201949,James Johnson,False,True,sprained right ankle (DNP)
+2012-01-16,Raptors,201573,Jerryd Bayless,False,True,sprained left ankle (DNP)
+2012-01-16,Timberwolves,200826,Jose Barea ,False,True,sprained left ankle (DNP)
+2012-01-16,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-16,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-16,Wizards,1740,Rashard Lewis,False,True,sore right knee (DNP)
+2012-01-16,Thunder,202385,Ryan Reid,True,False,activated from IL
+2012-01-17,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-17,Bulls,201565,Derrick Rose,False,True,placed on IL with sprained left big toe / turf toe
+2012-01-17,Bulls,1888,Richard Hamilton,True,False,activated from IL
+2012-01-17,Cavaliers,1515,Anthony Parker,False,True,placed on IL with back injury
+2012-01-17,Cavaliers,202814,Mychel Thompson,True,False,activated from IL
+2012-01-17,Clippers,101108,Chris Paul,False,True,strained left hamstring (DNP)
+2012-01-17,Clippers,2590,Mo Williams,False,True,sore right foot (DNP)
+2012-01-17,Hawks,201143,Al Horford,False,True,surgery to repair torn left pectoral muscle (out for season)
+2012-01-17,Heat,202354,Dexter Pittman,False,True,placed on IL flu
+2012-01-17,Heat,2548,Dwyane Wade,False,True,sprained right ankle (DNP)
+2012-01-17,Heat,2034,Mike Miller,True,False,activated from IL
+2012-01-17,Jazz,202324,Derrick Favors,False,True,sprained left ankle (DNP)
+2012-01-17,Jazz,2572,Josh Howard,False,True,strained left quadricep (DNP)
+2012-01-17,Nuggets,201164,Rudy Fernandez,False,True,placed on IL with Achilles tendon injury
+2012-01-17,Nuggets,202706,Jordan Hamilton,True,False,activated from IL
+2012-01-17,Pistons,101111,Charlie Villanueva,False,True,sore right ankle (DNP)
+2012-01-17,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-17,Rockets,201934,Hasheem Thabeet,False,True,placed on IL
+2012-01-17,Rockets,201584,Courtney Lee,True,False,activated from IL
+2012-01-18,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-01-18,Clippers,101108,Chris Paul,False,True,strained left hamstring (DNP)
+2012-01-18,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-18,Hornets,201569,Eric Gordon,False,True,placed on IL with bruised right knee
+2012-01-18,Hornets,2772,Trevor Ariza,True,False,activated from IL
+2012-01-18,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-18,Knicks,201611,Henry Walker,False,True,sore right knee (DNP)
+2012-01-18,Magic,2045,Hedo Turkoglu,False,True,placed on IL with back spasms
+2012-01-18,Magic,202350,Daniel Orton,True,False,activated from IL
+2012-01-18,Mavericks,1713,Vince Carter,False,True,sprained left foot (DNP)
+2012-01-18,Nets,200761,Shawne Williams,False,True,shin splits (DNP)
+2012-01-18,Nuggets,202389,Timofey Mozgov,False,True,strained lower back (DNP)
+2012-01-18,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-01-18,Pacers,201965,Jeff Ayres,False,True,concussion (DNP)
+2012-01-18,Pistons,101111,Charlie Villanueva,False,True,sore right ankle (DNP)
+2012-01-18,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-18,Raptors,200745,Andrea Bargnani,False,True,strained left calf (DNP)
+2012-01-18,Raptors,201573,Jerryd Bayless,False,True,placed on IL with sprained left ankle
+2012-01-18,Raptors,201189,Aaron Gray,True,False,activated from IL
+2012-01-18,Thunder,201953,Eric Maynor,False,True,surgery on right knee to repair torn ACL (out for season)
+2012-01-18,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-18,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-19,Heat,2548,Dwyane Wade,False,True,placed on IL with sprained right ankle
+2012-01-19,Heat,202148,Mickell Gladness,False,True,placed on IL
+2012-01-19,Heat,202354,Dexter Pittman,True,False,activated from IL
+2012-01-19,Heat,2201,Eddy Curry,True,False,activated from IL
+2012-01-19,Jazz,2224,Jamaal Tinsley,False,True,dermatitis (DTD)
+2012-01-19,Jazz,2572,Josh Howard,False,True,strained left quadricep (DNP)
+2012-01-19,Mavericks,1713,Vince Carter,False,True,sprained left foot (DNP)
+2012-01-19,Rockets,201941,Jordan Hill,False,True,placed on IL with flu
+2012-01-19,Rockets,201934,Hasheem Thabeet,True,False,activated from IL
+2012-01-19,Warriors,2198,Kwame Brown,False,True,surgery to repair torn pectoralis major muscle in chest
+2012-01-20,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-01-20,Blazers,202356,Armon Johnson,False,True,placed on IL
+2012-01-20,Blazers,948,Marcus Camby,True,False,activated from IL
+2012-01-20,Bucks,202359,Darington Hobson,False,True,placed on IL
+2012-01-20,Bucks,2399,Mike Dunleavy Jr.,True,False,activated from IL
+2012-01-20,Cavaliers,202814,Mychel Thompson,False,True,placed on IL
+2012-01-20,Cavaliers,1515,Anthony Parker,True,False,activated from IL
+2012-01-20,Celtics,200765,Rajon Rondo,False,True,sprained right wrist (DNP)
+2012-01-20,Clippers,2406,Caron Butler,False,True,placed on IL with hyperextended right knee
+2012-01-20,Clippers,101108,Chris Paul,False,True,strained left hamstring (DNP)
+2012-01-20,Clippers,203203,Chris Wright,False,True,placed on IL
+2012-01-20,Clippers,2567,Brian Cook,True,False,activated from IL
+2012-01-20,Grizzlies,201632,Hamed Haddadi,False,True,Visa issues (DNP)
+2012-01-20,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-20,Magic,2202,Jason Richardson,True,False,activated from IL
+2012-01-20,Nuggets,202706,Jordan Hamilton,False,True,placed on IL
+2012-01-20,Nuggets,2403,Nene Hilario ,False,True,bruised right heel (DNP)
+2012-01-20,Nuggets,201164,Rudy Fernandez,True,False,activated from IL
+2012-01-20,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-01-20,Pistons,101111,Charlie Villanueva,False,True,placed on IL with sore right ankle
+2012-01-20,Pistons,201155,Rodney Stuckey,False,True,sore groin (DNP)
+2012-01-20,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-20,Raptors,200745,Andrea Bargnani,False,True,strained left calf (DNP)
+2012-01-20,Timberwolves,200826,Jose Barea ,False,True,sprained left ankle (DNP)
+2012-01-20,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-20,Warriors,201939,Stephen Curry,True,False,activated from IL
+2012-01-20,Bucks,1536,Stephen Jackson,False,True,placed on IL for suspension
+2012-01-21,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-01-21,Blazers,2222,Gerald Wallace,False,True,finger injury (DTD)
+2012-01-21,Bobcats,1894,Corey Maggette,False,True,strained left hamstring (DNP)
+2012-01-21,Bobcats,2059,Eduardo Najera,True,False,activated from IL
+2012-01-21,Bulls,201149,Joakim Noah,False,True,sprained left ankle (DNP)
+2012-01-21,Bulls,201959,Taj Gibson,False,True,sprained left ankle (DNP)
+2012-01-21,Cavaliers,200789,Daniel Gibson,False,True,personal reasons (DNP)
+2012-01-21,Heat,202354,Dexter Pittman,False,True,placed on IL with flu
+2012-01-21,Heat,202148,Mickell Gladness,True,False,activated from IL
+2012-01-21,Jazz,2572,Josh Howard,False,True,strained left quadricep (DNP)
+2012-01-21,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-21,Kings,2422,John Salmons,False,True,illness (DNP)
+2012-01-21,Mavericks,1717,Dirk Nowitzki,False,True,sore right knee (DNP)
+2012-01-21,Mavericks,1713,Vince Carter,False,True,sprained left foot (DNP)
+2012-01-21,Nets,200761,Shawne Williams,False,True,shin splits (DNP)
+2012-01-21,Nuggets,201167,Arron Afflalo,False,True,placed on IL with strained right groin
+2012-01-21,Nuggets,201164,Rudy Fernandez,False,True,strained right Achilles tendon (DTD)
+2012-01-21,Nuggets,202706,Jordan Hamilton,True,False,activated from IL
+2012-01-21,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-01-21,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-21,Rockets,201934,Hasheem Thabeet,False,True,placed on IL
+2012-01-21,Rockets,201941,Jordan Hill,True,False,activated from IL
+2012-01-21,Spurs,1495,Tim Duncan,False,True,rest (DNP)
+2012-01-21,Timberwolves,200826,Jose Barea ,False,True,sprained left ankle (DNP)
+2012-01-21,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-21,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-22,Bobcats,201591,D.J. White,False,True,bruised left knee (DNP)
+2012-01-22,Bucks,201972,Jon Brockman,False,True,placed on IL
+2012-01-22,Bucks,1536,Stephen Jackson,True,False,activated from IL
+2012-01-22,Celtics,200765,Rajon Rondo,False,True,sprained right wrist (DNP)
+2012-01-22,Clippers,101108,Chris Paul,False,True,placed on IL with strained left hamstring
+2012-01-22,Clippers,2406,Caron Butler,True,False,activated from IL
+2012-01-22,Heat,202148,Mickell Gladness,False,True,placed on IL
+2012-01-22,Heat,202354,Dexter Pittman,True,False,activated from IL
+2012-01-22,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-01-22,Raptors,200745,Andrea Bargnani,False,True,placed on IL with strained left calf
+2012-01-22,Raptors,201573,Jerryd Bayless,True,False,activated from IL
+2012-01-23,76ers,202696,Nikola Vucevic,False,True,strained left quadricep / left knee injury (DNP)
+2012-01-23,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-01-23,Bulls,2736,Luol Deng,False,True,torn ligament in left wrist (DNP)
+2012-01-23,Bulls,201959,Taj Gibson,False,True,placed on IL with sprained left ankle
+2012-01-23,Bulls,201565,Derrick Rose,True,False,activated from IL
+2012-01-23,Celtics,2554,Mickael Pietrus,False,True,sore right shoulder (DNP)
+2012-01-23,Celtics,200765,Rajon Rondo,False,True,sprained right wrist (DNP)
+2012-01-23,Celtics,951,Ray Allen,False,True,sprained left ankle (DNP)
+2012-01-23,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-23,Kings,201977,Marcus Thornton (T.),False,True,bruised left thigh (DNP)
+2012-01-23,Magic,202350,Daniel Orton,False,True,placed on IL
+2012-01-23,Magic,2045,Hedo Turkoglu,True,False,activated from IL
+2012-01-23,Mavericks,1717,Dirk Nowitzki,False,True,sore right knee (DNP)
+2012-01-23,Mavericks,1713,Vince Carter,False,True,placed on IL with sprained left foot
+2012-01-23,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-01-23,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-23,Timberwolves,200826,Jose Barea ,False,True,sprained left ankle (DNP)
+2012-01-23,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-23,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-23,Timberwolves,201949,Wes Johnson,False,True,illness (DNP)
+2012-01-23,Mavericks,202346,Dominique Jones,True,False,activated from IL
+2012-01-24,Bobcats,201571,D.J. Augustine,False,True,right big toe inflammation (DNP)
+2012-01-24,Bobcats,201591,D.J. White,False,True,bruised left knee (DNP)
+2012-01-24,Cavaliers,202684,Tristan Thompson,False,True,placed on IL with sprained left ankle
+2012-01-24,Cavaliers,201963,Christian Eyenga,True,False,activated from IL
+2012-01-24,Knicks,202725,Josh Harrellson,False,True,placed on IL with wrist injury
+2012-01-24,Knicks,202391,Jeremy Lin,True,False,activated from IL
+2012-01-24,Nets,202345,Damion James,False,True,surgery on right foot to replace previously inserted screw (out for season)
+2012-01-24,Pacers,201985,A.J. Price,False,True,strep throat (DNP)
+2012-01-24,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-01-24,Raptors,2048,Jamaal Magloire,False,True,placed on IL
+2012-01-24,Raptors,200745,Andrea Bargnani,True,False,activated from IL
+2012-01-25,76ers,202696,Nikola Vucevic,False,True,strained left quadricep (DNP)
+2012-01-25,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-01-25,Bobcats,201945,Gerald Henderson Jr.,False,True,bruised lower back (DNP)
+2012-01-25,Bulls,2736,Luol Deng,False,True,torn ligament in left wrist (DNP)
+2012-01-25,Clippers,202727,Travis Leslie,False,True,placed on IL
+2012-01-25,Clippers,101108,Chris Paul,True,False,activated from IL
+2012-01-25,Hawks,202388,Donald Sloan,False,True,placed on IL
+2012-01-25,Hawks,2550,Kirk Hinrich,True,False,activated from IL
+2012-01-25,Hornets,2549,Chris Kaman,False,True,placed on IL
+2012-01-25,Hornets,202333,Xavier Henry,True,False,activated from IL
+2012-01-25,Jazz,2744,Al Jefferson,False,True,right ankle inflammation (DNP)
+2012-01-25,Kings,101236,Chuck Hayes,False,True,dislocated left shoulder (DNP)
+2012-01-25,Mavericks,1717,Dirk Nowitzki,False,True,sore right knee (DNP)
+2012-01-25,Nuggets,202389,Timofey Mozgov,False,True,placed on IL for personal reasons
+2012-01-25,Pacers,201985,A.J. Price,False,True,strep throat (DNP)
+2012-01-25,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-01-25,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-01-25,Pistons,2419,Tayshaun Prince,False,True,personal reasons (DNP)
+2012-01-25,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-25,Raptors,1853,Anthony Carter,False,True,placed on IL
+2012-01-25,Raptors,2048,Jamaal Magloire,True,False,activated from IL
+2012-01-25,Timberwolves,200826,Jose Barea ,False,True,sprained left ankle (DNP)
+2012-01-25,Timberwolves,2557,Luke Ridnour,False,True,sore left knee (DNP)
+2012-01-25,Timberwolves,202723,Malcolm Lee,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-01-25,Timberwolves,201563,Michael Beasley,False,True,sprained right midfoot (DNP)
+2012-01-25,Kings,202355,Hassan Whiteside,True,False,activated from IL
+2012-01-25,Lakers,202382,Derrick Caracter,True,False,activated from IL
+2012-01-25,Nuggets,201167,Arron Afflalo,True,False,activated from IL
+2012-01-25,Nuggets,201167,Arron Afflalo,False,True,strained right groin (DNP)
+2012-01-26,Bucks,101106,Andrew Bogut,False,True,fractured left ankle (out indefinitely)
+2012-01-26,Celtics,979,Jermaine O'Neal,False,True,sore left knee (DNP)
+2012-01-26,Celtics,200765,Rajon Rondo,False,True,placed on IL with sprained right wrist
+2012-01-26,Celtics,951,Ray Allen,False,True,placed on IL with birth of child
+2012-01-26,Celtics,2404,Chris Wilcox,True,False,activated from IL
+2012-01-26,Celtics,2039,Keyon Dooling,True,False,activated from IL
+2012-01-26,Magic,202712,Justin Harper,False,True,placed on IL
+2012-01-26,Magic,202350,Daniel Orton,True,False,activated from IL
+2012-01-26,Clippers,202339,Eric Bledsoe,True,False,activated from IL
+2012-01-27,76ers,202696,Nikola Vucevic,False,True,placed on IL
+2012-01-27,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-01-27,Bobcats,201571,D.J. Augustine,False,True,right big toe inflammation (DNP)
+2012-01-27,Bobcats,201591,D.J. White,False,True,bruised left knee (DNP)
+2012-01-27,Bucks,101106,Andrew Bogut,False,True,placed on IL with fractured left ankle
+2012-01-27,Bucks,201972,Jon Brockman,True,False,activated from IL
+2012-01-27,Bulls,2736,Luol Deng,False,True,placed on IL with torn ligament in left wrist
+2012-01-27,Bulls,1888,Richard Hamilton,False,True,bruised thigh / groin injury (DNP)
+2012-01-27,Bulls,201959,Taj Gibson,True,False,activated from IL
+2012-01-27,Cavaliers,202376,Luke Harangody,False,True,placed on IL
+2012-01-27,Cavaliers,202684,Tristan Thompson,True,False,activated from IL
+2012-01-27,Celtics,979,Jermaine O'Neal,False,True,sore left knee (DNP)
+2012-01-27,Celtics,2039,Keyon Dooling,False,True,right hip pointer (DNP)
+2012-01-27,Heat,202227,Terrel Harris,False,True,placed on IL
+2012-01-27,Heat,2548,Dwyane Wade,True,False,activated from IL
+2012-01-27,Jazz,2224,Jamaal Tinsley,True,False,returned to lineup
+2012-01-27,Knicks,2546,Carmelo Anthony,False,True,placed on IL with sprained right ankle / wrist injury (CBC)
+2012-01-27,Knicks,202725,Josh Harrellson,True,False,activated from IL
+2012-01-27,Magic,201583,Ryan Anderson,False,True,placed on IL with sore left calf
+2012-01-27,Magic,202712,Justin Harper,True,False,activated from IL
+2012-01-27,Mavericks,2753,Delonte West,False,True,strained right hamstring (DNP)
+2012-01-27,Mavericks,1717,Dirk Nowitzki,False,True,placed on IL with sore right knee
+2012-01-27,Mavericks,1713,Vince Carter,True,False,activated from IL
+2012-01-27,Nets,2246,Mehmet Okur,False,True,sore lower back / back spasms (DNP)
+2012-01-27,Nuggets,201951,Ty Lawson,False,True,placed on IL with sprained left ankle
+2012-01-27,Nuggets,201164,Rudy Fernandez,True,False,returned to lineup
+2012-01-27,Nuggets,202389,Timofey Mozgov,True,False,activated from IL
+2012-01-27,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-01-27,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-01-27,Pistons,2419,Tayshaun Prince,False,True,personal reasons (DNP)
+2012-01-27,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-27,Raptors,200745,Andrea Bargnani,False,True,placed on IL with strained left calf
+2012-01-27,Raptors,202374,Solomon Alabi,True,False,activated from IL
+2012-01-27,Rockets,2755,Kevin Martin,False,True,placed on IL with plantar fasciitis in right foot
+2012-01-27,Rockets,201934,Hasheem Thabeet,True,False,activated from IL
+2012-01-27,Timberwolves,201229,Anthony Tolliver,False,True,wrist injury (DTD)
+2012-01-27,Timberwolves,2545,Darko Milicic,False,True,illness (DNP)
+2012-01-27,Timberwolves,200826,Jose Barea ,False,True,placed on IL with sprained left ankle
+2012-01-27,Timberwolves,202723,Malcolm Lee,False,True,placed on IL with recovering from surgery on left knee to repair torn meniscus
+2012-01-27,Timberwolves,1802,Brad Miller,True,False,activated from IL
+2012-01-27,Timberwolves,101110,Martell Webster,True,False,activated from IL
+2012-01-27,Wizards,202338,Kevin Seraphin,False,True,dental procedure (DNP)
+2012-01-28,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-01-28,Bobcats,1894,Corey Maggette,False,True,placed on IL (date approximate)
+2012-01-28,Bobcats,201571,D.J. Augustine,False,True,right big toe inflammation (DNP)
+2012-01-28,Bobcats,201591,D.J. White,False,True,bruised left knee (DNP)
+2012-01-28,Bobcats,201945,Gerald Henderson Jr.,False,True,bruised/strained lower back (DNP)
+2012-01-28,Kings,202355,Hassan Whiteside,False,True,placed on IL
+2012-01-28,Knicks,202725,Josh Harrellson,False,True,placed on IL with wrist injury
+2012-01-28,Lakers,202382,Derrick Caracter,False,True,placed on IL
+2012-01-28,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-01-28,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-29,Bulls,201228,C.J. Watson,False,True,wrist injury (DNP)
+2012-01-29,Cavaliers,200789,Daniel Gibson,False,True,placed on IL with sore neck
+2012-01-29,Cavaliers,202814,Mychel Thompson,True,False,activated from IL
+2012-01-29,Celtics,979,Jermaine O'Neal,False,True,sore left knee (DNP)
+2012-01-29,Celtics,2039,Keyon Dooling,False,True,placed on IL with right hip pointer
+2012-01-29,Celtics,951,Ray Allen,True,False,activated from IL
+2012-01-29,Magic,2749,Jameer Nelson,False,True,placed on IL with concussion
+2012-01-29,Magic,201583,Ryan Anderson,True,False,activated from IL
+2012-01-29,Mavericks,467,Jason Kidd,False,True,placed on IL with strained right calf
+2012-01-29,Mavericks,1717,Dirk Nowitzki,True,False,activated from IL
+2012-01-29,Nets,2246,Mehmet Okur,False,True,placed on IL with sore lower back
+2012-01-29,Nuggets,202706,Jordan Hamilton,False,True,placed on IL
+2012-01-29,Nuggets,201951,Ty Lawson,False,True,sprained left ankle (DNP)
+2012-01-29,Raptors,2571,Leandro Barbosa,False,True,placed on IL with sore left ankle
+2012-01-29,Raptors,1853,Anthony Carter,True,False,activated from IL
+2012-01-29,Timberwolves,2545,Darko Milicic,False,True,illness (DNP)
+2012-01-29,Clippers,202339,Eric Bledsoe,True,False,activated from IL
+2012-01-29,Nets,202716,Jordan Williams,True,False,activated from IL
+2012-01-30,76ers,201150,Spencer Hawes,False,True,placed on IL with strained left Achilles tendon
+2012-01-30,76ers,202696,Nikola Vucevic,True,False,activated from IL
+2012-01-30,Bucks,1536,Stephen Jackson,False,True,DNP
+2012-01-30,Jazz,2744,Al Jefferson,False,True,right ankle inflammation (DNP)
+2012-01-30,Jazz,1952,Raja Bell,False,True,strained right adductor (DNP)
+2012-01-30,Magic,2202,Jason Richardson,False,True,placed on IL for rest / sore left knee
+2012-01-30,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-01-30,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-30,Rockets,201934,Hasheem Thabeet,False,True,placed on IL
+2012-01-30,Rockets,2755,Kevin Martin,True,False,activated from IL
+2012-01-30,Suns,959,Steve Nash,False,True,bruised left thigh (DNP)
+2012-01-30,Thunder,202385,Ryan Reid,False,True,placed on IL (date approximate)
+2012-01-30,Thunder,200757,Thabo Sefolosha,False,True,sore right foot (DNP)
+2012-01-30,Timberwolves,2545,Darko Milicic,False,True,illness (DNP)
+2012-01-30,Wizards,101154,Andray Blatche,False,True,placed on IL with strained left calf
+2012-01-30,Wizards,202380,Hamady N'Diaye,True,False,activated from IL
+2012-01-31,Bobcats,201571,D.J. Augustine,False,True,placed on IL
+2012-01-31,Bobcats,202130,Reggie Williams,True,False,activated from IL
+2012-01-31,Cavaliers,1515,Anthony Parker,False,True,strained lower back (DNP)
+2012-01-31,Cavaliers,1515,Anthony Parker,False,True,placed on IL with strained lower back
+2012-01-31,Grizzlies,201970,Sam Young,False,True,back spasms (DNP)
+2012-01-31,Kings,202715,Tyler Honeycutt,True,False,activated from IL
+2012-01-31,Knicks,2546,Carmelo Anthony,True,False,activated from IL
+2012-01-31,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-01-31,Nuggets,201951,Ty Lawson,True,False,activated from IL
+2012-01-31,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-01-31,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-01-31,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-01-31,Raptors,202374,Solomon Alabi,False,True,placed on IL
+2012-01-31,Raptors,2571,Leandro Barbosa,True,False,activated from IL
+2012-02-01,Blazers,201587,Nicolas Batum,False,True,placed on IL with left knee injury
+2012-02-01,Blazers,202356,Armon Johnson,True,False,activated from IL
+2012-02-01,Bulls,1888,Richard Hamilton,False,True,right thigh injury (DNP)
+2012-02-01,Clippers,2406,Caron Butler,False,True,sore lower back (DNP)
+2012-02-01,Clippers,202339,Eric Bledsoe,False,True,placed on IL with sore right knee
+2012-02-01,Clippers,202727,Travis Leslie,True,False,activated from IL
+2012-02-01,Jazz,1952,Raja Bell,False,True,strained right adductor (DNP)
+2012-02-01,Mavericks,2217,Brendan Haywood,False,True,tightness in lower back (DNP)
+2012-02-01,Mavericks,1885,Lamar Odom,False,True,stomach ailment (DNP)
+2012-02-01,Nets,201627,Anthony Morrow,False,True,sore/sprained left ankle (DNP)
+2012-02-01,Nets,101130,Johan Petro,False,True,stomach virus (DNP)
+2012-02-01,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-01,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-01,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-02-01,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-02-01,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-02-01,Raptors,101132,Linas Kleiza,False,True,placed on IL with sore right knee
+2012-02-01,Raptors,202374,Solomon Alabi,True,False,activated from IL
+2012-02-01,Thunder,200757,Thabo Sefolosha,False,True,sore right foot (DNP)
+2012-02-01,Timberwolves,201576,Anthony Randolph,False,True,placed on IL
+2012-02-01,Timberwolves,200826,Jose Barea ,True,False,activated from IL
+2012-02-02,Bobcats,201945,Gerald Henderson Jr.,False,True,strained right hamstring (out indefinitely)
+2012-02-02,Bulls,1888,Richard Hamilton,False,True,right thigh injury (DNP)
+2012-02-02,Hornets,101127,Jarrett Jack,False,True,knee injury (DTD)
+2012-02-02,Jazz,2734,Devin Harris,False,True,strained left hamstring (DNP)
+2012-02-02,Jazz,2248,Earl Watson,False,True,sprained left ankle (DNP)
+2012-02-02,Jazz,1952,Raja Bell,False,True,strained right adductor (DNP)
+2012-02-02,Nuggets,201147,Corey Brewer,False,True,placed on IL for personal reasons
+2012-02-02,Nuggets,202933,Julyan Stone,False,True,placed on IL
+2012-02-02,Nuggets,202706,Jordan Hamilton,True,False,activated from IL
+2012-02-03,Blazers,201141,Greg Oden,False,True,surgery on right knee to remove debris (out indefinitely)
+2012-02-03,Cavaliers,202684,Tristan Thompson,False,True,placed on IL with sprained left ankle (date approximate)
+2012-02-03,Cavaliers,202376,Luke Harangody,True,False,activated from IL
+2012-02-03,Celtics,2605,Marquis Daniels,False,True,placed on IL with right ankle injury
+2012-02-03,Celtics,200765,Rajon Rondo,True,False,activated from IL
+2012-02-03,Magic,201175,Glen Davis,False,True,placed on IL for suspension
+2012-02-03,Magic,2202,Jason Richardson,True,False,activated from IL
+2012-02-03,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-03,Nuggets,202706,Jordan Hamilton,False,True,placed on IL
+2012-02-03,Nuggets,201147,Corey Brewer,True,False,activated from IL
+2012-02-03,Nuggets,202933,Julyan Stone,True,False,activated from IL
+2012-02-03,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-03,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-02-03,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-02-03,Raptors,202374,Solomon Alabi,False,True,placed on IL
+2012-02-03,Raptors,101132,Linas Kleiza,True,False,activated from IL
+2012-02-03,Thunder,200757,Thabo Sefolosha,False,True,sore right foot (DNP)
+2012-02-04,76ers,1882,Elton Brand,False,True,placed on IL with sprained right thumb
+2012-02-04,76ers,201150,Spencer Hawes,True,False,activated from IL
+2012-02-04,Blazers,202356,Armon Johnson,False,True,placed on IL
+2012-02-04,Blazers,201587,Nicolas Batum,True,False,activated from IL
+2012-02-04,Bobcats,201945,Gerald Henderson Jr.,False,True,strained right hamstring (DNP)
+2012-02-04,Bulls,1888,Richard Hamilton,False,True,placed on IL with right thigh injury
+2012-02-04,Bulls,2736,Luol Deng,True,False,activated from IL
+2012-02-04,Clippers,2030,Kenyon Martin (Sr.),False,True,placed on IL
+2012-02-04,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-02-04,Hornets,101127,Jarrett Jack,False,True,sore left knee (DNP)
+2012-02-04,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-04,Nuggets,202389,Timofey Mozgov,False,True,placed on IL with left leg/ankle injury
+2012-02-04,Nuggets,202706,Jordan Hamilton,True,False,activated from IL
+2012-02-04,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-04,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-02-04,Pistons,2732,Ben Gordon,False,True,sore left shoulder (DNP)
+2012-02-04,Pistons,101198,Will Bynum,False,True,strained right foot (DNP)
+2012-02-04,Raptors,101161,Amir Johnson,False,True,placed on IL
+2012-02-04,Suns,201162,Jared Dudley,False,True,bruised thigh (DNP)
+2012-02-04,Thunder,200757,Thabo Sefolosha,False,True,sore right foot (DNP)
+2012-02-04,Timberwolves,2545,Darko Milicic,False,True,placed on IL with bruised left quadricep
+2012-02-04,Timberwolves,201576,Anthony Randolph,True,False,activated from IL
+2012-02-05,Celtics,101138,Brandon Bass,False,True,sore left knee (DNP)
+2012-02-05,Grizzlies,2754,Tony Allen,False,True,hip injury (DTD)
+2012-02-06,Blazers,101109,Raymond Felton,False,True,placed on IL with sprained left foot
+2012-02-06,Blazers,202356,Armon Johnson,True,False,activated from IL
+2012-02-06,Bulls,1888,Richard Hamilton,False,True,right thigh injury (DNP) (Fox)
+2012-02-06,Grizzlies,2754,Tony Allen,False,True,sore left hip/knee (DNP)
+2012-02-06,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-02-06,Hornets,201171,Carl Landry,False,True,placed on IL with sprained MCL in left knee
+2012-02-06,Hornets,101127,Jarrett Jack,False,True,sore left knee (DNP)
+2012-02-06,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-06,Hornets,2549,Chris Kaman,True,False,activated from IL
+2012-02-06,Magic,202712,Justin Harper,False,True,placed on IL
+2012-02-06,Magic,2749,Jameer Nelson,True,False,activated from IL
+2012-02-06,Nets,201627,Anthony Morrow,False,True,personal reasons (DNP)
+2012-02-06,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-06,Nuggets,201167,Arron Afflalo,False,True,sprained left ankle (DNP)
+2012-02-06,Nuggets,201147,Corey Brewer,False,True,personal reasons (DNP) (P CBC)
+2012-02-06,Nuggets,201147,Corey Brewer,False,True,placed on IL (Fox)
+2012-02-06,Nuggets,2403,Nene Hilario ,False,True,strained left heel (DNP)
+2012-02-06,Nuggets,202389,Timofey Mozgov,False,True,sprained left ankle (DNP) (Fox)
+2012-02-06,Thunder,200757,Thabo Sefolosha,False,True,sore right foot (DNP)
+2012-02-06,Thunder,200757,Thabo Sefolosha,False,True,placed on IL (F)
+2012-02-06,Wizards,1740,Rashard Lewis,False,True,sore left (P) / right (CBC) knee (DNP)
+2012-02-06,Magic,201175,Glen Davis,True,False,activated from IL
+2012-02-06,Thunder,202385,Ryan Reid,True,False,activated from IL
+2012-02-06,Timberwolves,202723,Malcolm Lee,True,False,activated from IL
+2012-02-07,Clippers,1497,Chauncey Billups,False,True,torn left Achilles tendon (out for season)
+2012-02-07,Jazz,2224,Jamaal Tinsley,False,True,personal reasons (DNP)
+2012-02-07,Knicks,2546,Carmelo Anthony,False,True,strained right groin (out indefinitely)
+2012-02-07,Nuggets,201568,Danilo Gallinari,False,True,chip fracture in left ankle (out indefinitely)
+2012-02-07,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-07,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-02-07,Warriors,101126,Nate Robinson,False,True,strained left groin (DNP)
+2012-02-07,76ers,202342,Craig Brackins,False,True,placed on IL (date approximate)
+2012-02-08,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-02-08,76ers,1882,Elton Brand,True,False,activated from IL
+2012-02-08,Blazers,202356,Armon Johnson,False,True,placed on IL
+2012-02-08,Blazers,101109,Raymond Felton,True,False,activated from IL
+2012-02-08,Bucks,101141,Ersan Ilyasova,False,True,back spasms (DNP)
+2012-02-08,Bulls,1888,Richard Hamilton,False,True,right thigh injury (DNP) (Fox)
+2012-02-08,Cavaliers,202681,Kyrie Irving,False,True,concussion (DNP)
+2012-02-08,Cavaliers,202684,Tristan Thompson,False,True,placed on IL (P)
+2012-02-08,Cavaliers,200789,Daniel Gibson,True,False,activated from IL
+2012-02-08,Clippers,1497,Chauncey Billups,False,True,placed on IL with torn left Achilles tendon (out for season)
+2012-02-08,Clippers,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2012-02-08,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-02-08,Heat,201596,Mario Chalmers,False,True,placed on IL with sprained left hand
+2012-02-08,Heat,202227,Terrel Harris,True,False,activated from IL
+2012-02-08,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-08,Knicks,2546,Carmelo Anthony,False,True,strained right groin (DNP)
+2012-02-08,Magic,202350,Daniel Orton,False,True,placed on IL
+2012-02-08,Magic,202712,Justin Harper,True,False,activated from IL
+2012-02-08,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-08,Nuggets,201147,Corey Brewer,False,True,death in family (DNP) (P)
+2012-02-08,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP)
+2012-02-08,Nuggets,202389,Timofey Mozgov,False,True,sprained left ankle (DNP) (Fox)
+2012-02-08,Pacers,201588,George Hill,False,True,chip fracture in left ankle (DNP)
+2012-02-08,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-02-08,Wizards,101154,Andray Blatche,False,True,strained left calf (DNP) (F)
+2012-02-08,Wizards,1740,Rashard Lewis,False,True,sore left (P) / right (CBC) knee (DNP)
+2012-02-09,Celtics,2562,Sasha Pavlovic,False,True,placed on IL with wrist injury
+2012-02-09,Celtics,2605,Marquis Daniels,True,False,activated from IL
+2012-02-09,Lakers,202721,Darius Morris,False,True,placed on IL
+2012-02-09,Lakers,2581,Steve Blake,True,False,activated from IL
+2012-02-09,Nets,2586,Keith Bogans,False,True,fractured left ankle / torn ligament in left ankle (out for season)
+2012-02-09,Nuggets,201147,Corey Brewer,False,True,death in family (DNP) (P)
+2012-02-09,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP)
+2012-02-09,Nuggets,202389,Timofey Mozgov,False,True,sprained left ankle (DNP) (Fox)
+2012-02-09,Rockets,201934,Hasheem Thabeet,True,False,activated from IL
+2012-02-10,Bobcats,201945,Gerald Henderson Jr.,False,True,placed on IL
+2012-02-10,Bobcats,1894,Corey Maggette,True,False,activated from IL
+2012-02-10,Bulls,201565,Derrick Rose,False,True,strained lower back (DNP)
+2012-02-10,Bulls,1888,Richard Hamilton,False,True,right thigh injury (DNP) (Fox)
+2012-02-10,Cavaliers,202681,Kyrie Irving,False,True,placed on IL with concussion
+2012-02-10,Cavaliers,202684,Tristan Thompson,True,False,activated from IL
+2012-02-10,Celtics,979,Jermaine O'Neal,False,True,sore left shoulder (DNP)
+2012-02-10,Hawks,2215,Jason Collins,False,True,placed on IL
+2012-02-10,Heat,202227,Terrel Harris,False,True,placed on IL
+2012-02-10,Heat,201596,Mario Chalmers,True,False,activated from IL
+2012-02-10,Hornets,2549,Chris Kaman,False,True,sprained left ankle (DTD)
+2012-02-10,Hornets,101127,Jarrett Jack,False,True,sore left knee (CBC Fox) / ankle (DNP)
+2012-02-10,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-10,Knicks,2546,Carmelo Anthony,False,True,strained right groin (DNP)
+2012-02-10,Mavericks,202346,Dominique Jones,False,True,placed on IL
+2012-02-10,Mavericks,467,Jason Kidd,True,False,activated from IL
+2012-02-10,Nets,2586,Keith Bogans,False,True,fractured left ankle / torn ligament in left ankle (DNP)
+2012-02-10,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-10,Raptors,201573,Jerryd Bayless,False,True,placed on IL with sore/sprained left ankle
+2012-02-10,Raptors,202374,Solomon Alabi,True,False,activated from IL
+2012-02-10,Timberwolves,202723,Malcolm Lee,False,True,placed on IL
+2012-02-10,Wizards,101154,Andray Blatche,False,True,strained left calf (DNP) (F)
+2012-02-10,Wizards,1740,Rashard Lewis,False,True,sore left (P) / right (CBC) knee (DNP)
+2012-02-11,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-02-11,Cavaliers,2760,Anderson Varejao,False,True,placed on IL with fractured bone in right wrist
+2012-02-11,Clippers,202339,Eric Bledsoe,True,False,activated from IL
+2012-02-11,Knicks,2546,Carmelo Anthony,False,True,strained right groin (DNP)
+2012-02-11,Nets,2586,Keith Bogans,False,True,placed on IL recovering from surgery on left ankle to repair fracture and torn ligament
+2012-02-11,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-11,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP)
+2012-02-11,Nuggets,201568,Danilo Gallinari,False,True,placed on IL (F)
+2012-02-11,Pacers,201588,George Hill,False,True,chip fracture in left ankle / sprained left ankle (DNP) (Fox P)
+2012-02-11,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-02-11,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2012-02-12,Bulls,201565,Derrick Rose,False,True,strained lower back (DNP)
+2012-02-12,Bulls,1888,Richard Hamilton,False,True,right thigh injury (DNP) (Fox)
+2012-02-12,Celtics,101138,Brandon Bass,False,True,placed on IL with right knee inflammation
+2012-02-12,Celtics,979,Jermaine O'Neal,False,True,placed on IL
+2012-02-12,Celtics,2562,Sasha Pavlovic,True,False,activated from IL
+2012-02-12,Celtics,2039,Keyon Dooling,True,False,activated from IL
+2012-02-12,Rockets,201934,Hasheem Thabeet,False,True,lower back injury (DNP)
+2012-02-12,Wizards,101154,Andray Blatche,False,True,strained left calf (DNP) (F)
+2012-02-12,Heat,202148,Mickell Gladness,False,True,placed on IL
+2012-02-13,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-02-13,Heat,202354,Dexter Pittman,False,True,placed on IL with sprained left shoulder
+2012-02-13,Heat,202148,Mickell Gladness,True,False,activated from IL
+2012-02-13,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-02-13,Hornets,101127,Jarrett Jack,False,True,bruised left knee (DNP)
+2012-02-13,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-13,Suns,101124,Hakim Warrick,False,True,placed on IL
+2012-02-13,Timberwolves,2557,Luke Ridnour,False,True,placed on IL for personal reasons
+2012-02-13,Timberwolves,2545,Darko Milicic,True,False,activated from IL
+2012-02-14,Bulls,201565,Derrick Rose,False,True,strained lower back (DNP)
+2012-02-14,Clippers,1497,Chauncey Billups,False,True,surgery to repair torn left Achilles tendon (out for season)
+2012-02-14,Grizzlies,202729,Josh Selby,False,True,placed on IL
+2012-02-14,Kings,202690,Jimmer Fredette,False,True,stomach virus (DNP)
+2012-02-14,Knicks,2546,Carmelo Anthony,False,True,strained right groin (DNP)
+2012-02-14,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (P)
+2012-02-14,Nuggets,201568,Danilo Gallinari,False,True,placed on IL (F)
+2012-02-14,Nuggets,2403,Nene Hilario ,False,True,strained left calf (DNP)
+2012-02-14,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-14,Suns,255,Grant Hill,False,True,rest (DNP)
+2012-02-14,Suns,959,Steve Nash,False,True,rest (DNP)
+2012-02-14,Suns,101124,Hakim Warrick,True,False,activated from IL
+2012-02-14,Wizards,101154,Andray Blatche,False,True,strained left calf (DNP) (F)
+2012-02-14,Nets,2586,Keith Bogans,True,False,activated from IL
+2012-02-15,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-02-15,Blazers,202356,Armon Johnson,True,False,activated from IL
+2012-02-15,Bobcats,2059,Eduardo Najera,False,True,placed on IL
+2012-02-15,Bobcats,201571,D.J. Augustine,True,False,activated from IL
+2012-02-15,Cavaliers,202681,Kyrie Irving,True,False,activated from IL
+2012-02-15,Celtics,708,Kevin Garnett,False,True,sore left hip (DNP)
+2012-02-15,Celtics,2605,Marquis Daniels,False,True,placed on IL
+2012-02-15,Celtics,979,Jermaine O'Neal,True,False,activated from IL
+2012-02-15,Grizzlies,201970,Sam Young,False,True,sprained right ankle (DNP)
+2012-02-15,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-02-15,Hornets,101127,Jarrett Jack,False,True,bruised left knee (DNP)
+2012-02-15,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-15,Kings,202715,Tyler Honeycutt,False,True,placed on IL
+2012-02-15,Kings,202355,Hassan Whiteside,True,False,activated from IL
+2012-02-15,Knicks,2546,Carmelo Anthony,False,True,strained right groin (DNP)
+2012-02-15,Mavericks,1891,Jason Terry,False,True,placed on IL with quadriceps injury
+2012-02-15,Mavericks,201958,Rodrigue Beaubois,False,True,death of father (DNP)
+2012-02-15,Mavericks,202346,Dominique Jones,True,False,activated from IL
+2012-02-15,Nets,200770,Jordan Farmar,False,True,strained right groin (DNP)
+2012-02-15,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-15,Nets,200761,Shawne Williams,False,True,placed on IL with sprained left shoulder
+2012-02-15,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (F P)
+2012-02-15,Nuggets,2403,Nene Hilario ,False,True,strained left calf (DNP)
+2012-02-15,Pacers,101122,Danny Granger,False,True,sprained left ankle (DNP)
+2012-02-15,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-15,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-02-15,Raptors,101132,Linas Kleiza,False,True,sore left knee (DNP)
+2012-02-15,Rockets,201934,Hasheem Thabeet,False,True,sore back (DNP)
+2012-02-15,Timberwolves,201576,Anthony Randolph,False,True,placed on IL
+2012-02-15,Timberwolves,2557,Luke Ridnour,True,False,activated from IL
+2012-02-16,Bulls,201565,Derrick Rose,False,True,strained lower back (DNP)
+2012-02-16,Bulls,1888,Richard Hamilton,False,True,placed on IL with right thigh injury
+2012-02-16,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-16,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-17,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-02-17,Bucks,2400,Drew Gooden,False,True,sprained right wrist (DNP)
+2012-02-17,Cavaliers,200789,Daniel Gibson,False,True,sprained left ankle (DNP) (P)
+2012-02-17,Cavaliers,200789,Daniel Gibson,False,True,placed on IL with sprained left ankle (F)
+2012-02-17,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-02-17,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-17,Knicks,2546,Carmelo Anthony,False,True,strained right groin (DNP)
+2012-02-17,Lakers,202365,Devin Ebanks,False,True,placed on IL
+2012-02-17,Lakers,202721,Darius Morris,True,False,activated from IL
+2012-02-17,Magic,201175,Glen Davis,False,True,placed on IL with death of father
+2012-02-17,Magic,202350,Daniel Orton,True,False,activated from IL
+2012-02-17,Mavericks,2753,Delonte West,False,True,surgery on broken right ring finger to insert pins (out indefinitely)
+2012-02-17,Mavericks,201958,Rodrigue Beaubois,False,True,death of father (DNP)
+2012-02-17,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (P)
+2012-02-17,Nuggets,2403,Nene Hilario ,False,True,placed on IL with strained left calf
+2012-02-17,Nuggets,202389,Timofey Mozgov,True,False,activated from IL (P)
+2012-02-17,Raptors,101132,Linas Kleiza,False,True,placed on IL with sore left knee
+2012-02-17,Raptors,201573,Jerryd Bayless,True,False,activated from IL
+2012-02-17,Thunder,2570,Kendrick Perkins,False,True,bruised right knee (DNP)
+2012-02-17,Timberwolves,200826,Jose Barea ,False,True,placed on IL with birth of child
+2012-02-17,Timberwolves,201576,Anthony Randolph,True,False,activated from IL
+2012-02-17,Knicks,2747,J.R. Smith,False,True,placed on IL
+2012-02-18,Blazers,202356,Armon Johnson,False,True,placed on IL
+2012-02-18,Bulls,201565,Derrick Rose,False,True,strained lower back (DNP)
+2012-02-18,Grizzlies,201970,Sam Young,False,True,sprained right ankle (DNP)
+2012-02-18,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-19,Bucks,2400,Drew Gooden,False,True,sprained right wrist (DNP)
+2012-02-19,Bucks,202699,Tobias Harris,False,True,bruised right shoulder (DNP)
+2012-02-19,Cavaliers,200789,Daniel Gibson,False,True,sprained left ankle (DNP) (P)
+2012-02-19,Celtics,708,Kevin Garnett,False,True,placed on IL for personal reasons
+2012-02-19,Celtics,2605,Marquis Daniels,True,False,activated from IL
+2012-02-19,Heat,202148,Mickell Gladness,False,True,placed on IL
+2012-02-19,Heat,202354,Dexter Pittman,True,False,activated from IL
+2012-02-19,Knicks,201611,Henry Walker,False,True,sore left elbow (DNP)
+2012-02-19,Knicks,2546,Carmelo Anthony,False,True,strained right groin (DNP)
+2012-02-19,Knicks,1884,Baron Davis,True,False,activated from IL
+2012-02-19,Magic,202350,Daniel Orton,False,True,placed on IL
+2012-02-19,Magic,2202,Jason Richardson,False,True,chest pain (DNP)
+2012-02-19,Magic,201175,Glen Davis,True,False,activated from IL
+2012-02-19,Mavericks,2753,Delonte West,False,True,placed on IL recovering from surgery on broken right ring finger to insert pins
+2012-02-19,Mavericks,201958,Rodrigue Beaubois,False,True,death of father (DNP)
+2012-02-19,Mavericks,1891,Jason Terry,True,False,activated from IL
+2012-02-19,Nets,200770,Jordan Farmar,False,True,strained right groin (DNP)
+2012-02-19,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-19,Nets,201572,Brook Lopez,True,False,activated from IL
+2012-02-19,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (P)
+2012-02-19,Nuggets,201164,Rudy Fernandez,False,True,strained lower back (DNP)
+2012-02-19,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-19,Rockets,201934,Hasheem Thabeet,False,True,sore lower back (DNP)
+2012-02-19,Rockets,201941,Jordan Hill,False,True,placed on IL with sprained MCL in right knee
+2012-02-19,Thunder,202351,Lazar Hayward,False,True,fractured orbital floor (DNP)
+2012-02-19,Timberwolves,201576,Anthony Randolph,False,True,placed on IL
+2012-02-19,Timberwolves,200826,Jose Barea ,True,False,activated from IL
+2012-02-20,Blazers,201141,Greg Oden,False,True,microfracture surgery on left knee (out indefinitely)
+2012-02-20,Bucks,2400,Drew Gooden,False,True,sprained right wrist (DNP)
+2012-02-20,Bucks,202699,Tobias Harris,False,True,bruised right shoulder (DNP)
+2012-02-20,Bulls,201228,C.J. Watson,False,True,placed on IL with concussion (F)
+2012-02-20,Hawks,101107,Marvin Williams,False,True,death in family (DNP)
+2012-02-20,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-02-20,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-20,Jazz,1952,Raja Bell,False,True,placed on IL with strained right adductor
+2012-02-20,Knicks,201611,Henry Walker,False,True,placed on IL (F)
+2012-02-20,Knicks,201611,Henry Walker,False,True,sore left elbow (DNP)
+2012-02-20,Knicks,202697,Iman Shumpert,False,True,placed on IL with knee injury
+2012-02-20,Magic,2202,Jason Richardson,False,True,placed on IL with chest pain
+2012-02-20,Mavericks,201958,Rodrigue Beaubois,False,True,death of father (DNP)
+2012-02-20,Nets,201572,Brook Lopez,False,True,placed on IL (F)
+2012-02-20,Nets,200770,Jordan Farmar,False,True,strained right groin (DNP)
+2012-02-20,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-20,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (F P)
+2012-02-20,Nuggets,201164,Rudy Fernandez,False,True,strained lower back (DNP)
+2012-02-20,Rockets,201934,Hasheem Thabeet,False,True,placed on IL with back injury
+2012-02-20,Spurs,1938,Manu Ginobili,False,True,placed on IL with strained left oblique muscle
+2012-02-20,Spurs,201168,Tiago Splitter,False,True,placed on IL with strained right calf
+2012-02-20,Thunder,201935,James Harden,False,True,sprained left ankle (DNP)
+2012-02-20,Thunder,202351,Lazar Hayward,False,True,fractured orbital floor (DNP)
+2012-02-20,Thunder,2555,Nick Collison,False,True,bruised left quadriceps (DNP)
+2012-02-20,Timberwolves,2545,Darko Milicic,False,True,placed on IL with stomach injury
+2012-02-20,Timberwolves,201576,Anthony Randolph,True,False,activated from IL
+2012-02-20,Warriors,2740,Andris Biedrins,False,True,flu-like symptoms (DNP)
+2012-02-20,Wizards,101154,Andray Blatche,False,True,strained left calf (DNP) (F)
+2012-02-20,Rockets,202694,Marcus Morris,True,False,activated from IL
+2012-02-21,76ers,1882,Elton Brand,False,True,sprained right thumb (DNP)
+2012-02-21,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-02-21,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-21,Kings,2422,John Salmons,False,True,placed on IL with hip injury
+2012-02-21,Kings,202715,Tyler Honeycutt,True,False,activated from IL
+2012-02-21,Pacers,201588,George Hill,False,True,sprained left ankle (DNP)
+2012-02-21,Spurs,2225,(William) Tony Parker,False,True,rest (DNP)
+2012-02-21,Spurs,1495,Tim Duncan,False,True,rest (DNP)
+2012-02-22,76ers,1882,Elton Brand,False,True,sprained right thumb (DNP)
+2012-02-22,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-02-22,Bobcats,201957,B.J. Mullens,False,True,placed on IL with illness
+2012-02-22,Bobcats,2059,Eduardo Najera,True,False,activated from IL
+2012-02-22,Bucks,2400,Drew Gooden,False,True,sprained right wrist (DNP)
+2012-02-22,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-02-22,Bucks,202699,Tobias Harris,False,True,bruised right shoulder (DNP)
+2012-02-22,Bulls,201228,C.J. Watson,False,True,DNP (P)
+2012-02-22,Bulls,201228,C.J. Watson,False,True,placed on IL (F)
+2012-02-22,Celtics,2404,Chris Wilcox,False,True,strained right abductor / adductor (DNP)
+2012-02-22,Celtics,979,Jermaine O'Neal,False,True,placed on IL with left wrist injury
+2012-02-22,Celtics,708,Kevin Garnett,True,False,activated from IL
+2012-02-22,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-02-22,Hawks,2207,Joe Johnson,False,True,placed on IL with sore left knee
+2012-02-22,Hawks,2215,Jason Collins,True,False,activated from IL
+2012-02-22,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-02-22,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-22,Jazz,2224,Jamaal Tinsley,False,True,stomach flu (DNP)
+2012-02-22,Knicks,201611,Henry Walker,False,True,sore left elbow (DNP)
+2012-02-22,Magic,202712,Justin Harper,False,True,placed on IL
+2012-02-22,Magic,202350,Daniel Orton,True,False,activated from IL
+2012-02-22,Mavericks,1885,Lamar Odom,False,True,personal reasons (DNP)
+2012-02-22,Mavericks,201958,Rodrigue Beaubois,False,True,death of father (DNP)
+2012-02-22,Nets,200770,Jordan Farmar,False,True,strained right groin (DNP)
+2012-02-22,Nets,2743,Kris Humphries,False,True,strained left calf (DNP) (P)
+2012-02-22,Nets,2743,Kris Humphries,False,True,placed on IL with strained left calf (F)
+2012-02-22,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP)
+2012-02-22,Nets,200761,Shawne Williams,False,True,surgery on left foot to remove bone fragment (out for season)
+2012-02-22,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (F P)
+2012-02-22,Nuggets,201164,Rudy Fernandez,False,True,strained lower back (DNP)
+2012-02-22,Nuggets,201951,Ty Lawson,False,True,sprained left ankle (DNP)
+2012-02-22,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-02-22,Pistons,101198,Will Bynum,False,True,personal reasons (DNP)
+2012-02-22,Rockets,201944,Terrence Williams,False,True,DNP (P)
+2012-02-22,Rockets,201944,Terrence Williams,False,True,placed on IL (F)
+2012-02-22,Thunder,202351,Lazar Hayward,False,True,fractured orbital floor (DNP)
+2012-02-22,Thunder,2555,Nick Collison,False,True,bruised left quadriceps (DNP)
+2012-02-22,Timberwolves,201576,Anthony Randolph,False,True,placed on IL
+2012-02-22,Timberwolves,2545,Darko Milicic,True,False,activated from IL
+2012-02-22,Wizards,101154,Andray Blatche,False,True,strained left calf (DNP) (F)
+2012-02-23,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-02-23,Knicks,201611,Henry Walker,False,True,sore left elbow (DNP)
+2012-02-23,Magic,2749,Jameer Nelson,False,True,placed on IL with right knee injury
+2012-02-23,Magic,2202,Jason Richardson,True,False,activated from IL
+2012-02-23,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (P)
+2012-02-23,Nuggets,201164,Rudy Fernandez,False,True,strained lower back (DNP)
+2012-02-23,Nuggets,201951,Ty Lawson,False,True,sprained left ankle (DNP)
+2012-02-23,Thunder,202351,Lazar Hayward,False,True,fractured orbital floor (DNP)
+2012-02-23,Thunder,2555,Nick Collison,False,True,bruised left quadriceps (DNP)
+2012-02-24,Bulls,2548,Dwyane Wade,True,False,returned to lineup
+2012-02-28,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-02-28,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-02-28,Bulls,201228,C.J. Watson,True,False,activated from IL
+2012-02-28,Bulls,1888,Richard Hamilton,True,False,activated from IL
+2012-02-28,Cavaliers,201963,Christian Eyenga,False,True,placed on IL with toe injury
+2012-02-28,Cavaliers,1515,Anthony Parker,True,False,activated from IL
+2012-02-28,Celtics,202734,E'Twaun Moore,False,True,placed on IL
+2012-02-28,Celtics,101138,Brandon Bass,True,False,activated from IL
+2012-02-28,Clippers,202727,Travis Leslie,False,True,placed on IL (F)
+2012-02-28,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-02-28,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-28,Kings,202715,Tyler Honeycutt,False,True,placed on IL
+2012-02-28,Kings,2422,John Salmons,True,False,activated from IL
+2012-02-28,Mavericks,1885,Lamar Odom,False,True,personal reasons (DNP)
+2012-02-28,Nets,200770,Jordan Farmar,False,True,strained right groin (DNP)
+2012-02-28,Nets,2246,Mehmet Okur,False,True,placed on IL (F)
+2012-02-28,Nets,2743,Kris Humphries,True,False,activated from IL
+2012-02-28,Raptors,202374,Solomon Alabi,False,True,placed on IL with upper respiratory infection
+2012-02-28,Raptors,101132,Linas Kleiza,True,False,activated from IL
+2012-02-28,Spurs,202695,Kawhi Leonard,False,True,strained right calf (DNP)
+2012-02-28,Warriors,202719,Jeremy Tyler,False,True,placed on IL (F) (date approximate)
+2012-02-28,Warriors,201939,Stephen Curry,False,True,right foot injury (DNP)
+2012-02-28,Wizards,101154,Andray Blatche,False,True,strained left calf (DNP) (F)
+2012-02-28,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP)
+2012-02-29,76ers,201150,Spencer Hawes,False,True,strained left Achilles tendon (DNP)
+2012-02-29,Blazers,2038,Joel Przybilla,False,True,placed on IL
+2012-02-29,Bobcats,202809,Cory Higgins,False,True,placed on IL
+2012-02-29,Bobcats,2059,Eduardo Najera,False,True,placed on IL
+2012-02-29,Bobcats,201957,B.J. Mullens,True,False,activated from IL
+2012-02-29,Bobcats,201945,Gerald Henderson Jr.,True,False,activated from IL
+2012-02-29,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-02-29,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-02-29,Hawks,2209,Vladimir Radmanovic,False,True,illness (DNP)
+2012-02-29,Hawks,2207,Joe Johnson,True,False,activated from IL
+2012-02-29,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-02-29,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-02-29,Jazz,2224,Jamaal Tinsley,False,True,stomach flu (DNP)
+2012-02-29,Jazz,200794,Paul Millsap,False,True,bruised left heel (DNP) (P)
+2012-02-29,Knicks,201611,Henry Walker,False,True,placed on IL with left elbow injury
+2012-02-29,Knicks,202366,Jerome Jordan,False,True,placed on IL
+2012-02-29,Knicks,202697,Iman Shumpert,True,False,activated from IL
+2012-02-29,Knicks,202725,Josh Harrellson,True,False,activated from IL
+2012-02-29,Lakers,202721,Darius Morris,False,True,placed on IL
+2012-02-29,Magic,2047,Quentin Richardson,False,True,placed on IL with Achilles tendon injury
+2012-02-29,Magic,2749,Jameer Nelson,True,False,activated from IL
+2012-02-29,Mavericks,1885,Lamar Odom,False,True,personal reasons (DNP)
+2012-02-29,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (P)
+2012-02-29,Nuggets,201164,Rudy Fernandez,False,True,strained lower back (DNP)
+2012-02-29,Spurs,202695,Kawhi Leonard,False,True,placed on IL with strained right calf
+2012-02-29,Spurs,2551,T.J. Ford,True,False,activated from IL
+2012-02-29,Spurs,201168,Tiago Splitter,True,False,activated from IL
+2012-02-29,Thunder,202351,Lazar Hayward,False,True,fractured orbital floor (DNP)
+2012-02-29,Timberwolves,201567,Kevin Love,False,True,placed on IL with rib injury / flu (CBC)
+2012-02-29,Timberwolves,201576,Anthony Randolph,True,False,activated from IL
+2012-02-29,Wizards,101154,Andray Blatche,False,True,strained left calf (DNP) (F)
+2012-02-29,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP)
+2012-02-29,Lakers,202365,Devin Ebanks,True,False,activated from IL
+2012-03-01,Blazers,703,Kurt Thomas,False,True,placed on IL with concussion
+2012-03-01,Blazers,2038,Joel Przybilla,True,False,activated from IL
+2012-03-01,Clippers,202727,Travis Leslie,False,True,placed on IL (P)
+2012-03-01,Heat,2547,Chris Bosh,False,True,placed on IL with death in family
+2012-03-01,Heat,202148,Mickell Gladness,False,True,placed on IL
+2012-03-01,Heat,202227,Terrel Harris,True,False,activated from IL
+2012-03-01,Timberwolves,200826,Jose Barea ,False,True,placed on IL with calf injury
+2012-03-01,Timberwolves,201567,Kevin Love,True,False,activated from IL
+2012-03-02,76ers,201150,Spencer Hawes,False,True,placed on IL with strained left Achilles tendon
+2012-03-02,Bobcats,202687,Bismack Biyombo,False,True,placed on IL with strained left shoulder
+2012-03-02,Bobcats,2059,Eduardo Najera,True,False,activated from IL
+2012-03-02,Bucks,2399,Mike Dunleavy Jr.,False,True,personal reasons (DNP)
+2012-03-02,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-03-02,Cavaliers,202681,Kyrie Irving,False,True,illness (DNP)
+2012-03-02,Celtics,951,Ray Allen,False,True,placed on IL with illness/flu
+2012-03-02,Celtics,202734,E'Twaun Moore,True,False,activated from IL
+2012-03-02,Grizzlies,201632,Hamed Haddadi,False,True,personal reasons (DNP)
+2012-03-02,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-03-02,Hawks,2207,Joe Johnson,False,True,placed on IL with left knee tendinitis (F)
+2012-03-02,Hawks,2584,Willie Green,False,True,lower back spasms (DNP)
+2012-03-02,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-02,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-02,Hornets,2772,Trevor Ariza,False,True,illness (DNP)
+2012-03-02,Kings,201581,J.J. Hickson,False,True,placed on IL with bruised hip / back injury (CBC)
+2012-03-02,Kings,202715,Tyler Honeycutt,True,False,activated from IL
+2012-03-02,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (P)
+2012-03-02,Nuggets,201164,Rudy Fernandez,False,True,strained lower back (DNP)
+2012-03-02,Nuggets,201164,Rudy Fernandez,False,True,placed on IL with strained lower back (F)
+2012-03-02,Spurs,202695,Kawhi Leonard,True,False,activated from IL
+2012-03-02,Warriors,201939,Stephen Curry,False,True,right foot injury (DNP)
+2012-03-02,Mavericks,1885,Lamar Odom,False,True,personal reasons (DNP)
+2012-03-02,Thunder,202351,Lazar Hayward,False,True,placed on IL
+2012-03-02,76ers,202342,Craig Brackins,True,False,activated from IL
+2012-03-02,Mavericks,1885,Lamar Odom,False,True,placed on IL for personal reasons (F)
+2012-03-03,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-03-03,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-03-03,Hawks,2584,Willie Green,False,True,lower back spasms (DNP)
+2012-03-03,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-03,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-03,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-03,Hornets,2772,Trevor Ariza,False,True,illness (DNP)
+2012-03-03,Mavericks,201148,Brandan Wright,False,True,concussion (DNP)
+2012-03-03,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-03,Thunder,200757,Thabo Sefolosha,False,True,sore right foot (DNP) (F)
+2012-03-03,Timberwolves,201576,Anthony Randolph,False,True,placed on IL
+2012-03-03,Timberwolves,202723,Malcolm Lee,False,True,placed on IL
+2012-03-03,Timberwolves,200826,Jose Barea ,True,False,activated from IL
+2012-03-03,Wizards,201156,Nick Young,False,True,bruised right knee (DNP)
+2012-03-03,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP)
+2012-03-03,Wizards,101154,Andray Blatche,True,False,activated from IL (CBC P)
+2012-03-04,Bobcats,202130,Reggie Williams,False,True,placed on IL with left knee injury
+2012-03-04,Bobcats,202809,Cory Higgins,True,False,activated from IL
+2012-03-04,Celtics,202734,E'Twaun Moore,False,True,placed on IL
+2012-03-04,Celtics,951,Ray Allen,True,False,activated from IL
+2012-03-04,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP) (F)
+2012-03-04,Nuggets,201568,Danilo Gallinari,False,True,sprained left ankle (DNP) (P)
+2012-03-04,Nuggets,201585,Kosta Koufos,False,True,placed on IL with knee injury
+2012-03-04,Nuggets,201164,Rudy Fernandez,False,True,strained lower back (DNP) (P)
+2012-03-04,Spurs,202709,Cory Joseph,False,True,placed on IL
+2012-03-04,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2012-03-04,Warriors,201939,Stephen Curry,False,True,right foot injury (DNP)
+2012-03-05,Blazers,703,Kurt Thomas,True,False,activated from IL
+2012-03-05,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-03-05,Bulls,201228,C.J. Watson,False,True,left ankle injury (DNP)
+2012-03-05,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-05,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-05,Jazz,1952,Raja Bell,True,False,activated from IL
+2012-03-05,Magic,2047,Quentin Richardson,True,False,activated from IL
+2012-03-05,Mavericks,201148,Brandan Wright,False,True,placed on IL with concussion
+2012-03-05,Mavericks,201157,Sean Williams,True,False,activated from IL
+2012-03-05,Nuggets,201164,Rudy Fernandez,False,True,strained lower back (DNP) (P)
+2012-03-05,Nuggets,2403,Nene Hilario ,True,False,activated from IL
+2012-03-05,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-05,Raptors,101161,Amir Johnson,False,True,right knee injury (DTD)
+2012-03-05,Raptors,1853,Anthony Carter,False,True,placed on IL
+2012-03-05,Raptors,202374,Solomon Alabi,True,False,activated from IL
+2012-03-05,Timberwolves,201593,Nikola Pekovic,False,True,placed on IL with sore right foot
+2012-03-05,Timberwolves,201576,Anthony Randolph,True,False,activated from IL
+2012-03-05,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP)
+2012-03-06,Bobcats,202809,Cory Higgins,False,True,placed on IL
+2012-03-06,Bobcats,202687,Bismack Biyombo,True,False,activated from IL
+2012-03-06,Hawks,2215,Jason Collins,False,True,sprained left elbow (DNP)
+2012-03-06,Heat,202227,Terrel Harris,False,True,placed on IL
+2012-03-06,Heat,2547,Chris Bosh,True,False,activated from IL
+2012-03-06,Lakers,202365,Devin Ebanks,False,True,placed on IL
+2012-03-06,Lakers,202721,Darius Morris,True,False,activated from IL
+2012-03-06,Magic,101144,Von Wafer,False,True,placed on IL with sore left shoulder
+2012-03-06,Magic,202712,Justin Harper,True,False,activated from IL
+2012-03-06,Mavericks,2217,Brendan Haywood,False,True,sprained left ankle (DNP)
+2012-03-06,Nets,201572,Brook Lopez,False,True,sprained right ankle (DNP) (F P)
+2012-03-06,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP) (F)
+2012-03-06,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-06,Rockets,201934,Hasheem Thabeet,True,False,activated from IL
+2012-03-06,Cavaliers,201963,Christian Eyenga,True,False,activated from IL
+2012-03-07,76ers,201152,Thaddeus Young,False,True,upper respiratory infection (DNP)
+2012-03-07,Bobcats,2564,Boris Diaw,False,True,placed on IL
+2012-03-07,Bobcats,202130,Reggie Williams,True,False,activated from IL
+2012-03-07,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-03-07,Bulls,201228,C.J. Watson,False,True,sprained left ankle (DNP)
+2012-03-07,Bulls,1888,Richard Hamilton,False,True,right shoulder injury (DNP)
+2012-03-07,Cavaliers,2760,Anderson Varejao,False,True,fractured bone in right wrist (DNP) (F)
+2012-03-07,Cavaliers,201963,Christian Eyenga,False,True,placed on IL (F)
+2012-03-07,Cavaliers,202376,Luke Harangody,False,True,placed on IL (F)
+2012-03-07,Clippers,101155,Ryan Gomes,False,True,illness (DTD)
+2012-03-07,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-07,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-07,Hornets,202970,Gustavo Ayon,False,True,sore left foot (DNP)
+2012-03-07,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-07,Knicks,2407,Jared Jeffries,False,True,sore right knee (DTD)
+2012-03-07,Knicks,2199,Tyson Chandler,False,True,hamstring injury (DNP)
+2012-03-07,Lakers,202365,Devin Ebanks,True,False,activated from IL
+2012-03-07,Nets,201572,Brook Lopez,False,True,sprained right ankle (DNP) (P)
+2012-03-07,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP) (F)
+2012-03-07,Nuggets,201164,Rudy Fernandez,False,True,placed on IL with strained lower back (P)
+2012-03-07,Nuggets,202389,Timofey Mozgov,False,True,sprained left ankle (DTD)
+2012-03-07,Nuggets,201585,Kosta Koufos,True,False,activated from IL
+2012-03-07,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP)
+2012-03-07,Lakers,202721,Darius Morris,False,True,placed on IL
+2012-03-08,Bulls,201228,C.J. Watson,False,True,sore left ankle (DNP)
+2012-03-08,Bulls,1888,Richard Hamilton,False,True,sore right shoulder (DNP)
+2012-03-08,Magic,202712,Justin Harper,False,True,placed on IL
+2012-03-08,Mavericks,2217,Brendan Haywood,False,True,sprained left ankle (DNP)
+2012-03-09,Blazers,202343,Elliot Williams,False,True,placed on IL with dislocated left shoulder
+2012-03-09,Bobcats,202809,Cory Higgins,True,False,activated from IL
+2012-03-09,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-03-09,Cavaliers,2760,Anderson Varejao,False,True,fractured bone in right wrist (DNP) (F)
+2012-03-09,Celtics,2404,Chris Wilcox,False,True,personal reasons (DTD)
+2012-03-09,Celtics,2554,Mickael Pietrus,False,True,placed on IL with sore right knee
+2012-03-09,Celtics,202734,E'Twaun Moore,True,False,activated from IL
+2012-03-09,Clippers,2030,Kenyon Martin (Sr.),False,True,sore ribs (DNP)
+2012-03-09,Hawks,2215,Jason Collins,False,True,placed on IL
+2012-03-09,Hawks,2584,Willie Green,False,True,lower back spasms (DNP)
+2012-03-09,Hawks,2207,Joe Johnson,True,False,activated from IL
+2012-03-09,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-09,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-09,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-09,Knicks,2407,Jared Jeffries,False,True,placed on IL
+2012-03-09,Knicks,2199,Tyson Chandler,False,True,strained hamstring (DNP)
+2012-03-09,Mavericks,2217,Brendan Haywood,False,True,sprained left ankle (DNP)
+2012-03-09,Nets,201572,Brook Lopez,False,True,sprained right ankle (DNP) (F P)
+2012-03-09,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP) (F)
+2012-03-09,Nuggets,201585,Kosta Koufos,False,True,placed on IL (F)
+2012-03-09,Pistons,202731,Vernon Macklin,False,True,placed on IL
+2012-03-09,Spurs,2225,(William) Tony Parker,False,True,placed on IL with right thigh injury
+2012-03-09,Spurs,2551,T.J. Ford,False,True,placed on IL with head injury (F)
+2012-03-09,Spurs,2551,T.J. Ford,False,True,head injury (DNP) (P)
+2012-03-09,Timberwolves,200826,Jose Barea ,False,True,placed on IL with sprained left ankle
+2012-03-09,Timberwolves,201567,Kevin Love,False,True,back spasms (DNP)
+2012-03-09,Timberwolves,201937,Ricky Rubio,False,True,torn ACL in left knee (out for season)
+2012-03-09,Timberwolves,201593,Nikola Pekovic,True,False,activated from IL
+2012-03-10,Bulls,201149,Joakim Noah,False,True,illness (DNP)
+2012-03-10,Bulls,2736,Luol Deng,False,True,torn ligament in left wrist (DNP)
+2012-03-10,Bulls,1888,Richard Hamilton,False,True,right shoulder injury (DNP)
+2012-03-10,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-10,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-10,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-10,Jazz,2734,Devin Harris,False,True,stomach flu (DNP)
+2012-03-10,Mavericks,2217,Brendan Haywood,False,True,sprained left ankle (DNP)
+2012-03-10,Mavericks,467,Jason Kidd,False,True,rest (DNP)
+2012-03-10,Nets,201572,Brook Lopez,False,True,sprained right ankle (DNP) (F P)
+2012-03-10,Nets,101114,Deron Williams,False,True,strained right calf (DNP)
+2012-03-10,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP) (F)
+2012-03-10,Pacers,201588,George Hill,False,True,sprained left shoulder (DNP)
+2012-03-10,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-10,Pistons,101111,Charlie Villanueva,True,False,activated from IL
+2012-03-10,Raptors,202374,Solomon Alabi,False,True,placed on IL (F)
+2012-03-10,Rockets,200768,Kyle Lowry,False,True,placed on IL with illness / bacterial infection
+2012-03-10,Rockets,201941,Jordan Hill,True,False,activated from IL
+2012-03-10,Timberwolves,201567,Kevin Love,False,True,back spasms (DNP)
+2012-03-10,Timberwolves,201937,Ricky Rubio,False,True,placed on IL with torn ACL in left knee (out for season)
+2012-03-10,Timberwolves,202723,Malcolm Lee,True,False,activated from IL
+2012-03-10,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP) (P)
+2012-03-10,Wizards,1740,Rashard Lewis,False,True,placed on IL (F)
+2012-03-11,Bucks,2733,Shaun Livingston,False,True,sprained left ankle (DNP)
+2012-03-11,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-03-11,Cavaliers,2760,Anderson Varejao,False,True,fractured bone in right wrist (DNP) (F)
+2012-03-11,Celtics,2404,Chris Wilcox,False,True,placed on IL with enlarged aorta
+2012-03-11,Celtics,2554,Mickael Pietrus,True,False,activated from IL
+2012-03-11,Hawks,201274,Ivan Johnson,False,True,personal reasons (DTD)
+2012-03-11,Hawks,2215,Jason Collins,False,True,placed on IL with sprained left elbow
+2012-03-11,Hawks,2207,Joe Johnson,True,False,activated from IL (P)
+2012-03-11,Magic,2202,Jason Richardson,False,True,placed on IL with sprained left ankle
+2012-03-11,Magic,101144,Von Wafer,True,False,activated from IL
+2012-03-11,Nuggets,201585,Kosta Koufos,False,True,strained left knee (DNP) (F P)
+2012-03-11,Pacers,201588,George Hill,False,True,sprained left shoulder (DNP)
+2012-03-11,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-11,Raptors,101181,Jose Calderon,False,True,placed on IL with sprained right ankle
+2012-03-11,Raptors,200745,Andrea Bargnani,True,False,activated from IL
+2012-03-11,Rockets,201944,Terrence Williams,False,True,placed on IL with stomach ailment (P)
+2012-03-12,Bobcats,2059,Eduardo Najera,False,True,placed on IL with knee injury
+2012-03-12,Bobcats,2564,Boris Diaw,True,False,activated from IL
+2012-03-12,Bucks,2733,Shaun Livingston,False,True,sprained left ankle (DNP)
+2012-03-12,Bucks,1536,Stephen Jackson,False,True,sore right hamstring (DNP)
+2012-03-12,Bulls,2736,Luol Deng,False,True,torn ligament in left wrist (DNP)
+2012-03-12,Bulls,1888,Richard Hamilton,False,True,right shoulder injury (DNP)
+2012-03-12,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-12,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-12,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-12,Nets,201572,Brook Lopez,False,True,sprained right ankle (DNP) (F P)
+2012-03-12,Nets,101114,Deron Williams,False,True,strained right calf (DNP)
+2012-03-12,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP) (F)
+2012-03-12,Spurs,2225,(William) Tony Parker,True,False,activated from IL
+2012-03-12,Timberwolves,2545,Darko Milicic,False,True,placed on IL
+2012-03-12,Timberwolves,200826,Jose Barea ,True,False,activated from IL
+2012-03-12,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP) (P)
+2012-03-12,Wizards,101142,Ronny Turiaf,False,True,fractured left hand (DNP) (F)
+2012-03-13,Cavaliers,2760,Anderson Varejao,False,True,fractured bone in right wrist (DNP) (F)
+2012-03-13,Grizzlies,200752,Rudy Gay,False,True,concussion (DNP)
+2012-03-13,Heat,2034,Mike Miller,False,True,placed on IL with sprained left ankle
+2012-03-13,Heat,202227,Terrel Harris,True,False,activated from IL
+2012-03-13,Kings,202715,Tyler Honeycutt,False,True,placed on IL
+2012-03-13,Kings,201581,J.J. Hickson,True,False,activated from IL
+2012-03-13,Lakers,2575,Luke Walton,False,True,gastroenteritis (DNP)
+2012-03-13,Magic,201947,Earl Clark,False,True,sore left foot (DTD)
+2012-03-13,Magic,101144,Von Wafer,False,True,placed on IL with back injury (F)
+2012-03-13,Magic,202712,Justin Harper,True,False,activated from IL
+2012-03-13,Mavericks,201148,Brandan Wright,True,False,activated from IL
+2012-03-13,Nuggets,202933,Julyan Stone,False,True,placed on IL
+2012-03-13,Nuggets,201164,Rudy Fernandez,True,False,activated from IL
+2012-03-13,Nuggets,202389,Timofey Mozgov,True,False,returned to lineup
+2012-03-13,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-13,Rockets,201941,Jordan Hill,False,True,placed on IL with flu (F)
+2012-03-13,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-13,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-13,Mavericks,201157,Sean Williams,False,True,placed on IL
+2012-03-14,76ers,201150,Spencer Hawes,True,False,activated from IL
+2012-03-14,Bobcats,202809,Cory Higgins,False,True,placed on IL
+2012-03-14,Bucks,202327,Ekpe Udoh,False,True,placed on IL
+2012-03-14,Bucks,101145,Monta Ellis,False,True,placed on IL
+2012-03-14,Bucks,2733,Shaun Livingston,False,True,sprained right ankle (DNP)
+2012-03-14,Bulls,201565,Derrick Rose,False,True,sore groin (DNP)
+2012-03-14,Bulls,1888,Richard Hamilton,False,True,placed on IL with right shoulder injury
+2012-03-14,Cavaliers,2760,Anderson Varejao,False,True,fractured bone in right wrist (DNP) (F)
+2012-03-14,Hawks,101107,Marvin Williams,False,True,hip flexor injury (DTD)
+2012-03-14,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-14,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-14,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-14,Knicks,201962,Toney Douglas,False,True,placed on IL for personal reasons
+2012-03-14,Knicks,2407,Jared Jeffries,True,False,activated from IL
+2012-03-14,Nets,201572,Brook Lopez,False,True,sprained right ankle (DNP) (F P)
+2012-03-14,Nets,101114,Deron Williams,False,True,strained right calf (DNP)
+2012-03-14,Nets,2246,Mehmet Okur,False,True,sore lower back (DNP) (F)
+2012-03-14,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-14,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-14,Rockets,201941,Jordan Hill,True,False,activated from IL
+2012-03-14,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-14,Warriors,1536,Stephen Jackson,False,True,placed on IL
+2012-03-15,Bobcats,2564,Boris Diaw,False,True,placed on IL
+2012-03-15,Bobcats,2059,Eduardo Najera,True,False,activated from IL
+2012-03-15,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-15,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-15,Hornets,201160,Jason Smith,False,True,concussion (DNP)
+2012-03-15,Jazz,2248,Earl Watson,False,True,placed on IL with ankle injury
+2012-03-15,Nuggets,202933,Julyan Stone,True,False,activated from IL
+2012-03-15,Nuggets,201585,Kosta Koufos,True,False,activated from IL
+2012-03-15,Suns,255,Grant Hill,False,True,rest (DNP)
+2012-03-15,Suns,959,Steve Nash,False,True,rest (DNP)
+2012-03-15,Thunder,202385,Ryan Reid,False,True,placed on IL
+2012-03-15,Thunder,200757,Thabo Sefolosha,True,False,activated from IL
+2012-03-15,Timberwolves,201563,Michael Beasley,False,True,placed on IL with toe injury
+2012-03-15,Timberwolves,2545,Darko Milicic,True,False,activated from IL
+2012-03-15,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP) (F P)
+2012-03-15,Clippers,201156,Nick Young,False,True,placed on IL
+2012-03-15,Nuggets,101142,Ronny Turiaf,False,True,placed on IL
+2012-03-16,76ers,201150,Spencer Hawes,False,True,placed on IL with left Achilles tendon injury
+2012-03-16,Blazers,202343,Elliot Williams,False,True,left shoulder injury (DNP) (F)
+2012-03-16,Blazers,2246,Mehmet Okur,False,True,placed on IL
+2012-03-16,Bucks,101141,Ersan Ilyasova,False,True,placed on IL with illness (F)
+2012-03-16,Bucks,2198,Kwame Brown,False,True,placed on IL recovering from surgery to repair torn right pectoralis muscle in chest (out for season)
+2012-03-16,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-03-16,Grizzlies,2216,Zach Randolph,True,False,activated from IL
+2012-03-16,Hawks,101107,Marvin Williams,False,True,hip flexor injury (DTD)
+2012-03-16,Hawks,2584,Willie Green,False,True,hamstring injury (DNP)
+2012-03-16,Hawks,201274,Ivan Johnson,True,False,returned to lineup
+2012-03-16,Heat,2201,Eddy Curry,False,True,personal reasons (DTD)
+2012-03-16,Kings,101128,Francisco Garcia,False,True,placed on IL with sprained wrist
+2012-03-16,Kings,201581,J.J. Hickson,False,True,back injury (DTD)
+2012-03-16,Kings,201936,Tyreke Evans,False,True,sprained left ankle (DNP)
+2012-03-16,Kings,202715,Tyler Honeycutt,True,False,activated from IL
+2012-03-16,Lakers,201963,Christian Eyenga,False,True,placed on IL
+2012-03-16,Lakers,201941,Jordan Hill,False,True,placed on IL
+2012-03-16,Magic,202712,Justin Harper,False,True,placed on IL
+2012-03-16,Magic,201947,Earl Clark,True,False,returned to lineup
+2012-03-16,Magic,2202,Jason Richardson,True,False,activated from IL
+2012-03-16,Nets,201572,Brook Lopez,False,True,sprained right ankle (DNP) (F P)
+2012-03-16,Nets,101114,Deron Williams,False,True,sore right calf (DNP)
+2012-03-16,Nets,200770,Jordan Farmar,False,True,strained right groin (DNP)
+2012-03-16,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-16,Pacers,2571,Leandro Barbosa,False,True,placed on IL
+2012-03-16,Spurs,1938,Manu Ginobili,False,True,placed on IL with hip flexor injury
+2012-03-16,Spurs,1536,Stephen Jackson,False,True,placed on IL
+2012-03-16,Thunder,201161,Daequan Cook,False,True,sore right shoulder (DNP)
+2012-03-16,Warriors,101106,Andrew Bogut,False,True,placed on IL with fractured right ankle (out for season)
+2012-03-16,Warriors,2210,Richard Jefferson,False,True,placed on IL
+2012-03-16,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-16,Warriors,2551,T.J. Ford,False,True,placed on IL
+2012-03-16,Wizards,1740,Rashard Lewis,False,True,sore left knee (DNP) (F P)
+2012-03-16,Rockets,201944,Terrence Williams,True,False,activated from IL
+2012-03-16,Lakers,202721,Darius Morris,True,False,activated from IL
+2012-03-17,76ers,202342,Craig Brackins,False,True,placed on IL with stomach virus
+2012-03-17,76ers,201150,Spencer Hawes,True,False,activated from IL
+2012-03-17,Bobcats,202809,Cory Higgins,True,False,activated from IL
+2012-03-17,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-03-17,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-17,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-17,Jazz,2744,Al Jefferson,False,True,placed on IL for personal reasons (F)
+2012-03-17,Jazz,1952,Raja Bell,False,True,strained left / right (CBC) adductor (DNP)
+2012-03-17,Knicks,1884,Baron Davis,False,True,strained right hamstring (DNP)
+2012-03-17,Mavericks,2217,Brendan Haywood,False,True,placed on IL with sprained right knee
+2012-03-17,Mavericks,1890,Shawn Marion,False,True,sore left knee (DNP)
+2012-03-17,Mavericks,201157,Sean Williams,True,False,activated from IL
+2012-03-17,Nets,201572,Brook Lopez,False,True,placed on IL with sprained right ankle (out for season)
+2012-03-17,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-03-17,Nuggets,1733,Al Harrington,False,True,death in family (DNP)
+2012-03-17,Pacers,1902,Jeff Foster,False,True,sore lower back (DNP)
+2012-03-17,Raptors,101181,Jose Calderon,False,True,sprained right ankle (DNP) (F)
+2012-03-17,Rockets,202718,Chandler Parsons,False,True,illness (DNP)
+2012-03-17,Rockets,965,Derek Fisher,False,True,placed on IL
+2012-03-17,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-17,Rockets,948,Marcus Camby,False,True,placed on IL
+2012-03-17,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2012-03-17,Spurs,1536,Stephen Jackson,True,False,activated from IL
+2012-03-17,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-17,Warriors,2210,Richard Jefferson,True,False,activated from IL
+2012-03-17,Nuggets,101142,Ronny Turiaf,True,False,activated from IL
+2012-03-18,Blazers,200761,Shawne Williams,False,True,placed on IL with foot injury (out for season)
+2012-03-18,Cavaliers,2760,Anderson Varejao,False,True,placed on IL (F) (out for season)
+2012-03-18,Cavaliers,202376,Luke Harangody,False,True,placed on IL (P)
+2012-03-18,Clippers,202727,Travis Leslie,False,True,placed on IL
+2012-03-18,Clippers,201156,Nick Young,True,False,activated from IL
+2012-03-18,Hawks,2457,Jannero Pargo,False,True,stomach flu / appendicitis (CBC) (DNP)
+2012-03-18,Hawks,101107,Marvin Williams,False,True,placed on IL with hip flexor injury
+2012-03-18,Hawks,2209,Vladimir Radmanovic,False,True,back injury (DNP)
+2012-03-18,Hawks,2209,Vladimir Radmanovic,False,True,sore back (DNP)
+2012-03-18,Hawks,2584,Willie Green,False,True,hamstring injury (DNP)
+2012-03-18,Hawks,2215,Jason Collins,True,False,activated from IL
+2012-03-18,Jazz,2744,Al Jefferson,False,True,death in family (DNP) (F P)
+2012-03-18,Jazz,1952,Raja Bell,False,True,placed on IL
+2012-03-18,Jazz,2248,Earl Watson,True,False,activated from IL
+2012-03-18,Kings,201936,Tyreke Evans,False,True,placed on IL with sprained left ankle
+2012-03-18,Kings,101128,Francisco Garcia,True,False,activated from IL
+2012-03-18,Lakers,201941,Jordan Hill,True,False,activated from IL
+2012-03-18,Magic,202397,Ish Smith,False,True,placed on IL
+2012-03-18,Magic,101144,Von Wafer,True,False,activated from IL
+2012-03-18,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-18,Rockets,948,Marcus Camby,True,False,activated from IL
+2012-03-18,Timberwolves,201593,Nikola Pekovic,False,True,placed on IL with sore left ankle
+2012-03-18,Timberwolves,201563,Michael Beasley,True,False,activated from IL
+2012-03-18,Wizards,1740,Rashard Lewis,False,True,placed on IL with sore left knee (out for season)
+2012-03-18,Blazers,202343,Elliot Williams,True,False,activated from IL (P)
+2012-03-18,Blazers,202343,Elliot Williams,False,True,placed on IL (F) (out for season)
+2012-03-19,Bobcats,1894,Corey Maggette,False,True,placed on IL with back injury
+2012-03-19,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-03-19,Cavaliers,202412,Manny Harris,False,True,placed on IL (F)
+2012-03-19,Hawks,2209,Vladimir Radmanovic,False,True,sore back (DNP)
+2012-03-19,Magic,101144,Von Wafer,False,True,placed on IL with back injury
+2012-03-19,Magic,202397,Ish Smith,True,False,activated from IL
+2012-03-19,Mavericks,1890,Shawn Marion,False,True,sore left knee (DNP)
+2012-03-19,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-03-19,Nuggets,201568,Danilo Gallinari,False,True,fractured right thumb (DTD)
+2012-03-19,Nuggets,202706,Jordan Hamilton,False,True,placed on IL
+2012-03-19,Nuggets,202933,Julyan Stone,False,True,placed on IL
+2012-03-19,Timberwolves,2545,Darko Milicic,False,True,placed on IL
+2012-03-19,Timberwolves,201593,Nikola Pekovic,True,False,activated from IL
+2012-03-19,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-19,Warriors,201939,Stephen Curry,False,True,placed on IL (F)
+2012-03-19,Hawks,2457,Jannero Pargo,False,True,placed on IL with appendectomy
+2012-03-19,Hawks,2457,Jannero Pargo,False,True,appendectomy (out indefinitely)
+2012-03-20,Bucks,202720,Jon Leuer,False,True,placed on IL
+2012-03-20,Bucks,101141,Ersan Ilyasova,True,False,activated from IL
+2012-03-20,Clippers,101155,Ryan Gomes,True,False,returned to lineup
+2012-03-20,Clippers,202727,Travis Leslie,True,False,activated from IL
+2012-03-20,Heat,201202,Joel Anthony,False,True,sprained left ankle (DNP)
+2012-03-20,Heat,2201,Eddy Curry,True,False,returned to lineup
+2012-03-20,Jazz,2572,Josh Howard,False,True,placed on IL with surgery on left knee
+2012-03-20,Kings,201936,Tyreke Evans,True,False,activated from IL
+2012-03-20,Knicks,1884,Baron Davis,False,True,placed on IL with strained right hamstring
+2012-03-20,Knicks,201962,Toney Douglas,True,False,activated from IL
+2012-03-20,Pacers,1902,Jeff Foster,False,True,placed on IL with sore lower back
+2012-03-20,Pacers,2571,Leandro Barbosa,True,False,activated from IL
+2012-03-20,Raptors,101181,Jose Calderon,True,False,activated from IL (P)
+2012-03-20,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-21,76ers,202342,Craig Brackins,True,False,activated from IL
+2012-03-21,Blazers,202343,Elliot Williams,False,True,surgery on left shoulder (out for season) (date approximate)
+2012-03-21,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-03-21,Cavaliers,200789,Daniel Gibson,False,True,sprained left ankle (DNP) (F P)
+2012-03-21,Clippers,2406,Caron Butler,False,True,DNP
+2012-03-21,Hawks,201274,Ivan Johnson,False,True,personal reasons (DNP)
+2012-03-21,Hawks,2457,Jannero Pargo,False,True,placed on IL with appendectomy
+2012-03-21,Hawks,101107,Marvin Williams,False,True,DNP
+2012-03-21,Hawks,2209,Vladimir Radmanovic,False,True,sore back (DNP)
+2012-03-21,Hawks,101107,Marvin Williams,True,False,activated from IL
+2012-03-21,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-21,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-21,Knicks,202366,Jerome Jordan,False,True,placed on IL
+2012-03-21,Knicks,1884,Baron Davis,True,False,activated from IL
+2012-03-21,Magic,202350,Daniel Orton,False,True,placed on IL
+2012-03-21,Magic,202712,Justin Harper,True,False,activated from IL
+2012-03-21,Mavericks,1890,Shawn Marion,False,True,sore left knee (DNP)
+2012-03-21,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-03-21,Nuggets,201585,Kosta Koufos,False,True,placed on IL with left knee tendinitis
+2012-03-21,Nuggets,201164,Rudy Fernandez,False,True,placed on IL with strained lower back (out for season)
+2012-03-21,Nuggets,202706,Jordan Hamilton,True,False,activated from IL
+2012-03-21,Nuggets,202933,Julyan Stone,True,False,activated from IL
+2012-03-21,Pistons,101111,Charlie Villanueva,False,True,ankle injury (DTD)
+2012-03-21,Pistons,201155,Rodney Stuckey,False,True,toe injury (DTD)
+2012-03-21,Spurs,2588,Matt Bonner,False,True,placed on IL with back injury (F)
+2012-03-21,Spurs,201988,Patty Mills,False,True,placed on IL
+2012-03-21,Thunder,201161,Daequan Cook,False,True,placed on IL with knee injury
+2012-03-21,Timberwolves,201593,Nikola Pekovic,False,True,placed on IL with sore left ankle (F)
+2012-03-21,Timberwolves,201937,Ricky Rubio,False,True,surgery on left knee to repair torn ACL
+2012-03-21,Warriors,2740,Andris Biedrins,False,True,strained right groin (DNP)
+2012-03-21,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-21,Wizards,101154,Andray Blatche,False,True,conditioning (DNP)
+2012-03-21,Blazers,2246,Mehmet Okur,True,False,activated from IL
+2012-03-22,Blazers,202343,Elliot Williams,False,True,placed on IL (P) (out for season)
+2012-03-22,Hornets,201171,Carl Landry,False,True,sprained MCL in left knee (DNP) (F)
+2012-03-22,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-22,Jazz,1952,Raja Bell,False,True,strained left / right (CBC) adductor (DNP) (F)
+2012-03-22,Kings,201944,Terrence Williams,False,True,placed on IL
+2012-03-22,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-22,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-22,Wizards,101154,Andray Blatche,False,True,conditioning (DNP)
+2012-03-23,Bobcats,2059,Eduardo Najera,False,True,placed on IL with sore left knee
+2012-03-23,Bobcats,1894,Corey Maggette,True,False,activated from IL
+2012-03-23,Celtics,951,Ray Allen,False,True,placed on IL with sore left (P) / right (CBC) ankle
+2012-03-23,Hawks,2209,Vladimir Radmanovic,False,True,sore back (DNP)
+2012-03-23,Hawks,2585,Zaza Pachulia,False,True,sore right Achilles tendon (DNP)
+2012-03-23,Heat,202227,Terrel Harris,False,True,placed on IL
+2012-03-23,Jazz,1952,Raja Bell,False,True,strained left / right (CBC) adductor (DNP) (F)
+2012-03-23,Knicks,2407,Jared Jeffries,False,True,placed on IL with right knee inflammation
+2012-03-23,Knicks,202366,Jerome Jordan,True,False,activated from IL
+2012-03-23,Magic,202712,Justin Harper,False,True,placed on IL
+2012-03-23,Magic,202350,Daniel Orton,True,False,activated from IL
+2012-03-23,Mavericks,2217,Brendan Haywood,False,True,sprained right knee (DNP)
+2012-03-23,Mavericks,2217,Brendan Haywood,True,False,activated from IL
+2012-03-23,Pistons,201155,Rodney Stuckey,False,True,sore left big toe (DNP)
+2012-03-23,Raptors,201573,Jerryd Bayless,False,True,left hip pointer (DTD)
+2012-03-23,Spurs,2225,(William) Tony Parker,False,True,sore left hamstring (DNP)
+2012-03-23,Spurs,202709,Cory Joseph,False,True,placed on IL
+2012-03-23,Spurs,201168,Tiago Splitter,False,True,back spasms (DNP)
+2012-03-23,Spurs,2588,Matt Bonner,True,False,activated from IL
+2012-03-23,Timberwolves,201563,Michael Beasley,False,True,sprained left big toe (DNP)
+2012-03-23,Timberwolves,201593,Nikola Pekovic,False,True,placed on IL with sore left ankle (P)
+2012-03-23,Timberwolves,2545,Darko Milicic,True,False,activated from IL
+2012-03-23,Celtics,2404,Chris Wilcox,True,False,activated from IL
+2012-03-23,Mavericks,101235,Kelenna Azubuike,False,True,placed on IL
+2012-03-23,Pacers,201178,Kyrylo Fesenko,False,True,placed on IL
+2012-03-24,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-03-24,Bulls,1888,Richard Hamilton,False,True,right shoulder injury (DNP) (F)
+2012-03-24,Clippers,2590,Mo Williams,False,True,sprained left big toe (DNP)
+2012-03-24,Clippers,202727,Travis Leslie,False,True,placed on IL
+2012-03-24,Grizzlies,202729,Josh Selby,False,True,personal reasons (DNP)
+2012-03-24,Hornets,2549,Chris Kaman,False,True,illness (DNP)
+2012-03-24,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-24,Hornets,2772,Trevor Ariza,False,True,sore right ankle (DNP)
+2012-03-24,Hornets,201171,Carl Landry,True,False,activated from IL (P)
+2012-03-24,Kings,201574,Jason Thompson,False,True,placed on IL with sprained left ankle
+2012-03-24,Mavericks,2217,Brendan Haywood,False,True,sprained right knee (DNP)
+2012-03-24,Pistons,201155,Rodney Stuckey,False,True,sore left big toe (DNP)
+2012-03-24,Pistons,101198,Will Bynum,False,True,virus (DNP)
+2012-03-24,Pistons,101111,Charlie Villanueva,True,False,activated from IL
+2012-03-24,Raptors,201573,Jerryd Bayless,False,True,left hip pointer (DTD)
+2012-03-24,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-24,Spurs,1938,Manu Ginobili,False,True,sore hip (DNP) (P)
+2012-03-24,Spurs,1938,Manu Ginobili,False,True,placed on IL with sore hip (F)
+2012-03-24,Spurs,202390,Gary Neal,False,True,sprained left foot (DNP)
+2012-03-24,Spurs,201168,Tiago Splitter,False,True,back spasms (DNP) (P)
+2012-03-24,Spurs,201168,Tiago Splitter,False,True,placed on IL with back spasms (F)
+2012-03-24,Warriors,2740,Andris Biedrins,False,True,strained right groin (DNP)
+2012-03-24,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-24,Wizards,101154,Andray Blatche,False,True,placed on IL (F) (out for season)
+2012-03-25,76ers,2738,Andre Iguodala,False,True,patella tendinitis in left knee (DNP)
+2012-03-25,Cavaliers,200789,Daniel Gibson,False,True,sprained left ankle (DNP) (F P)
+2012-03-25,Celtics,2554,Mickael Pietrus,False,True,placed on IL with neck injury / concussion
+2012-03-25,Grizzlies,202729,Josh Selby,False,True,placed on IL
+2012-03-25,Hawks,2209,Vladimir Radmanovic,False,True,back injury (DNP)
+2012-03-25,Jazz,1952,Raja Bell,False,True,strained left adductor (DNP) (F)
+2012-03-25,Spurs,202390,Gary Neal,False,True,sprained left foot (DNP)
+2012-03-25,Spurs,201168,Tiago Splitter,False,True,back spasms (DNP) (P)
+2012-03-25,Spurs,1495,Tim Duncan,False,True,rest (DNP)
+2012-03-25,Timberwolves,200826,Jose Barea ,False,True,bruised right thigh (DNP)
+2012-03-25,Warriors,2740,Andris Biedrins,False,True,strained right groin (DNP)
+2012-03-25,Warriors,201939,Stephen Curry,False,True,sprained right ankle (DNP)
+2012-03-25,Wizards,2403,Nene Hilario ,False,True,back spasms (DNP)
+2012-03-25,Celtics,951,Ray Allen,True,False,activated from IL
+2012-03-25,Celtics,951,Ray Allen,False,True,sore right ankle (DNP)
+2012-03-25,Thunder,202704,Reggie Jackson (Shon),True,False,activated from IL
+2012-03-26,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-03-26,Bulls,1888,Richard Hamilton,False,True,right shoulder injury (DNP) (F)
+2012-03-26,Celtics,951,Ray Allen,False,True,sore right ankle (DNP)
+2012-03-26,Clippers,2590,Mo Williams,False,True,placed on IL with sprained left big toe
+2012-03-26,Hornets,2549,Chris Kaman,False,True,illness (DNP)
+2012-03-26,Knicks,202391,Jeremy Lin,False,True,sore left (CBC) / right knee (P) (DNP)
+2012-03-26,Knicks,2407,Jared Jeffries,True,False,activated from IL
+2012-03-26,Nets,201627,Anthony Morrow,False,True,bruised right shoulder (DNP)
+2012-03-26,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-03-26,Nuggets,201568,Danilo Gallinari,False,True,fractured left thumb (DNP)
+2012-03-26,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-26,Wizards,202344,Trevor Booker,False,True,right knee tendinitis (DNP)
+2012-03-27,76ers,2738,Andre Iguodala,False,True,patella tendinitis in left knee (DNP)
+2012-03-27,76ers,202342,Craig Brackins,True,False,activated from IL (P)
+2012-03-27,Blazers,101109,Raymond Felton,False,True,personal reasons (DNP)
+2012-03-27,Bucks,2568,Carlos Delfino,False,True,right groin injury (DNP)
+2012-03-27,Bucks,101141,Ersan Ilyasova,False,True,back spasms (DNP)
+2012-03-27,Cavaliers,200789,Daniel Gibson,False,True,sprained left ankle (DNP) (F P)
+2012-03-27,Lakers,201941,Jordan Hill,False,True,sprained right knee (DNP)
+2012-03-27,Mavericks,2217,Brendan Haywood,False,True,sprained right knee (DNP)
+2012-03-27,Raptors,201573,Jerryd Bayless,False,True,partially torn left oblique muscle (out for season)
+2012-03-27,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-27,Spurs,201168,Tiago Splitter,False,True,placed on IL with back spasms (P)
+2012-03-27,Spurs,201988,Patty Mills,True,False,activated from IL
+2012-03-27,Suns,255,Grant Hill,False,True,right knee inflammation (DNP)
+2012-03-27,Timberwolves,200826,Jose Barea ,False,True,bruised right thigh (DNP)
+2012-03-27,Warriors,2740,Andris Biedrins,False,True,strained right groin (DNP)
+2012-03-27,Warriors,201939,Stephen Curry,False,True,placed on IL with sprained right ankle (out for season)
+2012-03-28,Bobcats,202809,Cory Higgins,False,True,placed on IL
+2012-03-28,Bobcats,200748,Tyrus Thomas,False,True,elbow injury (DNP)
+2012-03-28,Bobcats,2059,Eduardo Najera,True,False,activated from IL
+2012-03-28,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-03-28,Bulls,1888,Richard Hamilton,False,True,right shoulder injury (DNP) (F)
+2012-03-28,Cavaliers,200789,Daniel Gibson,False,True,torn tendon in left ankle (DNP)
+2012-03-28,Celtics,951,Ray Allen,False,True,sore right ankle (DNP)
+2012-03-28,Hawks,2209,Vladimir Radmanovic,False,True,sore back (DNP)
+2012-03-28,Hornets,2549,Chris Kaman,False,True,illness (DNP)
+2012-03-28,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-28,Hornets,202970,Gustavo Ayon,False,True,personal reasons (DNP)
+2012-03-28,Hornets,2772,Trevor Ariza,False,True,sore right ankle (DNP)
+2012-03-28,Kings,2422,John Salmons,False,True,placed on IL with hip injury (out for season)
+2012-03-28,Kings,201574,Jason Thompson,True,False,activated from IL
+2012-03-28,Knicks,202391,Jeremy Lin,False,True,sore right knee (P) (DNP)
+2012-03-28,Magic,202350,Daniel Orton,False,True,placed on IL
+2012-03-28,Magic,101144,Von Wafer,True,False,activated from IL
+2012-03-28,Nets,201627,Anthony Morrow,False,True,bruised right shoulder (DNP)
+2012-03-28,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-03-28,Nuggets,201568,Danilo Gallinari,False,True,placed on IL with fractured left thumb
+2012-03-28,Nuggets,201585,Kosta Koufos,True,False,activated from IL
+2012-03-28,Pistons,2732,Ben Gordon,False,True,groin injury (DTD)
+2012-03-28,Raptors,201949,James Johnson,False,True,upper respiratory infection (DNP)
+2012-03-28,Raptors,201573,Jerryd Bayless,False,True,placed on IL with partially torn left oblique muscle (out for season)
+2012-03-28,Spurs,202458,Justin Dentmon,False,True,placed on IL
+2012-03-28,Spurs,201168,Tiago Splitter,True,False,activated from IL
+2012-03-28,Suns,255,Grant Hill,False,True,right knee inflammation (DNP)
+2012-03-28,Suns,202693,Markieff Morris,False,True,flu (DNP)
+2012-03-28,Timberwolves,200826,Jose Barea ,False,True,bruised right quadricep (DNP)
+2012-03-28,Timberwolves,201563,Michael Beasley,False,True,sprained left big toe (DNP)
+2012-03-28,Warriors,2740,Andris Biedrins,False,True,strained right groin (DNP)
+2012-03-29,Blazers,202701,Nolan Smith,False,True,ear infection (DNP)
+2012-03-29,Hornets,2549,Chris Kaman,False,True,illness (DNP)
+2012-03-29,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-29,Hornets,202970,Gustavo Ayon,False,True,personal reasons (DNP)
+2012-03-29,Hornets,101127,Jarrett Jack,False,True,sore right ankle (DNP)
+2012-03-29,Hornets,2772,Trevor Ariza,False,True,sore right ankle (DNP)
+2012-03-29,Mavericks,202346,Dominique Jones,False,True,placed on IL
+2012-03-29,Mavericks,2753,Delonte West,True,False,activated from IL
+2012-03-29,Nuggets,201164,Rudy Fernandez,False,True,surgery on lower back (out for season)
+2012-03-29,Wizards,101154,Andray Blatche,False,True,placed on IL (P) (out for season)
+2012-03-30,Bobcats,202809,Cory Higgins,True,False,activated from IL
+2012-03-30,Bucks,2568,Carlos Delfino,False,True,placed on IL with right groin injury
+2012-03-30,Bucks,202720,Jon Leuer,True,False,activated from IL
+2012-03-30,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-03-30,Cavaliers,200789,Daniel Gibson,False,True,torn tendon in left ankle (DNP)
+2012-03-30,Cavaliers,200789,Daniel Gibson,False,True,placed on IL with torn tendon in left ankle
+2012-03-30,Celtics,979,Jermaine O'Neal,False,True,arthroscopic surgery on left wrist (out for season)
+2012-03-30,Celtics,951,Ray Allen,False,True,sore right ankle (DNP)
+2012-03-30,Hawks,2209,Vladimir Radmanovic,False,True,sore back (DNP)
+2012-03-30,Heat,2617,Udonis Haslem,False,True,placed on IL for personal reasons
+2012-03-30,Heat,202227,Terrel Harris,True,False,activated from IL
+2012-03-30,Jazz,2572,Josh Howard,False,True,surgery on left knee (DNP) (F)
+2012-03-30,Kings,201936,Tyreke Evans,False,True,back spasms (DNP)
+2012-03-30,Knicks,2407,Jared Jeffries,False,True,sore right knee (DNP)
+2012-03-30,Knicks,202391,Jeremy Lin,False,True,sore left knee (P) (DNP)
+2012-03-30,Magic,101144,Von Wafer,False,True,placed on IL
+2012-03-30,Magic,202350,Daniel Orton,True,False,activated from IL
+2012-03-30,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-03-30,Nets,202716,Jordan Williams,False,True,concussion (DNP)
+2012-03-30,Nets,200749,Shelden Williams,False,True,right eye injury (DNP)
+2012-03-30,Pistons,201155,Rodney Stuckey,False,True,sore left hamstring (DNP)
+2012-03-30,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-03-30,Suns,255,Grant Hill,False,True,surgery on right knee to repair torn meniscus
+2012-03-30,Timberwolves,200826,Jose Barea ,False,True,bruised right quadricep (DNP)
+2012-03-30,Timberwolves,201563,Michael Beasley,False,True,strained left big toe (DNP)
+2012-03-30,Warriors,2740,Andris Biedrins,False,True,strained right groin (DNP)
+2012-03-31,Bobcats,1894,Corey Maggette,False,True,placed on IL with strained right Achilles tendon
+2012-03-31,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-03-31,Grizzlies,201967,Dante Cunningham,False,True,sprained left ankle (DNP)
+2012-03-31,Grizzlies,201144,Mike Conley Jr.,False,True,sore right ankle (DNP)
+2012-03-31,Hawks,711,Jerry Stackhouse,False,True,personal reasons (DNP)
+2012-03-31,Hawks,2209,Vladimir Radmanovic,False,True,back injury (DNP)
+2012-03-31,Hornets,201171,Carl Landry,False,True,sprained right ankle (DNP)
+2012-03-31,Hornets,2549,Chris Kaman,False,True,illness (DNP)
+2012-03-31,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP)
+2012-03-31,Hornets,202970,Gustavo Ayon,False,True,personal reasons (DNP)
+2012-03-31,Hornets,2772,Trevor Ariza,False,True,sore right ankle (DNP)
+2012-03-31,Jazz,2572,Josh Howard,False,True,surgery on left knee (DNP) (F)
+2012-03-31,Knicks,2407,Jared Jeffries,False,True,placed on IL with sore right knee
+2012-03-31,Knicks,202391,Jeremy Lin,False,True,sore left knee (P) (DNP)
+2012-03-31,Knicks,201611,Henry Walker,True,False,activated from IL
+2012-03-31,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-03-31,Nets,200749,Shelden Williams,False,True,right eye injury (DNP)
+2012-03-31,Pistons,2732,Ben Gordon,False,True,sore groin (DNP)
+2012-03-31,Pistons,201155,Rodney Stuckey,False,True,sore left hamstring (DNP)
+2012-04-01,Blazers,2038,Joel Przybilla,False,True,sprained right knee (DNP)
+2012-04-01,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-04-01,Celtics,951,Ray Allen,False,True,sore right ankle (DNP)
+2012-04-01,Heat,2201,Eddy Curry,False,True,placed on IL
+2012-04-01,Heat,2617,Udonis Haslem,True,False,activated from IL
+2012-04-01,Hornets,201171,Carl Landry,False,True,sprained right ankle (DNP)
+2012-04-01,Hornets,2731,Emeka Okafor,False,True,sore left knee (DNP) (P)
+2012-04-01,Hornets,2731,Emeka Okafor,False,True,placed on IL (F) (out for season)
+2012-04-01,Hornets,2772,Trevor Ariza,False,True,sore right ankle (DNP) (P)
+2012-04-01,Hornets,2772,Trevor Ariza,False,True,placed on IL (F)
+2012-04-01,Magic,2730,Dwight Howard,False,True,placed on IL with back injury
+2012-04-01,Magic,202712,Justin Harper,True,False,activated from IL
+2012-04-01,Nuggets,201163,Wilson Chandler,False,True,strained left groin (DTD)
+2012-04-01,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-01,Rockets,200768,Kyle Lowry,False,True,bacterial infection (DNP) (F)
+2012-04-01,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-01,Timberwolves,200826,Jose Barea ,False,True,bruised right quadricep (DNP)
+2012-04-01,Timberwolves,201563,Michael Beasley,False,True,placed on IL with strained left big toe
+2012-04-01,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-01,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-01,Timberwolves,201593,Nikola Pekovic,True,False,activated from IL
+2012-04-01,Timberwolves,201593,Nikola Pekovic,False,True,bone spurs in right ankle (DNP)
+2012-04-01,Warriors,202148,Mickell Gladness,False,True,personal reasons (DNP)
+2012-04-02,Blazers,2037,Jamal Crawford,False,True,right knee injury (DNP)
+2012-04-02,Bucks,2757,Beno Udrih,False,True,left hand injury (DNP)
+2012-04-02,Bulls,201565,Derrick Rose,False,True,strained groin (DNP)
+2012-04-02,Bulls,1888,Richard Hamilton,True,False,activated from IL (P)
+2012-04-02,Cavaliers,200789,Daniel Gibson,False,True,surgery on left foot and ankle to repair torn tendon
+2012-04-02,Grizzlies,201967,Dante Cunningham,False,True,sprained left ankle (DNP)
+2012-04-02,Grizzlies,201144,Mike Conley Jr.,False,True,sore right ankle (DNP)
+2012-04-02,Jazz,2572,Josh Howard,False,True,surgery on left knee (DNP) (F)
+2012-04-02,Knicks,202391,Jeremy Lin,False,True,surgery on left knee to repair torn meniscus (out for season)
+2012-04-02,Mavericks,467,Jason Kidd,False,True,placed on IL with strained right groin
+2012-04-02,Mavericks,1885,Lamar Odom,False,True,illness (DNP)
+2012-04-02,Mavericks,202346,Dominique Jones,True,False,activated from IL
+2012-04-02,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-02,Rockets,200768,Kyle Lowry,False,True,bacterial/sinus infection (DNP) (F)
+2012-04-02,Thunder,202704,Reggie Jackson (Shon),False,True,placed on IL
+2012-04-02,Thunder,201161,Daequan Cook,True,False,activated from IL
+2012-04-02,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-02,Timberwolves,200826,Jose Barea ,False,True,bruised right quadricep (DNP)
+2012-04-02,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-02,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-03,Cavaliers,200789,Daniel Gibson,False,True,recovering from surgery on left foot and ankle to repair torn tendon (DNP)
+2012-04-03,Heat,2548,Dwyane Wade,False,True,placed on IL with bruised left knee
+2012-04-03,Heat,2201,Eddy Curry,True,False,activated from IL
+2012-04-03,Kings,201977,Marcus Thornton (T.),False,True,calf injury (DTD)
+2012-04-03,Knicks,201611,Henry Walker,False,True,sore left elbow (DNP)
+2012-04-03,Knicks,202391,Jeremy Lin,False,True,recovering from surgery on left knee to repair torn meniscus (DNP)
+2012-04-03,Lakers,101115,Andrew Bynum,False,True,sprained left ankle (DNP)
+2012-04-03,Magic,2749,Jameer Nelson,False,True,placed on IL with calf injury
+2012-04-03,Magic,201583,Ryan Anderson,False,True,placed on IL with sprained right ankle
+2012-04-03,Magic,101144,Von Wafer,True,False,activated from IL
+2012-04-03,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-03,Nets,200749,Shelden Williams,False,True,right eye injury (DNP)
+2012-04-03,Raptors,201814,Gary Forbes,False,True,sore left knee (DTD)
+2012-04-03,Warriors,202148,Mickell Gladness,False,True,personal reasons (DNP)
+2012-04-03,Magic,2730,Dwight Howard,True,False,activated from IL
+2012-04-03,Magic,2730,Dwight Howard,False,True,back spasms (DNP)
+2012-04-04,Bucks,2400,Drew Gooden,False,True,sore back (DNP)
+2012-04-04,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-04,Hawks,2209,Vladimir Radmanovic,False,True,placed on IL with back injury
+2012-04-04,Hawks,2457,Jannero Pargo,True,False,activated from IL
+2012-04-04,Heat,2201,Eddy Curry,False,True,placed on IL
+2012-04-04,Heat,2548,Dwyane Wade,True,False,activated from IL
+2012-04-04,Hornets,2731,Emeka Okafor,False,True,placed on IL (P) with sore left knee (out for season)
+2012-04-04,Hornets,101127,Jarrett Jack,False,True,sore right ankle (P) / right foot injury (CBC) (DNP)
+2012-04-04,Hornets,201569,Eric Gordon,True,False,activated from IL
+2012-04-04,Jazz,2734,Devin Harris,False,True,sprained left ankle (DNP)
+2012-04-04,Nets,101114,Deron Williams,False,True,stomach virus (DNP)
+2012-04-04,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-04,Nets,200749,Shelden Williams,False,True,right eye injury (DNP)
+2012-04-04,Nuggets,201163,Wilson Chandler,False,True,strained left groin (DNP)
+2012-04-04,Raptors,201814,Gary Forbes,False,True,sore left knee (DNP)
+2012-04-04,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-04,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-04,Timberwolves,2557,Luke Ridnour,False,True,placed on IL with sprained right ankle (out for season)
+2012-04-04,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-04,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-04,Timberwolves,201563,Michael Beasley,True,False,activated from IL
+2012-04-04,Timberwolves,201563,Michael Beasley,False,True,sprained left big toe (DNP)
+2012-04-05,Bulls,201565,Derrick Rose,False,True,placed on IL with strained groin
+2012-04-05,Knicks,202391,Jeremy Lin,False,True,placed on IL recovering from surgery on left knee to repair torn meniscus (out for season)
+2012-04-05,Knicks,2407,Jared Jeffries,True,False,activated from IL
+2012-04-05,Magic,2047,Quentin Richardson,False,True,placed on IL with sore back
+2012-04-05,Magic,2749,Jameer Nelson,True,False,activated from IL
+2012-04-05,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-05,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-06,Bobcats,201571,D.J. Augustine,False,True,left knee tendinitis (DNP)
+2012-04-06,Bobcats,202130,Reggie Williams,False,True,left knee injury (DTD)
+2012-04-06,Bucks,2400,Drew Gooden,False,True,sore back (DNP)
+2012-04-06,Cavaliers,1515,Anthony Parker,False,True,sternum injury (DTD)
+2012-04-06,Cavaliers,200789,Daniel Gibson,False,True,recovering from surgery on left foot and ankle to repair torn tendon (DNP)
+2012-04-06,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-06,Grizzlies,2754,Tony Allen,False,True,mouth injury (DNP)
+2012-04-06,Hornets,101127,Jarrett Jack,False,True,sprained right foot (DNP)
+2012-04-06,Magic,2045,Hedo Turkoglu,False,True,surgery to repair facial fracture (out for season)
+2012-04-06,Mavericks,101133,Ian Mahinmi,False,True,birth of daughter (DNP)
+2012-04-06,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-06,Nuggets,201163,Wilson Chandler,False,True,strained left groin (DNP)
+2012-04-06,Raptors,201814,Gary Forbes,False,True,placed on IL with sore left knee
+2012-04-06,Raptors,101181,Jose Calderon,False,True,facial injury (DNP)
+2012-04-06,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-06,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-06,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-06,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-07,Bobcats,201571,D.J. Augustine,False,True,right knee tendinitis (DNP)
+2012-04-07,Bobcats,2059,Eduardo Najera,False,True,placed on IL with fractured frontal bone (out for season)
+2012-04-07,Bobcats,202130,Reggie Williams,False,True,sore left knee (DNP)
+2012-04-07,Bobcats,1894,Corey Maggette,True,False,activated from IL
+2012-04-07,Bucks,2568,Carlos Delfino,True,False,activated from IL
+2012-04-07,Grizzlies,2754,Tony Allen,False,True,mouth injury (DNP)
+2012-04-07,Hornets,101127,Jarrett Jack,False,True,sore right foot (DNP)
+2012-04-07,Kings,101236,Chuck Hayes,False,True,food poisoning (DNP)
+2012-04-07,Lakers,977,Kobe Bryant,False,True,bruised left shin (DNP)
+2012-04-07,Magic,2045,Hedo Turkoglu,False,True,recovering from surgery to repair facial fracture (DNP)
+2012-04-07,Mavericks,101133,Ian Mahinmi,False,True,birth of daughter (DNP)
+2012-04-07,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-07,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-08,Bulls,2243,Brian Scalabrine,False,True,placed on IL
+2012-04-08,Bulls,201565,Derrick Rose,True,False,activated from IL
+2012-04-08,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-08,Heat,2548,Dwyane Wade,False,True,placed on IL with sore right ankle
+2012-04-08,Heat,2201,Eddy Curry,True,False,activated from IL
+2012-04-08,Heat,2034,Mike Miller,True,False,activated from IL
+2012-04-08,Kings,101128,Francisco Garcia,False,True,concussion (DNP)
+2012-04-08,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-08,Raptors,202374,Solomon Alabi,False,True,placed on IL (P)
+2012-04-08,Raptors,201814,Gary Forbes,True,False,activated from IL
+2012-04-08,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-08,Rockets,200768,Kyle Lowry,True,False,activated from IL (P)
+2012-04-08,Spurs,1536,Stephen Jackson,False,True,DNP
+2012-04-09,Blazers,201587,Nicolas Batum,False,True,left quadricep injury (DNP)
+2012-04-09,Bobcats,201571,D.J. Augustine,False,True,right knee tendinitis (DNP)
+2012-04-09,Bobcats,202130,Reggie Williams,False,True,sore left knee (DNP)
+2012-04-09,Bucks,202720,Jon Leuer,False,True,placed on IL
+2012-04-09,Grizzlies,2754,Tony Allen,False,True,mouth injury (DNP)
+2012-04-09,Hornets,201569,Eric Gordon,False,True,tightness in lower back (DNP)
+2012-04-09,Hornets,101127,Jarrett Jack,False,True,stress fracture in right foot (DNP)
+2012-04-09,Jazz,101139,C.J. Miles,False,True,strained left calf / surgery on right knee (DNP)
+2012-04-09,Jazz,2248,Earl Watson,False,True,torn medial meniscus (P) / strained left calf (CBC) (DNP)
+2012-04-09,Lakers,977,Kobe Bryant,False,True,sore left shin (DNP)
+2012-04-09,Magic,2730,Dwight Howard,False,True,placed on IL with back spasms / herniated disc in back (out for season)
+2012-04-09,Magic,2045,Hedo Turkoglu,False,True,placed on IL recovering from surgery to repair facial fracture
+2012-04-09,Magic,2047,Quentin Richardson,True,False,activated from IL
+2012-04-09,Magic,201583,Ryan Anderson,True,False,activated from IL
+2012-04-09,Mavericks,1885,Lamar Odom,False,True,placed on IL
+2012-04-09,Nuggets,201163,Wilson Chandler,False,True,placed on IL with strained left groin
+2012-04-09,Nuggets,201568,Danilo Gallinari,True,False,activated from IL
+2012-04-09,Pacers,201954,Darren Collison,False,True,sore groin (DNP)
+2012-04-09,Raptors,200745,Andrea Bargnani,False,True,placed on IL with left calf injury (out for season)
+2012-04-09,Raptors,202374,Solomon Alabi,True,False,activated from IL
+2012-04-09,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-09,Spurs,2225,(William) Tony Parker,False,True,rest (DNP)
+2012-04-09,Spurs,1938,Manu Ginobili,False,True,rest (DNP) (P)
+2012-04-09,Spurs,1495,Tim Duncan,False,True,rest (DNP)
+2012-04-09,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-09,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-09,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-09,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-09,Mavericks,101235,Kelenna Azubuike,True,False,activated from IL
+2012-04-10,Bobcats,202130,Reggie Williams,False,True,sore left knee (DNP)
+2012-04-10,Bulls,201565,Derrick Rose,False,True,placed on IL with sprained right ankle
+2012-04-10,Bulls,2243,Brian Scalabrine,True,False,activated from IL
+2012-04-10,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-10,Cavaliers,1515,Anthony Parker,True,False,returned to lineup
+2012-04-10,Heat,202354,Dexter Pittman,False,True,placed on IL
+2012-04-10,Heat,2548,Dwyane Wade,True,False,activated from IL
+2012-04-10,Kings,101128,Francisco Garcia,False,True,concussion (DNP)
+2012-04-10,Kings,201977,Marcus Thornton (T.),True,False,returned to lineup
+2012-04-10,Mavericks,101235,Kelenna Azubuike,False,True,placed on IL
+2012-04-10,Mavericks,467,Jason Kidd,True,False,activated from IL
+2012-04-10,Nets,2222,Gerald Wallace,False,True,strained left hamstring (DNP)
+2012-04-10,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-10,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-10,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-11,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-11,Celtics,951,Ray Allen,False,True,placed on IL with sore right ankle
+2012-04-11,Celtics,2554,Mickael Pietrus,True,False,activated from IL
+2012-04-11,Grizzlies,2754,Tony Allen,False,True,mouth injury (DNP)
+2012-04-11,Hornets,201569,Eric Gordon,False,True,tightness in lower back (DNP)
+2012-04-11,Hornets,101127,Jarrett Jack,False,True,stress fracture in right foot (DNP)
+2012-04-11,Jazz,101139,C.J. Miles,False,True,strained gastrocnemius (DNP)
+2012-04-11,Jazz,202379,Jeremy Evans,False,True,sprained right ankle (DNP)
+2012-04-11,Kings,101128,Francisco Garcia,False,True,concussion (DNP)
+2012-04-11,Lakers,977,Kobe Bryant,False,True,left shin injury (DNP)
+2012-04-11,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-11,Spurs,202390,Gary Neal,False,True,gastroenteritis (DNP)
+2012-04-11,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-11,Timberwolves,201961,Wayne Ellington,False,True,back spasms (DNP)
+2012-04-12,Bobcats,1894,Corey Maggette,False,True,strained right Achilles tendon (DNP)
+2012-04-12,Bobcats,200748,Tyrus Thomas,False,True,bruised right knee (DNP)
+2012-04-12,Bulls,2243,Brian Scalabrine,False,True,placed on IL
+2012-04-12,Bulls,201565,Derrick Rose,True,False,activated from IL
+2012-04-12,Clippers,2590,Mo Williams,True,False,activated from IL
+2012-04-12,Grizzlies,2754,Tony Allen,False,True,mouth injury (DNP)
+2012-04-12,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-12,Timberwolves,201567,Kevin Love,False,True,concussion (DNP)
+2012-04-12,Timberwolves,201961,Wayne Ellington,False,True,back spasms (DNP)
+2012-04-13,Bobcats,1894,Corey Maggette,False,True,sore right Achilles tendon (DNP)
+2012-04-13,Bobcats,200748,Tyrus Thomas,False,True,bruised right knee (DNP)
+2012-04-13,Cavaliers,200789,Daniel Gibson,False,True,recovering from surgery on left foot and ankle to repair torn tendon (DNP)
+2012-04-13,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-13,Cavaliers,201623,Semih Erden,False,True,sprained right ankle (DNP)
+2012-04-13,Hawks,2209,Vladimir Radmanovic,True,False,activated from IL
+2012-04-13,Heat,2548,Dwyane Wade,False,True,sore right ankle (DNP)
+2012-04-13,Heat,2034,Mike Miller,False,True,ankle injury (DNP)
+2012-04-13,Heat,101142,Ronny Turiaf,False,True,placed on IL with strained left hamstring
+2012-04-13,Heat,2617,Udonis Haslem,False,True,placed on IL with stomach virus
+2012-04-13,Heat,202354,Dexter Pittman,True,False,activated from IL
+2012-04-13,Heat,2201,Eddy Curry,True,False,activated from IL (P)
+2012-04-13,Hornets,101127,Jarrett Jack,False,True,stress fracture in right foot (DNP)
+2012-04-13,Jazz,101139,C.J. Miles,False,True,strained gastrocnemius (DNP)
+2012-04-13,Jazz,2248,Earl Watson,False,True,knee injury (DNP)
+2012-04-13,Jazz,202379,Jeremy Evans,False,True,sprained right ankle (DNP)
+2012-04-13,Kings,202355,Hassan Whiteside,False,True,sprained right ankle (DTD)
+2012-04-13,Lakers,977,Kobe Bryant,False,True,left shin injury (DNP)
+2012-04-13,Magic,2768,Chris Duhon,False,True,foot injury (DTD)
+2012-04-13,Mavericks,467,Jason Kidd,False,True,placed on IL for rest
+2012-04-13,Mavericks,101235,Kelenna Azubuike,True,False,activated from IL
+2012-04-13,Nets,2222,Gerald Wallace,False,True,strained left hamstring (DNP)
+2012-04-13,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-13,Pacers,201954,Darren Collison,False,True,placed on IL with sore groin
+2012-04-13,Pacers,201178,Kyrylo Fesenko,True,False,activated from IL
+2012-04-13,Raptors,101181,Jose Calderon,False,True,facial injury (DNP)
+2012-04-13,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-13,Thunder,201935,James Harden,False,True,sore right knee (DNP)
+2012-04-13,Thunder,202351,Lazar Hayward,False,True,placed on IL with flu
+2012-04-13,Thunder,202704,Reggie Jackson (Shon),True,False,activated from IL
+2012-04-13,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-13,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-13,Hawks,201274,Ivan Johnson,False,True,placed on IL
+2012-04-14,Cavaliers,1712,Antawn Jamison,False,True,rest (DNP)
+2012-04-14,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-14,Cavaliers,201623,Semih Erden,False,True,placed on IL
+2012-04-14,Jazz,101139,C.J. Miles,False,True,strained gastrocnemius (DNP)
+2012-04-14,Jazz,2248,Earl Watson,False,True,knee injury (DNP)
+2012-04-14,Jazz,202379,Jeremy Evans,False,True,sprained right ankle (DNP)
+2012-04-14,Nets,2222,Gerald Wallace,False,True,strained left hamstring (DNP)
+2012-04-14,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-14,Thunder,202704,Reggie Jackson (Shon),False,True,placed on IL
+2012-04-14,Thunder,202351,Lazar Hayward,True,False,activated from IL
+2012-04-14,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-14,Timberwolves,201567,Kevin Love,False,True,concussion (DNP)
+2012-04-14,Warriors,101135,David Lee,False,True,strained groin (DNP)
+2012-04-14,Warriors,2210,Richard Jefferson,False,True,right knee injury (DNP)
+2012-04-14,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-14,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-14,Cavaliers,202376,Luke Harangody,True,False,activated from IL
+2012-04-15,Bobcats,1894,Corey Maggette,False,True,placed on IL with sore right Achilles tendon (out for season)
+2012-04-15,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-15,Cavaliers,201623,Semih Erden,True,False,activated from IL
+2012-04-15,Celtics,708,Kevin Garnett,False,True,rest (DNP)
+2012-04-15,Celtics,1718,Paul Pierce,False,True,toe injury / rest (DNP)
+2012-04-15,Grizzlies,202729,Josh Selby,True,False,activated from IL
+2012-04-15,Hawks,2585,Zaza Pachulia,False,True,placed on IL with sprained left ankle (out for season)
+2012-04-15,Heat,2201,Eddy Curry,False,True,placed on IL
+2012-04-15,Heat,2617,Udonis Haslem,True,False,activated from IL
+2012-04-15,Hornets,101127,Jarrett Jack,False,True,stress fracture in right foot (DNP)
+2012-04-15,Lakers,977,Kobe Bryant,False,True,left shin injury (DNP)
+2012-04-15,Magic,2768,Chris Duhon,True,False,returned to lineup
+2012-04-15,Mavericks,201958,Rodrigue Beaubois,False,True,placed on IL with strained right calf
+2012-04-15,Mavericks,467,Jason Kidd,True,False,activated from IL
+2012-04-15,Nuggets,202933,Julyan Stone,False,True,placed on IL
+2012-04-15,Nuggets,201163,Wilson Chandler,True,False,activated from IL
+2012-04-15,Raptors,101181,Jose Calderon,False,True,right eye injury (DNP)
+2012-04-15,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-15,Cavaliers,202376,Luke Harangody,False,True,placed on IL
+2012-04-15,Hawks,201274,Ivan Johnson,True,False,activated from IL
+2012-04-16,Blazers,201587,Nicolas Batum,False,True,quadriceps injury (DNP)
+2012-04-16,Blazers,101109,Raymond Felton,False,True,sore Achilles tendon (DNP)
+2012-04-16,Bobcats,201571,D.J. Augustine,False,True,right knee tendinitis (DNP)
+2012-04-16,Bobcats,202130,Reggie Williams,False,True,concussion (DNP)
+2012-04-16,Bulls,201565,Derrick Rose,False,True,placed on IL with sore right foot
+2012-04-16,Bulls,2736,Luol Deng,False,True,bruised ribs (DNP)
+2012-04-16,Bulls,2243,Brian Scalabrine,True,False,activated from IL
+2012-04-16,Hawks,2584,Willie Green,False,True,personal reasons (DNP)
+2012-04-16,Heat,2548,Dwyane Wade,False,True,right ankle injury (DNP)
+2012-04-16,Heat,2203,Shane Battier,False,True,back injury (DNP)
+2012-04-16,Hornets,2549,Chris Kaman,False,True,bruised left tibia (DNP)
+2012-04-16,Hornets,201569,Eric Gordon,False,True,back injury / rest (DNP)
+2012-04-16,Hornets,101127,Jarrett Jack,False,True,stress fracture in right foot (DNP)
+2012-04-16,Magic,201175,Glen Davis,False,True,sprained right knee (DNP)
+2012-04-16,Nets,101114,Deron Williams,False,True,sore right calf (DNP)
+2012-04-16,Nets,2222,Gerald Wallace,False,True,strained left hamstring (DNP)
+2012-04-16,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-16,Nuggets,201163,Wilson Chandler,False,True,placed on IL with groin injury (out for season)
+2012-04-16,Nuggets,202933,Julyan Stone,True,False,activated from IL
+2012-04-16,Pacers,202362,Lance Stephenson,False,True,placed on IL
+2012-04-16,Pacers,201954,Darren Collison,True,False,activated from IL
+2012-04-16,Raptors,101132,Linas Kleiza,False,True,knee injury (DTD)
+2012-04-16,Rockets,2755,Kevin Martin,False,True,strained right shoulder (DNP)
+2012-04-16,Rockets,948,Marcus Camby,False,True,sore lower back (DNP)
+2012-04-16,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-16,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-16,Timberwolves,201567,Kevin Love,False,True,concussion (DNP)
+2012-04-16,Warriors,2740,Andris Biedrins,False,True,concussion (DNP)
+2012-04-16,Warriors,101135,David Lee,False,True,strained groin (DNP)
+2012-04-16,Warriors,2210,Richard Jefferson,False,True,right knee injury (DNP)
+2012-04-16,Wizards,2403,Nene Hilario ,False,True,plantar fasciitis in left foot (DNP)
+2012-04-16,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-16,Wizards,2427,Roger Mason Jr.,False,True,surgery on left index finger to repair fracture (out for season)
+2012-04-17,Cavaliers,202087,Alonzo Gee,False,True,sprained left ankle (DNP)
+2012-04-17,Cavaliers,202681,Kyrie Irving,False,True,sprained right shoulder (DNP)
+2012-04-17,Celtics,2554,Mickael Pietrus,False,True,knee injury (DTD)
+2012-04-17,Lakers,202726,Andrew Goudelock,False,True,migraine headache (DNP)
+2012-04-17,Lakers,977,Kobe Bryant,False,True,left shin injury (DNP)
+2012-04-17,Pacers,201954,Darren Collison,False,True,placed on IL with groin injury
+2012-04-17,Pacers,202362,Lance Stephenson,True,False,activated from IL
+2012-04-17,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-17,Timberwolves,201567,Kevin Love,False,True,concussion (DNP)
+2012-04-18,76ers,202342,Craig Brackins,False,True,personal reasons (DNP)
+2012-04-18,Blazers,101109,Raymond Felton,False,True,sore Achilles tendon (DNP)
+2012-04-18,Bobcats,201571,D.J. Augustine,False,True,right knee tendinitis (DNP)
+2012-04-18,Bobcats,202130,Reggie Williams,False,True,concussion (DNP)
+2012-04-18,Bulls,2736,Luol Deng,False,True,bruised ribs (DNP)
+2012-04-18,Cavaliers,202087,Alonzo Gee,False,True,sprained left ankle (DNP)
+2012-04-18,Cavaliers,201623,Semih Erden,False,True,placed on IL (out for season)
+2012-04-18,Celtics,200765,Rajon Rondo,False,True,sore lower back (DNP)
+2012-04-18,Clippers,2501,Reggie Evans,False,True,flu-like symptoms (DNP)
+2012-04-18,Grizzlies,2240,Gilbert Arenas,False,True,finger injury (DTD)
+2012-04-18,Hawks,956,Erick Dampier,False,True,calf injury (DTD)
+2012-04-18,Hornets,2549,Chris Kaman,False,True,bruised left tibia (DNP)
+2012-04-18,Hornets,201569,Eric Gordon,False,True,back injury / rest (DNP)
+2012-04-18,Hornets,101127,Jarrett Jack,False,True,placed on IL with stress fracture in right foot (out for season)
+2012-04-18,Hornets,2772,Trevor Ariza,False,True,DNP (P)
+2012-04-18,Jazz,101139,C.J. Miles,False,True,strained gastrocnemius (DNP)
+2012-04-18,Jazz,2248,Earl Watson,False,True,knee injury (DNP)
+2012-04-18,Kings,202355,Hassan Whiteside,False,True,sprained right ankle (DNP)
+2012-04-18,Knicks,1884,Baron Davis,False,True,stomach virus (DNP)
+2012-04-18,Knicks,2407,Jared Jeffries,False,True,sore right knee (DTD)
+2012-04-18,Lakers,977,Kobe Bryant,False,True,left shin injury (DNP)
+2012-04-18,Mavericks,101235,Kelenna Azubuike,False,True,placed on IL
+2012-04-18,Mavericks,201958,Rodrigue Beaubois,True,False,activated from IL
+2012-04-18,Nets,101114,Deron Williams,False,True,sore right calf (DNP)
+2012-04-18,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-18,Nets,200749,Shelden Williams,False,True,hyperextended right knee (DNP)
+2012-04-18,Pistons,1112,Ben Wallace,False,True,placed on IL for personal reasons
+2012-04-18,Pistons,2419,Tayshaun Prince,False,True,DNP
+2012-04-18,Spurs,1495,Tim Duncan,False,True,rest (DNP)
+2012-04-18,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-18,Warriors,2740,Andris Biedrins,False,True,concussion (DNP)
+2012-04-18,Warriors,101135,David Lee,False,True,strained groin (DNP)
+2012-04-18,Warriors,101126,Nate Robinson,False,True,hamstring injury (out for season)
+2012-04-18,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-18,Cavaliers,202376,Luke Harangody,True,False,activated from IL
+2012-04-18,Pistons,202731,Vernon Macklin,True,False,activated from IL
+2012-04-19,Bucks,101141,Ersan Ilyasova,False,True,placed on IL with thigh injury
+2012-04-19,Bucks,202720,Jon Leuer,True,False,activated from IL
+2012-04-19,Clippers,2501,Reggie Evans,False,True,flu-like symptoms (DNP)
+2012-04-19,Heat,2547,Chris Bosh,False,True,DNP
+2012-04-19,Hornets,2549,Chris Kaman,False,True,bruised left tibia (DNP)
+2012-04-19,Hornets,2772,Trevor Ariza,False,True,DNP (P)
+2012-04-19,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-19,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-19,Timberwolves,201567,Kevin Love,False,True,concussion (DNP)
+2012-04-20,Bobcats,201571,D.J. Augustine,False,True,right knee tendinitis (DNP)
+2012-04-20,Bobcats,202130,Reggie Williams,False,True,concussion (DNP)
+2012-04-20,Bobcats,200748,Tyrus Thomas,False,True,bruised right knee (DNP)
+2012-04-20,Cavaliers,202087,Alonzo Gee,False,True,sprained left ankle (DNP)
+2012-04-20,Celtics,708,Kevin Garnett,False,True,rest (DNP)
+2012-04-20,Celtics,2554,Mickael Pietrus,False,True,placed on IL
+2012-04-20,Celtics,1718,Paul Pierce,False,True,rest (DNP)
+2012-04-20,Celtics,200765,Rajon Rondo,False,True,sore lower back (DNP)
+2012-04-20,Kings,202355,Hassan Whiteside,False,True,sprained right ankle (DNP)
+2012-04-20,Kings,201977,Marcus Thornton (T.),False,True,quadriceps injury (DNP)
+2012-04-20,Knicks,2407,Jared Jeffries,False,True,placed on IL (out for season)
+2012-04-20,Magic,2730,Dwight Howard,False,True,surgery on back to repair herniated disc (out for season)
+2012-04-20,Mavericks,202346,Dominique Jones,False,True,placed on IL
+2012-04-20,Mavericks,101235,Kelenna Azubuike,True,False,activated from IL
+2012-04-20,Warriors,2740,Andris Biedrins,False,True,concussion (DNP)
+2012-04-20,Warriors,101135,David Lee,False,True,strained groin (DNP)
+2012-04-20,Celtics,979,Jermaine O'Neal,True,False,activated from IL
+2012-04-21,Blazers,2038,Joel Przybilla,False,True,bronchitis (DNP)
+2012-04-21,Blazers,201587,Nicolas Batum,False,True,left quadriceps tendinitis (DNP)
+2012-04-21,Blazers,101109,Raymond Felton,False,True,personal reasons (DNP)
+2012-04-21,Bucks,2568,Carlos Delfino,False,True,strained right groin (DNP)
+2012-04-21,Bucks,202720,Jon Leuer,False,True,placed on IL
+2012-04-21,Bucks,101141,Ersan Ilyasova,True,False,activated from IL
+2012-04-21,Bulls,2243,Brian Scalabrine,False,True,placed on IL
+2012-04-21,Bulls,201565,Derrick Rose,True,False,activated from IL
+2012-04-21,Grizzlies,202951,Jeremy Pargo,False,True,placed on IL
+2012-04-21,Grizzlies,2216,Zach Randolph,False,True,rest (DNP)
+2012-04-21,Heat,2547,Chris Bosh,False,True,rest (DNP)
+2012-04-21,Jazz,101139,C.J. Miles,False,True,strained gastrocnemius (DNP)
+2012-04-21,Jazz,2248,Earl Watson,False,True,knee injury (DNP)
+2012-04-21,Magic,201947,Earl Clark,False,True,knee injury (DTD)
+2012-04-21,Mavericks,467,Jason Kidd,False,True,placed on IL for rest
+2012-04-21,Mavericks,1891,Jason Terry,False,True,rest (DNP)
+2012-04-21,Mavericks,202346,Dominique Jones,True,False,activated from IL
+2012-04-21,Nets,101114,Deron Williams,False,True,sore right calf (DNP)
+2012-04-21,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-21,Nets,200749,Shelden Williams,False,True,hyperextended right knee (DNP)
+2012-04-21,Pacers,202362,Lance Stephenson,False,True,placed on IL
+2012-04-21,Pacers,201954,Darren Collison,True,False,activated from IL
+2012-04-21,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-21,Warriors,101106,Andrew Bogut,False,True,surgery on left ankle to clean out fragments and scar tissue (date approximate)
+2012-04-21,Warriors,2740,Andris Biedrins,False,True,concussion (DNP)
+2012-04-21,Warriors,101135,David Lee,False,True,strained groin (DNP)
+2012-04-21,Warriors,2748,Dorell Wright,False,True,sprained right ankle (DNP)
+2012-04-21,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-22,Bobcats,201571,D.J. Augustine,False,True,right knee tendinitis (DNP)
+2012-04-22,Bobcats,202130,Reggie Williams,False,True,left knee tendinitis (DNP)
+2012-04-22,Clippers,201156,Nick Young,False,True,flu-like symptoms (DNP)
+2012-04-22,Heat,2547,Chris Bosh,False,True,leg muscle fatigue (DNP)
+2012-04-22,Heat,2548,Dwyane Wade,False,True,dislocated left index finger (DNP)
+2012-04-22,Heat,201596,Mario Chalmers,False,True,flu-like symptoms (DNP)
+2012-04-22,Hornets,2549,Chris Kaman,False,True,bruised left tibia (DNP)
+2012-04-22,Hornets,2772,Trevor Ariza,False,True,DNP (P)
+2012-04-22,Kings,202355,Hassan Whiteside,False,True,sprained right ankle (DNP)
+2012-04-22,Knicks,2199,Tyson Chandler,False,True,rest (DNP)
+2012-04-22,Nuggets,1733,Al Harrington,False,True,right knee injury (DNP)
+2012-04-22,Pistons,202731,Vernon Macklin,False,True,placed on IL
+2012-04-22,Pistons,1112,Ben Wallace,True,False,activated from IL
+2012-04-22,Raptors,101181,Jose Calderon,False,True,right eye injury (DNP)
+2012-04-22,Rockets,200768,Kyle Lowry,False,True,hernia (out for season)
+2012-04-22,Spurs,1495,Tim Duncan,False,True,rest (DNP)
+2012-04-22,Timberwolves,2545,Darko Milicic,False,True,strained right hamstring (DNP)
+2012-04-22,Timberwolves,201567,Kevin Love,False,True,concussion (DNP)
+2012-04-22,Timberwolves,202723,Malcolm Lee,False,True,illness (DNP)
+2012-04-22,Warriors,2740,Andris Biedrins,False,True,concussion (DNP)
+2012-04-22,Warriors,101135,David Lee,False,True,strained groin (DNP)
+2012-04-23,Blazers,2037,Jamal Crawford,False,True,right knee tendinitis (DNP)
+2012-04-23,Blazers,2038,Joel Przybilla,False,True,bronchitis (DNP)
+2012-04-23,Bucks,2568,Carlos Delfino,False,True,strained right groin (DNP)
+2012-04-23,Bucks,202720,Jon Leuer,True,False,activated from IL
+2012-04-23,Grizzlies,2240,Gilbert Arenas,False,True,placed on IL
+2012-04-23,Grizzlies,202951,Jeremy Pargo,True,False,activated from IL
+2012-04-23,Nets,101114,Deron Williams,False,True,sore right calf (DNP)
+2012-04-23,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-23,Nets,200749,Shelden Williams,False,True,hyperextended right knee (DNP)
+2012-04-23,Pacers,101122,Danny Granger,False,True,placed on IL with knee injury / rest (out for season)
+2012-04-23,Pacers,201588,George Hill,False,True,sore left shoulder (DNP)
+2012-04-23,Pacers,201579,Roy Hibbert,False,True,rest (DNP)
+2012-04-23,Pacers,202362,Lance Stephenson,True,False,activated from IL
+2012-04-23,Pistons,1112,Ben Wallace,False,True,placed on IL
+2012-04-23,Pistons,202731,Vernon Macklin,True,False,activated from IL
+2012-04-23,Raptors,101181,Jose Calderon,False,True,right eye injury (DNP)
+2012-04-23,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-24,Celtics,201880,Greg Stiemsma,False,True,sore right foot (DNP)
+2012-04-24,Celtics,708,Kevin Garnett,False,True,hip flexor injury (DNP)
+2012-04-24,Celtics,200765,Rajon Rondo,False,True,sore lower back (DNP)
+2012-04-24,Heat,2547,Chris Bosh,False,True,leg muscle fatigue (DNP)
+2012-04-24,Heat,2548,Dwyane Wade,False,True,dislocated left index finger (DNP)
+2012-04-24,Hornets,2549,Chris Kaman,False,True,bruised left tibia (DNP)
+2012-04-24,Hornets,201569,Eric Gordon,False,True,rest (DNP)
+2012-04-24,Hornets,201160,Jason Smith,False,True,sprained left ankle (DNP)
+2012-04-24,Hornets,2772,Trevor Ariza,False,True,DNP (P)
+2012-04-24,Jazz,101139,C.J. Miles,False,True,placed on IL with strained gastrocnemius (out for season)
+2012-04-24,Jazz,2248,Earl Watson,False,True,knee injury (DNP)
+2012-04-24,Jazz,2572,Josh Howard,True,False,activated from IL
+2012-04-24,Kings,202355,Hassan Whiteside,False,True,sprained right ankle (DNP)
+2012-04-24,Kings,201977,Marcus Thornton (T.),False,True,quadriceps injury (DNP)
+2012-04-24,Kings,201944,Terrence Williams,False,True,illness (DNP)
+2012-04-24,Spurs,202390,Gary Neal,False,True,left shoulder injury (DTD)
+2012-04-24,Suns,101112,Channing Frye,False,True,right shoulder injury (DNP)
+2012-04-24,Thunder,201935,James Harden,False,True,placed on IL with concussion (out for season)
+2012-04-24,Thunder,202704,Reggie Jackson (Shon),True,False,activated from IL
+2012-04-24,Warriors,2740,Andris Biedrins,False,True,concussion (DNP)
+2012-04-24,Warriors,101135,David Lee,False,True,strained groin (DNP)
+2012-04-25,76ers,2738,Andre Iguodala,False,True,rest (DNP)
+2012-04-25,76ers,1882,Elton Brand,False,True,placed on IL for rest
+2012-04-25,76ers,101150,Lou Williams,False,True,rest (DNP)
+2012-04-25,76ers,201152,Thaddeus Young,False,True,rest (DNP)
+2012-04-25,Bucks,2568,Carlos Delfino,False,True,strained right groin (DNP)
+2012-04-25,Bucks,2400,Drew Gooden,False,True,rest (DNP)
+2012-04-25,Bucks,101141,Ersan Ilyasova,False,True,right knee / thigh injury (DNP)
+2012-04-25,Bucks,101145,Monta Ellis,False,True,right hand injury (DNP)
+2012-04-25,Clippers,101108,Chris Paul,False,True,strained left groin (DNP)
+2012-04-25,Pacers,201178,Kyrylo Fesenko,False,True,stomach flu (DNP)
+2012-04-25,Pacers,2571,Leandro Barbosa,False,True,sprained left ankle (DNP)
+2012-04-25,Spurs,2225,(William) Tony Parker,False,True,placed on IL for rest (out for season)
+2012-04-25,Spurs,1938,Manu Ginobili,False,True,rest (DNP)
+2012-04-25,Spurs,202390,Gary Neal,False,True,left shoulder injury (DNP)
+2012-04-25,Spurs,1495,Tim Duncan,False,True,placed on IL for rest
+2012-04-25,Suns,101112,Channing Frye,False,True,right shoulder injury (DNP)
+2012-04-25,Suns,255,Grant Hill,False,True,recovering from surgery on right knee to repair torn meniscus (DNP)
+2012-04-25,Warriors,201939,Stephen Curry,False,True,arthroscopic surgery on right ankle (out for season)
+2012-04-25,Wizards,202348,Jordan Crawford,False,True,sprained right ankle (DNP)
+2012-04-25,Wizards,202344,Trevor Booker,False,True,plantar fasciitis in left foot (DNP)
+2012-04-25,Spurs,202709,Cory Joseph,True,False,activated from IL
+2012-04-26,76ers,2738,Andre Iguodala,False,True,rest (DNP)
+2012-04-26,76ers,201950,Jrue Holiday,False,True,rest (DNP)
+2012-04-26,76ers,101150,Lou Williams,False,True,rest (DNP)
+2012-04-26,76ers,201152,Thaddeus Young,False,True,rest (DNP)
+2012-04-26,Blazers,2037,Jamal Crawford,False,True,right knee tendinitis (DNP)
+2012-04-26,Blazers,101109,Raymond Felton,False,True,DNP
+2012-04-26,Bobcats,201974,Derrick Brown,False,True,sprained right ankle (DNP)
+2012-04-26,Bobcats,202130,Reggie Williams,False,True,left knee tendinitis (DNP)
+2012-04-26,Bucks,2568,Carlos Delfino,False,True,strained right groin (DNP)
+2012-04-26,Bucks,2400,Drew Gooden,False,True,rest (DNP)
+2012-04-26,Bucks,101141,Ersan Ilyasova,False,True,right knee injury (DNP)
+2012-04-26,Bucks,101145,Monta Ellis,False,True,right hand injury (DNP)
+2012-04-26,Bulls,201565,Derrick Rose,False,True,rest (DNP)
+2012-04-26,Bulls,2594,Kyle Korver,False,True,rest (DNP)
+2012-04-26,Bulls,2736,Luol Deng,False,True,placed on IL (out for season)
+2012-04-26,Bulls,2243,Brian Scalabrine,True,False,activated from IL
+2012-04-26,Cavaliers,202681,Kyrie Irving,False,True,rest (DNP)
+2012-04-26,Cavaliers,201956,Omri Casspi,False,True,right knee tendinitis (DNP)
+2012-04-26,Celtics,201880,Greg Stiemsma,False,True,placed on IL with sore right foot
+2012-04-26,Celtics,2554,Mickael Pietrus,True,False,activated from IL
+2012-04-26,Grizzlies,202729,Josh Selby,False,True,placed on IL
+2012-04-26,Grizzlies,2240,Gilbert Arenas,True,False,activated from IL
+2012-04-26,Hawks,2457,Jannero Pargo,False,True,back injury (DNP)
+2012-04-26,Hawks,956,Erick Dampier,True,False,returned to lineup
+2012-04-26,Heat,2547,Chris Bosh,False,True,placed on IL with leg muscle fatigue
+2012-04-26,Heat,2548,Dwyane Wade,False,True,placed on IL with dislocated left index finger
+2012-04-26,Heat,2201,Eddy Curry,True,False,activated from IL
+2012-04-26,Heat,101142,Ronny Turiaf,True,False,activated from IL
+2012-04-26,Hornets,2549,Chris Kaman,False,True,bruised left tibia (DNP)
+2012-04-26,Hornets,202970,Gustavo Ayon,False,True,concussion (DNP)
+2012-04-26,Hornets,2772,Trevor Ariza,False,True,DNP (P)
+2012-04-26,Jazz,2248,Earl Watson,False,True,placed on IL with knee injury (out for season)
+2012-04-26,Jazz,1952,Raja Bell,True,False,activated from IL (P)
+2012-04-26,Kings,202355,Hassan Whiteside,False,True,sprained right ankle (DNP)
+2012-04-26,Knicks,1884,Baron Davis,False,True,rest (DNP)
+2012-04-26,Knicks,2546,Carmelo Anthony,False,True,rest (DNP)
+2012-04-26,Knicks,201962,Toney Douglas,False,True,virus (DNP)
+2012-04-26,Knicks,2199,Tyson Chandler,False,True,rest (DNP)
+2012-04-26,Lakers,101115,Andrew Bynum,False,True,rest (DNP)
+2012-04-26,Lakers,977,Kobe Bryant,False,True,rest (DNP)
+2012-04-26,Lakers,2440,Matt Barnes,False,True,placed on IL with sprained right ankle
+2012-04-26,Lakers,2200,Pau Gasol,False,True,rest (DNP)
+2012-04-26,Lakers,201963,Christian Eyenga,True,False,activated from IL
+2012-04-26,Magic,201175,Glen Davis,False,True,placed on IL with sprained right ankle (out for season)
+2012-04-26,Magic,200755,J.J. Redick,False,True,DNP
+2012-04-26,Magic,2749,Jameer Nelson,False,True,DNP
+2012-04-26,Magic,2202,Jason Richardson,False,True,DNP
+2012-04-26,Magic,201583,Ryan Anderson,False,True,DNP
+2012-04-26,Magic,2045,Hedo Turkoglu,True,False,activated from IL
+2012-04-26,Nets,101114,Deron Williams,False,True,sore right calf (DNP)
+2012-04-26,Nets,2222,Gerald Wallace,False,True,DNP
+2012-04-26,Nets,200770,Jordan Farmar,False,True,sore right groin (DNP)
+2012-04-26,Nets,2743,Kris Humphries,False,True,bruised right big toe (DNP)
+2012-04-26,Nets,200749,Shelden Williams,False,True,left knee injury (DNP)
+2012-04-26,Pistons,201041,Walker Russell Jr.,False,True,placed on IL
+2012-04-26,Pistons,1112,Ben Wallace,True,False,activated from IL
+2012-04-26,Raptors,101181,Jose Calderon,False,True,right eye injury (DNP)
+2012-04-26,Raptors,101132,Linas Kleiza,False,True,DNP
+2012-04-26,Rockets,202718,Chandler Parsons,False,True,bruised right shoulder (DNP)
+2012-04-26,Rockets,1863,Earl Boykins,False,True,placed on IL
+2012-04-26,Rockets,200768,Kyle Lowry,False,True,hernia (DNP)
+2012-04-26,Rockets,948,Marcus Camby,False,True,placed on IL
+2012-04-26,Rockets,201235,Courtney Simpson,True,False,activated from IL
+2012-04-26,Spurs,1938,Manu Ginobili,False,True,rest (DNP)
+2012-04-26,Spurs,202390,Gary Neal,False,True,left shoulder injury (DNP)
+2012-04-26,Spurs,202695,Kawhi Leonard,False,True,rest (DNP)
+2012-04-26,Spurs,1536,Stephen Jackson,False,True,rest (DNP)
+2012-04-26,Warriors,2740,Andris Biedrins,False,True,concussion (DNP)
+2012-04-26,Warriors,2210,Richard Jefferson,False,True,rest (DNP)
+2012-04-26,Wizards,202348,Jordan Crawford,False,True,sprained right ankle (DNP)
+2012-04-26,Warriors,101135,David Lee,False,True,surgery to repair torn abdominal muscle (out for season)
+2012-04-26,Warriors,101135,David Lee,False,True,recovering from surgery to repair torn abdominal muscle (DNP)
+2012-04-28,76ers,202918,Xavier Silas,False,True,placed on IL
+2012-04-28,Bulls,2243,Brian Scalabrine,False,True,placed on IL
+2012-04-28,Bulls,201565,Derrick Rose,False,True,torn ACL in left knee (out for season)
+2012-04-28,Heat,2201,Eddy Curry,False,True,placed on IL
+2012-04-28,Heat,202227,Terrel Harris,False,True,placed on IL
+2012-04-28,Heat,2547,Chris Bosh,True,False,activated from IL
+2012-04-28,Heat,2548,Dwyane Wade,True,False,activated from IL
+2012-04-28,Knicks,202697,Iman Shumpert,False,True,torn lateral meniscus / ACL (CBC) in left knee (out for season)
+2012-04-28,Knicks,201962,Toney Douglas,False,True,placed on IL
+2012-04-28,Mavericks,202346,Dominique Jones,False,True,placed on IL
+2012-04-28,Pacers,201178,Kyrylo Fesenko,False,True,placed on IL
+2012-04-28,Thunder,202704,Reggie Jackson (Shon),False,True,placed on IL
+2012-04-29,Clippers,2406,Caron Butler,False,True,fractured metacarpal bone in left hand (out for season)
+2012-04-29,Clippers,202727,Travis Leslie,False,True,placed on IL
+2012-04-29,Lakers,202721,Darius Morris,False,True,placed on IL
+2012-04-29,Spurs,202709,Cory Joseph,False,True,placed on IL
+2012-04-29,Spurs,201182,Derrick Byars,False,True,placed on IL
+2012-04-30,Knicks,202697,Iman Shumpert,False,True,placed on IL with torn lateral meniscus / ACL (CBC) / ACL and MCL (P) in left knee (out for season)
+2012-04-30,Knicks,201962,Toney Douglas,True,False,activated from IL
+2012-04-30,Nuggets,201163,Wilson Chandler,False,True,surgery on left hip to repair torn labrum (out for season)
+2012-05-01,Bulls,201565,Derrick Rose,False,True,placed on IL with torn ACL in left knee (out for season)
+2012-05-01,Bulls,2243,Brian Scalabrine,True,False,activated from IL
+2012-05-01,Rockets,200768,Kyle Lowry,False,True,surgery to repair sports hernia (out indefinitely)
+2012-05-02,Clippers,2406,Caron Butler,False,True,placed on IL with fractured metacarpal bone in left hand (out for season)
+2012-05-02,Clippers,202727,Travis Leslie,True,False,activated from IL
+2012-05-02,Grizzlies,202951,Jeremy Pargo,False,True,placed on IL
+2012-05-02,Grizzlies,202729,Josh Selby,True,False,activated from IL
+2012-05-02,Spurs,201168,Tiago Splitter,False,True,wrist injury (DNP)
+2012-05-02,Suns,101112,Channing Frye,False,True,surgery on right shoulder (out indefinitely)
+2012-05-03,Bucks,2568,Carlos Delfino,False,True,surgery to repair sports hernia (out indefinitely)
+2012-05-04,Celtics,201157,Sean Williams,False,True,placed on IL
+2012-05-04,Celtics,951,Ray Allen,True,False,activated from IL
+2012-05-04,Hawks,2746,Josh Smith,False,True,left knee tendinitis (DNP)
+2012-05-05,Clippers,202727,Travis Leslie,False,True,placed on IL
+2012-05-05,Clippers,2406,Caron Butler,True,False,activated from IL
+2012-05-06,Bulls,201149,Joakim Noah,False,True,sprained left ankle (DNP)
+2012-05-06,Hawks,711,Jerry Stackhouse,False,True,placed on IL (out for season)
+2012-05-06,Hawks,201143,Al Horford,True,False,activated from IL
+2012-05-06,Knicks,1884,Baron Davis,False,True,"torn ACL, MCL, and patella tendon in right knee (out for season)"
+2012-05-08,Bulls,201149,Joakim Noah,False,True,sprained left ankle (DNP)
+2012-05-09,Knicks,1884,Baron Davis,False,True,"placed on IL with torn ACL, MCL, and patella tendon in right knee (out for season)"
+2012-05-10,Bulls,201149,Joakim Noah,False,True,sprained left ankle (DNP)
+2012-05-10,Lakers,203946,Ron Artest,False,True,placed on IL for suspension
+2012-05-10,Lakers,202721,Darius Morris,True,False,activated from IL
+2012-05-12,76ers,202342,Craig Brackins,False,True,placed on IL
+2012-05-12,76ers,202918,Xavier Silas,True,False,activated from IL
+2012-05-12,Bulls,201565,Derrick Rose,False,True,surgery on left knee to repair torn ACL
+2012-05-12,Lakers,201963,Christian Eyenga,False,True,placed on IL
+2012-05-12,Lakers,203946,Ron Artest,True,False,activated from IL
+2012-05-15,Heat,2547,Chris Bosh,False,True,placed on IL with strained abdominal muscle
+2012-05-15,Heat,202227,Terrel Harris,True,False,activated from IL
+2012-05-15,Timberwolves,201593,Nikola Pekovic,False,True,surgery on right ankle to remove bone spurs (out indefinitely)
+2012-05-16,Nuggets,1733,Al Harrington,False,True,surgery on right knee to repair torn meniscus (out indefinitely)
+2012-05-21,Celtics,202340,Avery Bradley,False,True,placed on IL with left shoulder injury (out for season)
+2012-05-21,Celtics,201157,Sean Williams,True,False,activated from IL
+2012-05-25,Celtics,202340,Avery Bradley,False,True,surgery on left shoulder (out for season)
+2012-06-05,Heat,202227,Terrel Harris,False,True,placed on IL
+2012-06-05,Heat,2547,Chris Bosh,True,False,activated from IL
+2012-06-12,Heat,202354,Dexter Pittman,False,True,placed on IL (out for season)
+2012-06-12,Heat,2592,James Jones (Andrew),False,True,migraine headache (DNP)
+2012-06-12,Heat,202227,Terrel Harris,True,False,activated from IL
+2012-06-14,Celtics,2554,Mickael Pietrus,False,True,arthroscopic surgery on right knee (out indefinitely)
+2012-06-14,Celtics,951,Ray Allen,False,True,arthroscopic surgery on right ankle to remove bone spurs (out indefinitely)

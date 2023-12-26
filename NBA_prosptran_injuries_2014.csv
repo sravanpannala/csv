@@ -1,0 +1,2414 @@
+Date,Team,playerID,Player,In,Out,Notes
+2014-07-01,Spurs,201988,Patty Mills,False,True,right shoulder injury (surgery) (out indefinitely)
+2014-07-02,Spurs,1938,Manu Ginobili,False,True,stress fracture in right leg (out indefinitely)
+2014-07-05,76ers,203510,Pierre Jackson,False,True,right Achilles tendon injury (out indefinitely)
+2014-07-22,Blazers,203080,Thomas Robinson,False,True,surgery on right thumb to repair torn ligament (out indefinitely)
+2014-08-01,Pacers,202331,Paul George,False,True,surgery on right leg to repair fractured tibia and fibula (out indefinitely)
+2014-08-11,Nets,203900,Markel Brown,False,True,fractured right hand (out indefinitely)
+2014-08-15,Suns,202738,Isaiah Thomas,False,True,arthroscopic surgery on left wrist (out indefinitely)
+2014-08-15,Warriors,2733,Shaun Livingston,False,True,arthroscopic surgery on right big toe (out indefinitely)
+2014-09-02,Hornets,203943,Noah Vonleh,False,True,surgery to repair sports hernia (out indefinitely)
+2014-09-12,Hawks,198,Danny Ferry,False,True,took indefinite leave of absence as general manager
+2014-09-26,Celtics,200765,Rajon Rondo,False,True,surgery on fractured left finger (out indefinitely)
+2014-09-27,Pelicans,201936,Tyreke Evans,False,True,strained right hamstring (out indefinitely)
+2014-09-29,Heat,203120,Justin Hamilton (Anthony),False,True,surgery to repair atrial flutter (out indefinitely)
+2014-10-06,Lakers,201156,Nick Young,False,True,surgery on right thumb to repair torn ligament (out indefinitely)
+2014-10-07,Suns,203458,Alex Len,False,True,fractured right pinky finger (out indefinitely)
+2014-10-11,Wizards,203078,Bradley Beal,False,True,surgery on left wrist to repair fracture (out indefinitely) (date approximate)
+2014-10-13,Thunder,201142,Kevin Durant,False,True,fractured right toe (out indefinitely)
+2014-10-14,Pistons,201975,Jodie Meeks,False,True,stress fracture in lower back (out indefinitely)
+2014-10-16,Thunder,201142,Kevin Durant,False,True,surgery on right toe to repair fracture (out indefinitely)
+2014-10-23,Lakers,959,Steve Nash,False,True,back injury (out for season)
+2014-10-23,Suns,203933,T.J. Warren,False,True,fractured left thumb (out indefinitely)
+2014-10-25,Magic,203506,Victor Oladipo,False,True,surgery to repair facial fracture (out indefinitely)
+2014-10-27,Pacers,201228,C.J. Watson,False,True,bruised right foot (DTD)
+2014-10-28,Lakers,203944,Julius Randle,False,True,fractured tibia in right leg (out for season)
+2014-10-28,Lakers,201156,Nick Young,False,True,placed on IL recovering from surgery on right thumb to repair torn ligament
+2014-10-28,Lakers,203527,Ryan Kelly,False,True,sore right hamstring (DTD)
+2014-10-28,Lakers,959,Steve Nash,False,True,placed on IL with back injury (out for season)
+2014-10-28,Lakers,201961,Wayne Ellington,False,True,concussion (DTD)
+2014-10-28,Magic,101112,Channing Frye,False,True,placed on IL with sprained MCL in left knee
+2014-10-28,Magic,203506,Victor Oladipo,False,True,placed on IL recovering from surgery to repair facial fracture
+2014-10-28,Mavericks,101109,Raymond Felton,False,True,placed on IL with sprained right ankle
+2014-10-28,Mavericks,203495,Ricky Ledo,False,True,placed on IL
+2014-10-28,Pelicans,201156,Patric Young,False,True,placed on IL
+2014-10-28,Pelicans,203893,Russ Smith,False,True,placed on IL with sprained left thumb
+2014-10-28,Rockets,203991,Clint Capela,False,True,placed on IL with strained groin
+2014-10-28,Rockets,203910,Nick Johnson,False,True,placed on IL with strained lower back
+2014-10-28,Spurs,202695,Kawhi Leonard,False,True,placed on IL with infection in right eye
+2014-10-28,Spurs,201168,Tiago Splitter,False,True,placed on IL with strained right calf
+2014-10-28,Spurs,201988,Patty Mills,False,True,placed on IL recovering from surgery on right shoulder to repair torn rotator cuff
+2014-10-29,76ers,2202,Jason Richardson,False,True,placed on IL with foot injury / left knee injury (P)
+2014-10-29,76ers,203924,Jerami Grant,False,True,placed on IL with sprained right ankle
+2014-10-29,76ers,203954,Joel Embiid,False,True,placed on IL with right foot injury (out for season)
+2014-10-29,76ers,203487,Michael Carter-Williams,False,True,recovering from surgery on right shoulder to repair torn labrum (DNP)
+2014-10-29,Blazers,203086,Meyers Leonard,False,True,placed on IL with upper respiratory illness
+2014-10-29,Blazers,201964,Victor Claver,False,True,placed on IL
+2014-10-29,Bucks,203996,Damien Inglis,False,True,placed on IL with surgery on right ankle/foot
+2014-10-29,Bulls,202710,Jimmy Butler,False,True,placed on IL with sprained left thumb
+2014-10-29,Celtics,203939,Dwight Powell,False,True,placed on IL
+2014-10-29,Celtics,203543,Vitor Faverani,False,True,placed on IL recovering from surgery on left knee
+2014-10-29,Hawks,203940,Adreian Payne,False,True,placed on IL with plantar fasciaitis
+2014-10-29,Hawks,203098,John Jenkins,False,True,placed on IL
+2014-10-29,Heat,203958,Andre Dawkins,False,True,placed on IL
+2014-10-29,Heat,101122,Danny Granger,False,True,hamstring injury (DTD)
+2014-10-29,Hornets,203943,Noah Vonleh,False,True,placed on IL recovering from surgery to repait hernia / back injury
+2014-10-29,Jazz,202706,Jordan Hamilton,False,True,placed on IL
+2014-10-29,Jazz,203315,Toure Murry,False,True,placed on IL
+2014-10-29,Kings,203961,Eric Moreland,False,True,placed on IL
+2014-10-29,Knicks,200745,Andrea Bargnani,False,True,placed on IL with strained right hamstring
+2014-10-29,Knicks,101181,Jose Calderon,False,True,placed on IL with strained right calf
+2014-10-29,Lakers,203944,Julius Randle,False,True,surgery on right leg to repair fractured tibia (out for season)
+2014-10-29,Lakers,201961,Wayne Ellington,True,False,returned to lineup
+2014-10-29,Nets,201572,Brook Lopez,False,True,placed on IL with sprained right ankle/foot
+2014-10-29,Nets,203900,Markel Brown,False,True,placed on IL
+2014-10-29,Nuggets,203475,Erick Green,False,True,placed on IL
+2014-10-29,Nuggets,203914,Gary Harris,False,True,placed on IL
+2014-10-29,Pacers,2561,David West,False,True,sprained right ankle (DTD)
+2014-10-29,Pacers,201588,George Hill,False,True,placed on IL with bruised left knee
+2014-10-29,Pacers,202331,Paul George,False,True,placed on IL recovering from surgery on right leg to repair fractured tibia and fibula
+2014-10-29,Pistons,201858,Cartier Martin,False,True,placed on IL with strained right foot
+2014-10-29,Pistons,201975,Jodie Meeks,False,True,placed on IL with stress fracture in lower back
+2014-10-29,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-10-29,Raptors,201880,Greg Stiemsma,False,True,placed on IL with sprained right ankle
+2014-10-29,Suns,203933,T.J. Warren,False,True,placed on IL with fractured left thumb
+2014-10-29,Suns,204054,Zoran Dragic,False,True,placed on IL
+2014-10-29,Thunder,201627,Anthony Morrow,False,True,sprained MCL in left knee (DTD)
+2014-10-29,Thunder,203511,Grant Jerrett,False,True,placed on IL recovering from surgery on left ankle
+2014-10-29,Thunder,203087,Jeremy Lamb,False,True,sprained lower back (DTD)
+2014-10-29,Thunder,201142,Kevin Durant,False,True,placed on IL recovering from surgery on right toe
+2014-10-29,Thunder,202704,Reggie Jackson (Shon),False,True,sprained right ankle (DTD)
+2014-10-29,Timberwolves,2755,Kevin Martin,False,True,placed on IL with ankle injury
+2014-10-29,Timberwolves,101142,Ronny Turiaf,False,True,placed on IL with sore right hip
+2014-10-29,Warriors,201575,Brandon Rush,False,True,placed on IL with stress reaction in back
+2014-10-29,Warriors,101135,David Lee,False,True,placed on IL with strained left hamstring
+2014-10-29,Warriors,2733,Shaun Livingston,True,False,returned to lineup
+2014-10-29,Wizards,203078,Bradley Beal,False,True,placed on IL with fractured left wrist
+2014-10-29,Wizards,779,Glen Rice Jr.,False,True,sprained right ankle (DNP)
+2014-10-29,Wizards,101110,Martell Webster,False,True,placed on IL recovering from microdisectomy surgery on lower back to repair herniated disc
+2014-10-30,Cavaliers,201985,A.J. Price,False,True,placed on IL
+2014-10-30,Clippers,203912,C.J. Wilcox,False,True,placed on IL
+2014-10-30,Clippers,201175,Glen Davis,False,True,placed on IL with strained right groin
+2014-10-30,Knicks,200811,Lou Amundson,False,True,placed on IL
+2014-10-30,Magic,203124,Kyle O'Quinn,False,True,placed on IL with ankle injury
+2014-10-30,Magic,101112,Channing Frye,True,False,activated from IL
+2014-10-30,Thunder,201566,Russell Westbrook,False,True,fractured right hand (DTD)
+2014-10-30,Timberwolves,2755,Kevin Martin,True,False,activated from IL
+2014-10-31,76ers,203487,Michael Carter-Williams,False,True,recovering from surgery on right shoulder to repair torn labrum (DTD)
+2014-10-31,Kings,202682,Derrick Williams,False,True,knee injury (DNP)
+2014-10-31,Spurs,202695,Kawhi Leonard,True,False,activated from IL
+2014-10-31,Suns,203898,Tyler Ennis,False,True,placed on IL
+2014-10-31,Suns,204054,Zoran Dragic,True,False,activated from IL
+2014-11-01,Bulls,201565,Derrick Rose,False,True,sprained left ankle (DTD)
+2014-11-01,Bulls,201959,Taj Gibson,False,True,placed on IL with sprained left ankle
+2014-11-01,Bulls,202710,Jimmy Butler,True,False,activated from IL
+2014-11-01,Grizzlies,201584,Courtney Lee,False,True,placed on IL with concussion
+2014-11-01,Heat,101122,Danny Granger,False,True,placed on IL with hamstring injury
+2014-11-01,Heat,2617,Udonis Haslem,False,True,placed on IL with strained left quadriceps
+2014-11-01,Heat,203958,Andre Dawkins,True,False,activated from IL
+2014-11-01,Raptors,203512,Lucas Nogueira,False,True,placed on IL
+2014-11-01,Raptors,201880,Greg Stiemsma,True,False,activated from IL
+2014-11-01,Rockets,201976,Patrick Beverley,False,True,placed on IL with hamstring injury
+2014-11-01,Rockets,203910,Nick Johnson,True,False,activated from IL
+2014-11-01,Suns,204054,Zoran Dragic,False,True,placed on IL
+2014-11-01,Thunder,201566,Russell Westbrook,False,True,surgery on right hand to repair fracture (out indefinitely)
+2014-11-01,Warriors,203517,Nemanja Nedovic,False,True,placed on IL
+2014-11-01,Warriors,201575,Brandon Rush,True,False,activated from IL
+2014-11-02,Blazers,200777,Joel Freeland,False,True,placed on IL with left foot injury
+2014-11-02,Blazers,203086,Meyers Leonard,True,False,activated from IL
+2014-11-02,Clippers,2037,Jamal Crawford,False,True,bruised ribs (DTD)
+2014-11-02,Heat,2365,Chris Andersen,False,True,placed on IL with bruised ribs
+2014-11-02,Heat,101122,Danny Granger,True,False,activated from IL
+2014-11-02,Kings,202682,Derrick Williams,True,False,returned to lineup
+2014-11-02,Raptors,101161,Amir Johnson,False,True,placed on IL with sprained left ankle
+2014-11-02,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2014-11-03,Clippers,2037,Jamal Crawford,True,False,returned to lineup
+2014-11-03,Nets,203928,Cory Jefferson,False,True,placed on IL
+2014-11-03,Nets,201572,Brook Lopez,True,False,activated from IL
+2014-11-03,Pelicans,2422,John Salmons,False,True,placed on IL for personal reasons
+2014-11-03,Pelicans,203893,Russ Smith,True,False,activated from IL
+2014-11-03,Rockets,204028,Tarik Black,False,True,thigh injury (DNP)
+2014-11-03,Thunder,202704,Reggie Jackson (Shon),True,False,returned to lineup
+2014-11-04,Bulls,201149,Joakim Noah,False,True,placed on IL with illness
+2014-11-04,Bulls,201959,Taj Gibson,True,False,activated from IL
+2014-11-04,Hornets,203077,Michael Kidd-Gilchrist,False,True,placed on IL with bruised ribs
+2014-11-04,Hornets,203943,Noah Vonleh,True,False,activated from IL
+2014-11-04,Lakers,203527,Ryan Kelly,True,False,returned to lineup
+2014-11-04,Pelicans,203121,Darius Miller,False,True,placed on IL for personal reasons
+2014-11-04,Pelicans,202337,Luke Babbitt,False,True,sprained left finger (DTD)
+2014-11-04,Pelicans,201156,Patric Young,True,False,activated from IL
+2014-11-04,Raptors,201880,Greg Stiemsma,True,False,activated from IL
+2014-11-04,Rockets,204028,Tarik Black,False,True,placed on IL with thigh injury
+2014-11-04,Rockets,203093,Terrence Jones,False,True,placed on IL with leg injury
+2014-11-04,Rockets,203991,Clint Capela,True,False,activated from IL
+2014-11-04,Rockets,201976,Patrick Beverley,True,False,activated from IL
+2014-11-04,Suns,204054,Zoran Dragic,True,False,activated from IL
+2014-11-04,Thunder,203460,Andre Roberson,False,True,sprained left foot (DTD)
+2014-11-05,Cavaliers,203521,Matthew Dellavedova,False,True,placed on IL with sprained MCL in left knee
+2014-11-05,Grizzlies,203950,Jarnell Stokes,False,True,placed on IL
+2014-11-05,Grizzlies,201584,Courtney Lee,True,False,activated from IL
+2014-11-05,Heat,101122,Danny Granger,False,True,placed on IL
+2014-11-05,Pacers,201155,Rodney Stuckey,False,True,sore left foot (DTD)
+2014-11-05,Pistons,203540,Gigi Datome,False,True,strained right hamstring (DTD)
+2014-11-05,Raptors,202685,Jonas Valanciunas,False,True,placed on IL with hand injury
+2014-11-05,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2014-11-05,Spurs,203937,Kyle Anderson,False,True,placed on IL
+2014-11-05,Spurs,201168,Tiago Splitter,True,False,activated from IL
+2014-11-05,Suns,204054,Zoran Dragic,False,True,placed on IL
+2014-11-05,Suns,203898,Tyler Ennis,True,False,activated from IL
+2014-11-05,Warriors,203200,Justin Holiday,False,True,placed on IL
+2014-11-05,Warriors,101135,David Lee,True,False,activated from IL
+2014-11-05,Heat,2617,Udonis Haslem,True,False,activated from IL
+2014-11-05,Heat,2617,Udonis Haslem,False,True,strained left quadriceps (DTD)
+2014-11-06,Blazers,203459,Allen Crabbe,False,True,placed on IL
+2014-11-06,Blazers,200777,Joel Freeland,True,False,activated from IL
+2014-11-06,Rockets,201976,Patrick Beverley,False,True,placed on IL with hamstring injury
+2014-11-06,Rockets,204028,Tarik Black,True,False,activated from IL
+2014-11-06,Spurs,1938,Manu Ginobili,False,True,rest (DTD)
+2014-11-06,Spurs,201158,Marco Belinelli,False,True,strained right groin (DTD)
+2014-11-06,Spurs,201168,Tiago Splitter,False,True,placed on IL with sore right calf
+2014-11-06,Spurs,1495,Tim Duncan,False,True,rest (DTD)
+2014-11-06,Spurs,203937,Kyle Anderson,True,False,activated from IL
+2014-11-07,76ers,203457,Nerlens Noel,False,True,sprained left ankle (DTD)
+2014-11-07,Bulls,201565,Derrick Rose,False,True,placed on IL with sprained ankles
+2014-11-07,Bulls,201149,Joakim Noah,True,False,activated from IL
+2014-11-07,Hornets,203943,Noah Vonleh,False,True,placed on IL
+2014-11-07,Hornets,203077,Michael Kidd-Gilchrist,True,False,activated from IL
+2014-11-07,Knicks,203143,Pablo Prigioni,False,True,sprained right ankle (DTD)
+2014-11-07,Nuggets,201951,Ty Lawson,False,True,placed on IL with sore left ankle
+2014-11-07,Nuggets,203475,Erick Green,True,False,activated from IL
+2014-11-07,Pacers,101139,C.J. Miles,False,True,migraine headache (DTD)
+2014-11-07,Pacers,201228,C.J. Watson,False,True,placed on IL with right foot injury
+2014-11-07,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-11-07,Raptors,203512,Lucas Nogueira,False,True,placed on IL
+2014-11-07,Raptors,101161,Amir Johnson,True,False,activated from IL
+2014-11-07,Raptors,202685,Jonas Valanciunas,True,False,activated from IL
+2014-11-07,Suns,203898,Tyler Ennis,False,True,placed on IL
+2014-11-07,Suns,204054,Zoran Dragic,True,False,activated from IL
+2014-11-07,Thunder,203087,Jeremy Lamb,True,False,returned to lineup
+2014-11-08,Celtics,203935,Marcus Smart,False,True,sprained left ankle (DNP)
+2014-11-08,Celtics,200765,Rajon Rondo,False,True,placed on IL with left hand injury
+2014-11-08,Celtics,200765,Rajon Rondo,False,True,surgery on left hand to remove screw
+2014-11-08,Celtics,203939,Dwight Powell,True,False,activated from IL
+2014-11-08,Clippers,202327,Ekpe Udoh,False,True,placed on IL
+2014-11-08,Clippers,201175,Glen Davis,True,False,activated from IL
+2014-11-08,Heat,203120,Justin Hamilton (Anthony),False,True,placed on IL with hip injury
+2014-11-08,Heat,101122,Danny Granger,True,False,activated from IL
+2014-11-08,Pelicans,202337,Luke Babbitt,False,True,placed on IL with sprained left finger
+2014-11-08,Pelicans,2422,John Salmons,True,False,activated from IL
+2014-11-08,Rockets,2730,Dwight Howard,False,True,flu (DTD)
+2014-11-08,Spurs,1495,Tim Duncan,True,False,returned to lineup
+2014-11-08,Timberwolves,203461,Anthony Bennett,False,True,bruised knee (DTD)
+2014-11-08,Timberwolves,201937,Ricky Rubio,False,True,sprained left ankle (DNP)
+2014-11-08,Warriors,101135,David Lee,False,True,placed on IL with strained left hamstring
+2014-11-08,Warriors,203200,Justin Holiday,True,False,activated from IL
+2014-11-09,Jazz,203918,Rodney Hood,False,True,placed on IL with foot injury
+2014-11-09,Jazz,203315,Toure Murry,True,False,activated from IL
+2014-11-09,Lakers,203527,Ryan Kelly,False,True,sore right hamstring (DTD)
+2014-11-09,Magic,203906,Roy Marble (Devyn),False,True,sprained rotator cuff in right shoulder (DTD)
+2014-11-09,Nets,203508,Sergey Karasev,False,True,placed on IL
+2014-11-09,Nets,203928,Cory Jefferson,True,False,activated from IL
+2014-11-09,Nuggets,203475,Erick Green,False,True,placed on IL
+2014-11-09,Nuggets,201951,Ty Lawson,True,False,activated from IL
+2014-11-09,Suns,204054,Zoran Dragic,False,True,placed on IL
+2014-11-09,Suns,203933,T.J. Warren,True,False,activated from IL
+2014-11-09,Warriors,203200,Justin Holiday,False,True,placed on IL
+2014-11-09,Warriors,202691,Klay Thompson,False,True,sprained right hand (DTD)
+2014-11-09,Warriors,203517,Nemanja Nedovic,True,False,activated from IL
+2014-11-10,Bulls,203946,Cameron Bairstow,False,True,placed on IL
+2014-11-10,Bulls,201565,Derrick Rose,True,False,activated from IL
+2014-11-10,Cavaliers,203079,Dion Waiters,False,True,placed on IL with bruised lower back
+2014-11-10,Clippers,201604,Chris Douglas-Roberts,False,True,placed on IL with right Achilles injury
+2014-11-10,Clippers,202327,Ekpe Udoh,True,False,activated from IL
+2014-11-10,Knicks,200811,Lou Amundson,True,False,activated from IL
+2014-11-10,Knicks,203143,Pablo Prigioni,True,False,returned to lineup
+2014-11-11,Blazers,201587,Nicolas Batum,False,True,placed on IL with right knee injury
+2014-11-11,Blazers,203459,Allen Crabbe,True,False,activated from IL
+2014-11-11,Bucks,203114,Khris Middleton,False,True,sore right knee (DNP)
+2014-11-11,Kings,201954,Darren Collison,False,True,shoulder injury (DTD)
+2014-11-11,Lakers,201961,Wayne Ellington,False,True,death of father (DTD)
+2014-11-11,Raptors,202361,Landry Fields,False,True,placed on IL with flu
+2014-11-11,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2014-11-11,Thunder,201627,Anthony Morrow,True,False,returned to lineup
+2014-11-11,Warriors,202691,Klay Thompson,True,False,returned to lineup
+2014-11-12,Celtics,203935,Marcus Smart,False,True,placed on IL
+2014-11-12,Celtics,201977,Marcus Thornton (T.),False,True,placed on IL with ankle injury
+2014-11-12,Celtics,200765,Rajon Rondo,True,False,activated from IL
+2014-11-12,Hawks,203118,(James) Mike Scott,False,True,placed on IL with back injury
+2014-11-12,Hawks,203940,Adreian Payne,True,False,activated from IL
+2014-11-12,Hawks,203098,John Jenkins,True,False,activated from IL
+2014-11-12,Heat,203958,Andre Dawkins,False,True,placed on IL
+2014-11-12,Heat,2365,Chris Andersen,True,False,activated from IL
+2014-11-12,Pelicans,203893,Russ Smith,False,True,placed on IL
+2014-11-12,Pelicans,203121,Darius Miller,True,False,activated from IL
+2014-11-12,Pelicans,202337,Luke Babbitt,True,False,activated from IL
+2014-11-12,Rockets,203991,Clint Capela,False,True,placed on IL
+2014-11-12,Rockets,201976,Patrick Beverley,False,True,placed on IL
+2014-11-12,Rockets,2730,Dwight Howard,True,False,returned to lineup
+2014-11-12,Timberwolves,201937,Ricky Rubio,False,True,placed on IL
+2014-11-12,Timberwolves,203461,Anthony Bennett,True,False,returned to lineup
+2014-11-12,Timberwolves,101142,Ronny Turiaf,True,False,activated from IL
+2014-11-13,76ers,203144,Alexey Shved,False,True,sore lower back (DTD)
+2014-11-13,76ers,203487,Michael Carter-Williams,True,False,returned to lineup
+2014-11-13,76ers,203457,Nerlens Noel,True,False,returned to lineup
+2014-11-13,Bulls,201565,Derrick Rose,True,False,activated from IL
+2014-11-13,Kings,201954,Darren Collison,True,False,returned to lineup
+2014-11-13,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-11-13,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2014-11-14,Bucks,203114,Khris Middleton,False,True,sore right knee (DNP)
+2014-11-14,Cavaliers,203945,Alex Kirk,False,True,placed on IL (P)
+2014-11-14,Cavaliers,203079,Dion Waiters,True,False,activated from IL
+2014-11-14,Celtics,201977,Marcus Thornton (T.),True,False,activated from IL
+2014-11-14,Hawks,203940,Adreian Payne,False,True,placed on IL
+2014-11-14,Hawks,203118,(James) Mike Scott,True,False,activated from IL
+2014-11-14,Heat,2548,Dwyane Wade,False,True,placed on IL with strained left hamstring
+2014-11-14,Heat,203958,Andre Dawkins,True,False,activated from IL
+2014-11-14,Hornets,203077,Michael Kidd-Gilchrist,False,True,placed on IL with right foot injury
+2014-11-14,Hornets,203943,Noah Vonleh,True,False,activated from IL
+2014-11-14,Lakers,203527,Ryan Kelly,True,False,returned to lineup
+2014-11-14,Magic,203906,Roy Marble (Devyn),False,True,placed on IL with sprained rotator cuff in right shoulder
+2014-11-14,Magic,203506,Victor Oladipo,True,False,activated from IL
+2014-11-14,Mavericks,101109,Raymond Felton,True,False,activated from IL
+2014-11-14,Nuggets,200751,Randy Foye,False,True,bruised right knee (DNP)
+2014-11-14,Nuggets,200751,Randy Foye,False,True,placed on IL
+2014-11-14,Nuggets,203914,Gary Harris,True,False,activated from IL
+2014-11-14,Pacers,101139,C.J. Miles,True,False,returned to lineup
+2014-11-14,Pistons,203540,Gigi Datome,True,False,returned to lineup
+2014-11-14,Rockets,203584,Troy Daniels,False,True,groin injury (DNP)
+2014-11-14,Suns,203933,T.J. Warren,False,True,placed on IL
+2014-11-14,Suns,204054,Zoran Dragic,True,False,activated from IL
+2014-11-14,Timberwolves,201152,Thaddeus Young,False,True,placed on IL for personal reasons
+2014-11-15,Blazers,201964,Victor Claver,True,False,activated from IL
+2014-11-15,Bulls,201565,Derrick Rose,False,True,strained left hamstring (DTD)
+2014-11-15,Magic,2557,Luke Ridnour,False,True,personal reasons (DTD)
+2014-11-15,Pacers,101139,C.J. Miles,False,True,strained right calf (DTD)
+2014-11-15,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-11-15,Raptors,202361,Landry Fields,True,False,activated from IL
+2014-11-15,Warriors,203200,Justin Holiday,True,False,activated from IL
+2014-11-15,Thunder,203511,Grant Jerrett,True,False,activated from IL
+2014-11-16,Heat,203120,Justin Hamilton (Anthony),True,False,activated from IL
+2014-11-16,Knicks,202697,Iman Shumpert,False,True,bruised right hip (DTD)
+2014-11-16,Lakers,203944,Julius Randle,False,True,placed on IL recovering from surgery on right leg to repair fractured tibia (out for season)
+2014-11-16,Magic,203932,Aaron Gordon,False,True,fractured left foot (DTD)
+2014-11-16,Rockets,201976,Patrick Beverley,True,False,activated from IL
+2014-11-17,76ers,203144,Alexey Shved,True,False,returned to lineup
+2014-11-17,Blazers,201964,Victor Claver,False,True,placed on IL
+2014-11-17,Bulls,2200,Pau Gasol,False,True,placed on IL with strained left calf
+2014-11-17,Grizzlies,203950,Jarnell Stokes,True,False,activated from IL
+2014-11-17,Heat,2736,Luol Deng,False,True,sprained right wrist (DTD)
+2014-11-17,Heat,101122,Danny Granger,True,False,returned to lineup
+2014-11-17,Hornets,202390,Gary Neal,False,True,concussion (DTD)
+2014-11-17,Lakers,203527,Ryan Kelly,False,True,torn right hamstring (out indefinitely)
+2014-11-17,Magic,2557,Luke Ridnour,True,False,returned to lineup
+2014-11-17,Mavericks,2210,Richard Jefferson,False,True,placed on IL
+2014-11-17,Nets,1905,Andrei Kirilenko,False,True,placed on IL
+2014-11-17,Nets,203900,Markel Brown,True,False,activated from IL
+2014-11-17,Nuggets,201581,J.J. Hickson,False,True,placed on IL with sore right knee
+2014-11-17,Nuggets,203994,Jusuf Nurkic,False,True,placed on IL
+2014-11-17,Nuggets,203475,Erick Green,True,False,activated from IL
+2014-11-17,Nuggets,200751,Randy Foye,True,False,activated from IL
+2014-11-17,Pelicans,201600,Omer Asik,False,True,placed on IL with sore lower back
+2014-11-17,Pelicans,201156,Patric Young,True,False,activated from IL
+2014-11-17,Pistons,203540,Gigi Datome,False,True,placed on IL
+2014-11-17,Pistons,201858,Cartier Martin,True,False,activated from IL
+2014-11-17,Suns,200782,P.J. Tucker,False,True,placed on IL
+2014-11-17,Suns,203933,T.J. Warren,True,False,activated from IL
+2014-11-18,Knicks,203921,Cleanthony Early,False,True,right knee injury (out indefinitely)
+2014-11-18,Knicks,202697,Iman Shumpert,True,False,returned to lineup
+2014-11-18,Lakers,201156,Nick Young,True,False,activated from IL
+2014-11-19,Grizzlies,2757,Beno Udrih,False,True,flu (DTD)
+2014-11-19,Grizzlies,201584,Courtney Lee,False,True,flu (DTD)
+2014-11-19,Grizzlies,202720,Jon Leuer,False,True,placed on IL with flu
+2014-11-19,Grizzlies,201585,Kosta Koufos,False,True,placed on IL with flu
+2014-11-19,Grizzlies,2754,Tony Allen,False,True,flu / stomach virus (DTD)
+2014-11-19,Hornets,202390,Gary Neal,False,True,placed on IL with concussion
+2014-11-19,Hornets,203798,P.J. Hairston,False,True,sprained right ankle (DNP)
+2014-11-19,Magic,203095,Evan Fournier,False,True,bruised left heel (DTD)
+2014-11-19,Mavericks,2734,Devin Harris,False,True,placed on IL with sore lower left leg
+2014-11-19,Mavericks,2210,Richard Jefferson,True,False,activated from IL
+2014-11-19,Nuggets,203475,Erick Green,False,True,placed on IL
+2014-11-19,Nuggets,203914,Gary Harris,False,True,placed on IL
+2014-11-19,Nuggets,203994,Jusuf Nurkic,True,False,activated from IL
+2014-11-19,Pacers,201155,Rodney Stuckey,True,False,returned to lineup
+2014-11-19,Raptors,201949,James Johnson,False,True,sprained right ankle (DTD)
+2014-11-19,Raptors,202361,Landry Fields,True,False,activated from IL
+2014-11-19,Rockets,2730,Dwight Howard,False,True,strained right knee (DTD)
+2014-11-19,Spurs,2588,Matt Bonner,False,True,stomach virus (DTD)
+2014-11-19,Suns,204054,Zoran Dragic,False,True,placed on IL
+2014-11-19,Suns,200782,P.J. Tucker,True,False,activated from IL
+2014-11-19,Thunder,203460,Andre Roberson,True,False,returned to lineup
+2014-11-19,Timberwolves,201593,Nikola Pekovic,False,True,sprained right wrist (DTD)
+2014-11-19,Timberwolves,101142,Ronny Turiaf,False,True,hip injury (out for season)
+2014-11-19,Wizards,779,Glen Rice Jr.,False,True,placed on IL
+2014-11-19,Wizards,203078,Bradley Beal,True,False,activated from IL
+2014-11-19,Nuggets,201581,J.J. Hickson,True,False,activated from IL
+2014-11-19,Nuggets,201581,J.J. Hickson,False,True,DNP
+2014-11-20,Heat,203958,Andre Dawkins,False,True,placed on IL
+2014-11-20,Heat,203120,Justin Hamilton (Anthony),True,False,returned to lineup
+2014-11-20,Heat,2736,Luol Deng,True,False,returned to lineup
+2014-11-20,Hawks,203940,Adreian Payne,True,False,activated from IL
+2014-11-21,Blazers,201587,Nicolas Batum,True,False,activated from IL
+2014-11-21,Bulls,2550,Kirk Hinrich,False,True,placed on IL with chest injury
+2014-11-21,Grizzlies,202347,Quincy Pondexter,False,True,flu / stomach virus (DNP)
+2014-11-21,Grizzlies,2757,Beno Udrih,True,False,returned to lineup
+2014-11-21,Grizzlies,201584,Courtney Lee,True,False,returned to lineup
+2014-11-21,Grizzlies,202720,Jon Leuer,True,False,activated from IL
+2014-11-21,Grizzlies,201585,Kosta Koufos,True,False,activated from IL
+2014-11-21,Hawks,203098,John Jenkins,False,True,placed on IL
+2014-11-21,Hornets,203798,P.J. Hairston,False,True,placed on IL with sprained right ankle
+2014-11-21,Hornets,202390,Gary Neal,True,False,activated from IL
+2014-11-21,Lakers,201961,Wayne Ellington,True,False,returned to lineup
+2014-11-21,Magic,203095,Evan Fournier,True,False,returned to lineup
+2014-11-21,Nets,1905,Andrei Kirilenko,False,True,personal reasons (DNP)
+2014-11-21,Nuggets,201581,J.J. Hickson,False,True,DNP
+2014-11-21,Pelicans,201156,Patric Young,False,True,placed on IL
+2014-11-21,Raptors,201949,James Johnson,False,True,placed on IL with sprained right ankle
+2014-11-21,Raptors,201946,Tyler Hansbrough,False,True,placed on IL with sprained right shoulder
+2014-11-21,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2014-11-21,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2014-11-21,Spurs,201158,Marco Belinelli,True,False,returned to lineup
+2014-11-21,Timberwolves,2755,Kevin Martin,False,True,fractured right wrist (DTD)
+2014-11-21,76ers,203924,Jerami Grant,True,False,activated from IL
+2014-11-21,Pelicans,201600,Omer Asik,True,False,activated from IL
+2014-11-21,76ers,203924,Jerami Grant,False,True,sprained right ankle (DTD)
+2014-11-21,Pelicans,201600,Omer Asik,False,True,DNP
+2014-11-22,Heat,202708,Norris Cole (Gene),False,True,placed on IL with finger injury
+2014-11-22,Heat,203958,Andre Dawkins,True,False,activated from IL
+2014-11-22,Knicks,203921,Cleanthony Early,False,True,placed on IL
+2014-11-22,Knicks,101181,Jose Calderon,True,False,activated from IL
+2014-11-22,Magic,202699,Tobias Harris,False,True,strained right calf (DTD)
+2014-11-22,Mavericks,101111,Charlie Villanueva,False,True,placed on IL
+2014-11-22,Mavericks,2734,Devin Harris,True,False,activated from IL
+2014-11-22,Nets,708,Kevin Garnett,False,True,placed on IL
+2014-11-22,Nets,203508,Sergey Karasev,True,False,activated from IL
+2014-11-22,Pelicans,203121,Darius Miller,False,True,placed on IL
+2014-11-22,Pelicans,201600,Omer Asik,False,True,placed on IL
+2014-11-22,Pelicans,201156,Patric Young,True,False,activated from IL
+2014-11-22,Pelicans,203893,Russ Smith,True,False,activated from IL
+2014-11-22,Rockets,203910,Nick Johnson,False,True,placed on IL
+2014-11-22,Spurs,2588,Matt Bonner,False,True,illness (DNP)
+2014-11-22,Wizards,203490,Otto Porter Jr.,False,True,left hamstring injury (DNP)
+2014-11-23,Celtics,203923,James Young,False,True,placed on IL
+2014-11-23,Grizzlies,203919,Jordan Adams,False,True,placed on IL
+2014-11-23,Grizzlies,2754,Tony Allen,True,False,returned to lineup
+2014-11-23,Lakers,2430,Carlos Boozer,False,True,strained left shoulder (DTD)
+2014-11-23,Nuggets,201581,J.J. Hickson,True,False,activated from IL
+2014-11-24,76ers,203924,Jerami Grant,False,True,placed on IL
+2014-11-24,Bulls,201959,Taj Gibson,False,True,placed on IL
+2014-11-24,Bulls,201565,Derrick Rose,True,False,returned to lineup
+2014-11-24,Bulls,2200,Pau Gasol,True,False,activated from IL
+2014-11-24,Clippers,2440,Matt Barnes,False,True,strained left calf (DTD)
+2014-11-24,Lakers,202333,Xavier Henry,False,True,torn left Achilles tendon (DTD)
+2014-11-24,Mavericks,101109,Raymond Felton,False,True,placed on IL with ankle injury
+2014-11-24,Mavericks,101111,Charlie Villanueva,True,False,activated from IL
+2014-11-24,Pacers,201579,Roy Hibbert,False,True,sprained left ankle (DTD)
+2014-11-24,Pacers,101139,C.J. Miles,True,False,returned to lineup
+2014-11-24,Raptors,203512,Lucas Nogueira,False,True,placed on IL
+2014-11-24,Raptors,201949,James Johnson,True,False,activated from IL
+2014-11-24,Rockets,201976,Patrick Beverley,False,True,placed on IL with hamstring injury
+2014-11-24,Rockets,203910,Nick Johnson,True,False,activated from IL
+2014-11-25,Bucks,203489,Nate Wolters,False,True,illness (DTD)
+2014-11-25,Bulls,201149,Joakim Noah,False,True,placed on IL with eye abrasion
+2014-11-25,Bulls,2550,Kirk Hinrich,True,False,activated from IL
+2014-11-25,Heat,2365,Chris Andersen,False,True,placed on IL with sprained right ankle
+2014-11-25,Heat,202708,Norris Cole (Gene),True,False,activated from IL
+2014-11-25,Kings,201954,Darren Collison,False,True,bruised left quadriceps (DTD)
+2014-11-25,Kings,200752,Rudy Gay,False,True,placed on IL with right Achilles injury
+2014-11-25,Nuggets,200751,Randy Foye,False,True,placed on IL with strained right quadriceps
+2014-11-25,Nuggets,203475,Erick Green,True,False,activated from IL
+2014-11-25,Nuggets,203914,Gary Harris,True,False,activated from IL
+2014-11-25,Pelicans,201569,Eric Gordon,False,True,placed on IL with torn labrum in left shoulder
+2014-11-25,Pelicans,203121,Darius Miller,True,False,activated from IL
+2014-11-25,Pelicans,201600,Omer Asik,True,False,activated from IL
+2014-11-25,Pistons,201943,Brandon Jennings,False,True,hyperextended left thumb (DTD)
+2014-11-25,Timberwolves,2755,Kevin Martin,False,True,surgery on right wrist to repair fracture (out indefinitely)
+2014-11-25,Wizards,2403,Nene Hilario ,False,True,plantar faciitis in right foot (DTD)
+2014-11-26,Bucks,203089,John Henson,False,True,sprained left foot (DTD)
+2014-11-26,Clippers,2440,Matt Barnes,False,True,placed on IL with strained left calf
+2014-11-26,Clippers,203912,C.J. Wilcox,True,False,activated from IL
+2014-11-26,Hawks,200757,Thabo Sefolosha,False,True,placed on IL with illness
+2014-11-26,Hawks,203098,John Jenkins,True,False,activated from IL
+2014-11-26,Hornets,202390,Gary Neal,False,True,placed on IL with left shoulder injury
+2014-11-26,Hornets,203798,P.J. Hairston,True,False,activated from IL
+2014-11-26,Kings,203961,Eric Moreland,True,False,activated from IL
+2014-11-26,Knicks,2546,Carmelo Anthony,False,True,back spasms (DTD)
+2014-11-26,Lakers,2430,Carlos Boozer,True,False,returned to lineup
+2014-11-26,Magic,203932,Aaron Gordon,False,True,placed on IL with fractured left foot
+2014-11-26,Magic,203124,Kyle O'Quinn,True,False,activated from IL
+2014-11-26,Magic,202699,Tobias Harris,True,False,returned to lineup
+2014-11-26,Mavericks,2749,Jameer Nelson,False,True,placed on IL with back spasms
+2014-11-26,Mavericks,203495,Ricky Ledo,True,False,activated from IL
+2014-11-26,Nets,203900,Markel Brown,False,True,placed on IL
+2014-11-26,Nets,708,Kevin Garnett,True,False,activated from IL
+2014-11-26,Pistons,203540,Gigi Datome,True,False,activated from IL
+2014-11-26,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-11-26,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2014-11-26,Spurs,202709,Cory Joseph,False,True,sprained left ankle (DTD)
+2014-11-26,Suns,202738,Isaiah Thomas,False,True,placed on IL with ankle injury
+2014-11-26,Suns,204054,Zoran Dragic,True,False,activated from IL
+2014-11-26,Timberwolves,2755,Kevin Martin,False,True,placed on IL recovering from surgery on right wrist to repair fracture
+2014-11-26,Timberwolves,2590,Mo Williams,False,True,illness (DTD)
+2014-11-26,Timberwolves,201152,Thaddeus Young,True,False,activated from IL
+2014-11-26,Warriors,2571,Leandro Barbosa,False,True,knee injury (DTD)
+2014-11-28,Bucks,2585,Zaza Pachulia,False,True,personal reasons (DTD)
+2014-11-28,Bulls,201149,Joakim Noah,True,False,activated from IL
+2014-11-28,Clippers,203912,C.J. Wilcox,False,True,placed on IL
+2014-11-28,Clippers,2440,Matt Barnes,True,False,activated from IL
+2014-11-28,Hornets,101107,Marvin Williams,False,True,sprained left shoulder (DTD)
+2014-11-28,Kings,201954,Darren Collison,True,False,returned to lineup
+2014-11-28,Kings,200752,Rudy Gay,True,False,activated from IL
+2014-11-28,Mavericks,203495,Ricky Ledo,False,True,placed on IL
+2014-11-28,Pacers,201228,C.J. Watson,True,False,activated from IL
+2014-11-28,Pacers,2561,David West,True,False,returned to lineup
+2014-11-28,Pelicans,201156,Patric Young,False,True,placed on IL
+2014-11-28,Pelicans,203893,Russ Smith,True,False,activated from IL
+2014-11-28,Pistons,201943,Brandon Jennings,False,True,"fined $15,000 by NBA for making an obscene gesture during game"
+2014-11-28,Raptors,203512,Lucas Nogueira,False,True,placed on IL
+2014-11-28,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2014-11-28,Suns,204054,Zoran Dragic,False,True,placed on IL
+2014-11-28,Suns,203898,Tyler Ennis,True,False,activated from IL
+2014-11-28,Thunder,203511,Grant Jerrett,True,False,activated from IL
+2014-11-28,Thunder,201566,Russell Westbrook,True,False,returned to lineup
+2014-11-28,Timberwolves,2590,Mo Williams,True,False,returned to lineup
+2014-11-28,Hawks,203098,John Jenkins,False,True,placed on IL
+2014-11-28,Mavericks,2749,Jameer Nelson,True,False,activated from IL
+2014-11-28,Mavericks,2749,Jameer Nelson,False,True,back spasms (DTD)
+2014-11-29,76ers,203100,Tony Wroten Jr.,False,True,placed on IL with sprained right knee
+2014-11-29,76ers,203924,Jerami Grant,True,False,activated from IL
+2014-11-29,Bucks,203489,Nate Wolters,True,False,returned to lineup
+2014-11-29,Cavaliers,2760,Anderson Varejao,False,True,placed on IL with bruised ribs
+2014-11-29,Cavaliers,203945,Alex Kirk,True,False,activated from IL
+2014-11-29,Hawks,200757,Thabo Sefolosha,True,False,activated from IL
+2014-11-29,Jazz,202379,Jeremy Evans,False,True,sprained left ankle (DTD)
+2014-11-29,Jazz,203918,Rodney Hood,True,False,activated from IL
+2014-11-29,Mavericks,1717,Dirk Nowitzki,False,True,rest (DTD)
+2014-11-29,Pelicans,203893,Russ Smith,False,True,placed on IL
+2014-11-29,Pelicans,201156,Patric Young,True,False,activated from IL
+2014-11-29,Rockets,203477,Isaiah Canaan,False,True,left ankle injury (DTD)
+2014-11-30,Blazers,203115,Will Barton,False,True,placed on IL with stomach virus
+2014-11-30,Blazers,201964,Victor Claver,True,False,activated from IL
+2014-11-30,Celtics,203923,James Young,True,False,activated from IL
+2014-11-30,Heat,203958,Andre Dawkins,False,True,placed on IL
+2014-11-30,Heat,2548,Dwyane Wade,True,False,activated from IL
+2014-11-30,Knicks,2546,Carmelo Anthony,True,False,returned to lineup
+2014-11-30,Pistons,201943,Brandon Jennings,True,False,returned to lineup
+2014-11-30,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-11-30,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2014-11-30,Raptors,201946,Tyler Hansbrough,True,False,activated from IL
+2014-11-30,Suns,203898,Tyler Ennis,False,True,placed on IL
+2014-11-30,Suns,204054,Zoran Dragic,True,False,activated from IL
+2014-11-30,Warriors,2571,Leandro Barbosa,True,False,returned to lineup
+2014-12-01,76ers,203457,Nerlens Noel,False,True,hip flexor injury (DNP)
+2014-12-01,Jazz,202324,Derrick Favors,False,True,flu (DTD)
+2014-12-01,Nuggets,203475,Erick Green,False,True,placed on IL
+2014-12-01,Spurs,2225,(William) Tony Parker,False,True,bruised ribs (DTD)
+2014-12-01,Spurs,1495,Tim Duncan,False,True,rest (DTD)
+2014-12-02,Bucks,2585,Zaza Pachulia,True,False,returned to lineup
+2014-12-02,Cavaliers,203945,Alex Kirk,False,True,placed on IL
+2014-12-02,Cavaliers,2760,Anderson Varejao,True,False,activated from IL
+2014-12-02,Knicks,2747,J.R. Smith,False,True,flu (DTD)
+2014-12-02,Magic,202696,Nikola Vucevic,False,True,back spasms (DTD)
+2014-12-02,Mavericks,1717,Dirk Nowitzki,True,False,returned to lineup
+2014-12-02,Mavericks,2749,Jameer Nelson,True,False,returned to lineup
+2014-12-02,Pacers,201579,Roy Hibbert,True,False,returned to lineup
+2014-12-02,Pelicans,203893,Russ Smith,True,False,activated from IL
+2014-12-02,Raptors,203512,Lucas Nogueira,False,True,placed on IL
+2014-12-02,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2014-12-02,Suns,204054,Zoran Dragic,False,True,placed on IL
+2014-12-02,Suns,203898,Tyler Ennis,True,False,activated from IL
+2014-12-02,Thunder,201142,Kevin Durant,True,False,activated from IL
+2014-12-03,76ers,203144,Alexey Shved,False,True,strained left hip flexor (DTD)
+2014-12-03,76ers,203457,Nerlens Noel,True,False,returned to lineup
+2014-12-03,Bucks,101141,Ersan Ilyasova,False,True,fractured nose (DTD)
+2014-12-03,Celtics,203939,Dwight Powell,False,True,placed on IL
+2014-12-03,Celtics,203935,Marcus Smart,True,False,activated from IL
+2014-12-03,Clippers,203493,Reggie Bullock,False,True,placed on IL with sprained right ankle
+2014-12-03,Clippers,203912,C.J. Wilcox,True,False,activated from IL
+2014-12-03,Heat,202708,Norris Cole (Gene),False,True,placed on IL with illness
+2014-12-03,Hornets,101107,Marvin Williams,True,False,returned to lineup
+2014-12-03,Jazz,202692,Alec Burks,False,True,left shoulder injury (DNP)
+2014-12-03,Jazz,203504,Trey Burke,False,True,placed on IL
+2014-12-03,Jazz,202324,Derrick Favors,True,False,returned to lineup
+2014-12-03,Jazz,203315,Toure Murry,True,False,activated from IL
+2014-12-03,Mavericks,1717,Dirk Nowitzki,False,True,sore back (DTD)
+2014-12-03,Nets,708,Kevin Garnett,False,True,placed on IL
+2014-12-03,Nets,203900,Markel Brown,True,False,activated from IL
+2014-12-03,Rockets,203477,Isaiah Canaan,False,True,placed on IL
+2014-12-03,Rockets,203991,Clint Capela,True,False,activated from IL
+2014-12-03,Spurs,2225,(William) Tony Parker,True,False,returned to lineup
+2014-12-03,Spurs,1495,Tim Duncan,True,False,returned to lineup
+2014-12-03,Heat,203958,Andre Dawkins,True,False,activated from IL
+2014-12-04,Blazers,2748,Dorell Wright,False,True,placed on IL with illness
+2014-12-04,Blazers,203115,Will Barton,True,False,activated from IL
+2014-12-04,Knicks,2747,J.R. Smith,True,False,returned to lineup
+2014-12-05,Heat,203958,Andre Dawkins,False,True,placed on IL
+2014-12-05,Heat,2736,Luol Deng,False,True,bruised right hand (DTD)
+2014-12-05,Hornets,202390,Gary Neal,True,False,activated from IL
+2014-12-05,Jazz,202692,Alec Burks,False,True,placed on IL with left shoulder injury
+2014-12-05,Jazz,203504,Trey Burke,True,False,activated from IL
+2014-12-05,Mavericks,1717,Dirk Nowitzki,True,False,returned to lineup
+2014-12-05,Nets,203508,Sergey Karasev,False,True,placed on IL
+2014-12-05,Nets,708,Kevin Garnett,True,False,activated from IL
+2014-12-05,Nuggets,203994,Jusuf Nurkic,False,True,placed on IL
+2014-12-05,Nuggets,203475,Erick Green,True,False,activated from IL
+2014-12-05,Thunder,203511,Grant Jerrett,False,True,placed on IL
+2014-12-05,Timberwolves,2590,Mo Williams,False,True,back spasms (DTD)
+2014-12-05,Wizards,2403,Nene Hilario ,True,False,returned to lineup
+2014-12-05,Heat,202708,Norris Cole (Gene),True,False,activated from IL
+2014-12-05,Heat,202708,Norris Cole (Gene),False,True,cold (DTD)
+2014-12-06,Bulls,201959,Taj Gibson,True,False,activated from IL
+2014-12-06,Clippers,200770,Jordan Farmar,False,True,placed on IL with back injury
+2014-12-06,Magic,202696,Nikola Vucevic,False,True,placed on IL with back spasms
+2014-12-06,Magic,203906,Roy Marble (Devyn),True,False,activated from IL
+2014-12-06,Pelicans,203893,Russ Smith,False,True,placed on IL
+2014-12-06,Rockets,203123,Kostas Papanikolaou,False,True,strained right knee (DTD)
+2014-12-06,Rockets,201976,Patrick Beverley,True,False,activated from IL
+2014-12-06,Spurs,2225,(William) Tony Parker,False,True,strained left hamstring (DTD)
+2014-12-06,Spurs,1938,Manu Ginobili,False,True,left shoulder impingement (DTD)
+2014-12-07,Blazers,201964,Victor Claver,False,True,placed on IL
+2014-12-07,Blazers,2748,Dorell Wright,True,False,activated from IL
+2014-12-07,Hawks,203488,Mike Muscala,False,True,placed on IL
+2014-12-07,Heat,2736,Luol Deng,True,False,returned to lineup
+2014-12-07,Heat,202708,Norris Cole (Gene),True,False,returned to lineup
+2014-12-07,Nuggets,202702,Kenneth Faried,False,True,strained lower back (DTD)
+2014-12-07,Nuggets,101126,Nate Robinson,False,True,bruised back (DTD)
+2014-12-07,Pacers,101133,Ian Mahinmi,False,True,torn plantar fascia in left foot (out indefinitely)
+2014-12-08,Cavaliers,2034,Mike Miller,False,True,placed on IL with concussion
+2014-12-08,Cavaliers,203521,Matthew Dellavedova,True,False,activated from IL
+2014-12-08,Jazz,203315,Toure Murry,False,True,placed on IL
+2014-12-08,Jazz,202692,Alec Burks,True,False,activated from IL
+2014-12-08,Jazz,202379,Jeremy Evans,True,False,returned to lineup
+2014-12-08,Nets,201572,Brook Lopez,False,True,placed on IL with strained lower back
+2014-12-08,Nets,2207,Joe Johnson,False,True,flu (DTD)
+2014-12-08,Nets,203508,Sergey Karasev,True,False,activated from IL
+2014-12-08,Wizards,2403,Nene Hilario ,False,True,sore left (P) / right knee (DTD)
+2014-12-08,Hawks,203488,Mike Muscala,True,False,activated from IL
+2014-12-09,Grizzlies,203950,Jarnell Stokes,False,True,placed on IL
+2014-12-09,Grizzlies,203919,Jordan Adams,True,False,activated from IL
+2014-12-09,Spurs,1938,Manu Ginobili,True,False,returned to lineup
+2014-12-10,Bulls,201149,Joakim Noah,False,True,placed on IL with sprained right ankle
+2014-12-10,Clippers,200770,Jordan Farmar,True,False,activated from IL
+2014-12-10,Hawks,203118,(James) Mike Scott,False,True,placed on IL with flu
+2014-12-10,Hawks,203098,John Jenkins,True,False,activated from IL
+2014-12-10,Hornets,203077,Michael Kidd-Gilchrist,True,False,activated from IL
+2014-12-10,Knicks,2546,Carmelo Anthony,False,True,sore left knee (DTD)
+2014-12-10,Knicks,2747,J.R. Smith,False,True,sore left heel (DTD)
+2014-12-10,Mavericks,2749,Jameer Nelson,False,True,sore right shoulder (DTD)
+2014-12-10,Nets,2207,Joe Johnson,False,True,placed on IL with flu
+2014-12-10,Nets,203141,Mirza Teletovic,False,True,right hip pointer (DTD)
+2014-12-10,Nuggets,201568,Danilo Gallinari,False,True,placed on IL with bone bruise in right knee
+2014-12-10,Nuggets,203994,Jusuf Nurkic,True,False,activated from IL
+2014-12-10,Nuggets,202702,Kenneth Faried,True,False,returned to lineup
+2014-12-10,Rockets,101128,Francisco Garcia,False,True,strained right Achilles (DTD)
+2014-12-10,Rockets,203123,Kostas Papanikolaou,False,True,placed on IL
+2014-12-10,Rockets,201976,Patrick Beverley,True,False,activated from IL (P)
+2014-12-10,Spurs,1938,Manu Ginobili,False,True,rest (DTD)
+2014-12-10,Spurs,202695,Kawhi Leonard,False,True,placed on IL with bruised right hand
+2014-12-10,Spurs,1495,Tim Duncan,False,True,rest (DTD)
+2014-12-10,Spurs,201168,Tiago Splitter,True,False,activated from IL
+2014-12-10,Warriors,101106,Andrew Bogut,False,True,placed on IL with right knee injury
+2014-12-10,Wizards,2403,Nene Hilario ,True,False,returned to lineup
+2014-12-11,Kings,201956,Omri Casspi,False,True,bone bruise in left knee (DTD)
+2014-12-11,Rockets,101128,Francisco Garcia,False,True,placed on IL
+2014-12-11,Rockets,203477,Isaiah Canaan,True,False,activated from IL
+2014-12-11,Rockets,203477,Isaiah Canaan,False,True,sprained left knee (DTD)
+2014-12-12,76ers,1905,Andrei Kirilenko,False,True,placed on IL
+2014-12-12,76ers,203100,Tony Wroten Jr.,True,False,activated from IL
+2014-12-12,Celtics,202340,Avery Bradley,False,True,placed on IL with flu
+2014-12-12,Celtics,203923,James Young,False,True,placed on IL with dislocated right shoulder
+2014-12-12,Celtics,203939,Dwight Powell,True,False,activated from IL
+2014-12-12,Grizzlies,203919,Jordan Adams,False,True,placed on IL
+2014-12-12,Grizzlies,203950,Jarnell Stokes,True,False,activated from IL
+2014-12-12,Hawks,203544,Pero Antic,False,True,placed on IL with flu
+2014-12-12,Hawks,203118,(James) Mike Scott,True,False,activated from IL
+2014-12-12,Hornets,203943,Noah Vonleh,False,True,placed on IL
+2014-12-12,Knicks,2546,Carmelo Anthony,True,False,returned to lineup
+2014-12-12,Nets,203141,Mirza Teletovic,False,True,placed on IL
+2014-12-12,Nets,2207,Joe Johnson,True,False,activated from IL
+2014-12-12,Pistons,203540,Gigi Datome,False,True,placed on IL
+2014-12-12,Pistons,201975,Jodie Meeks,True,False,activated from IL
+2014-12-12,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-12-12,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2014-12-12,Spurs,2225,(William) Tony Parker,True,False,returned to lineup
+2014-12-12,Spurs,1938,Manu Ginobili,True,False,returned to lineup
+2014-12-12,Spurs,1495,Tim Duncan,True,False,returned to lineup
+2014-12-12,Suns,203898,Tyler Ennis,False,True,placed on IL
+2014-12-12,Suns,202738,Isaiah Thomas,True,False,activated from IL
+2014-12-13,Bucks,101141,Ersan Ilyasova,False,True,placed on IL with fractured nose
+2014-12-13,Bucks,203089,John Henson,False,True,placed on IL with sprained left foot
+2014-12-13,Clippers,203912,C.J. Wilcox,False,True,placed on IL
+2014-12-13,Clippers,201150,Spencer Hawes,False,True,placed on IL with bruised left knee
+2014-12-13,Clippers,201604,Chris Douglas-Roberts,True,False,activated from IL
+2014-12-13,Clippers,203493,Reggie Bullock,True,False,activated from IL
+2014-12-13,Kings,201956,Omri Casspi,False,True,placed on IL with bone bruise in left knee
+2014-12-13,Magic,203906,Roy Marble (Devyn),False,True,placed on IL
+2014-12-13,Magic,202696,Nikola Vucevic,True,False,activated from IL
+2014-12-13,Mavericks,202718,Chandler Parsons,False,True,placed on IL with sore lower back
+2014-12-13,Mavericks,2749,Jameer Nelson,True,False,returned to lineup
+2014-12-13,Mavericks,203495,Ricky Ledo,True,False,activated from IL
+2014-12-13,Nets,708,Kevin Garnett,False,True,rest (DTD)
+2014-12-13,Pacers,101139,C.J. Miles,False,True,bruised left knee (DTD)
+2014-12-13,Rockets,203477,Isaiah Canaan,False,True,sprained left ankle (DTD)
+2014-12-13,Rockets,2730,Dwight Howard,True,False,returned to lineup
+2014-12-13,Bucks,203996,Damien Inglis,True,False,activated from IL
+2014-12-13,Nuggets,201568,Danilo Gallinari,True,False,activated from IL
+2014-12-13,Bucks,203996,Damien Inglis,False,True,right ankle injury (out for season)
+2014-12-13,Nuggets,201568,Danilo Gallinari,False,True,bruised right knee (DTD)
+2014-12-14,Heat,2547,Chris Bosh,False,True,strained left calf (out indefinitely)
+2014-12-14,Heat,202355,Hassan Whiteside,False,True,placed on IL
+2014-12-14,Heat,203894,Shabazz Napier,False,True,placed on IL
+2014-12-14,Heat,2365,Chris Andersen,True,False,activated from IL
+2014-12-14,Jazz,202324,Derrick Favors,False,True,placed on IL with sprained right ankle
+2014-12-14,Jazz,203315,Toure Murry,True,False,activated from IL
+2014-12-14,Knicks,202697,Iman Shumpert,False,True,placed on IL with dislocated left shoulder
+2014-12-14,Nuggets,202702,Kenneth Faried,False,True,strained right ankle (DTD)
+2014-12-14,Nuggets,101126,Nate Robinson,True,False,returned to lineup
+2014-12-14,Pelicans,203076,Anthony Davis,False,True,chest injury (DTD)
+2014-12-14,Raptors,203512,Lucas Nogueira,False,True,placed on IL
+2014-12-14,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2014-12-14,Spurs,2225,(William) Tony Parker,False,True,placed on IL with strained left hamstring
+2014-12-14,Spurs,202695,Kawhi Leonard,True,False,activated from IL
+2014-12-14,Suns,201609,Goran Dragic,False,True,placed on IL with sore/strained lower back
+2014-12-14,Suns,203898,Tyler Ennis,True,False,activated from IL
+2014-12-14,Thunder,202498,Lance Thomas,False,True,placed on IL
+2014-12-15,Celtics,203935,Marcus Smart,False,True,strained left Achilles (DTD)
+2014-12-15,Celtics,201977,Marcus Thornton (T.),False,True,placed on IL with calf injury
+2014-12-15,Celtics,202340,Avery Bradley,True,False,activated from IL
+2014-12-15,Pacers,101139,C.J. Miles,True,False,returned to lineup
+2014-12-15,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-12-15,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2014-12-15,Spurs,1938,Manu Ginobili,False,True,bruised lower back (DTD)
+2014-12-15,Spurs,201168,Tiago Splitter,False,True,calf injury (DTD)
+2014-12-15,Spurs,1495,Tim Duncan,False,True,rest (DTD)
+2014-12-16,Bucks,203953,Jabari Parker,False,True,torn ACL in left knee (out for season)
+2014-12-16,Heat,2547,Chris Bosh,False,True,placed on IL with strained left calf
+2014-12-16,Heat,101122,Danny Granger,False,True,illness (DTD)
+2014-12-16,Heat,202355,Hassan Whiteside,True,False,activated from IL
+2014-12-16,Heat,203894,Shabazz Napier,True,False,activated from IL
+2014-12-16,Mavericks,203495,Ricky Ledo,False,True,placed on IL
+2014-12-16,Mavericks,202718,Chandler Parsons,True,False,activated from IL
+2014-12-16,Nets,203900,Markel Brown,False,True,placed on IL
+2014-12-16,Nets,708,Kevin Garnett,True,False,returned to lineup
+2014-12-16,Nets,203141,Mirza Teletovic,True,False,activated from IL
+2014-12-16,Pelicans,203076,Anthony Davis,True,False,returned to lineup
+2014-12-16,Thunder,202498,Lance Thomas,True,False,activated from IL
+2014-12-16,Timberwolves,101142,Ronny Turiaf,False,True,arthroscopic surgery on right hip (out for season)
+2014-12-16,Timberwolves,2590,Mo Williams,True,False,returned to lineup
+2014-12-16,Wizards,1718,Paul Pierce,False,True,sore right toe (DTD)
+2014-12-17,Blazers,201577,Robin Lopez,False,True,placed on IL with fractured right hand
+2014-12-17,Grizzlies,2754,Tony Allen,False,True,right eye injury (DTD)
+2014-12-17,Hawks,201952,Jeff Teague,False,True,placed on IL with hamstring injury
+2014-12-17,Hawks,203544,Pero Antic,True,False,activated from IL
+2014-12-17,Jazz,203315,Toure Murry,False,True,placed on IL
+2014-12-17,Jazz,202324,Derrick Favors,True,False,activated from IL
+2014-12-17,Nets,203508,Sergey Karasev,False,True,strained left oblique (DTD)
+2014-12-17,Nets,203900,Markel Brown,True,False,activated from IL
+2014-12-17,Nuggets,201568,Danilo Gallinari,True,False,activated from IL
+2014-12-17,Nuggets,202702,Kenneth Faried,True,False,returned to lineup
+2014-12-17,Raptors,203512,Lucas Nogueira,False,True,placed on IL (not CBC)
+2014-12-17,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2014-12-17,Rockets,1891,Jason Terry,False,True,personal reasons (DTD)
+2014-12-17,Rockets,203477,Isaiah Canaan,True,False,returned to lineup
+2014-12-17,Spurs,202695,Kawhi Leonard,False,True,bruised right hand (DTD)
+2014-12-17,Spurs,1938,Manu Ginobili,True,False,returned to lineup
+2014-12-17,Spurs,201168,Tiago Splitter,True,False,returned to lineup
+2014-12-17,Spurs,1495,Tim Duncan,True,False,returned to lineup
+2014-12-17,Suns,203898,Tyler Ennis,False,True,placed on IL
+2014-12-17,Suns,201609,Goran Dragic,True,False,activated from IL
+2014-12-18,Bulls,201565,Derrick Rose,False,True,placed on IL with illness
+2014-12-18,Bulls,201959,Taj Gibson,False,True,placed on IL with sprained right ankle
+2014-12-18,Bulls,201149,Joakim Noah,True,False,activated from IL
+2014-12-18,Kings,2501,Reggie Evans,False,True,placed on IL with bruised left knee
+2014-12-18,Knicks,2546,Carmelo Anthony,False,True,sore left knee (DTD)
+2014-12-18,Pelicans,201936,Tyreke Evans,False,True,bruised right knee (DTD)
+2014-12-18,Rockets,203991,Clint Capela,False,True,placed on IL
+2014-12-18,Rockets,203123,Kostas Papanikolaou,True,False,activated from IL
+2014-12-18,Celtics,203543,Vitor Faverani,True,False,activated from IL
+2014-12-19,76ers,203128,Furkan Aldemir,False,True,plantar fasciitis right foot in (DTD)
+2014-12-19,Blazers,201587,Nicolas Batum,False,True,placed on IL with left knee injury
+2014-12-19,Cavaliers,2034,Mike Miller,True,False,activated from IL
+2014-12-19,Celtics,203935,Marcus Smart,True,False,returned to lineup
+2014-12-19,Hornets,202362,Lance Stephenson,False,True,bruised pelvis (DTD)
+2014-12-19,Nets,203508,Sergey Karasev,True,False,returned to lineup
+2014-12-19,Nuggets,201589,Darrell Arthur,False,True,strained left leg (DTD)
+2014-12-19,Thunder,2570,Kendrick Perkins,False,True,left knee injury (DTD)
+2014-12-19,Wizards,1718,Paul Pierce,True,False,returned to lineup
+2014-12-19,Rockets,101128,Francisco Garcia,True,False,returned to lineup
+2014-12-20,Blazers,201587,Nicolas Batum,True,False,activated from IL
+2014-12-20,Hornets,202362,Lance Stephenson,False,True,placed on IL with bruised pelvis
+2014-12-20,Knicks,2546,Carmelo Anthony,True,False,returned to lineup
+2014-12-20,Pacers,201228,C.J. Watson,False,True,upper respiratory ailment (DTD)
+2014-12-20,Pelicans,203893,Russ Smith,True,False,activated from IL
+2014-12-20,Pelicans,201936,Tyreke Evans,True,False,returned to lineup
+2014-12-20,Rockets,1891,Jason Terry,True,False,returned to lineup
+2014-12-20,Spurs,201980,Danny Green,False,True,rest (DTD)
+2014-12-20,Spurs,1938,Manu Ginobili,False,True,rest (DTD)
+2014-12-20,Spurs,201168,Tiago Splitter,False,True,rest (DTD)
+2014-12-20,Spurs,1495,Tim Duncan,False,True,rest (DTD)
+2014-12-20,Mavericks,203495,Ricky Ledo,True,False,activated from IL
+2014-12-21,76ers,203138,Hollis Thompson,False,True,upper respiratory illness (DTD)
+2014-12-21,Grizzlies,2216,Zach Randolph,False,True,placed on IL with sore right knee
+2014-12-21,Heat,2548,Dwyane Wade,False,True,bruised right knee (DTD)
+2014-12-21,Heat,202355,Hassan Whiteside,False,True,left toe injury (DTD)
+2014-12-21,Heat,203958,Andre Dawkins,True,False,activated from IL
+2014-12-21,Heat,101122,Danny Granger,True,False,returned to lineup
+2014-12-21,Kings,203961,Eric Moreland,False,True,placed on IL
+2014-12-21,Kings,201196,Ramon Sessions,False,True,back injury (DTD)
+2014-12-21,Kings,2501,Reggie Evans,True,False,activated from IL
+2014-12-21,Magic,2584,Willie Green,False,True,placed on IL with illness
+2014-12-21,Magic,203906,Roy Marble (Devyn),True,False,activated from IL
+2014-12-21,Nets,101114,Deron Williams,False,True,placed on IL with strained right calf
+2014-12-21,Nets,203900,Markel Brown,True,False,activated from IL
+2014-12-21,Nuggets,201568,Danilo Gallinari,False,True,torn meniscus in right knee (out indefinitely)
+2014-12-21,Pacers,201228,C.J. Watson,True,False,returned to lineup
+2014-12-21,Raptors,202361,Landry Fields,False,True,placed on IL with concussion
+2014-12-21,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2014-12-21,Thunder,2570,Kendrick Perkins,True,False,returned to lineup
+2014-12-21,Timberwolves,201593,Nikola Pekovic,False,True,placed on IL with right ankle injury
+2014-12-22,Blazers,201964,Victor Claver,True,False,activated from IL
+2014-12-22,Bulls,201565,Derrick Rose,True,False,activated from IL
+2014-12-22,Bulls,201959,Taj Gibson,True,False,activated from IL
+2014-12-22,Jazz,203565,Patrick Christopher,True,False,activated from IL
+2014-12-22,Kings,201956,Omri Casspi,True,False,activated from IL
+2014-12-22,Kings,201196,Ramon Sessions,True,False,returned to lineup
+2014-12-22,Nuggets,201568,Danilo Gallinari,False,True,surgery on right knee to repair torn meniscus (out indefinitely)
+2014-12-22,Nuggets,201568,Danilo Gallinari,False,True,placed on IL recovering from surgery on right knee to repair torn meniscus
+2014-12-22,Rockets,203144,Alexey Shved,True,False,returned to lineup
+2014-12-22,Spurs,202695,Kawhi Leonard,False,True,placed on IL with bruised right hand
+2014-12-22,Spurs,2225,(William) Tony Parker,True,False,activated from IL
+2014-12-22,Spurs,201980,Danny Green,True,False,returned to lineup
+2014-12-22,Spurs,1938,Manu Ginobili,True,False,returned to lineup
+2014-12-22,Spurs,201168,Tiago Splitter,True,False,returned to lineup
+2014-12-22,Spurs,1495,Tim Duncan,True,False,returned to lineup
+2014-12-22,Warriors,101135,David Lee,True,False,activated from IL
+2014-12-23,76ers,203100,Tony Wroten Jr.,False,True,sprained right knee (DTD)
+2014-12-23,Blazers,201587,Nicolas Batum,False,True,placed on IL with wrist injury
+2014-12-23,Blazers,201577,Robin Lopez,False,True,placed on IL with fractured right hand (P)
+2014-12-23,Bucks,203953,Jabari Parker,False,True,placed on IL with torn ACL in left knee (out for season)
+2014-12-23,Bucks,101141,Ersan Ilyasova,True,False,activated from IL
+2014-12-23,Bulls,2550,Kirk Hinrich,False,True,placed on IL with hamstring injury / tendinitis in left knee (P)
+2014-12-23,Hawks,203098,John Jenkins,False,True,placed on IL
+2014-12-23,Hawks,203544,Pero Antic,False,True,sprained right ankle (DTD)
+2014-12-23,Hawks,201952,Jeff Teague,True,False,activated from IL
+2014-12-23,Heat,203120,Justin Hamilton (Anthony),False,True,concussion (DTD)
+2014-12-23,Heat,2548,Dwyane Wade,True,False,returned to lineup
+2014-12-23,Heat,202355,Hassan Whiteside,True,False,returned to lineup
+2014-12-23,Lakers,977,Kobe Bryant,False,True,general soreness / rest (DTD)
+2014-12-23,Magic,203906,Roy Marble (Devyn),False,True,placed on IL
+2014-12-23,Magic,2584,Willie Green,True,False,activated from IL
+2014-12-23,Nets,203900,Markel Brown,False,True,placed on IL
+2014-12-23,Nets,201572,Brook Lopez,True,False,activated from IL
+2014-12-23,Pacers,204014,Damjan Rudez,False,True,upper respiratory infection (DTD)
+2014-12-23,Pacers,101133,Ian Mahinmi,False,True,placed on IL with torn plantar fascia in left foot
+2014-12-23,Pacers,201588,George Hill,True,False,activated from IL
+2014-12-23,76ers,101142,Ronny Turiaf,True,False,returned to lineup
+2014-12-25,Cavaliers,201985,A.J. Price,False,True,placed on IL
+2014-12-25,Cavaliers,2760,Anderson Varejao,False,True,placed on IL with left Achilles injury (out for season)
+2014-12-25,Cavaliers,203945,Alex Kirk,True,False,activated from IL
+2014-12-25,Knicks,200811,Lou Amundson,True,False,activated from IL
+2014-12-25,Spurs,2564,Boris Diaw,False,True,illness (DTD)
+2014-12-25,Warriors,203105,Festus Ezeli,False,True,placed on IL with sprained ankle
+2014-12-26,76ers,203128,Furkan Aldemir,True,False,returned to lineup
+2014-12-26,76ers,203100,Tony Wroten Jr.,True,False,returned to lineup
+2014-12-26,Blazers,2549,Chris Kaman,False,True,personal reasons (DTD)
+2014-12-26,Blazers,201587,Nicolas Batum,True,False,activated from IL
+2014-12-26,Bucks,203996,Damien Inglis,False,True,placed on IL with right ankle injury (out for season)
+2014-12-26,Bucks,101141,Ersan Ilyasova,False,True,concussion (DTD)
+2014-12-26,Bucks,203089,John Henson,True,False,activated from IL
+2014-12-26,Cavaliers,2760,Anderson Varejao,False,True,surgery to repair torn left Achilles tendon (out for season)
+2014-12-26,Cavaliers,202681,Kyrie Irving,False,True,placed on IL with bruised left knee
+2014-12-26,Cavaliers,201985,A.J. Price,True,False,activated from IL
+2014-12-26,Grizzlies,2754,Tony Allen,True,False,returned to lineup
+2014-12-26,Hawks,203544,Pero Antic,False,True,placed on IL with sprained right ankle
+2014-12-26,Hawks,203940,Adreian Payne,True,False,activated from IL
+2014-12-26,Hornets,2457,Jannero Pargo,False,True,placed on IL with back injury
+2014-12-26,Hornets,203943,Noah Vonleh,True,False,activated from IL
+2014-12-26,Kings,201196,Ramon Sessions,False,True,strained lower back (DTD)
+2014-12-26,Kings,200797,Ryan Hollins,False,True,placed on IL for personal reasons
+2014-12-26,Kings,203961,Eric Moreland,True,False,activated from IL
+2014-12-26,Nets,203928,Cory Jefferson,False,True,placed on IL
+2014-12-26,Nets,101114,Deron Williams,True,False,activated from IL
+2014-12-26,Spurs,2225,(William) Tony Parker,False,True,strained hamstring (DTD)
+2014-12-26,Spurs,2564,Boris Diaw,True,False,returned to lineup
+2014-12-26,Suns,203462,Archie Goodwin,False,True,placed on IL
+2014-12-26,Suns,204054,Zoran Dragic,True,False,activated from IL
+2014-12-27,Hawks,203940,Adreian Payne,False,True,placed on IL
+2014-12-27,Hawks,203544,Pero Antic,True,False,activated from IL
+2014-12-27,Jazz,202692,Alec Burks,False,True,placed on IL with left shoulder injury (out for season)
+2014-12-27,Jazz,202344,Trevor Booker,True,False,activated from IL
+2014-12-27,Kings,201196,Ramon Sessions,False,True,placed on IL with strained lower back
+2014-12-27,Pacers,101139,C.J. Miles,False,True,upper respiratory infection / illness (DTD)
+2014-12-27,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2014-12-27,Rockets,203144,Alexey Shved,False,True,sprained left ankle (DTD)
+2014-12-27,Raptors,202361,Landry Fields,True,False,activated from IL
+2014-12-27,Raptors,202361,Landry Fields,False,True,concussion (DTD)
+2014-12-28,Blazers,2549,Chris Kaman,True,False,returned to lineup
+2014-12-28,Knicks,2223,Samuel Dalembert,False,True,sprained right ankle (DTD)
+2014-12-28,Lakers,977,Kobe Bryant,True,False,returned to lineup
+2014-12-28,Mavericks,2199,Tyson Chandler,False,True,placed on IL with back spasms
+2014-12-28,Mavericks,101109,Raymond Felton,True,False,activated from IL
+2014-12-28,Nuggets,201589,Darrell Arthur,True,False,returned to lineup
+2014-12-28,Spurs,2225,(William) Tony Parker,False,True,placed on IL with strained hamstring
+2014-12-28,Celtics,203923,James Young,True,False,activated from IL
+2014-12-28,Lakers,202333,Xavier Henry,True,False,returned to lineup
+2014-12-28,Spurs,201988,Patty Mills,True,False,activated from IL
+2014-12-29,Clippers,201604,Chris Douglas-Roberts,False,True,placed on IL
+2014-12-29,Clippers,201150,Spencer Hawes,True,False,activated from IL
+2014-12-29,Heat,203120,Justin Hamilton (Anthony),False,True,placed on IL with concussion
+2014-12-29,Heat,2547,Chris Bosh,True,False,activated from IL
+2014-12-29,Hornets,203943,Noah Vonleh,False,True,placed on IL
+2014-12-29,Kings,203961,Eric Moreland,False,True,left shoulder injury (out for season)
+2014-12-29,Kings,200797,Ryan Hollins,True,False,activated from IL
+2014-12-29,Pacers,101139,C.J. Miles,True,False,returned to lineup
+2014-12-29,Wizards,101110,Martell Webster,True,False,activated from IL
+2014-12-29,Hornets,202362,Lance Stephenson,True,False,activated from IL
+2014-12-29,Hornets,202362,Lance Stephenson,False,True,bruised pelvis (DTD)
+2014-12-30,Blazers,203086,Meyers Leonard,False,True,placed on IL with strained left shoulder
+2014-12-30,Cavaliers,1890,Shawn Marion,False,True,sprained left ankle (DTD)
+2014-12-30,Cavaliers,202681,Kyrie Irving,True,False,activated from IL
+2014-12-30,Grizzlies,203919,Jordan Adams,True,False,activated from IL
+2014-12-30,Hawks,201143,Al Horford,False,True,illness (DTD)
+2014-12-30,Mavericks,203495,Ricky Ledo,False,True,placed on IL
+2014-12-30,Mavericks,2199,Tyson Chandler,True,False,activated from IL
+2014-12-30,Nets,708,Kevin Garnett,False,True,placed on IL
+2014-12-30,Nets,203928,Cory Jefferson,True,False,activated from IL
+2014-12-30,Nuggets,201589,Darrell Arthur,False,True,leg injury (DTD)
+2014-12-30,Pelicans,2422,John Salmons,False,True,personal reasons (out indefinitely)
+2014-12-30,Wizards,2400,Drew Gooden,False,True,placed on IL with knee injury
+2014-12-31,Bucks,201573,Jerryd Bayless,False,True,sore left knee (DTD)
+2014-12-31,Cavaliers,201567,Kevin Love,False,True,back spasms (DTD)
+2014-12-31,Hornets,2744,Al Jefferson,False,True,strained adductor muscle in left groin (out indefinitely)
+2014-12-31,Hornets,2744,Al Jefferson,False,True,placed on IL with strained adductor muscle in left groin
+2014-12-31,Hornets,203943,Noah Vonleh,True,False,activated from IL
+2014-12-31,Jazz,202692,Alec Burks,False,True,surgery on left shoulder (out for season)
+2014-12-31,Kings,203961,Eric Moreland,False,True,placed on IL with left shoulder injury (out for season)
+2014-12-31,Knicks,200745,Andrea Bargnani,True,False,activated from IL
+2014-12-31,Knicks,2747,J.R. Smith,True,False,returned to lineup
+2014-12-31,Suns,204054,Zoran Dragic,False,True,placed on IL
+2014-12-31,Suns,203462,Archie Goodwin,True,False,activated from IL
+2014-12-31,Suns,203898,Tyler Ennis,True,False,activated from IL
+2014-12-31,Thunder,202498,Lance Thomas,False,True,placed on IL
+2014-12-31,Thunder,201142,Kevin Durant,True,False,activated from IL
+2015-01-01,Bulls,2550,Kirk Hinrich,True,False,activated from IL
+2015-01-01,Kings,201956,Omri Casspi,False,True,placed on IL with left knee injury
+2015-01-01,Nuggets,201589,Darrell Arthur,True,False,returned to lineup
+2015-01-02,Bucks,201573,Jerryd Bayless,True,False,returned to lineup
+2015-01-02,Cavaliers,201567,Kevin Love,True,False,returned to lineup
+2015-01-02,Cavaliers,1890,Shawn Marion,True,False,returned to lineup
+2015-01-02,Hawks,201143,Al Horford,True,False,returned to lineup
+2015-01-02,Jazz,203918,Rodney Hood,False,True,left heel injury (out indefinitely)
+2015-01-02,Knicks,2546,Carmelo Anthony,False,True,sore left knee (DTD)
+2015-01-02,Knicks,203501,Tim Hardaway Jr.,False,True,placed on IL with concussion
+2015-01-02,Knicks,203921,Cleanthony Early,True,False,activated from IL
+2015-01-02,Lakers,203527,Ryan Kelly,True,False,returned to lineup
+2015-01-02,Magic,203090,Moe Harkless,False,True,placed on IL
+2015-01-02,Magic,203906,Roy Marble (Devyn),True,False,activated from IL
+2015-01-02,Nets,203928,Cory Jefferson,False,True,placed on IL
+2015-01-02,Nets,708,Kevin Garnett,True,False,activated from IL
+2015-01-02,Pacers,201228,C.J. Watson,False,True,sore left foot (DTD)
+2015-01-02,Pacers,201588,George Hill,False,True,sore/strained left groin (DTD)
+2015-01-02,Pistons,203915,Spencer Dinwiddie,False,True,placed on IL
+2015-01-02,Pistons,203540,Gigi Datome,True,False,activated from IL
+2015-01-02,Raptors,202361,Landry Fields,True,False,returned to lineup
+2015-01-02,Suns,203898,Tyler Ennis,False,True,placed on IL
+2015-01-02,Suns,204054,Zoran Dragic,True,False,activated from IL
+2015-01-03,76ers,203487,Michael Carter-Williams,False,True,sore right shoulder (DTD)
+2015-01-03,Blazers,201964,Victor Claver,False,True,placed on IL
+2015-01-03,Blazers,203086,Meyers Leonard,True,False,activated from IL
+2015-01-03,Bulls,202710,Jimmy Butler,False,True,placed on IL for personal reasons
+2015-01-03,Bulls,2399,Mike Dunleavy Jr.,False,True,placed on IL with right ankle injury
+2015-01-03,Celtics,2749,Jameer Nelson,False,True,sprained right ankle (DTD)
+2015-01-03,Grizzlies,2757,Beno Udrih,False,True,bruised lower left leg (DTD)
+2015-01-03,Jazz,2403,Enes Kanter,False,True,sprained right ankle (out indefinitely)
+2015-01-03,Jazz,203565,Patrick Christopher,False,True,placed on IL with right knee injury
+2015-01-03,Timberwolves,201978,Chase Budinger,False,True,illness (DTD)
+2015-01-04,Knicks,200745,Andrea Bargnani,False,True,sore/strained right calf (DTD)
+2015-01-04,Knicks,2546,Carmelo Anthony,False,True,placed on IL with sore left knee
+2015-01-04,Knicks,203501,Tim Hardaway Jr.,True,False,activated from IL
+2015-01-04,Suns,204054,Zoran Dragic,False,True,placed on IL
+2015-01-04,Suns,203898,Tyler Ennis,True,False,activated from IL
+2015-01-05,76ers,203487,Michael Carter-Williams,True,False,returned to lineup
+2015-01-05,Blazers,200777,Joel Freeland,False,True,placed on IL with bruised right shoulder
+2015-01-05,Blazers,201964,Victor Claver,True,False,activated from IL
+2015-01-05,Bucks,203953,Jabari Parker,False,True,surgery on left knee to repair torn ACL (out for season)
+2015-01-05,Bulls,202710,Jimmy Butler,True,False,activated from IL
+2015-01-05,Cavaliers,202681,Kyrie Irving,False,True,tightness in lower back (DTD)
+2015-01-05,Celtics,2749,Jameer Nelson,False,True,placed on IL with sprained right ankle
+2015-01-05,Celtics,203923,James Young,True,False,activated from IL
+2015-01-05,Clippers,203099,Jared Cunningham,False,True,placed on IL
+2015-01-05,Clippers,201604,Chris Douglas-Roberts,True,False,activated from IL
+2015-01-05,Grizzlies,2757,Beno Udrih,True,False,returned to lineup
+2015-01-05,Jazz,203504,Trey Burke,False,True,strep throat (DTD)
+2015-01-05,Lakers,977,Kobe Bryant,False,True,rest (DTD)
+2015-01-05,Lakers,201949,Wes Johnson,False,True,strained right hip flexor (DTD)
+2015-01-05,Nets,101114,Deron Williams,False,True,back injury / sore left side (DTD)
+2015-01-05,Nets,708,Kevin Garnett,False,True,rest (DTD)
+2015-01-05,Pacers,201228,C.J. Watson,True,False,returned to lineup
+2015-01-05,Pelicans,203893,Russ Smith,False,True,placed on IL
+2015-01-05,Pelicans,201569,Eric Gordon,True,False,activated from IL
+2015-01-05,Timberwolves,203133,Robbie Hummel,False,True,illness (DTD)
+2015-01-05,Warriors,201575,Brandon Rush,False,True,flu (DTD)
+2015-01-05,Wizards,2400,Drew Gooden,True,False,activated from IL
+2015-01-06,Lakers,203944,Julius Randle,False,True,surgery on right foot/leg to replace screw (out for season)
+2015-01-06,Spurs,203382,Aron Baynes,False,True,neck spasms (DTD)
+2015-01-06,Spurs,203937,Kyle Anderson,False,True,placed on IL with ankle injury
+2015-01-06,Spurs,2225,(William) Tony Parker,True,False,activated from IL
+2015-01-06,Jazz,203565,Patrick Christopher,True,False,activated from IL
+2015-01-07,Cavaliers,202697,Iman Shumpert,False,True,dislocated left shoulder (DTD)
+2015-01-07,Cavaliers,202681,Kyrie Irving,True,False,returned to lineup
+2015-01-07,Celtics,203923,James Young,False,True,placed on IL
+2015-01-07,Celtics,201977,Marcus Thornton (T.),True,False,activated from IL
+2015-01-07,Clippers,201604,Chris Douglas-Roberts,False,True,placed on IL
+2015-01-07,Clippers,203912,C.J. Wilcox,True,False,activated from IL
+2015-01-07,Hawks,1882,Elton Brand,False,True,personal reasons (DTD)
+2015-01-07,Jazz,203918,Rodney Hood,False,True,placed on IL
+2015-01-07,Jazz,203504,Trey Burke,True,False,returned to lineup
+2015-01-07,Lakers,101179,Ronnie Price,False,True,fractured nose (DTD)
+2015-01-07,Lakers,977,Kobe Bryant,True,False,returned to lineup
+2015-01-07,Nets,101114,Deron Williams,True,False,returned to lineup
+2015-01-07,Nets,708,Kevin Garnett,True,False,returned to lineup
+2015-01-07,Pacers,201155,Rodney Stuckey,False,True,sore right groin (DTD)
+2015-01-07,Thunder,203511,Grant Jerrett,False,True,placed on IL
+2015-01-07,Timberwolves,201978,Chase Budinger,True,False,returned to lineup
+2015-01-07,Timberwolves,203133,Robbie Hummel,True,False,returned to lineup
+2015-01-07,Warriors,101106,Andrew Bogut,True,False,activated from IL
+2015-01-07,Wizards,1718,Paul Pierce,False,True,placed on IL for rest
+2015-01-07,Wizards,2400,Drew Gooden,True,False,returned to lineup
+2015-01-08,Heat,203120,Justin Hamilton (Anthony),True,False,activated from IL
+2015-01-08,Hornets,203469,Cody Zeller,False,True,strained right shoulder (DTD)
+2015-01-08,Hornets,203798,P.J. Hairston,False,True,illness (DTD)
+2015-01-08,Nets,101114,Deron Williams,False,True,fractured rib (out indefinitely)
+2015-01-09,Cavaliers,1890,Shawn Marion,False,True,strained left hip (DTD)
+2015-01-09,Celtics,203923,James Young,True,False,activated from IL
+2015-01-09,Grizzlies,203919,Jordan Adams,False,True,placed on IL
+2015-01-09,Grizzlies,2216,Zach Randolph,True,False,activated from IL
+2015-01-09,Hawks,1882,Elton Brand,True,False,returned to lineup
+2015-01-09,Lakers,977,Kobe Bryant,False,True,rest (DTD)
+2015-01-09,Lakers,101179,Ronnie Price,True,False,returned to lineup
+2015-01-09,Nets,101114,Deron Williams,False,True,placed on IL with fractured rib
+2015-01-09,Nets,708,Kevin Garnett,False,True,rest (DTD)
+2015-01-09,Nets,203928,Cory Jefferson,True,False,activated from IL
+2015-01-09,Nuggets,201163,Wilson Chandler,False,True,strained right knee (DTD)
+2015-01-09,Pacers,101133,Ian Mahinmi,True,False,activated from IL
+2015-01-09,Pacers,201155,Rodney Stuckey,True,False,returned to lineup
+2015-01-09,Spurs,203382,Aron Baynes,False,True,placed on IL with neck spasms
+2015-01-09,Spurs,203937,Kyle Anderson,True,False,activated from IL
+2015-01-09,Timberwolves,2590,Mo Williams,False,True,sprained right ankle (DTD)
+2015-01-09,Warriors,203136,Ognen Kuzmic,False,True,placed on IL
+2015-01-09,Wizards,1718,Paul Pierce,True,False,activated from IL
+2015-01-10,Blazers,203459,Allen Crabbe,False,True,strained left knee (DTD)
+2015-01-10,Bulls,201565,Derrick Rose,False,True,placed on IL with sore left knee / right hip injury
+2015-01-10,Clippers,203912,C.J. Wilcox,False,True,placed on IL
+2015-01-10,Clippers,201604,Chris Douglas-Roberts,True,False,activated from IL
+2015-01-10,Hornets,202362,Lance Stephenson,False,True,placed on IL with strained pelvis
+2015-01-10,Hornets,203469,Cody Zeller,True,False,returned to lineup
+2015-01-10,Hornets,203798,P.J. Hairston,True,False,returned to lineup
+2015-01-10,Jazz,2403,Enes Kanter,True,False,returned to lineup
+2015-01-10,Magic,203095,Evan Fournier,False,True,placed on IL with knee injury
+2015-01-10,Magic,202699,Tobias Harris,False,True,sprained left ankle (DTD)
+2015-01-10,Magic,203090,Moe Harkless,True,False,activated from IL
+2015-01-10,Nets,708,Kevin Garnett,True,False,returned to lineup
+2015-01-10,Pacers,201588,George Hill,False,True,placed on IL with sore/strained left groin
+2015-01-10,Pacers,204014,Damjan Rudez,True,False,returned to lineup
+2015-01-10,Raptors,203512,Lucas Nogueira,False,True,placed on IL (not CBC)
+2015-01-10,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2015-01-10,Rockets,203144,Alexey Shved,True,False,returned to lineup
+2015-01-10,Spurs,1938,Manu Ginobili,False,True,placed on IL with back spasms
+2015-01-10,Spurs,201158,Marco Belinelli,False,True,strained left groin (DTD)
+2015-01-10,Spurs,203382,Aron Baynes,True,False,activated from IL
+2015-01-10,Spurs,202709,Cory Joseph,True,False,returned to lineup
+2015-01-10,Timberwolves,203498,Shabazz Muhammad,False,True,sore lower abdomen / strained oblique (DTD)
+2015-01-10,Timberwolves,2590,Mo Williams,True,False,returned to lineup
+2015-01-11,Grizzlies,202347,Quincy Pondexter,False,True,placed on IL
+2015-01-11,Grizzlies,2419,Tayshaun Prince,False,True,placed on IL
+2015-01-11,Grizzlies,203919,Jordan Adams,True,False,activated from IL
+2015-01-11,Lakers,201949,Wes Johnson,True,False,returned to lineup
+2015-01-12,Bulls,201565,Derrick Rose,True,False,activated from IL
+2015-01-12,Pelicans,2422,John Salmons,True,False,returned to lineup
+2015-01-12,Rockets,203477,Isaiah Canaan,False,True,placed on IL
+2015-01-12,Rockets,203910,Nick Johnson,False,True,placed on IL
+2015-01-12,Rockets,203093,Terrence Jones,True,False,activated from IL
+2015-01-12,Rockets,203093,Terrence Jones,False,True,nerve inflammation in left leg (DTD)
+2015-01-13,76ers,203138,Hollis Thompson,True,False,returned to lineup
+2015-01-13,Cavaliers,202697,Iman Shumpert,False,True,placed on IL with dislocated left shoulder
+2015-01-13,Cavaliers,1890,Shawn Marion,True,False,returned to lineup
+2015-01-13,Hawks,200794,Paul Millsap,False,True,placed on IL for rest
+2015-01-13,Hawks,203940,Adreian Payne,True,False,activated from IL
+2015-01-13,Jazz,202344,Trevor Booker,False,True,stomach flu (DTD)
+2015-01-13,Lakers,977,Kobe Bryant,True,False,returned to lineup
+2015-01-13,Spurs,201158,Marco Belinelli,False,True,placed on IL with strained left groin
+2015-01-13,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2015-01-13,Suns,203898,Tyler Ennis,False,True,placed on IL
+2015-01-14,76ers,203496,Robert Covington,False,True,bruised right shoulder (DTD)
+2015-01-14,76ers,203100,Tony Wroten Jr.,False,True,sprained right ankle / knee (DTD)
+2015-01-14,Celtics,2419,Tayshaun Prince,False,True,placed on IL
+2015-01-14,Grizzlies,203893,Russ Smith,False,True,placed on IL
+2015-01-14,Hawks,201143,Al Horford,False,True,placed on IL for rest
+2015-01-14,Hawks,2594,Kyle Korver,False,True,placed on IL for rest
+2015-01-14,Hawks,200794,Paul Millsap,True,False,activated from IL
+2015-01-14,Heat,2548,Dwyane Wade,False,True,placed on IL with strained hamstring
+2015-01-14,Hornets,202390,Gary Neal,False,True,sore right hamstring (DTD)
+2015-01-14,Hornets,202362,Lance Stephenson,True,False,activated from IL
+2015-01-14,Magic,202699,Tobias Harris,False,True,placed on IL with sprained left ankle
+2015-01-14,Magic,203095,Evan Fournier,True,False,activated from IL
+2015-01-14,Mavericks,1717,Dirk Nowitzki,False,True,rest (DTD)
+2015-01-14,Mavericks,200765,Rajon Rondo,False,True,sore Achilles (DTD)
+2015-01-14,Mavericks,2199,Tyson Chandler,False,True,rest / sprained left ankle (DTD)
+2015-01-14,Nets,203900,Markel Brown,True,False,activated from IL
+2015-01-14,Nuggets,201163,Wilson Chandler,True,False,returned to lineup
+2015-01-14,Pelicans,201950,Jrue Holiday,False,True,placed on IL with stress reaction in right ankle
+2015-01-14,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2015-01-14,Wizards,2400,Drew Gooden,False,True,placed on IL
+2015-01-15,Bucks,101141,Ersan Ilyasova,True,False,returned to lineup
+2015-01-15,Knicks,200745,Andrea Bargnani,False,True,placed on IL
+2015-01-15,Knicks,203921,Cleanthony Early,False,True,placed on IL with ankle injury
+2015-01-15,Knicks,2546,Carmelo Anthony,True,False,activated from IL
+2015-01-16,76ers,203496,Robert Covington,True,False,returned to lineup
+2015-01-16,Blazers,203459,Allen Crabbe,True,False,returned to lineup
+2015-01-16,Bulls,201149,Joakim Noah,False,True,placed on IL with sprained right ankle
+2015-01-16,Cavaliers,201567,Kevin Love,False,True,back spasms (DTD)
+2015-01-16,Celtics,203923,James Young,False,True,illness (DTD)
+2015-01-16,Grizzlies,201144,Mike Conley Jr.,False,True,placed on IL with sprained right ankle
+2015-01-16,Grizzlies,203893,Russ Smith,True,False,activated from IL
+2015-01-16,Hawks,203940,Adreian Payne,False,True,placed on IL
+2015-01-16,Hawks,201143,Al Horford,True,False,activated from IL
+2015-01-16,Hawks,2594,Kyle Korver,True,False,activated from IL
+2015-01-16,Heat,2365,Chris Andersen,False,True,illness (DTD)
+2015-01-16,Jazz,202343,Elliot Williams,False,True,placed on IL
+2015-01-16,Jazz,203918,Rodney Hood,True,False,activated from IL
+2015-01-16,Jazz,202344,Trevor Booker,True,False,returned to lineup
+2015-01-16,Kings,201171,Carl Landry,False,True,sprained right wrist (DTD)
+2015-01-16,Kings,200752,Rudy Gay,False,True,placed on IL with sore/strained left knee
+2015-01-16,Kings,201956,Omri Casspi,True,False,activated from IL
+2015-01-16,Lakers,977,Kobe Bryant,False,True,rest (DTD)
+2015-01-16,Lakers,101179,Ronnie Price,False,True,elbow injury / fractured nose (P) (DTD)
+2015-01-16,Mavericks,1717,Dirk Nowitzki,True,False,returned to lineup
+2015-01-16,Mavericks,200765,Rajon Rondo,True,False,returned to lineup
+2015-01-16,Mavericks,2199,Tyson Chandler,True,False,returned to lineup
+2015-01-16,Nets,203508,Sergey Karasev,False,True,illness (DTD)
+2015-01-16,Nuggets,2749,Jameer Nelson,True,False,activated from IL
+2015-01-16,Pelicans,203076,Anthony Davis,False,True,sprained left toe (DTD)
+2015-01-16,Spurs,201948,Austin Daye,False,True,placed on IL
+2015-01-16,Spurs,202695,Kawhi Leonard,True,False,activated from IL
+2015-01-16,Suns,203462,Archie Goodwin,False,True,placed on IL
+2015-01-16,Suns,204054,Zoran Dragic,True,False,activated from IL
+2015-01-16,Warriors,2738,Andre Iguodala,False,True,rest (DTD)
+2015-01-16,Warriors,101106,Andrew Bogut,False,True,placed on IL for rest
+2015-01-16,Warriors,201575,Brandon Rush,True,False,returned to lineup
+2015-01-17,Hawks,203471,Dennis Schröder,False,True,ankle injury (DTD)
+2015-01-17,Hawks,203544,Pero Antic,False,True,placed on IL
+2015-01-17,Hawks,203940,Adreian Payne,True,False,activated from IL
+2015-01-17,Hornets,202689,Kemba Walker,False,True,left knee injury (DTD)
+2015-01-17,Hornets,202390,Gary Neal,True,False,returned to lineup
+2015-01-17,Kings,201171,Carl Landry,False,True,placed on IL with sprained right wrist
+2015-01-17,Kings,200752,Rudy Gay,True,False,activated from IL
+2015-01-17,Nuggets,200751,Randy Foye,True,False,activated from IL
+2015-01-17,Warriors,2738,Andre Iguodala,True,False,returned to lineup
+2015-01-17,Warriors,101106,Andrew Bogut,True,False,activated from IL
+2015-01-17,Bucks,203088,Kendall Marshall,False,True,torn ACL in right knee (out for season)
+2015-01-17,Spurs,201948,Austin Daye,True,False,activated from IL
+2015-01-17,Bucks,203088,Kendall Marshall,False,True,surgery on right knee to repair torn ACL (out for season)
+2015-01-18,Magic,203094,Andrew Nicholson,False,True,placed on IL
+2015-01-18,Magic,203932,Aaron Gordon,True,False,activated from IL
+2015-01-19,Bucks,203088,Kendall Marshall,False,True,placed on IL recovering from surgery on right knee to repair torn ACL (out for season)
+2015-01-19,Cavaliers,201567,Kevin Love,True,False,returned to lineup
+2015-01-19,Celtics,203923,James Young,False,True,placed on IL with illness
+2015-01-19,Celtics,2419,Tayshaun Prince,True,False,activated from IL
+2015-01-19,Grizzlies,203893,Russ Smith,False,True,placed on IL
+2015-01-19,Grizzlies,201144,Mike Conley Jr.,True,False,activated from IL
+2015-01-19,Hawks,202714,Shelvin Mack,False,True,placed on IL with strained left calf
+2015-01-19,Hawks,203471,Dennis Schröder,True,False,returned to lineup
+2015-01-19,Hawks,203544,Pero Antic,True,False,activated from IL
+2015-01-19,Hornets,202689,Kemba Walker,False,True,placed on IL with left knee injury
+2015-01-19,Hornets,2744,Al Jefferson,True,False,activated from IL
+2015-01-19,Suns,203493,Reggie Bullock,False,True,placed on IL
+2015-01-19,Suns,203898,Tyler Ennis,True,False,activated from IL
+2015-01-19,Wizards,2400,Drew Gooden,True,False,activated from IL
+2015-01-20,Heat,203120,Justin Hamilton (Anthony),False,True,placed on IL
+2015-01-20,Heat,2365,Chris Andersen,True,False,returned to lineup
+2015-01-20,Heat,2548,Dwyane Wade,True,False,activated from IL
+2015-01-20,Nuggets,203475,Erick Green,False,True,placed on IL
+2015-01-21,76ers,203457,Nerlens Noel,False,True,illness / upper respiratory infection (DTD)
+2015-01-21,Hawks,203940,Adreian Payne,False,True,placed on IL
+2015-01-21,Hawks,203098,John Jenkins,True,False,activated from IL
+2015-01-21,Heat,202355,Hassan Whiteside,False,True,sprained right ankle (DTD)
+2015-01-21,Heat,2736,Luol Deng,False,True,placed on IL with illness
+2015-01-21,Heat,203120,Justin Hamilton (Anthony),True,False,activated from IL
+2015-01-21,Hornets,203943,Noah Vonleh,False,True,placed on IL
+2015-01-21,Hornets,202689,Kemba Walker,True,False,activated from IL
+2015-01-21,Jazz,203918,Rodney Hood,False,True,placed on IL with foot injury / bruised left knee (P)
+2015-01-21,Jazz,202343,Elliot Williams,True,False,activated from IL
+2015-01-21,Kings,201196,Ramon Sessions,True,False,activated from IL
+2015-01-21,Lakers,204028,Tarik Black,False,True,sprained right ankle (DTD)
+2015-01-21,Lakers,977,Kobe Bryant,True,False,returned to lineup
+2015-01-21,Lakers,101179,Ronnie Price,True,False,returned to lineup
+2015-01-21,Magic,203090,Moe Harkless,False,True,placed on IL
+2015-01-21,Magic,202699,Tobias Harris,True,False,activated from IL
+2015-01-21,Pelicans,203076,Anthony Davis,True,False,returned to lineup
+2015-01-21,Suns,203898,Tyler Ennis,False,True,placed on IL
+2015-01-21,Suns,204054,Zoran Dragic,False,True,placed on IL
+2015-01-21,Suns,203462,Archie Goodwin,True,False,activated from IL
+2015-01-21,Suns,203493,Reggie Bullock,True,False,activated from IL
+2015-01-21,Timberwolves,203498,Shabazz Muhammad,False,True,placed on IL
+2015-01-21,Timberwolves,201593,Nikola Pekovic,True,False,activated from IL
+2015-01-22,Jazz,202324,Derrick Favors,False,True,personal reasons (DTD)
+2015-01-22,Lakers,977,Kobe Bryant,False,True,torn rotator cuff in right shoulder (out for season)
+2015-01-22,Nets,708,Kevin Garnett,False,True,rest (DTD)
+2015-01-22,Nets,203508,Sergey Karasev,True,False,returned to lineup
+2015-01-22,Pacers,201228,C.J. Watson,True,False,activated from IL
+2015-01-23,76ers,203100,Tony Wroten Jr.,False,True,placed on IL with torn ACL in right knee (out for season)
+2015-01-23,76ers,203457,Nerlens Noel,True,False,returned to lineup
+2015-01-23,Bulls,201149,Joakim Noah,True,False,activated from IL
+2015-01-23,Cavaliers,202697,Iman Shumpert,True,False,activated from IL
+2015-01-23,Celtics,203482,Kelly Olynyk,False,True,placed on IL with sprained right ankle
+2015-01-23,Celtics,203923,James Young,True,False,activated from IL
+2015-01-23,Grizzlies,203950,Jarnell Stokes,False,True,placed on IL
+2015-01-23,Grizzlies,203919,Jordan Adams,False,True,placed on IL
+2015-01-23,Heat,2736,Luol Deng,True,False,activated from IL
+2015-01-23,Knicks,203921,Cleanthony Early,True,False,activated from IL
+2015-01-23,Lakers,202391,Jeremy Lin,False,True,unspecified (DTD)
+2015-01-23,Magic,203473,Dewayne Dedmon,False,True,placed on IL
+2015-01-23,Magic,203094,Andrew Nicholson,True,False,activated from IL
+2015-01-23,Nets,203141,Mirza Teletovic,False,True,blood clots in lungs (out indefinitely)
+2015-01-23,Nuggets,201568,Danilo Gallinari,True,False,activated from IL
+2015-01-23,Pacers,203963,Shayne Whittington,False,True,placed on IL
+2015-01-23,Pacers,201588,George Hill,True,False,activated from IL
+2015-01-23,Pelicans,201583,Ryan Anderson,False,True,ankle injury (DTD)
+2015-01-23,Suns,203933,T.J. Warren,False,True,placed on IL
+2015-01-23,Suns,204054,Zoran Dragic,True,False,activated from IL
+2015-01-23,Warriors,2738,Andre Iguodala,False,True,rest (DTD)
+2015-01-23,Nuggets,201951,Ty Lawson,False,True,personal reasons (DTD)
+2015-01-24,Blazers,201587,Nicolas Batum,False,True,sprained right wrist (DTD)
+2015-01-24,Celtics,203935,Marcus Smart,False,True,personal reasons (DTD)
+2015-01-24,Hornets,202689,Kemba Walker,False,True,placed on IL with torn lateral meniscus in left knee
+2015-01-24,Hornets,203943,Noah Vonleh,True,False,activated from IL
+2015-01-24,Jazz,202324,Derrick Favors,True,False,returned to lineup
+2015-01-24,Knicks,2546,Carmelo Anthony,False,True,sore left knee (DTD)
+2015-01-24,Knicks,101181,Jose Calderon,False,True,placed on IL with bruised left knee
+2015-01-24,Nets,203141,Mirza Teletovic,False,True,placed on IL with blood clots in lungs
+2015-01-24,Nets,708,Kevin Garnett,True,False,returned to lineup
+2015-01-24,Nuggets,201951,Ty Lawson,True,False,returned to lineup
+2015-01-24,Pistons,201943,Brandon Jennings,False,True,torn left Achilles (out for season)
+2015-01-24,Pistons,203915,Spencer Dinwiddie,True,False,activated from IL
+2015-01-25,Cavaliers,2217,Brendan Haywood,False,True,left knee injury (DTD)
+2015-01-25,Heat,202355,Hassan Whiteside,True,False,returned to lineup
+2015-01-25,Lakers,202391,Jeremy Lin,True,False,returned to lineup
+2015-01-25,Lakers,204028,Tarik Black,True,False,returned to lineup
+2015-01-25,Magic,2732,Ben Gordon,False,True,placed on IL
+2015-01-25,Magic,203090,Moe Harkless,True,False,activated from IL
+2015-01-25,Pacers,101139,C.J. Miles,False,True,placed on IL with groin injury
+2015-01-25,Pacers,203963,Shayne Whittington,True,False,activated from IL
+2015-01-25,Pelicans,201583,Ryan Anderson,True,False,returned to lineup
+2015-01-25,Rockets,2730,Dwight Howard,False,True,sprained right ankle/ right knee injury (DTD)
+2015-01-25,Rockets,203093,Terrence Jones,False,True,placed on IL with nerve inflammation in left leg
+2015-01-25,Rockets,203991,Clint Capela,True,False,activated from IL
+2015-01-25,Suns,201148,Brandan Wright,False,True,placed on IL with heel injury
+2015-01-25,Suns,203933,T.J. Warren,True,False,activated from IL
+2015-01-25,Thunder,203500,Steven Adams,False,True,migraine headache (DTD)
+2015-01-25,Timberwolves,203133,Robbie Hummel,False,True,fractured right hand (out indefinitely)
+2015-01-25,Warriors,2738,Andre Iguodala,True,False,returned to lineup
+2015-01-26,76ers,203487,Michael Carter-Williams,False,True,upper respiratory infection (DTD)
+2015-01-26,Celtics,101183,Shavlik Randolph,False,True,hamstring injury (DTD)
+2015-01-26,Celtics,203935,Marcus Smart,True,False,returned to lineup
+2015-01-26,Grizzlies,2754,Tony Allen,False,True,placed on IL with ankle injury
+2015-01-26,Grizzlies,203919,Jordan Adams,True,False,activated from IL
+2015-01-26,Jazz,202379,Jeremy Evans,False,True,illness (DTD)
+2015-01-26,Magic,203090,Moe Harkless,False,True,placed on IL
+2015-01-26,Magic,203473,Dewayne Dedmon,True,False,activated from IL
+2015-01-26,Thunder,201142,Kevin Durant,False,True,placed on IL with sprained left big toe
+2015-01-26,Thunder,203511,Grant Jerrett,True,False,activated from IL
+2015-01-26,Thunder,203500,Steven Adams,True,False,returned to lineup
+2015-01-27,Bulls,202710,Jimmy Butler,False,True,placed on IL with illness
+2015-01-27,Grizzlies,201144,Mike Conley Jr.,False,True,sprained left wrist (DTD)
+2015-01-27,Heat,2365,Chris Andersen,False,True,back injury (DTD)
+2015-01-27,Heat,2736,Luol Deng,False,True,placed on IL with calf injury
+2015-01-27,Lakers,201156,Nick Young,False,True,sprained right ankle (DTD)
+2015-01-27,Pistons,201943,Brandon Jennings,False,True,placed on IL with torn left Achilles (out for season)
+2015-01-27,Pistons,203540,Gigi Datome,True,False,activated from IL
+2015-01-27,Warriors,101106,Andrew Bogut,False,True,flu (DTD)
+2015-01-27,Wizards,1718,Paul Pierce,False,True,placed on IL with sore left big toe
+2015-01-28,76ers,203487,Michael Carter-Williams,True,False,returned to lineup
+2015-01-28,Blazers,201587,Nicolas Batum,True,False,returned to lineup
+2015-01-28,Clippers,200755,J.J. Redick,False,True,back spasms (DTD)
+2015-01-28,Hornets,202687,Bismack Biyombo,False,True,bone bruise in right knee (DTD)
+2015-01-28,Hornets,202689,Kemba Walker,False,True,surgery on left knee to repair torn lateral meniscus (out for season)
+2015-01-28,Hornets,101107,Marvin Williams,False,True,concussion (DTD)
+2015-01-28,Kings,201171,Carl Landry,True,False,activated from IL
+2015-01-28,Knicks,204037,Travis Wear,False,True,strained left hip (DTD)
+2015-01-28,Knicks,2546,Carmelo Anthony,True,False,returned to lineup
+2015-01-28,Knicks,101181,Jose Calderon,True,False,activated from IL
+2015-01-28,Lakers,977,Kobe Bryant,False,True,surgery on right shoulder to repair torn rotator cuff (out for season)
+2015-01-28,Rockets,2730,Dwight Howard,False,True,placed on IL with sprained right ankle
+2015-01-28,Rockets,203093,Terrence Jones,True,False,activated from IL
+2015-01-28,Suns,203462,Archie Goodwin,False,True,placed on IL
+2015-01-28,Suns,204054,Zoran Dragic,False,True,placed on IL
+2015-01-28,Suns,201148,Brandan Wright,True,False,activated from IL
+2015-01-28,Suns,203898,Tyler Ennis,True,False,activated from IL
+2015-01-28,Timberwolves,2590,Mo Williams,False,True,personal reasons (DTD)
+2015-01-28,Timberwolves,2590,Mo Williams,False,True,sore left hip (DTD)
+2015-01-28,Timberwolves,203133,Robbie Hummel,False,True,placed on IL with fractured right hand
+2015-01-28,Timberwolves,2755,Kevin Martin,True,False,activated from IL
+2015-01-28,Wizards,2403,Nene Hilario ,False,True,placed on IL with foot injury
+2015-01-28,Wizards,1718,Paul Pierce,True,False,returned to lineup
+2015-01-28,Warriors,203105,Festus Ezeli,True,False,activated from IL
+2015-01-29,Bucks,101141,Ersan Ilyasova,False,True,groin injury (DTD)
+2015-01-29,Bucks,2585,Zaza Pachulia,False,True,calf injury (DTD)
+2015-01-29,Bulls,202710,Jimmy Butler,True,False,activated from IL
+2015-01-29,Grizzlies,2754,Tony Allen,True,False,activated from IL
+2015-01-29,Knicks,202332,Cole Aldrich,False,True,bruised left shin (DTD)
+2015-01-29,Magic,203906,Roy Marble (Devyn),False,True,placed on IL
+2015-01-29,Magic,2732,Ben Gordon,True,False,activated from IL
+2015-01-29,Pacers,203963,Shayne Whittington,False,True,placed on IL
+2015-01-29,Pacers,101139,C.J. Miles,True,False,activated from IL
+2015-01-30,Clippers,200755,J.J. Redick,True,False,returned to lineup
+2015-01-30,Hawks,203940,Adreian Payne,True,False,activated from IL
+2015-01-30,Heat,2548,Dwyane Wade,False,True,placed on IL with strained hamstring
+2015-01-30,Heat,2365,Chris Andersen,True,False,returned to lineup
+2015-01-30,Kings,2501,Reggie Evans,False,True,placed on IL
+2015-01-30,Mavericks,202718,Chandler Parsons,False,True,illness (DTD)
+2015-01-30,Pelicans,203076,Anthony Davis,False,True,strained left groin (DTD)
+2015-01-30,Raptors,101161,Amir Johnson,False,True,placed on IL
+2015-01-30,Raptors,201949,James Johnson,False,True,placed on IL with right hamstring injury
+2015-01-30,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2015-01-30,Suns,203493,Reggie Bullock,False,True,placed on IL
+2015-01-30,Suns,204054,Zoran Dragic,True,False,activated from IL
+2015-01-30,Warriors,101106,Andrew Bogut,True,False,returned to lineup
+2015-01-31,Grizzlies,1713,Vince Carter,False,True,placed on IL with left foot injury
+2015-01-31,Grizzlies,201144,Mike Conley Jr.,True,False,returned to lineup
+2015-01-31,Hawks,200757,Thabo Sefolosha,False,True,placed on IL with strained right calf
+2015-01-31,Magic,203506,Victor Oladipo,False,True,placed on IL with strained/sore right Achilles
+2015-01-31,Magic,203090,Moe Harkless,True,False,activated from IL
+2015-01-31,Nuggets,201589,Darrell Arthur,False,True,placed on IL with illness
+2015-01-31,Nuggets,202702,Kenneth Faried,False,True,placed on IL with illness
+2015-01-31,Nuggets,203475,Erick Green,True,False,activated from IL
+2015-01-31,Pacers,202730,Lavoy Allen,False,True,placed on IL with strained right knee
+2015-01-31,Pacers,203963,Shayne Whittington,True,False,activated from IL
+2015-01-31,Rockets,203991,Clint Capela,False,True,placed on IL
+2015-01-31,Rockets,203477,Isaiah Canaan,True,False,activated from IL
+2015-01-31,Thunder,203511,Grant Jerrett,False,True,placed on IL
+2015-01-31,Thunder,201142,Kevin Durant,True,False,activated from IL
+2015-01-31,Warriors,203136,Ognen Kuzmic,True,False,activated from IL
+2015-01-31,Wizards,2403,Nene Hilario ,True,False,activated from IL
+2015-02-01,Celtics,101183,Shavlik Randolph,False,True,placed on IL with strained hamstring
+2015-02-01,Celtics,2419,Tayshaun Prince,False,True,hip injury (DTD)
+2015-02-02,Bucks,202688,Brandon Knight,False,True,sore right quadriceps (DTD)
+2015-02-02,Hornets,101107,Marvin Williams,True,False,returned to lineup
+2015-02-02,Magic,203094,Andrew Nicholson,False,True,placed on IL
+2015-02-02,Magic,203506,Victor Oladipo,True,False,activated from IL
+2015-02-02,Mavericks,200765,Rajon Rondo,False,True,placed on IL with fractured left orbital bone and fractured nose
+2015-02-02,Mavericks,202718,Chandler Parsons,True,False,returned to lineup
+2015-02-02,Mavericks,203495,Ricky Ledo,True,False,activated from IL
+2015-02-02,Nets,101114,Deron Williams,True,False,activated from IL
+2015-02-02,Pelicans,203076,Anthony Davis,True,False,returned to lineup
+2015-02-02,Suns,203898,Tyler Ennis,False,True,placed on IL
+2015-02-02,Suns,204054,Zoran Dragic,False,True,placed on IL
+2015-02-02,Suns,203462,Archie Goodwin,True,False,activated from IL
+2015-02-02,Suns,203493,Reggie Bullock,True,False,activated from IL
+2015-02-02,Thunder,201142,Kevin Durant,False,True,placed on IL with sprained left big toe
+2015-02-02,Thunder,203511,Grant Jerrett,True,False,activated from IL
+2015-02-02,Timberwolves,2590,Mo Williams,True,False,returned to lineup
+2015-02-02,Timberwolves,201937,Ricky Rubio,True,False,activated from IL
+2015-02-03,Blazers,201964,Victor Claver,False,True,placed on IL
+2015-02-03,Blazers,201577,Robin Lopez,True,False,activated from IL
+2015-02-03,Heat,200761,Shawne Williams,False,True,hip injury (DTD)
+2015-02-03,Heat,2736,Luol Deng,True,False,activated from IL
+2015-02-03,Knicks,203143,Pablo Prigioni,False,True,sore left hip (DTD)
+2015-02-03,Nuggets,201589,Darrell Arthur,True,False,activated from IL
+2015-02-03,Nuggets,202702,Kenneth Faried,True,False,activated from IL
+2015-02-03,Warriors,203136,Ognen Kuzmic,False,True,placed on IL
+2015-02-03,Warriors,203105,Festus Ezeli,True,False,activated from IL
+2015-02-03,Hornets,2457,Jannero Pargo,True,False,activated from IL
+2015-02-04,Bucks,2030,Kenyon Martin (Sr.),False,True,sprained left ankle (DTD)
+2015-02-04,Bucks,202688,Brandon Knight,True,False,returned to lineup
+2015-02-04,Grizzlies,203919,Jordan Adams,False,True,sore left ankle (DTD)
+2015-02-04,Lakers,201941,Jordan Hill,False,True,strained hip flexor (DTD)
+2015-02-04,Lakers,201156,Nick Young,True,False,returned to lineup
+2015-02-04,Magic,203932,Aaron Gordon,False,True,placed on IL with sore left foot
+2015-02-04,Magic,203094,Andrew Nicholson,True,False,activated from IL
+2015-02-04,Nuggets,2749,Jameer Nelson,False,True,Achilles injury (DTD)
+2015-02-04,Raptors,203512,Lucas Nogueira,False,True,groin injury (DTD)
+2015-02-04,Spurs,201168,Tiago Splitter,False,True,placed on IL
+2015-02-04,Spurs,201158,Marco Belinelli,True,False,activated from IL
+2015-02-05,Blazers,2549,Chris Kaman,False,True,placed on IL with back injury
+2015-02-05,Blazers,201964,Victor Claver,True,False,activated from IL
+2015-02-05,Cavaliers,2217,Brendan Haywood,True,False,returned to lineup
+2015-02-05,Clippers,200755,J.J. Redick,False,True,back spasms (DTD)
+2015-02-05,Hornets,202687,Bismack Biyombo,False,True,placed on IL with bone bruise in right knee
+2015-02-05,Mavericks,1717,Dirk Nowitzki,False,True,rest (DTD)
+2015-02-05,Suns,203933,T.J. Warren,False,True,placed on IL
+2015-02-05,Suns,204054,Zoran Dragic,True,False,activated from IL
+2015-02-05,Wizards,2400,Drew Gooden,False,True,placed on IL
+2015-02-05,Wizards,202338,Kevin Seraphin,False,True,sprained right ankle (DTD)
+2015-02-06,76ers,203487,Michael Carter-Williams,False,True,strained right big toe (DTD)
+2015-02-06,Bucks,101141,Ersan Ilyasova,True,False,returned to lineup
+2015-02-06,Clippers,2045,Hedo Turkoglu,False,True,stomach virus (DTD)
+2015-02-06,Heat,202355,Hassan Whiteside,False,True,sprained ankle (DTD)
+2015-02-06,Knicks,202332,Cole Aldrich,True,False,returned to lineup
+2015-02-06,Lakers,101179,Ronnie Price,False,True,elbow injury (DTD)
+2015-02-06,Magic,203094,Andrew Nicholson,False,True,placed on IL
+2015-02-06,Magic,203932,Aaron Gordon,True,False,activated from IL
+2015-02-06,Pacers,101133,Ian Mahinmi,False,True,sprained right ankle (DTD)
+2015-02-06,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2015-02-06,Raptors,201949,James Johnson,True,False,activated from IL
+2015-02-06,Raptors,203512,Lucas Nogueira,True,False,returned to lineup
+2015-02-06,Spurs,201145,Jeff Pendergraph,False,True,placed on IL
+2015-02-06,Spurs,201168,Tiago Splitter,True,False,activated from IL
+2015-02-06,Suns,203458,Alex Len,False,True,sprained right ankle (out indefinitely)
+2015-02-06,Thunder,203511,Grant Jerrett,False,True,placed on IL
+2015-02-06,Thunder,201142,Kevin Durant,True,False,activated from IL
+2015-02-06,Knicks,203921,Cleanthony Early,False,True,placed on IL
+2015-02-07,Blazers,201964,Victor Claver,False,True,placed on IL
+2015-02-07,Blazers,2549,Chris Kaman,True,False,activated from IL
+2015-02-07,Celtics,2419,Tayshaun Prince,True,False,returned to lineup
+2015-02-07,Jazz,204060,Joe Ingles,False,True,back spasms (DTD)
+2015-02-07,Kings,201954,Darren Collison,False,True,placed on IL with strained right hip flexor (out for season)
+2015-02-07,Kings,2501,Reggie Evans,True,False,activated from IL
+2015-02-07,Knicks,2546,Carmelo Anthony,False,True,placed on IL for rest
+2015-02-07,Knicks,203921,Cleanthony Early,True,False,activated from IL
+2015-02-07,Knicks,204037,Travis Wear,True,False,returned to lineup
+2015-02-07,Mavericks,1717,Dirk Nowitzki,True,False,returned to lineup
+2015-02-07,Nets,708,Kevin Garnett,False,True,rest (DTD)
+2015-02-07,Wizards,203078,Bradley Beal,False,True,placed on IL with sore right big toe
+2015-02-07,Wizards,2400,Drew Gooden,True,False,activated from IL
+2015-02-07,Wizards,202338,Kevin Seraphin,True,False,returned to lineup
+2015-02-07,Grizzlies,203919,Jordan Adams,True,False,returned to lineup
+2015-02-08,Bulls,2550,Kirk Hinrich,False,True,placed on IL with turf toe
+2015-02-08,Clippers,201933,Blake Griffin,False,True,right elbow injury (out indefinitely)
+2015-02-08,Clippers,2045,Hedo Turkoglu,True,False,returned to lineup
+2015-02-08,Hawks,202714,Shelvin Mack,True,False,activated from IL
+2015-02-08,Hornets,203077,Michael Kidd-Gilchrist,False,True,strained right hamstring (DTD)
+2015-02-08,Kings,200752,Rudy Gay,False,True,placed on IL with sore left foot
+2015-02-08,Magic,2557,Luke Ridnour,False,True,placed on IL for personal reasons
+2015-02-08,Magic,203094,Andrew Nicholson,True,False,activated from IL
+2015-02-08,Pacers,101133,Ian Mahinmi,False,True,placed on IL with sprained right ankle
+2015-02-08,Spurs,201145,Jeff Pendergraph,True,False,activated from IL
+2015-02-08,Suns,203462,Archie Goodwin,False,True,placed on IL
+2015-02-08,Suns,202339,Eric Bledsoe,False,True,personal reasons (DTD)
+2015-02-08,Suns,203493,Reggie Bullock,False,True,placed on IL
+2015-02-08,Suns,203933,T.J. Warren,True,False,activated from IL
+2015-02-08,Suns,203898,Tyler Ennis,True,False,activated from IL
+2015-02-08,Thunder,201627,Anthony Morrow,False,True,placed on IL with right shoulder injury
+2015-02-08,Pacers,202730,Lavoy Allen,True,False,activated from IL
+2015-02-08,Hawks,203488,Mike Muscala,False,True,placed on IL
+2015-02-08,Pacers,202730,Lavoy Allen,False,True,sore right knee (DTD)
+2015-02-08,Spurs,202130,Reggie Williams,False,True,placed on IL
+2015-02-09,Bucks,2585,Zaza Pachulia,True,False,returned to lineup
+2015-02-09,Clippers,201933,Blake Griffin,False,True,surgery on right elbow to remove staph infection
+2015-02-09,Clippers,200755,J.J. Redick,True,False,returned to lineup
+2015-02-09,Heat,202355,Hassan Whiteside,True,False,returned to lineup
+2015-02-09,Knicks,203921,Cleanthony Early,False,True,placed on IL
+2015-02-09,Knicks,204037,Travis Wear,False,True,placed on IL
+2015-02-09,Knicks,200745,Andrea Bargnani,True,False,activated from IL
+2015-02-09,Knicks,2546,Carmelo Anthony,True,False,activated from IL
+2015-02-09,Magic,202699,Tobias Harris,False,True,sore right knee (DTD)
+2015-02-09,Nets,708,Kevin Garnett,True,False,returned to lineup
+2015-02-09,Nuggets,2749,Jameer Nelson,False,True,placed on IL with Achilles injury
+2015-02-09,Pelicans,203076,Anthony Davis,False,True,sprained right shoulder (DTD)
+2015-02-09,Pelicans,201583,Ryan Anderson,False,True,sore/sprained right elbow (DTD)
+2015-02-09,Spurs,1938,Manu Ginobili,False,True,placed on IL for rest
+2015-02-09,Spurs,202130,Reggie Williams,True,False,activated from IL
+2015-02-09,Thunder,201627,Anthony Morrow,True,False,returned to lineup
+2015-02-09,Thunder,201627,Anthony Morrow,True,False,activated from IL
+2015-02-09,Thunder,203500,Steven Adams,False,True,placed on IL with fractured right finger
+2015-02-09,Timberwolves,203498,Shabazz Muhammad,True,False,activated from IL
+2015-02-09,Thunder,203500,Steven Adams,False,True,surgery on right finger to repair fracture (out indefinitely)
+2015-02-09,Timberwolves,203498,Shabazz Muhammad,True,False,returned to lineup
+2015-02-10,Bulls,2399,Mike Dunleavy Jr.,True,False,activated from IL
+2015-02-10,Kings,202682,Derrick Williams,False,True,ankle injury (DTD)
+2015-02-10,Kings,200752,Rudy Gay,True,False,returned to lineup
+2015-02-10,Nuggets,203475,Erick Green,False,True,hip pointer (DTD)
+2015-02-10,Pistons,2406,Caron Butler,False,True,back spasms (DTD)
+2015-02-10,Pistons,201858,Cartier Martin,False,True,sprained right ankle (DTD)
+2015-02-10,Rockets,203144,Alexey Shved,False,True,placed on IL for personal reasons
+2015-02-10,Rockets,203093,Terrence Jones,False,True,placed on IL with flu
+2015-02-10,Rockets,203991,Clint Capela,True,False,activated from IL
+2015-02-10,Rockets,203910,Nick Johnson,True,False,activated from IL
+2015-02-10,Suns,202339,Eric Bledsoe,True,False,returned to lineup
+2015-02-11,Blazers,2549,Chris Kaman,False,True,placed on IL with ankle injury
+2015-02-11,Blazers,201964,Victor Claver,True,False,activated from IL
+2015-02-11,Grizzlies,203893,Russ Smith,True,False,activated from IL
+2015-02-11,Kings,202682,Derrick Williams,True,False,returned to lineup
+2015-02-11,Knicks,2546,Carmelo Anthony,False,True,placed on IL with knee injury (out for season)
+2015-02-11,Knicks,202498,Lance Thomas,False,True,placed on IL with ankle injury
+2015-02-11,Knicks,203921,Cleanthony Early,True,False,activated from IL
+2015-02-11,Knicks,203143,Pablo Prigioni,True,False,returned to lineup
+2015-02-11,Knicks,204037,Travis Wear,True,False,activated from IL
+2015-02-11,Magic,202699,Tobias Harris,False,True,placed on IL
+2015-02-11,Magic,2557,Luke Ridnour,True,False,activated from IL
+2015-02-11,Mavericks,2199,Tyson Chandler,False,True,placed on IL with sprained left ankle
+2015-02-11,Pacers,202730,Lavoy Allen,False,True,placed on IL
+2015-02-11,Pacers,101133,Ian Mahinmi,True,False,activated from IL
+2015-02-11,Pistons,2406,Caron Butler,False,True,placed on IL with back spasms
+2015-02-11,Spurs,202130,Reggie Williams,False,True,placed on IL
+2015-02-11,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2015-02-11,Timberwolves,202390,Gary Neal,False,True,placed on IL
+2015-02-11,Wizards,2743,Kris Humphries,False,True,sore lower back (DTD)
+2015-02-12,Bulls,202710,Jimmy Butler,False,True,placed on IL with strained right shoulder
+2015-02-12,Cavaliers,201567,Kevin Love,False,True,right eye injury (DTD)
+2015-02-19,Clippers,203085,Austin Rivers,False,True,left ankle injury / sore left foot (DTD)
+2015-02-19,Knicks,2546,Carmelo Anthony,False,True,surgery on left knee to repair patellar tendon (out for season)
+2015-02-19,Mavericks,203939,Dwight Powell,False,True,placed on IL
+2015-02-19,Mavericks,200765,Rajon Rondo,True,False,activated from IL
+2015-02-19,Mavericks,2199,Tyson Chandler,True,False,activated from IL
+2015-02-19,Bucks,2030,Kenyon Martin (Sr.),True,False,returned to lineup
+2015-02-19,Suns,203088,Kendall Marshall,True,False,returned to lineup
+2015-02-20,76ers,203477,Isaiah Canaan,False,True,placed on IL
+2015-02-20,76ers,2202,Jason Richardson,True,False,activated from IL
+2015-02-20,Blazers,202087,Alonzo Gee,False,True,placed on IL
+2015-02-20,Blazers,201167,Arron Afflalo,False,True,placed on IL
+2015-02-20,Blazers,2549,Chris Kaman,True,False,activated from IL
+2015-02-20,Bucks,101141,Ersan Ilyasova,False,True,illness (DTD)
+2015-02-20,Bulls,203946,Cameron Bairstow,False,True,placed on IL
+2015-02-20,Bulls,202710,Jimmy Butler,True,False,activated from IL
+2015-02-20,Bulls,2550,Kirk Hinrich,True,False,activated from IL
+2015-02-20,Cavaliers,201567,Kevin Love,True,False,returned to lineup
+2015-02-20,Celtics,203096,Jared Sullinger,False,True,placed on IL with stress fracture in left foot
+2015-02-20,Celtics,101183,Shavlik Randolph,True,False,activated from IL
+2015-02-20,Hawks,203488,Mike Muscala,True,False,activated from IL
+2015-02-20,Hawks,202714,Shelvin Mack,True,False,activated from IL
+2015-02-20,Heat,2547,Chris Bosh,False,True,placed on IL with blood clot in lungs (out for season)
+2015-02-20,Heat,2548,Dwyane Wade,True,False,activated from IL
+2015-02-20,Jazz,203511,Grant Jerrett,False,True,placed on IL
+2015-02-20,Jazz,204060,Joe Ingles,True,False,returned to lineup
+2015-02-20,Jazz,203918,Rodney Hood,True,False,activated from IL
+2015-02-20,Kings,2501,Reggie Evans,False,True,placed on IL with bruised right knee
+2015-02-20,Knicks,203499,Shane Larkin,False,True,illness (DTD)
+2015-02-20,Knicks,202498,Lance Thomas,True,False,activated from IL
+2015-02-20,Lakers,201941,Jordan Hill,True,False,returned to lineup
+2015-02-20,Lakers,101179,Ronnie Price,True,False,returned to lineup
+2015-02-20,Nets,101127,Jarrett Jack,False,True,sore left hamstring (DTD)
+2015-02-20,Nuggets,201951,Ty Lawson,False,True,unspecified (DTD)
+2015-02-20,Nuggets,203115,Will Barton,False,True,placed on IL
+2015-02-20,Nuggets,203475,Erick Green,True,False,returned to lineup
+2015-02-20,Nuggets,2749,Jameer Nelson,True,False,activated from IL
+2015-02-20,Pacers,203963,Shayne Whittington,False,True,placed on IL
+2015-02-20,Pacers,202730,Lavoy Allen,True,False,activated from IL
+2015-02-20,Pelicans,203120,Justin Hamilton (Anthony),False,True,placed on IL
+2015-02-20,Pelicans,202708,Norris Cole (Gene),False,True,placed on IL
+2015-02-20,Pelicans,203076,Anthony Davis,True,False,returned to lineup
+2015-02-20,Pelicans,201583,Ryan Anderson,True,False,returned to lineup
+2015-02-20,Pistons,2406,Caron Butler,True,False,activated from IL
+2015-02-20,Pistons,201858,Cartier Martin,True,False,returned to lineup
+2015-02-20,Rockets,203910,Nick Johnson,False,True,placed on IL
+2015-02-20,Rockets,203093,Terrence Jones,True,False,activated from IL
+2015-02-20,Spurs,201145,Jeff Pendergraph,False,True,placed on IL
+2015-02-20,Suns,101122,Danny Granger,False,True,placed on IL (out for season)
+2015-02-20,Suns,201977,Marcus Thornton (T.),False,True,placed on IL
+2015-02-20,Suns,203458,Alex Len,True,False,returned to lineup
+2015-02-20,Suns,203462,Archie Goodwin,True,False,activated from IL
+2015-02-20,Suns,203493,Reggie Bullock,True,False,activated from IL
+2015-02-20,Timberwolves,708,Kevin Garnett,False,True,placed on IL
+2015-02-20,Timberwolves,202390,Gary Neal,True,False,activated from IL
+2015-02-20,Wizards,202338,Kevin Seraphin,False,True,flu (DTD)
+2015-02-20,Wizards,2743,Kris Humphries,True,False,returned to lineup
+2015-02-21,Bucks,101141,Ersan Ilyasova,True,False,returned to lineup
+2015-02-21,Bulls,2550,Kirk Hinrich,False,True,placed on IL with illness
+2015-02-21,Bulls,203946,Cameron Bairstow,True,False,activated from IL
+2015-02-21,Clippers,203085,Austin Rivers,True,False,returned to lineup
+2015-02-21,Hornets,203077,Michael Kidd-Gilchrist,True,False,returned to lineup
+2015-02-21,Pelicans,202708,Norris Cole (Gene),True,False,activated from IL
+2015-02-21,Raptors,101150,Lou Williams,False,True,placed on IL with ankle injury
+2015-02-21,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2015-02-21,Thunder,201142,Kevin Durant,False,True,placed on IL with right foot injury (out for season)
+2015-02-21,Timberwolves,203461,Anthony Bennett,False,True,sprained right ankle (DTD)
+2015-02-21,Timberwolves,203498,Shabazz Muhammad,False,True,ruptured ligament in left middle finger (out for season)
+2015-02-22,76ers,203477,Isaiah Canaan,True,False,activated from IL
+2015-02-22,Blazers,201167,Arron Afflalo,True,False,activated from IL
+2015-02-22,Knicks,203144,Alexey Shved,True,False,activated from IL
+2015-02-22,Magic,203090,Moe Harkless,False,True,placed on IL
+2015-02-22,Magic,202699,Tobias Harris,True,False,activated from IL
+2015-02-22,Mavericks,202718,Chandler Parsons,False,True,placed on IL with sprained left ankle
+2015-02-22,Nuggets,201951,Ty Lawson,True,False,returned to lineup
+2015-02-22,Nuggets,203115,Will Barton,True,False,activated from IL
+2015-02-22,Pelicans,203076,Anthony Davis,False,True,sprained right shoulder (DTD)
+2015-02-22,Pelicans,201583,Ryan Anderson,False,True,sprained MCL in right knee (DTD)
+2015-02-22,Thunder,201142,Kevin Durant,False,True,surgery on right foot (out for season)
+2015-02-22,Warriors,201939,Stephen Curry,False,True,sprained right ankle / sore right foot (DTD)
+2015-02-22,Wizards,202338,Kevin Seraphin,True,False,returned to lineup
+2015-02-22,Pelicans,200761,Shawne Williams,True,False,returned to lineup
+2015-02-23,76ers,2202,Jason Richardson,False,True,bruised left knee (DTD)
+2015-02-23,76ers,203924,Jerami Grant,False,True,bruised lower back (DTD)
+2015-02-23,Bulls,201959,Taj Gibson,False,True,placed on IL with illness
+2015-02-23,Nets,202711,Bojan Bogdanovic,False,True,sprained left ankle (DTD)
+2015-02-23,Nuggets,201163,Wilson Chandler,False,True,sore left groin (DTD)
+2015-02-23,Raptors,202335,Patrick Patterson,False,True,placed on IL with left knee injury
+2015-02-23,Raptors,101150,Lou Williams,True,False,returned to lineup
+2015-02-23,Raptors,101150,Lou Williams,True,False,activated from IL
+2015-02-23,Rockets,203123,Kostas Papanikolaou,False,True,sprained right ankle (DTD)
+2015-02-23,Rockets,201976,Patrick Beverley,False,True,flu/illness (DTD)
+2015-02-23,Spurs,2588,Matt Bonner,False,True,placed on IL
+2015-02-23,Spurs,201145,Jeff Pendergraph,True,False,activated from IL
+2015-02-23,Suns,201977,Marcus Thornton (T.),True,False,activated from IL
+2015-02-23,Timberwolves,202390,Gary Neal,False,True,sprained right ankle (DTD)
+2015-02-23,Timberwolves,203498,Shabazz Muhammad,False,True,surgery on left middle finger to repair ruptured ligament (out for season)
+2015-02-23,Timberwolves,203498,Shabazz Muhammad,False,True,placed on IL with recovering from surgery on left middle finger to repair ruptured ligament (out for season)
+2015-02-24,Bulls,201565,Derrick Rose,False,True,torn medial meniscus in right knee (out indefinitely)
+2015-02-24,Cavaliers,1890,Shawn Marion,False,True,placed on IL with strained left hip
+2015-02-24,Raptors,202335,Patrick Patterson,True,False,activated from IL
+2015-02-24,Thunder,200779,Steve Novak,False,True,appendectomy (out indefinitely)
+2015-02-24,Warriors,201939,Stephen Curry,True,False,returned to lineup
+2015-02-25,76ers,2202,Jason Richardson,True,False,returned to lineup
+2015-02-25,76ers,203924,Jerami Grant,True,False,returned to lineup
+2015-02-25,Blazers,202087,Alonzo Gee,True,False,activated from IL
+2015-02-25,Bucks,201564,O.J. Mayo,False,True,sore right hamstring (DTD)
+2015-02-25,Bucks,203487,Michael Carter-Williams,True,False,returned to lineup
+2015-02-25,Bulls,2550,Kirk Hinrich,True,False,activated from IL
+2015-02-25,Bulls,201959,Taj Gibson,True,False,activated from IL
+2015-02-25,Clippers,201933,Blake Griffin,False,True,placed on IL recovering from surgery on right elbow to remove staph infection
+2015-02-25,Jazz,203546,Ian Clark,False,True,placed on IL
+2015-02-25,Jazz,203511,Grant Jerrett,True,False,activated from IL
+2015-02-25,Kings,2501,Reggie Evans,True,False,activated from IL
+2015-02-25,Knicks,202498,Lance Thomas,False,True,strained left groin (DTD)
+2015-02-25,Lakers,201156,Nick Young,False,True,fractured left kneecap (out for season)
+2015-02-25,Lakers,101179,Ronnie Price,False,True,surgery on right elbow to remove bone spurs and chips (out for season)
+2015-02-25,Mavericks,2199,Tyson Chandler,False,True,strained left hip (DTD)
+2015-02-25,Mavericks,203939,Dwight Powell,True,False,activated from IL
+2015-02-25,Nets,101127,Jarrett Jack,True,False,returned to lineup
+2015-02-25,Nuggets,202702,Kenneth Faried,False,True,bruised left thumb (DTD)
+2015-02-25,Rockets,203991,Clint Capela,False,True,placed on IL
+2015-02-25,Rockets,203123,Kostas Papanikolaou,False,True,placed on IL with sprained right ankle
+2015-02-25,Rockets,203910,Nick Johnson,True,False,activated from IL
+2015-02-25,Spurs,202130,Reggie Williams,False,True,placed on IL
+2015-02-25,Spurs,2588,Matt Bonner,True,False,activated from IL
+2015-02-25,Thunder,200779,Steve Novak,False,True,placed on IL with appendectomy (date approximate)
+2015-02-25,Timberwolves,202390,Gary Neal,True,False,returned to lineup
+2015-02-25,Timberwolves,708,Kevin Garnett,True,False,activated from IL
+2015-02-25,Wizards,1718,Paul Pierce,False,True,bruised right knee (DTD)
+2015-02-25,Bulls,201565,Derrick Rose,False,True,placed on IL with torn medial meniscus in righ tknee
+2015-02-27,Bulls,2200,Pau Gasol,False,True,placed on IL with illness
+2015-02-27,Cavaliers,202681,Kyrie Irving,False,True,strained left shoulder (DTD)
+2015-02-27,Knicks,101181,Jose Calderon,False,True,sore/strained left Achilles (out for season)
+2015-02-27,Knicks,202498,Lance Thomas,True,False,returned to lineup
+2015-02-27,Knicks,203499,Shane Larkin,True,False,returned to lineup
+2015-02-27,Magic,203932,Aaron Gordon,False,True,placed on IL with sprained right ankle
+2015-02-27,Magic,203095,Evan Fournier,False,True,placed on IL with hip injury
+2015-02-27,Magic,203090,Moe Harkless,True,False,activated from IL
+2015-02-27,Magic,203906,Roy Marble (Devyn),True,False,activated from IL
+2015-02-27,Nuggets,201589,Darrell Arthur,False,True,sprained right calf (DTD)
+2015-02-27,Nuggets,203994,Jusuf Nurkic,False,True,sprained right ankle (DTD)
+2015-02-27,Nuggets,202702,Kenneth Faried,True,False,returned to lineup
+2015-02-27,Nuggets,201163,Wilson Chandler,True,False,returned to lineup
+2015-02-27,Rockets,201976,Patrick Beverley,True,False,returned to lineup
+2015-02-27,Spurs,201145,Jeff Pendergraph,False,True,placed on IL
+2015-02-27,Spurs,202130,Reggie Williams,True,False,activated from IL
+2015-02-27,Thunder,2403,Enes Kanter,False,True,bruised right thigh (DTD)
+2015-02-27,Timberwolves,203461,Anthony Bennett,False,True,placed on IL with sprained right ankle
+2015-02-27,Warriors,2738,Andre Iguodala,False,True,rest (DTD)
+2015-02-27,Wizards,2743,Kris Humphries,False,True,strained left groin (DTD)
+2015-02-27,Bulls,201565,Derrick Rose,False,True,surgery on right knee to repair torn medial meniscus (out indefinitely)
+2015-02-27,Timberwolves,203133,Robbie Hummel,True,False,activated from IL
+2015-02-27,Timberwolves,203133,Robbie Hummel,False,True,fractured right hand (DTD)
+2015-02-28,Bucks,201162,Jared Dudley,False,True,knee injury (DTD)
+2015-02-28,Bucks,201564,O.J. Mayo,True,False,returned to lineup
+2015-02-28,Hawks,201143,Al Horford,False,True,family reasons (DTD)
+2015-02-28,Heat,2365,Chris Andersen,False,True,placed on IL with illness
+2015-02-28,Mavericks,2199,Tyson Chandler,False,True,placed on IL with strained left hip
+2015-02-28,Nets,202711,Bojan Bogdanovic,True,False,returned to lineup
+2015-02-28,Raptors,200768,Kyle Lowry,False,True,placed on IL for rest
+2015-02-28,Spurs,202130,Reggie Williams,False,True,placed on IL
+2015-02-28,Spurs,201145,Jeff Pendergraph,True,False,activated from IL
+2015-02-28,Thunder,201566,Russell Westbrook,False,True,surgery on right cheek to repair fracture (DTD)
+2015-02-28,Wizards,2743,Kris Humphries,False,True,placed on IL with strained left groin
+2015-02-28,Wizards,203078,Bradley Beal,True,False,activated from IL
+2015-02-28,Wizards,1718,Paul Pierce,True,False,returned to lineup
+2015-03-01,Blazers,203459,Allen Crabbe,False,True,placed on IL
+2015-03-01,Blazers,200777,Joel Freeland,True,False,activated from IL
+2015-03-01,Bulls,201959,Taj Gibson,False,True,placed on IL with sore left ankle
+2015-03-01,Bulls,2200,Pau Gasol,True,False,activated from IL
+2015-03-01,Hornets,203798,P.J. Hairston,False,True,placed on IL
+2015-03-01,Hornets,202687,Bismack Biyombo,True,False,activated from IL
+2015-03-01,Thunder,2403,Enes Kanter,True,False,returned to lineup
+2015-03-01,Warriors,2738,Andre Iguodala,True,False,returned to lineup
+2015-03-02,76ers,2202,Jason Richardson,False,True,bruised left wrist (DTD)
+2015-03-02,76ers,203496,Robert Covington,False,True,bruised right elbow (DTD)
+2015-03-02,Bucks,201564,O.J. Mayo,False,True,sore right hamstring (DTD)
+2015-03-02,Bucks,201162,Jared Dudley,True,False,returned to lineup
+2015-03-02,Bulls,202710,Jimmy Butler,False,True,sprained left elbow (DTD)
+2015-03-02,Clippers,2440,Matt Barnes,False,True,strained right hamstring (DTD)
+2015-03-02,Heat,2365,Chris Andersen,True,False,activated from IL
+2015-03-02,Raptors,200768,Kyle Lowry,False,True,various injuries (DTD)
+2015-03-02,Timberwolves,2755,Kevin Martin,False,True,illness (DTD)
+2015-03-02,Timberwolves,201593,Nikola Pekovic,False,True,ankle injury (DTD)
+2015-03-02,Timberwolves,203133,Robbie Hummel,False,True,placed on IL with fractured right hand
+2015-03-02,Warriors,2571,Leandro Barbosa,False,True,illness / upper respiratory infection (DTD)
+2015-03-03,Bulls,202710,Jimmy Butler,False,True,placed on IL with sprained left elbow
+2015-03-03,Cavaliers,202681,Kyrie Irving,True,False,returned to lineup
+2015-03-03,Grizzlies,2757,Beno Udrih,False,True,illness (DTD)
+2015-03-03,Grizzlies,2216,Zach Randolph,False,True,illness (DTD)
+2015-03-03,Hawks,201143,Al Horford,True,False,returned to lineup
+2015-03-03,Kings,201954,Darren Collison,False,True,surgery on right hip to repair strained flexor (out for season)
+2015-03-03,Knicks,101181,Jose Calderon,False,True,placed on IL with sore/strained left Achilles (out for season)
+2015-03-03,Nuggets,201589,Darrell Arthur,True,False,returned to lineup
+2015-03-04,76ers,2202,Jason Richardson,True,False,returned to lineup
+2015-03-04,Celtics,101183,Shavlik Randolph,False,True,placed on IL with waived
+2015-03-04,Celtics,203482,Kelly Olynyk,True,False,activated from IL
+2015-03-04,Clippers,2037,Jamal Crawford,False,True,bruised right calf (DTD)
+2015-03-04,Grizzlies,2757,Beno Udrih,True,False,returned to lineup
+2015-03-04,Grizzlies,2216,Zach Randolph,True,False,returned to lineup
+2015-03-04,Magic,2557,Luke Ridnour,False,True,strained right hamstring (DTD)
+2015-03-04,Magic,203906,Roy Marble (Devyn),False,True,placed on IL with detached retina in left eye (out for season)
+2015-03-04,Magic,203932,Aaron Gordon,True,False,activated from IL
+2015-03-04,Pacers,201228,C.J. Watson,False,True,elbow injury (DTD)
+2015-03-04,Pacers,201579,Roy Hibbert,False,True,placed on IL with elbow injury
+2015-03-04,Pacers,203963,Shayne Whittington,True,False,activated from IL
+2015-03-04,Pelicans,203076,Anthony Davis,True,False,returned to lineup
+2015-03-04,Thunder,201566,Russell Westbrook,True,False,returned to lineup
+2015-03-04,Timberwolves,2755,Kevin Martin,True,False,returned to lineup
+2015-03-04,Timberwolves,201593,Nikola Pekovic,True,False,returned to lineup
+2015-03-05,Mavericks,203939,Dwight Powell,False,True,placed on IL
+2015-03-05,Mavericks,2199,Tyson Chandler,True,False,activated from IL
+2015-03-06,76ers,203496,Robert Covington,True,False,returned to lineup
+2015-03-06,Blazers,202083,Wes Matthews Jr.,False,True,torn left Achilles tendon (out for season)
+2015-03-06,Celtics,202340,Avery Bradley,False,True,placed on IL with strained left elbow
+2015-03-06,Celtics,101183,Shavlik Randolph,True,False,activated from IL
+2015-03-06,Grizzlies,1713,Vince Carter,True,False,activated from IL
+2015-03-06,Heat,2548,Dwyane Wade,False,True,hip injury (DTD)
+2015-03-06,Heat,2736,Luol Deng,False,True,thigh injury (DTD)
+2015-03-06,Heat,201596,Mario Chalmers,False,True,knee injury (DTD)
+2015-03-06,Magic,202696,Nikola Vucevic,False,True,sore left ankle (DTD)
+2015-03-06,Magic,2584,Willie Green,False,True,sore right Achilles (DTD)
+2015-03-06,Mavericks,2734,Devin Harris,False,True,placed on IL with right hand injury / hip injury (P)
+2015-03-06,Mavericks,203939,Dwight Powell,True,False,activated from IL
+2015-03-06,Pacers,203963,Shayne Whittington,False,True,placed on IL
+2015-03-06,Pacers,201228,C.J. Watson,True,False,returned to lineup
+2015-03-06,Pacers,201579,Roy Hibbert,True,False,activated from IL
+2015-03-06,Raptors,203512,Lucas Nogueira,False,True,placed on IL
+2015-03-06,Raptors,200768,Kyle Lowry,True,False,returned to lineup
+2015-03-06,Raptors,200768,Kyle Lowry,True,False,activated from IL
+2015-03-06,Rockets,203910,Nick Johnson,False,True,placed on IL
+2015-03-06,Warriors,2571,Leandro Barbosa,True,False,returned to lineup
+2015-03-06,Rockets,203123,Kostas Papanikolaou,True,False,activated from IL
+2015-03-06,Rockets,203123,Kostas Papanikolaou,False,True,sprained right ankle (DTD)
+2015-03-07,Blazers,202083,Wes Matthews Jr.,False,True,placed on IL with torn left Achilles tendon (out for season)
+2015-03-07,Blazers,203459,Allen Crabbe,True,False,activated from IL
+2015-03-07,Hawks,2594,Kyle Korver,False,True,placed on IL
+2015-03-07,Hawks,203544,Pero Antic,False,True,ankle injury (DTD)
+2015-03-07,Heat,201609,Goran Dragic,False,True,back injury (DTD)
+2015-03-07,Heat,202355,Hassan Whiteside,False,True,ankle injury (DTD)
+2015-03-07,Heat,2548,Dwyane Wade,True,False,returned to lineup
+2015-03-07,Heat,201596,Mario Chalmers,True,False,returned to lineup
+2015-03-07,Knicks,200811,Lou Amundson,False,True,lower back spasms (DTD)
+2015-03-07,Suns,203458,Alex Len,False,True,sprained right ankle (DTD)
+2015-03-08,Clippers,2037,Jamal Crawford,False,True,placed on IL with bruised right calf
+2015-03-08,Clippers,2440,Matt Barnes,True,False,returned to lineup
+2015-03-08,Mavericks,202718,Chandler Parsons,True,False,activated from IL
+2015-03-08,Pistons,201202,Joel Anthony,False,True,groin injury (DTD)
+2015-03-08,Thunder,203500,Steven Adams,True,False,activated from IL
+2015-03-08,Mavericks,203939,Dwight Powell,False,True,placed on IL
+2015-03-09,Hawks,204067,Jarell Eddie,False,True,placed on IL
+2015-03-09,Hawks,2594,Kyle Korver,True,False,activated from IL
+2015-03-09,Heat,2617,Udonis Haslem,False,True,wrist injury (DTD)
+2015-03-09,Heat,204054,Zoran Dragic,False,True,placed on IL
+2015-03-09,Heat,202355,Hassan Whiteside,True,False,returned to lineup
+2015-03-09,Heat,2736,Luol Deng,True,False,returned to lineup
+2015-03-09,Knicks,203112,Quincy Acy,False,True,sore left knee (DTD)
+2015-03-09,Knicks,203501,Tim Hardaway Jr.,False,True,lower back spasms (DTD)
+2015-03-09,Knicks,200811,Lou Amundson,True,False,returned to lineup
+2015-03-09,Suns,203458,Alex Len,True,False,returned to lineup
+2015-03-10,Jazz,202330,Gordon Hayward,False,True,strained lower back (DTD)
+2015-03-10,Magic,2557,Luke Ridnour,True,False,returned to lineup
+2015-03-10,Magic,202696,Nikola Vucevic,True,False,returned to lineup
+2015-03-10,Magic,2584,Willie Green,True,False,returned to lineup
+2015-03-10,Mavericks,2734,Devin Harris,True,False,activated from IL
+2015-03-10,Pacers,101139,C.J. Miles,False,True,placed on IL with foot injury
+2015-03-10,Pacers,203963,Shayne Whittington,True,False,activated from IL
+2015-03-10,Pelicans,201936,Tyreke Evans,False,True,ankle injury (DTD)
+2015-03-10,Pistons,201202,Joel Anthony,False,True,placed on IL with groin injury
+2015-03-10,Spurs,1938,Manu Ginobili,False,True,placed on IL with illness
+2015-03-10,Spurs,202130,Reggie Williams,True,False,activated from IL
+2015-03-11,Bucks,201573,Jerryd Bayless,False,True,sore right ankle (DTD)
+2015-03-11,Bucks,201564,O.J. Mayo,True,False,returned to lineup
+2015-03-11,Bulls,201149,Joakim Noah,False,True,left knee injury (DTD)
+2015-03-11,Celtics,202738,Isaiah Thomas,False,True,placed on IL with back injury
+2015-03-11,Celtics,202340,Avery Bradley,True,False,activated from IL
+2015-03-11,Hawks,203544,Pero Antic,True,False,returned to lineup
+2015-03-11,Heat,201609,Goran Dragic,True,False,returned to lineup
+2015-03-11,Heat,2617,Udonis Haslem,True,False,returned to lineup
+2015-03-11,Hornets,203469,Cody Zeller,False,True,placed on IL with shoulder injury
+2015-03-11,Hornets,202689,Kemba Walker,True,False,activated from IL
+2015-03-11,Magic,2584,Willie Green,False,True,lower back spasms (DTD)
+2015-03-11,Nets,101187,Alan Anderson,False,True,bruised lower back (DTD)
+2015-03-11,Nets,203508,Sergey Karasev,False,True,"placed on IL with torn MCL, disloated patella in right knee (out for season)"
+2015-03-11,Pistons,201202,Joel Anthony,True,False,activated from IL
+2015-03-11,Rockets,203123,Kostas Papanikolaou,False,True,placed on IL with sprained right ankle
+2015-03-11,Rockets,203910,Nick Johnson,True,False,activated from IL
+2015-03-11,Suns,202688,Brandon Knight,False,True,placed on IL with sprained left ankle
+2015-03-11,Pistons,203113,Quincy Miller,False,True,placed on IL
+2015-03-12,Bucks,201564,O.J. Mayo,False,True,hamstring injury / rest (DTD)
+2015-03-12,Grizzlies,201188,Marc Gasol,False,True,rest (DTD)
+2015-03-12,Grizzlies,201144,Mike Conley Jr.,False,True,ankle injury (DTD)
+2015-03-12,Grizzlies,201144,Mike Conley Jr.,False,True,placed on IL for rest
+2015-03-12,Grizzlies,2754,Tony Allen,False,True,placed on IL for rest
+2015-03-12,Grizzlies,2216,Zach Randolph,False,True,rest (DTD)
+2015-03-12,Grizzlies,203950,Jarnell Stokes,True,False,activated from IL
+2015-03-12,Grizzlies,203893,Russ Smith,True,False,activated from IL
+2015-03-12,Jazz,202330,Gordon Hayward,True,False,returned to lineup
+2015-03-12,Knicks,203501,Tim Hardaway Jr.,True,False,returned to lineup
+2015-03-12,Nets,203508,Sergey Karasev,False,True,"surgery on right knee to repair torn MCL, dislocated patella (out for season) (date approximate)"
+2015-03-12,Pacers,201579,Roy Hibbert,False,True,placed on IL with elbow injury
+2015-03-12,Pacers,101139,C.J. Miles,True,False,activated from IL
+2015-03-12,Spurs,202130,Reggie Williams,False,True,placed on IL
+2015-03-12,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2015-03-12,Wizards,202066,Garrett Temple,False,True,hamstring injury (DTD)
+2015-03-12,Wizards,2403,Nene Hilario ,False,True,personal reasons (DTD)
+2015-03-13,76ers,2202,Jason Richardson,False,True,rest (DTD)
+2015-03-13,Blazers,202087,Alonzo Gee,False,True,oral surgery (DTD)
+2015-03-13,Bulls,201149,Joakim Noah,True,False,returned to lineup
+2015-03-13,Hawks,203118,(James) Mike Scott,False,True,placed on IL with fractured left big toe
+2015-03-13,Hawks,204067,Jarell Eddie,True,False,activated from IL
+2015-03-13,Hornets,2744,Al Jefferson,False,True,placed on IL with strained right knee / right calf injury (P)
+2015-03-13,Hornets,203798,P.J. Hairston,True,False,activated from IL
+2015-03-13,Kings,200797,Ryan Hollins,False,True,back spasms (DTD)
+2015-03-13,Mavericks,202329,Al-Farouq Aminu,False,True,placed on IL with bruised/sprained left shoulder
+2015-03-13,Nuggets,201589,Darrell Arthur,False,True,knee injury (DTD)
+2015-03-13,Nuggets,201951,Ty Lawson,False,True,illness (DTD)
+2015-03-13,Nuggets,203994,Jusuf Nurkic,True,False,returned to lineup
+2015-03-13,Pistons,201202,Joel Anthony,True,False,returned to lineup
+2015-03-13,Raptors,202685,Jonas Valanciunas,False,True,placed on IL for birth of child
+2015-03-13,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2015-03-13,Thunder,201586,Serge Ibaka,False,True,placed on IL with right knee injury (out for season)
+2015-03-13,Thunder,200779,Steve Novak,True,False,activated from IL
+2015-03-13,Timberwolves,708,Kevin Garnett,False,True,sore left knee (out for season)
+2015-03-13,Timberwolves,201593,Nikola Pekovic,False,True,sprained right ankle (out for season)
+2015-03-13,Warriors,2738,Andre Iguodala,False,True,rest (DTD)
+2015-03-13,Warriors,101106,Andrew Bogut,False,True,placed on IL
+2015-03-13,Warriors,202691,Klay Thompson,False,True,rest (DTD)
+2015-03-13,Warriors,201939,Stephen Curry,False,True,rest (DTD)
+2015-03-13,Warriors,203136,Ognen Kuzmic,False,True,shoulder injury (DTD)
+2015-03-14,76ers,203128,Furkan Aldemir,False,True,bruised ribs (DTD)
+2015-03-14,76ers,2202,Jason Richardson,True,False,returned to lineup
+2015-03-14,Bucks,201162,Jared Dudley,False,True,knee injury (DTD)
+2015-03-14,Bucks,203487,Michael Carter-Williams,False,True,ankle injury (DTD)
+2015-03-14,Bucks,201564,O.J. Mayo,True,False,returned to lineup
+2015-03-14,Grizzlies,203950,Jarnell Stokes,False,True,placed on IL
+2015-03-14,Grizzlies,202720,Jon Leuer,False,True,back injury (DTD)
+2015-03-14,Grizzlies,201188,Marc Gasol,True,False,returned to lineup
+2015-03-14,Grizzlies,2754,Tony Allen,True,False,activated from IL
+2015-03-14,Grizzlies,2216,Zach Randolph,True,False,returned to lineup
+2015-03-14,Kings,200752,Rudy Gay,False,True,strained patellar tendon in left knee (DTD)
+2015-03-14,Knicks,203112,Quincy Acy,True,False,returned to lineup
+2015-03-14,Nets,101187,Alan Anderson,True,False,returned to lineup
+2015-03-14,Pacers,202388,Donald Sloan,False,True,placed on IL with sprained toe
+2015-03-14,Pacers,201579,Roy Hibbert,True,False,activated from IL
+2015-03-14,Raptors,202685,Jonas Valanciunas,True,False,activated from IL
+2015-03-14,Suns,203458,Alex Len,False,True,sprained right ankle (DTD)
+2015-03-14,Warriors,2738,Andre Iguodala,True,False,returned to lineup
+2015-03-14,Warriors,101106,Andrew Bogut,True,False,activated from IL
+2015-03-14,Warriors,202691,Klay Thompson,True,False,returned to lineup
+2015-03-14,Warriors,201939,Stephen Curry,True,False,returned to lineup
+2015-03-15,Blazers,202087,Alonzo Gee,True,False,returned to lineup
+2015-03-15,Cavaliers,201567,Kevin Love,False,True,placed on IL for rest
+2015-03-15,Clippers,203912,C.J. Wilcox,False,True,placed on IL
+2015-03-15,Clippers,201933,Blake Griffin,True,False,activated from IL
+2015-03-15,Hawks,201952,Jeff Teague,False,True,rest (DTD)
+2015-03-15,Hawks,200794,Paul Millsap,False,True,rest (DTD)
+2015-03-15,Nuggets,201163,Wilson Chandler,False,True,knee injury (DTD)
+2015-03-15,Nuggets,201951,Ty Lawson,True,False,returned to lineup
+2015-03-15,Pelicans,201936,Tyreke Evans,True,False,returned to lineup
+2015-03-15,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2015-03-15,Timberwolves,202390,Gary Neal,False,True,hand injury / illness (DTD)
+2015-03-15,Timberwolves,201937,Ricky Rubio,False,True,sore right ankle (DTD)
+2015-03-16,Cavaliers,1890,Shawn Marion,True,False,activated from IL
+2015-03-16,Hawks,201143,Al Horford,False,True,rest (DTD)
+2015-03-16,Hawks,2594,Kyle Korver,False,True,fractured nose (DTD)
+2015-03-16,Hawks,2594,Kyle Korver,False,True,placed on IL with fractured nose
+2015-03-16,Hawks,201952,Jeff Teague,True,False,returned to lineup
+2015-03-16,Hawks,200794,Paul Millsap,True,False,returned to lineup
+2015-03-16,Hawks,200757,Thabo Sefolosha,True,False,activated from IL
+2015-03-16,Hornets,203798,P.J. Hairston,False,True,placed on IL
+2015-03-16,Hornets,2744,Al Jefferson,True,False,activated from IL
+2015-03-16,Nuggets,201568,Danilo Gallinari,False,True,rest (DTD)
+2015-03-16,Nuggets,202702,Kenneth Faried,False,True,rest (DTD)
+2015-03-16,Nuggets,201951,Ty Lawson,False,True,rest (DTD)
+2015-03-16,Nuggets,201589,Darrell Arthur,True,False,returned to lineup
+2015-03-16,Nuggets,201163,Wilson Chandler,True,False,returned to lineup
+2015-03-16,Pacers,203963,Shayne Whittington,False,True,placed on IL
+2015-03-16,Pacers,202388,Donald Sloan,True,False,activated from IL
+2015-03-16,Spurs,203382,Aron Baynes,False,True,rib injury (DTD)
+2015-03-16,Spurs,1938,Manu Ginobili,False,True,sprained right ankle (DTD)
+2015-03-16,Warriors,201575,Brandon Rush,False,True,placed on IL
+2015-03-16,Wizards,2403,Nene Hilario ,True,False,returned to lineup
+2015-03-17,Bucks,201162,Jared Dudley,False,True,back spasms (P) (DTD)
+2015-03-17,Bucks,201564,O.J. Mayo,False,True,sore right hamstring (DTD)
+2015-03-17,Bucks,201573,Jerryd Bayless,True,False,returned to lineup
+2015-03-17,Bucks,203487,Michael Carter-Williams,True,False,returned to lineup
+2015-03-17,Clippers,2440,Matt Barnes,False,True,sore right hamstring (DTD)
+2015-03-17,Knicks,203921,Cleanthony Early,False,True,sprained left ankle (DTD)
+2015-03-17,Knicks,203501,Tim Hardaway Jr.,False,True,sprained right wrist (DTD)
+2015-03-17,Pistons,202328,Greg Monroe,False,True,placed on IL with strained right knee
+2015-03-17,Pistons,203113,Quincy Miller,True,False,activated from IL
+2015-03-17,Rockets,1891,Jason Terry,False,True,hamstring injury (DTD)
+2015-03-17,Spurs,203382,Aron Baynes,False,True,placed on IL with rib injury
+2015-03-17,Spurs,1938,Manu Ginobili,False,True,placed on IL with sprained right ankle
+2015-03-17,Spurs,203937,Kyle Anderson,True,False,activated from IL
+2015-03-17,Spurs,202130,Reggie Williams,True,False,activated from IL
+2015-03-17,Thunder,201586,Serge Ibaka,False,True,arthroscopic surgery on right knee (out indefinitely)
+2015-03-18,76ers,203128,Furkan Aldemir,True,False,returned to lineup
+2015-03-18,Cavaliers,201567,Kevin Love,True,False,activated from IL
+2015-03-18,Celtics,203923,James Young,False,True,placed on IL
+2015-03-18,Hawks,200757,Thabo Sefolosha,False,True,placed on IL with calf injury
+2015-03-18,Hawks,201143,Al Horford,True,False,returned to lineup
+2015-03-18,Kings,200752,Rudy Gay,True,False,returned to lineup
+2015-03-18,Kings,200797,Ryan Hollins,True,False,returned to lineup
+2015-03-18,Magic,203473,Dewayne Dedmon,False,True,sprained left ankle (DTD)
+2015-03-18,Magic,202699,Tobias Harris,False,True,sprained left ankle (DTD)
+2015-03-18,Mavericks,202329,Al-Farouq Aminu,True,False,activated from IL
+2015-03-18,Timberwolves,203120,Justin Hamilton (Anthony),False,True,migraine headache (DTD)
+2015-03-18,Timberwolves,201937,Ricky Rubio,True,False,returned to lineup
+2015-03-18,Warriors,202691,Klay Thompson,False,True,placed on IL with sprained right ankle
+2015-03-18,Warriors,201575,Brandon Rush,True,False,activated from IL
+2015-03-18,Warriors,203136,Ognen Kuzmic,True,False,returned to lineup
+2015-03-18,Cavaliers,203925,Joe Harris,False,True,placed on IL
+2015-03-19,Nuggets,201568,Danilo Gallinari,True,False,returned to lineup
+2015-03-19,Nuggets,202702,Kenneth Faried,True,False,returned to lineup
+2015-03-19,Nuggets,201951,Ty Lawson,True,False,returned to lineup
+2015-03-19,Pelicans,203076,Anthony Davis,False,True,sprained left ankle (DTD)
+2015-03-19,Suns,201977,Marcus Thornton (T.),False,True,sprained right big toe (DTD)
+2015-03-19,Timberwolves,202390,Gary Neal,False,True,sore right ankle (DTD)
+2015-03-19,Timberwolves,201937,Ricky Rubio,False,True,sore right ankle (DTD)
+2015-03-20,76ers,203080,Thomas Robinson,False,True,bruised ribs (DTD)
+2015-03-20,Bulls,201959,Taj Gibson,True,False,activated from IL
+2015-03-20,Clippers,201175,Glen Davis,False,True,placed on IL with illness
+2015-03-20,Clippers,203912,C.J. Wilcox,True,False,activated from IL
+2015-03-20,Clippers,2440,Matt Barnes,True,False,returned to lineup
+2015-03-20,Grizzlies,203893,Russ Smith,False,True,placed on IL
+2015-03-20,Grizzlies,201144,Mike Conley Jr.,True,False,activated from IL
+2015-03-20,Heat,204054,Zoran Dragic,True,False,activated from IL
+2015-03-20,Hornets,203943,Noah Vonleh,False,True,placed on IL
+2015-03-20,Hornets,203584,Troy Daniels,False,True,placed on IL
+2015-03-20,Hornets,203469,Cody Zeller,True,False,activated from IL
+2015-03-20,Hornets,203798,P.J. Hairston,True,False,activated from IL
+2015-03-20,Nuggets,2749,Jameer Nelson,False,True,hip injury (DTD)
+2015-03-20,Pelicans,201600,Omer Asik,False,True,strained right calf (DTD)
+2015-03-20,Rockets,203093,Terrence Jones,False,True,partially collapsed lung (DTD)
+2015-03-20,Spurs,201145,Jeff Pendergraph,False,True,placed on IL for personal reasons
+2015-03-20,Spurs,203382,Aron Baynes,True,False,activated from IL
+2015-03-20,Thunder,2403,Enes Kanter,False,True,sprained left ankle (DTD)
+2015-03-21,Blazers,2549,Chris Kaman,False,True,strained right shoulder (DTD)
+2015-03-21,Grizzlies,201584,Courtney Lee,False,True,placed on IL with right hand injury
+2015-03-21,Grizzlies,202720,Jon Leuer,True,False,returned to lineup
+2015-03-21,Grizzlies,203893,Russ Smith,True,False,activated from IL
+2015-03-21,Jazz,203511,Grant Jerrett,False,True,placed on IL
+2015-03-21,Jazz,203546,Ian Clark,True,False,activated from IL
+2015-03-21,Lakers,959,Steve Nash,False,True,retired (effective at the end of the season)
+2015-03-21,Mavericks,200826,Jose Barea ,False,True,sprained left ankle (DTD)
+2015-03-21,Pistons,200761,Shawne Williams,False,True,illness (DTD)
+2015-03-21,Rockets,1891,Jason Terry,True,False,returned to lineup
+2015-03-21,Suns,203458,Alex Len,True,False,returned to lineup
+2015-03-21,Thunder,2555,Nick Collison,False,True,sprained left ankle (DTD)
+2015-03-21,Timberwolves,202390,Gary Neal,True,False,returned to lineup
+2015-03-22,76ers,203080,Thomas Robinson,True,False,returned to lineup
+2015-03-22,Celtics,203923,James Young,True,False,activated from IL
+2015-03-22,Clippers,203912,C.J. Wilcox,False,True,placed on IL
+2015-03-22,Clippers,201175,Glen Davis,True,False,activated from IL
+2015-03-22,Hawks,2594,Kyle Korver,True,False,activated from IL
+2015-03-22,Hornets,203469,Cody Zeller,False,True,placed on IL with sore right shoulder (out for season)
+2015-03-22,Hornets,203943,Noah Vonleh,True,False,activated from IL
+2015-03-22,Magic,101112,Channing Frye,False,True,illness (DTD)
+2015-03-22,Magic,2584,Willie Green,True,False,returned to lineup
+2015-03-22,Mavericks,200826,Jose Barea ,False,True,placed on IL with sprained left ankle
+2015-03-22,Nuggets,200751,Randy Foye,False,True,stomach flu (DTD)
+2015-03-22,Nuggets,2749,Jameer Nelson,True,False,returned to lineup
+2015-03-22,Pelicans,201936,Tyreke Evans,False,True,sprained left ankle (DTD)
+2015-03-22,Pelicans,203076,Anthony Davis,True,False,returned to lineup
+2015-03-22,Raptors,200768,Kyle Lowry,False,True,placed on IL with back injury / rest (DTD)
+2015-03-22,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2015-03-22,Thunder,2403,Enes Kanter,True,False,returned to lineup
+2015-03-23,Bulls,203946,Cameron Bairstow,False,True,placed on IL with illness
+2015-03-23,Bulls,201149,Joakim Noah,False,True,placed on IL with general soreness
+2015-03-23,Bulls,202710,Jimmy Butler,True,False,activated from IL
+2015-03-23,Jazz,202330,Gordon Hayward,False,True,placed on IL with sprained left shoulder
+2015-03-23,Jazz,203511,Grant Jerrett,True,False,activated from IL
+2015-03-23,Knicks,203144,Alexey Shved,False,True,fractured rib (out for season)
+2015-03-23,Knicks,204037,Travis Wear,False,True,sore lower back (out for season)
+2015-03-23,Pacers,201155,Rodney Stuckey,False,True,placed on IL with calf injury
+2015-03-23,Pacers,203963,Shayne Whittington,True,False,activated from IL
+2015-03-23,Timberwolves,202390,Gary Neal,False,True,sprained left ankle (out for season)
+2015-03-23,Timberwolves,2755,Kevin Martin,False,True,strained left hamstring (DTD)
+2015-03-23,Warriors,202691,Klay Thompson,True,False,activated from IL
+2015-03-24,76ers,2202,Jason Richardson,False,True,rest (DTD)
+2015-03-24,Blazers,201587,Nicolas Batum,False,True,lower back injury (DTD)
+2015-03-24,Bucks,201564,O.J. Mayo,True,False,returned to lineup
+2015-03-24,Heat,204020,Tyler Johnson,False,True,illness (DTD)
+2015-03-24,Pistons,200761,Shawne Williams,True,False,returned to lineup
+2015-03-24,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2015-03-24,Spurs,203382,Aron Baynes,False,True,placed on IL with sprained right ankle
+2015-03-24,Spurs,1938,Manu Ginobili,True,False,activated from IL
+2015-03-24,Spurs,201145,Jeff Pendergraph,True,False,activated from IL
+2015-03-24,Thunder,203460,Andre Roberson,False,True,sprained left ankle (DTD)
+2015-03-24,Thunder,2555,Nick Collison,False,True,placed on IL with sprained left ankle
+2015-03-24,Warriors,2733,Shaun Livingston,False,True,placed on IL
+2015-03-24,Raptors,200768,Kyle Lowry,True,False,activated from IL
+2015-03-24,Spurs,203937,Kyle Anderson,False,True,placed on IL
+2015-03-25,76ers,2202,Jason Richardson,True,False,returned to lineup
+2015-03-25,Bulls,203946,Cameron Bairstow,True,False,activated from IL
+2015-03-25,Bulls,201149,Joakim Noah,True,False,activated from IL
+2015-03-25,Celtics,203923,James Young,False,True,placed on IL
+2015-03-25,Celtics,202738,Isaiah Thomas,True,False,returned to lineup
+2015-03-25,Celtics,202738,Isaiah Thomas,True,False,activated from IL
+2015-03-25,Clippers,101126,Nate Robinson,False,True,placed on IL with knee injury
+2015-03-25,Clippers,203912,C.J. Wilcox,True,False,activated from IL
+2015-03-25,Grizzlies,203893,Russ Smith,False,True,placed on IL
+2015-03-25,Grizzlies,201584,Courtney Lee,True,False,activated from IL
+2015-03-25,Hawks,200757,Thabo Sefolosha,True,False,activated from IL
+2015-03-25,Heat,2365,Chris Andersen,False,True,bruised left calf (DTD)
+2015-03-25,Heat,2548,Dwyane Wade,False,True,placed on IL with swelling in left knee
+2015-03-25,Heat,202355,Hassan Whiteside,False,True,hand injury (DTD)
+2015-03-25,Heat,204020,Tyler Johnson,True,False,returned to lineup
+2015-03-25,Jazz,203918,Rodney Hood,False,True,placed on IL with illness
+2015-03-25,Knicks,203144,Alexey Shved,False,True,placed on IL with fractured rib (out for season)
+2015-03-25,Knicks,203921,Cleanthony Early,True,False,returned to lineup
+2015-03-25,Magic,101112,Channing Frye,True,False,returned to lineup
+2015-03-25,Magic,203473,Dewayne Dedmon,True,False,returned to lineup
+2015-03-25,Magic,202699,Tobias Harris,True,False,returned to lineup
+2015-03-25,Nuggets,201589,Darrell Arthur,False,True,calf injury (out for season)
+2015-03-25,Nuggets,200751,Randy Foye,True,False,returned to lineup
+2015-03-25,Pelicans,201600,Omer Asik,True,False,returned to lineup
+2015-03-25,Pelicans,201936,Tyreke Evans,True,False,returned to lineup
+2015-03-25,Raptors,200768,Kyle Lowry,False,True,placed on IL with back spasms
+2015-03-25,Raptors,203998,Bruno Caboclo,True,False,activated from IL
+2015-03-25,Rockets,201976,Patrick Beverley,False,True,placed on IL with torn ligaments in left wrist (out for season)
+2015-03-25,Rockets,2730,Dwight Howard,True,False,activated from IL
+2015-03-25,Suns,201977,Marcus Thornton (T.),False,True,placed on IL with sprained right big toe
+2015-03-25,Suns,202688,Brandon Knight,True,False,activated from IL
+2015-03-25,Timberwolves,203120,Justin Hamilton (Anthony),True,False,returned to lineup
+2015-03-25,Wizards,203315,Toure Murry,False,True,sprained left ankle (DTD)
+2015-03-25,Hawks,201948,Austin Daye,False,True,placed on IL
+2015-03-26,Bucks,201162,Jared Dudley,True,False,returned to lineup
+2015-03-26,Pacers,2561,David West,False,True,allergic reaction / illness (DTD)
+2015-03-26,Wizards,203315,Toure Murry,True,False,returned to lineup
+2015-03-27,Blazers,2549,Chris Kaman,True,False,returned to lineup
+2015-03-27,Blazers,201587,Nicolas Batum,True,False,returned to lineup
+2015-03-27,Hawks,201952,Jeff Teague,False,True,placed on IL with sprained left ankle
+2015-03-27,Hawks,203544,Pero Antic,False,True,stiff neck (DTD)
+2015-03-27,Hawks,201948,Austin Daye,True,False,activated from IL
+2015-03-27,Heat,202355,Hassan Whiteside,False,True,placed on IL with hand injury
+2015-03-27,Heat,2548,Dwyane Wade,True,False,activated from IL
+2015-03-27,Jazz,203511,Grant Jerrett,False,True,placed on IL
+2015-03-27,Jazz,202330,Gordon Hayward,True,False,activated from IL
+2015-03-27,Lakers,2430,Carlos Boozer,False,True,illness / upper respiratory infection (DTD)
+2015-03-27,Magic,203473,Dewayne Dedmon,False,True,sore left ankle (DTD)
+2015-03-27,Mavericks,203939,Dwight Powell,True,False,activated from IL
+2015-03-27,Nets,201152,Thaddeus Young,False,True,strained left knee (DTD)
+2015-03-27,Rockets,202700,Donatas Motiejunas,False,True,sore lower back (out for season)
+2015-03-27,Rockets,203093,Terrence Jones,False,True,placed on IL with partially collapsed lung
+2015-03-27,Warriors,201575,Brandon Rush,False,True,placed on IL
+2015-03-27,Warriors,2733,Shaun Livingston,True,False,activated from IL
+2015-03-27,Clippers,101126,Nate Robinson,True,False,returned to lineup
+2015-03-27,Rockets,203991,Clint Capela,True,False,activated from IL
+2015-03-28,Bulls,203946,Cameron Bairstow,True,False,returned to lineup
+2015-03-28,Hawks,201143,Al Horford,False,True,rest (DTD)
+2015-03-28,Hawks,2594,Kyle Korver,False,True,rest (DTD)
+2015-03-28,Hawks,200794,Paul Millsap,False,True,rest (DTD)
+2015-03-28,Hawks,203544,Pero Antic,True,False,returned to lineup
+2015-03-28,Hornets,203077,Michael Kidd-Gilchrist,False,True,placed on IL with sprained left ankle (out for season)
+2015-03-28,Hornets,203584,Troy Daniels,True,False,activated from IL
+2015-03-28,Jazz,202324,Derrick Favors,False,True,back spasms (DTD)
+2015-03-28,Jazz,203918,Rodney Hood,True,False,activated from IL
+2015-03-28,Mavericks,101145,Monta Ellis,False,True,right calf injury (DTD)
+2015-03-28,Nuggets,201568,Danilo Gallinari,False,True,shoulder injury (DTD)
+2015-03-28,Spurs,203382,Aron Baynes,True,False,activated from IL
+2015-03-28,Warriors,2738,Andre Iguodala,False,True,placed on IL
+2015-03-28,Warriors,201575,Brandon Rush,True,False,activated from IL
+2015-03-29,76ers,2202,Jason Richardson,False,True,left knee injury (DTD)
+2015-03-29,Clippers,202327,Ekpe Udoh,False,True,placed on IL
+2015-03-29,Grizzlies,2754,Tony Allen,False,True,strained left hamstring (DTD)
+2015-03-29,Heat,203894,Shabazz Napier,False,True,hip injury / sports hernia (out for season)
+2015-03-29,Lakers,202391,Jeremy Lin,False,True,illness / upper respiratory infection (DTD)
+2015-03-29,Mavericks,101145,Monta Ellis,False,True,placed on IL with right calf injury
+2015-03-29,Pacers,203963,Shayne Whittington,False,True,placed on IL
+2015-03-29,Pacers,2561,David West,True,False,returned to lineup
+2015-03-29,Pacers,201155,Rodney Stuckey,True,False,activated from IL
+2015-03-29,Spurs,201145,Jeff Pendergraph,False,True,placed on IL
+2015-03-29,Suns,202688,Brandon Knight,True,False,returned to lineup
+2015-03-29,Timberwolves,203461,Anthony Bennett,True,False,activated from IL
+2015-03-29,Timberwolves,203133,Robbie Hummel,True,False,activated from IL
+2015-03-30,76ers,203924,Jerami Grant,False,True,illness / upper respiratory infection (DTD)
+2015-03-30,Bucks,201162,Jared Dudley,False,True,sore back (DTD)
+2015-03-30,Grizzlies,2754,Tony Allen,False,True,placed on IL with strained left hamstring
+2015-03-30,Hawks,201948,Austin Daye,False,True,placed on IL
+2015-03-30,Hawks,201143,Al Horford,True,False,returned to lineup
+2015-03-30,Hawks,201952,Jeff Teague,True,False,activated from IL
+2015-03-30,Hawks,2594,Kyle Korver,True,False,returned to lineup
+2015-03-30,Hawks,200794,Paul Millsap,True,False,returned to lineup
+2015-03-30,Rockets,2730,Dwight Howard,False,True,rest / sore right knee (DTD)
+2015-03-30,Suns,202688,Brandon Knight,False,True,placed on IL with sprained left ankle (out for season)
+2015-03-30,Suns,201977,Marcus Thornton (T.),True,False,activated from IL
+2015-03-30,Timberwolves,203476,Gorgui Dieng,False,True,concussion (out for season)
+2015-03-30,Timberwolves,708,Kevin Garnett,False,True,placed on IL with sore left knee (out for season)
+2015-03-30,Timberwolves,201593,Nikola Pekovic,False,True,placed on IL with sprained right ankle (out for season)
+2015-03-30,Grizzlies,203950,Jarnell Stokes,True,False,activated from IL
+2015-03-31,Clippers,203912,C.J. Wilcox,False,True,placed on IL
+2015-03-31,Clippers,202327,Ekpe Udoh,True,False,activated from IL
+2015-03-31,Hawks,203471,Dennis Schröder,False,True,placed on IL with toe injury
+2015-03-31,Hawks,201948,Austin Daye,True,False,activated from IL
+2015-03-31,Heat,2736,Luol Deng,False,True,bruised right knee (DTD)
+2015-03-31,Heat,203894,Shabazz Napier,False,True,placed on IL with hip injury / sports hernia (out for season)
+2015-03-31,Heat,2617,Udonis Haslem,False,True,illness (DTD)
+2015-03-31,Heat,2365,Chris Andersen,True,False,returned to lineup
+2015-03-31,Heat,202355,Hassan Whiteside,True,False,activated from IL
+2015-03-31,Nets,201152,Thaddeus Young,True,False,returned to lineup
+2015-03-31,Rockets,201976,Patrick Beverley,False,True,surgery on left wrist to repair torn ligaments (out for season)
+2015-03-31,Thunder,201142,Kevin Durant,False,True,surgery on right foot to install bone graft (out for season)
+2015-03-31,Warriors,203110,Draymond Green,False,True,placed on IL with shin injury
+2015-03-31,Warriors,2738,Andre Iguodala,True,False,activated from IL
+2015-04-01,76ers,2202,Jason Richardson,True,False,returned to lineup
+2015-04-01,76ers,203924,Jerami Grant,True,False,returned to lineup
+2015-04-01,Bucks,201162,Jared Dudley,True,False,returned to lineup
+2015-04-01,Heat,203894,Shabazz Napier,False,True,surgery to repair sports hernia (out for season)
+2015-04-01,Jazz,203918,Rodney Hood,False,True,concussion (DTD)
+2015-04-01,Jazz,202324,Derrick Favors,True,False,returned to lineup
+2015-04-01,Kings,200752,Rudy Gay,False,True,concussion (DTD)
+2015-04-01,Lakers,101179,Ronnie Price,False,True,placed on IL recovering from surgery on right elbow to remove bone spurs and chips (out for season)
+2015-04-01,Lakers,2430,Carlos Boozer,True,False,returned to lineup
+2015-04-01,Lakers,202391,Jeremy Lin,True,False,returned to lineup
+2015-04-01,Magic,203473,Dewayne Dedmon,True,False,returned to lineup
+2015-04-01,Mavericks,203939,Dwight Powell,False,True,placed on IL
+2015-04-01,Mavericks,200826,Jose Barea ,True,False,activated from IL
+2015-04-01,Mavericks,101145,Monta Ellis,True,False,activated from IL
+2015-04-01,Nuggets,201589,Darrell Arthur,False,True,placed on IL with strained right calf (out for season)
+2015-04-01,Nuggets,201581,J.J. Hickson,False,True,knee injury (DTD)
+2015-04-01,Nuggets,201568,Danilo Gallinari,True,False,returned to lineup
+2015-04-01,Pelicans,201583,Ryan Anderson,True,False,returned to lineup
+2015-04-01,Pistons,203915,Spencer Dinwiddie,False,True,sprained left ankle (out for season)
+2015-04-01,Rockets,202700,Donatas Motiejunas,False,True,placed on IL with sore lower back (out for season)
+2015-04-01,Rockets,203093,Terrence Jones,True,False,activated from IL
+2015-04-01,Spurs,202130,Reggie Williams,False,True,placed on IL
+2015-04-01,Spurs,201145,Jeff Pendergraph,True,False,activated from IL
+2015-04-01,Wizards,1718,Paul Pierce,False,True,placed on IL for rest
+2015-04-01,Wizards,2743,Kris Humphries,True,False,activated from IL
+2015-04-01,Lakers,959,Steve Nash,True,False,activated from IL
+2015-04-02,Blazers,2748,Dorell Wright,False,True,fractured left hand (out for season)
+2015-04-02,Cavaliers,201567,Kevin Love,False,True,placed on IL with sore back
+2015-04-02,Cavaliers,203925,Joe Harris,True,False,activated from IL
+2015-04-02,Heat,2736,Luol Deng,True,False,returned to lineup
+2015-04-02,Lakers,201961,Wayne Ellington,False,True,separated right shoulder (DTD)
+2015-04-02,Rockets,2730,Dwight Howard,True,False,returned to lineup
+2015-04-02,Suns,203458,Alex Len,False,True,fractured nose (out for season)
+2015-04-03,76ers,203477,Isaiah Canaan,False,True,sprained right foot (out for season)
+2015-04-03,Blazers,2748,Dorell Wright,False,True,placed on IL with fractured left hand (out for season)
+2015-04-03,Bulls,2550,Kirk Hinrich,False,True,placed on IL with hyperextended knee
+2015-04-03,Celtics,101183,Shavlik Randolph,False,True,placed on IL
+2015-04-03,Celtics,203096,Jared Sullinger,True,False,activated from IL
+2015-04-03,Kings,200752,Rudy Gay,False,True,placed on IL with concussion
+2015-04-03,Knicks,203501,Tim Hardaway Jr.,True,False,returned to lineup
+2015-04-03,Lakers,977,Kobe Bryant,False,True,placed on IL recovering from surgery on right shoulder to repair torn rotator cuff (out for season)
+2015-04-03,Magic,2557,Luke Ridnour,False,True,personal reasons (out for season)
+2015-04-03,Nuggets,201581,J.J. Hickson,True,False,returned to lineup
+2015-04-03,Timberwolves,203461,Anthony Bennett,False,True,sprained right ankle (DTD)
+2015-04-03,Timberwolves,2755,Kevin Martin,True,False,returned to lineup
+2015-04-03,Warriors,203110,Draymond Green,True,False,activated from IL
+2015-04-04,76ers,203080,Thomas Robinson,False,True,sprained left ankle (DTD)
+2015-04-04,Hawks,203118,(James) Mike Scott,True,False,activated from IL
+2015-04-04,Heat,2617,Udonis Haslem,True,False,returned to lineup
+2015-04-04,Hornets,2744,Al Jefferson,False,True,sore right knee (out for season)
+2015-04-04,Jazz,203504,Trey Burke,False,True,tightness in back (DTD)
+2015-04-04,Jazz,203918,Rodney Hood,True,False,returned to lineup
+2015-04-04,Mavericks,202718,Chandler Parsons,False,True,right knee injury (DTD)
+2015-04-04,Nets,101187,Alan Anderson,False,True,sprained left ankle (DTD)
+2015-04-04,Nuggets,201568,Danilo Gallinari,False,True,undisclosed (DTD)
+2015-04-04,Nuggets,201951,Ty Lawson,False,True,bruised right forearm (P) / hip flexor injury (DTD)
+2015-04-04,Raptors,101161,Amir Johnson,False,True,sprained right ankle (DTD)
+2015-04-04,Suns,203458,Alex Len,False,True,placed on IL with fractured nose (out for season)
+2015-04-04,Wizards,2403,Nene Hilario ,False,True,personal reasons (DTD)
+2015-04-04,Wizards,2403,Nene Hilario ,False,True,placed on IL for rest
+2015-04-04,Suns,202688,Brandon Knight,True,False,activated from IL
+2015-04-04,Hawks,201948,Austin Daye,False,True,placed on IL
+2015-04-04,Mavericks,203939,Dwight Powell,True,False,activated from IL
+2015-04-04,Suns,202688,Brandon Knight,False,True,sprained left ankle (DTD)
+2015-04-05,Cavaliers,203925,Joe Harris,False,True,placed on IL
+2015-04-05,Cavaliers,201567,Kevin Love,True,False,activated from IL
+2015-04-05,Heat,2365,Chris Andersen,False,True,bruised left foot (DTD)
+2015-04-05,Heat,202355,Hassan Whiteside,False,True,lacerated right hand (DTD)
+2015-04-05,Knicks,203921,Cleanthony Early,False,True,sprained left ankle (DTD)
+2015-04-05,Pacers,201228,C.J. Watson,False,True,placed on IL with sore right elbow (out for season)
+2015-04-05,Pacers,202331,Paul George,True,False,activated from IL
+2015-04-05,Spurs,201168,Tiago Splitter,False,True,placed on IL with sore right calf
+2015-04-05,Spurs,202130,Reggie Williams,True,False,activated from IL (out for season)
+2015-04-05,Warriors,201575,Brandon Rush,False,True,placed on IL
+2015-04-06,Blazers,2549,Chris Kaman,False,True,sprained right thumb (DTD)
+2015-04-06,Blazers,201587,Nicolas Batum,False,True,sprained lower back (DTD)
+2015-04-07,Clippers,202327,Ekpe Udoh,False,True,placed on IL
+2015-04-07,Clippers,2037,Jamal Crawford,True,False,activated from IL
+2015-04-07,Hawks,200794,Paul Millsap,False,True,placed on IL with shoulder injury
+2015-04-07,Hawks,203471,Dennis Schröder,True,False,activated from IL
+2015-04-07,Heat,201563,Michael Beasley,False,True,knee injury / illness (DTD)
+2015-04-07,Heat,2365,Chris Andersen,True,False,returned to lineup
+2015-04-07,Heat,202355,Hassan Whiteside,True,False,returned to lineup
+2015-04-07,Kings,200752,Rudy Gay,True,False,activated from IL
+2015-04-07,Suns,202688,Brandon Knight,False,True,placed on IL with sprained left ankle (out for season)
+2015-04-07,Suns,201977,Marcus Thornton (T.),True,False,returned to lineup
+2015-04-07,Thunder,203460,Andre Roberson,True,False,returned to lineup
+2015-04-07,Warriors,201575,Brandon Rush,True,False,activated from IL
+2015-04-07,Suns,203458,Alex Len,True,False,activated from IL
+2015-04-07,Suns,203458,Alex Len,False,True,fractured nose (out for season)
+2015-04-08,76ers,203080,Thomas Robinson,True,False,returned to lineup
+2015-04-08,Blazers,2549,Chris Kaman,True,False,returned to lineup
+2015-04-08,Blazers,201587,Nicolas Batum,True,False,returned to lineup
+2015-04-08,Bucks,203507,Giannis Antetokounmpo,False,True,undisclosed (DTD)
+2015-04-08,Bulls,203946,Cameron Bairstow,False,True,placed on IL
+2015-04-08,Bulls,201565,Derrick Rose,True,False,activated from IL
+2015-04-08,Bulls,2550,Kirk Hinrich,True,False,activated from IL
+2015-04-08,Hawks,203098,John Jenkins,False,True,placed on IL with illness
+2015-04-08,Hawks,200757,Thabo Sefolosha,False,True,"fractured fibula, ligament damage in leg (out for season)"
+2015-04-08,Hawks,201948,Austin Daye,True,False,activated from IL
+2015-04-08,Hornets,202362,Lance Stephenson,False,True,sprained right toe (out for season)
+2015-04-08,Jazz,203504,Trey Burke,True,False,returned to lineup
+2015-04-08,Kings,203917,Nik Stauskas,False,True,back injury (DTD)
+2015-04-08,Kings,200752,Rudy Gay,False,True,concussion (out for season)
+2015-04-08,Lakers,202391,Jeremy Lin,False,True,sore left knee (out for season)
+2015-04-08,Magic,2557,Luke Ridnour,False,True,placed on IL for personal reasons
+2015-04-08,Magic,203095,Evan Fournier,True,False,activated from IL
+2015-04-08,Nuggets,2749,Jameer Nelson,False,True,placed on IL with hip flexor injury (out for season)
+2015-04-08,Nuggets,201568,Danilo Gallinari,True,False,returned to lineup
+2015-04-08,Nuggets,201951,Ty Lawson,True,False,returned to lineup
+2015-04-08,Pacers,203142,Chris Copeland,False,True,placed on IL with abdominal injuries from stabbing (out for season)
+2015-04-08,Pistons,203915,Spencer Dinwiddie,False,True,placed on IL with sprained left ankle (out for season)
+2015-04-08,Pistons,202328,Greg Monroe,True,False,activated from IL
+2015-04-08,Raptors,101161,Amir Johnson,False,True,placed on IL with sprained right ankle
+2015-04-08,Raptors,203512,Lucas Nogueira,True,False,activated from IL
+2015-04-08,Rockets,203123,Kostas Papanikolaou,True,False,activated from IL
+2015-04-08,Spurs,201158,Marco Belinelli,False,True,placed on IL with sore left groin
+2015-04-08,Timberwolves,201593,Nikola Pekovic,False,True,surgery on right Achilles (out for season)
+2015-04-08,Wizards,202322,John Wall (Hildred),False,True,placed on IL for rest
+2015-04-08,Wizards,1718,Paul Pierce,True,False,activated from IL
+2015-04-08,Nuggets,201589,Darrell Arthur,True,False,activated from IL
+2015-04-08,Pacers,201228,C.J. Watson,True,False,activated from IL
+2015-04-08,Nuggets,201589,Darrell Arthur,False,True,strained right calf (out for season)
+2015-04-08,Nuggets,101183,Shavlik Randolph,False,True,placed on IL
+2015-04-08,Pacers,201228,C.J. Watson,False,True,sore right elbow (DTD)
+2015-04-08,Spurs,203937,Kyle Anderson,True,False,activated from IL
+2015-04-09,Bulls,202710,Jimmy Butler,False,True,placed on IL with calf injury
+2015-04-09,Bulls,203946,Cameron Bairstow,True,False,activated from IL
+2015-04-09,Heat,1630640,Bill Walker,False,True,elbow injury (DTD)
+2015-04-09,Heat,201563,Michael Beasley,True,False,returned to lineup
+2015-04-09,Rockets,202700,Donatas Motiejunas,False,True,surgery on back (out for season)
+2015-04-09,Warriors,2571,Leandro Barbosa,False,True,placed on IL with Achilles injury
+2015-04-10,76ers,203457,Nerlens Noel,False,True,sprained right ankle (out for season)
+2015-04-10,Blazers,201167,Arron Afflalo,False,True,strained right shoulder (out for season)
+2015-04-10,Bucks,203507,Giannis Antetokounmpo,True,False,returned to lineup
+2015-04-10,Cavaliers,202697,Iman Shumpert,False,True,placed on IL with sore right quadriceps
+2015-04-10,Cavaliers,202681,Kyrie Irving,False,True,sore right hip / rest (DTD)
+2015-04-10,Grizzlies,201144,Mike Conley Jr.,False,True,placed on IL with sprained foot
+2015-04-10,Grizzlies,203893,Russ Smith,True,False,activated from IL
+2015-04-10,Hawks,200757,Thabo Sefolosha,False,True,"placed on IL with fractured fibula, ligament damage in leg (out for season)"
+2015-04-10,Hawks,203098,John Jenkins,True,False,activated from IL
+2015-04-10,Jazz,203504,Trey Burke,False,True,back injury (DTD)
+2015-04-10,Jazz,203504,Trey Burke,False,True,placed on IL with back injury
+2015-04-10,Jazz,203511,Grant Jerrett,True,False,activated from IL
+2015-04-10,Kings,203917,Nik Stauskas,True,False,returned to lineup
+2015-04-10,Knicks,200745,Andrea Bargnani,False,True,illness (out for season)
+2015-04-10,Magic,2732,Ben Gordon,False,True,placed on IL
+2015-04-10,Magic,2557,Luke Ridnour,True,False,activated from IL
+2015-04-10,Mavericks,200765,Rajon Rondo,False,True,placed on IL for rest
+2015-04-10,Pelicans,203481,Jeff Withey,False,True,placed on IL
+2015-04-10,Pelicans,201950,Jrue Holiday,True,False,activated from IL
+2015-04-10,Raptors,203512,Lucas Nogueira,False,True,placed on IL
+2015-04-10,Raptors,200768,Kyle Lowry,True,False,activated from IL
+2015-04-10,Spurs,203937,Kyle Anderson,False,True,placed on IL
+2015-04-10,Spurs,201158,Marco Belinelli,True,False,activated from IL
+2015-04-10,Suns,201977,Marcus Thornton (T.),False,True,sprained left ankle (DTD)
+2015-04-10,Thunder,2555,Nick Collison,True,False,activated from IL
+2015-04-10,Wizards,2403,Nene Hilario ,True,False,activated from IL
+2015-04-10,Cavaliers,203925,Joe Harris,True,False,activated from IL
+2015-04-11,76ers,202397,Ish Smith,False,True,strained left groin (DTD)
+2015-04-11,Blazers,201167,Arron Afflalo,False,True,placed on IL with strained right shoulder (out for season)
+2015-04-11,Bulls,203946,Cameron Bairstow,False,True,placed on IL
+2015-04-11,Bulls,202710,Jimmy Butler,True,False,activated from IL
+2015-04-11,Knicks,203921,Cleanthony Early,True,False,returned to lineup
+2015-04-11,Timberwolves,203133,Robbie Hummel,False,True,back injury (DTD)
+2015-04-12,Cavaliers,2747,J.R. Smith,False,True,rest (DTD)
+2015-04-12,Cavaliers,201567,Kevin Love,False,True,placed on IL for rest
+2015-04-12,Cavaliers,202697,Iman Shumpert,True,False,activated from IL
+2015-04-12,Hawks,201143,Al Horford,False,True,rest (DTD)
+2015-04-12,Hawks,201952,Jeff Teague,False,True,rest (DTD)
+2015-04-12,Hawks,2594,Kyle Korver,False,True,rest (DTD)
+2015-04-12,Mavericks,2734,Devin Harris,False,True,placed on IL for rest
+2015-04-12,Mavericks,200765,Rajon Rondo,True,False,activated from IL
+2015-04-12,Spurs,2588,Matt Bonner,False,True,placed on IL with strained right calf
+2015-04-12,Spurs,203937,Kyle Anderson,True,False,activated from IL
+2015-04-12,Suns,201148,Brandan Wright,False,True,foot injury / sore left ankle (out for season)
+2015-04-12,Suns,203493,Reggie Bullock,False,True,concussion (out for season)
+2015-04-12,Wizards,202322,John Wall (Hildred),True,False,activated from IL
+2015-04-13,76ers,2202,Jason Richardson,False,True,sore left knee (out for season)
+2015-04-13,76ers,202397,Ish Smith,True,False,returned to lineup
+2015-04-13,Bulls,201149,Joakim Noah,False,True,sore left knee (DTD)
+2015-04-13,Bulls,2550,Kirk Hinrich,False,True,sprained left knee (DTD)
+2015-04-13,Cavaliers,2747,J.R. Smith,True,False,returned to lineup
+2015-04-13,Cavaliers,201567,Kevin Love,True,False,activated from IL
+2015-04-13,Cavaliers,202681,Kyrie Irving,True,False,returned to lineup
+2015-04-13,Hawks,203544,Pero Antic,False,True,illness (DTD)
+2015-04-13,Hawks,201143,Al Horford,True,False,returned to lineup
+2015-04-13,Hawks,201952,Jeff Teague,True,False,returned to lineup
+2015-04-13,Hawks,2594,Kyle Korver,True,False,returned to lineup
+2015-04-13,Hornets,203798,P.J. Hairston,False,True,sprained right knee (out for season)
+2015-04-13,Jazz,202324,Derrick Favors,False,True,back spasms (DTD)
+2015-04-13,Jazz,202330,Gordon Hayward,False,True,Achilles injury (out for season)
+2015-04-13,Kings,2501,Reggie Evans,False,True,sprained right thumb (out for season)
+2015-04-13,Lakers,201949,Wes Johnson,False,True,sprained left ankle (out for season)
+2015-04-13,Magic,203095,Evan Fournier,False,True,right hip injury (out for season)
+2015-04-13,Pelicans,201950,Jrue Holiday,False,True,unspecified (DTD)
+2015-04-13,Pistons,2419,Tayshaun Prince,False,True,undisclosed (out for season)
+2015-04-13,Timberwolves,2755,Kevin Martin,False,True,illness (DTD)
+2015-04-13,Timberwolves,201937,Ricky Rubio,False,True,exploratory surgery on left ankle (out for season)
+2015-04-13,Timberwolves,203133,Robbie Hummel,True,False,returned to lineup
+2015-04-13,Warriors,2571,Leandro Barbosa,True,False,returned to lineup
+2015-04-14,Clippers,203085,Austin Rivers,False,True,placed on IL
+2015-04-14,Raptors,203998,Bruno Caboclo,False,True,placed on IL
+2015-04-14,Raptors,101161,Amir Johnson,True,False,activated from IL
+2015-04-14,Suns,202694,Marcus Morris,False,True,stomach virus (out for season)
+2015-04-14,Wizards,2403,Nene Hilario ,False,True,placed on IL with shoulder injury
+2015-04-15,76ers,203128,Furkan Aldemir,False,True,plantar fasciitis in right foot (out for season)
+2015-04-15,Blazers,2549,Chris Kaman,False,True,back injury (DTD)
+2015-04-15,Blazers,201587,Nicolas Batum,False,True,sprained right knee (DTD)
+2015-04-15,Bucks,201162,Jared Dudley,False,True,back spasms (DTD)
+2015-04-15,Bucks,201573,Jerryd Bayless,False,True,sore neck (DTD)
+2015-04-15,Bulls,201149,Joakim Noah,False,True,placed on IL with sore left knee
+2015-04-15,Celtics,202340,Avery Bradley,False,True,placed on IL with quadriceps injury
+2015-04-15,Celtics,202738,Isaiah Thomas,False,True,placed on IL
+2015-04-15,Celtics,203109,Jae Crowder,False,True,sore right ankle (DTD)
+2015-04-15,Celtics,203569,Chris Babb,True,False,activated from IL
+2015-04-15,Hawks,203118,(James) Mike Scott,False,True,placed on IL with back injury
+2015-04-15,Hawks,200794,Paul Millsap,True,False,activated from IL
+2015-04-15,Hawks,203544,Pero Antic,True,False,returned to lineup
+2015-04-15,Heat,2365,Chris Andersen,False,True,undisclosed (DTD)
+2015-04-15,Heat,2548,Dwyane Wade,False,True,undisclosed (DTD)
+2015-04-15,Heat,201609,Goran Dragic,False,True,undisclosed (DTD)
+2015-04-15,Heat,202355,Hassan Whiteside,False,True,undisclosed (out for season)
+2015-04-15,Heat,2736,Luol Deng,False,True,undisclosed (DTD)
+2015-04-15,Heat,201596,Mario Chalmers,False,True,undisclosed (DTD)
+2015-04-15,Heat,1630640,Bill Walker,True,False,returned to lineup
+2015-04-15,Jazz,202330,Gordon Hayward,False,True,placed on IL with Achilles injury (out for season)
+2015-04-15,Jazz,202324,Derrick Favors,True,False,returned to lineup
+2015-04-15,Jazz,203504,Trey Burke,True,False,activated from IL
+2015-04-15,Kings,201956,Omri Casspi,False,True,illness (out for season)
+2015-04-15,Lakers,203903,Jordan Clarkson,False,True,sprained left ankle (DTD)
+2015-04-15,Mavericks,2734,Devin Harris,False,True,placed on IL with left big toe injury
+2015-04-15,Mavericks,101145,Monta Ellis,True,False,activated from IL
+2015-04-15,Nuggets,202702,Kenneth Faried,False,True,undisclosed (out for season)
+2015-04-15,Nuggets,200751,Randy Foye,False,True,undisclosed (out for season)
+2015-04-15,Pelicans,203481,Jeff Withey,False,True,placed on IL
+2015-04-15,Pelicans,201950,Jrue Holiday,True,False,returned to lineup
+2015-04-15,Raptors,101150,Lou Williams,False,True,undisclosed (DTD)
+2015-04-15,Timberwolves,201978,Chase Budinger,False,True,sprained left ankle (DTD)
+2015-04-15,Timberwolves,203461,Anthony Bennett,True,False,returned to lineup
+2015-04-15,Timberwolves,2755,Kevin Martin,True,False,returned to lineup
+2015-04-15,Warriors,101135,David Lee,False,True,placed on IL with back injury
+2015-04-15,Wizards,203078,Bradley Beal,False,True,rest (DNP)
+2015-04-15,Wizards,202322,John Wall (Hildred),False,True,rest (DTD)
+2015-04-15,Wizards,1718,Paul Pierce,False,True,rest (DTD)
+2015-04-15,Cavaliers,203925,Joe Harris,True,False,activated from IL
+2015-04-15,Celtics,203923,James Young,True,False,activated from IL
+2015-04-17,Hawks,200757,Thabo Sefolosha,False,True,surgery on right leg to repair fractured fibula and ligament damage (out for season)
+2015-04-18,Bucks,201162,Jared Dudley,True,False,returned to lineup
+2015-04-18,Bucks,201573,Jerryd Bayless,True,False,returned to lineup
+2015-04-18,Bulls,2550,Kirk Hinrich,False,True,placed on IL with sprained left knee
+2015-04-18,Bulls,201149,Joakim Noah,True,False,activated from IL
+2015-04-18,Mavericks,203939,Dwight Powell,False,True,placed on IL
+2015-04-18,Mavericks,202718,Chandler Parsons,True,False,returned to lineup
+2015-04-18,Mavericks,2734,Devin Harris,True,False,activated from IL
+2015-04-18,Suns,202688,Brandon Knight,False,True,arthroscopic surgery on left ankle (out indefinitely)
+2015-04-18,Wizards,202066,Garrett Temple,False,True,placed on IL
+2015-04-18,Wizards,202322,John Wall (Hildred),True,False,returned to lineup
+2015-04-18,Wizards,2403,Nene Hilario ,True,False,activated from IL
+2015-04-18,Warriors,203136,Ognen Kuzmic,False,True,placed on IL
+2015-04-19,Blazers,2549,Chris Kaman,True,False,returned to lineup
+2015-04-19,Blazers,201587,Nicolas Batum,True,False,returned to lineup
+2015-04-19,Cavaliers,203925,Joe Harris,False,True,placed on IL
+2015-04-19,Celtics,203569,Chris Babb,False,True,placed on IL
+2015-04-19,Celtics,203923,James Young,False,True,placed on IL (out for season)
+2015-04-19,Celtics,202340,Avery Bradley,True,False,activated from IL
+2015-04-19,Celtics,203109,Jae Crowder,True,False,returned to lineup
+2015-04-19,Clippers,202706,Jordan Hamilton,False,True,placed on IL with concussion
+2015-04-19,Grizzlies,203950,Jarnell Stokes,False,True,placed on IL (out for season)
+2015-04-19,Grizzlies,203893,Russ Smith,False,True,placed on IL
+2015-04-19,Grizzlies,201144,Mike Conley Jr.,True,False,activated from IL
+2015-04-19,Grizzlies,2754,Tony Allen,True,False,activated from IL
+2015-04-19,Hawks,201948,Austin Daye,False,True,placed on IL
+2015-04-19,Hawks,203118,(James) Mike Scott,True,False,activated from IL
+2015-04-19,Nets,203928,Cory Jefferson,False,True,undisclosed (out for season)
+2015-04-19,Nets,202721,Darius Morris,False,True,illness (out for season)
+2015-04-19,Nets,101187,Alan Anderson,True,False,returned to lineup
+2015-04-19,Spurs,203937,Kyle Anderson,False,True,placed on IL
+2015-04-19,Spurs,202130,Reggie Williams,False,True,placed on IL
+2015-04-19,Spurs,2588,Matt Bonner,True,False,activated from IL
+2015-04-19,Spurs,201168,Tiago Splitter,True,False,activated from IL
+2015-04-20,Pelicans,201950,Jrue Holiday,False,True,stress reaction in lower right leg (DTD)
+2015-04-21,Mavericks,202718,Chandler Parsons,False,True,placed on IL with sprained right knee (out for season)
+2015-04-21,Mavericks,2734,Devin Harris,False,True,placed on IL with left big toe injury (out for season)
+2015-04-21,Mavericks,203939,Dwight Powell,True,False,activated from IL
+2015-04-22,Blazers,2549,Chris Kaman,False,True,left ankle injury (DTD)
+2015-04-22,Hornets,203469,Cody Zeller,False,True,surgery on right shoulder to repair torn tendon (out indefinitely)
+2015-04-22,Mavericks,200765,Rajon Rondo,False,True,back injury (out for season)
+2015-04-22,Nets,201947,Earl Clark,False,True,placed on IL
+2015-04-22,Nets,203141,Mirza Teletovic,True,False,activated from IL
+2015-04-23,Bulls,202703,Nikola Mirotic,False,True,placed on IL with strained left knee/quadriceps
+2015-04-23,Bulls,2550,Kirk Hinrich,True,False,activated from IL
+2015-04-23,Pelicans,201950,Jrue Holiday,True,False,returned to lineup
+2015-04-23,Warriors,101135,David Lee,True,False,activated from IL
+2015-04-24,Mavericks,200765,Rajon Rondo,False,True,placed on IL with sore back (out for season)
+2015-04-24,Mavericks,2734,Devin Harris,True,False,activated from IL
+2015-04-25,Blazers,201167,Arron Afflalo,True,False,activated from IL
+2015-04-25,Blazers,2549,Chris Kaman,True,False,returned to lineup
+2015-04-25,Bulls,203946,Cameron Bairstow,False,True,placed on IL
+2015-04-25,Bulls,202703,Nikola Mirotic,True,False,activated from IL
+2015-04-25,Grizzlies,2757,Beno Udrih,False,True,placed on IL with sprained right ankle
+2015-04-25,Grizzlies,203893,Russ Smith,True,False,activated from IL
+2015-04-25,Nets,203928,Cory Jefferson,False,True,placed on IL (out for season)
+2015-04-25,Nets,201947,Earl Clark,True,False,activated from IL
+2015-04-26,Mavericks,203108,Bernard James,False,True,illness (out for season)
+2015-04-27,Blazers,2549,Chris Kaman,False,True,sprained left ankle (out for season)
+2015-04-27,Cavaliers,201567,Kevin Love,False,True,separated left shoulder (out for season)
+2015-04-27,Grizzlies,201144,Mike Conley Jr.,False,True,placed on IL recovering from surgery to repair facial fracture near left eye
+2015-04-27,Grizzlies,2757,Beno Udrih,True,False,activated from IL
+2015-04-28,Mavericks,2210,Richard Jefferson,False,True,back injury (out for season)
+2015-04-29,Cavaliers,201567,Kevin Love,False,True,surgery on left shoulder to repair separation (out for season)
+2015-05-01,Mavericks,202718,Chandler Parsons,False,True,arthroscopic surgery on right knee to repair cartilage damage (out for season)
+2015-05-03,Warriors,201575,Brandon Rush,False,True,placed on IL
+2015-05-03,Warriors,203136,Ognen Kuzmic,False,True,ankle injury (out for season)
+2015-05-03,Wizards,101198,Will Bynum,False,True,placed on IL
+2015-05-03,Wizards,202066,Garrett Temple,True,False,activated from IL
+2015-05-04,Cavaliers,201567,Kevin Love,False,True,placed on IL recoveruing from surgery on left shoulder to repair separation (out for season)
+2015-05-04,Cavaliers,203925,Joe Harris,True,False,activated from IL
+2015-05-04,Clippers,101108,Chris Paul,False,True,strained hamstring (DTD)
+2015-05-04,Clippers,101108,Chris Paul,False,True,placed on IL with strained hamstring
+2015-05-04,Clippers,202706,Jordan Hamilton,True,False,activated from IL
+2015-05-05,Grizzlies,203893,Russ Smith,False,True,placed on IL
+2015-05-05,Grizzlies,201144,Mike Conley Jr.,True,False,activated from IL
+2015-05-05,Wizards,202322,John Wall (Hildred),False,True,placed on IL with fractured left hand/wrist
+2015-05-05,Wizards,101198,Will Bynum,True,False,activated from IL
+2015-05-06,Pelicans,201950,Jrue Holiday,False,True,surgery on lower right leg to remove screw (DTD)
+2015-05-06,Pelicans,202347,Quincy Pondexter,False,True,arthroscopic surgery on left knee (out indefinitely)
+2015-05-08,Bulls,201149,Joakim Noah,False,True,fined $25K by NBA for pushing fan while walking to locker room
+2015-05-08,Clippers,202706,Jordan Hamilton,False,True,placed on IL with concussion (out for season)
+2015-05-08,Clippers,2440,Matt Barnes,False,True,"fined $50,000 by NBA for using inappropriate language during game"
+2015-05-08,Clippers,101108,Chris Paul,True,False,activated from IL
+2015-05-10,Bulls,2200,Pau Gasol,False,True,placed on IL with strained left hamstring
+2015-05-10,Bulls,203946,Cameron Bairstow,True,False,activated from IL
+2015-05-11,Warriors,201578,Marreese Speights,False,True,placed on IL with strained right calf
+2015-05-11,Warriors,201575,Brandon Rush,True,False,activated from IL
+2015-05-13,Grizzlies,2754,Tony Allen,False,True,placed on IL with strained hamstring
+2015-05-13,Grizzlies,203893,Russ Smith,True,False,activated from IL
+2015-05-13,Wizards,101110,Martell Webster,False,True,placed on IL (out for season)
+2015-05-13,Wizards,202322,John Wall (Hildred),True,False,activated from IL
+2015-05-14,Bulls,203946,Cameron Bairstow,False,True,placed on IL (out for season)
+2015-05-14,Bulls,2200,Pau Gasol,True,False,activated from IL
+2015-05-15,Grizzlies,203893,Russ Smith,False,True,placed on IL
+2015-05-15,Grizzlies,2754,Tony Allen,True,False,activated from IL
+2015-05-22,Cavaliers,202681,Kyrie Irving,False,True,left knee tendinitis (DTD)
+2015-05-23,Hawks,2594,Kyle Korver,False,True,sprained right ankle (out for season)
+2015-05-23,Raptors,203082,Terrence Ross,False,True,surgery on left ankle to remove bone spurs (out indefinitely)
+2015-05-24,Hawks,2594,Kyle Korver,False,True,placed on IL with sprained right ankle (out for season)
+2015-05-24,Hawks,201948,Austin Daye,True,False,activated from IL
+2015-05-26,Cavaliers,202681,Kyrie Irving,True,False,returned to lineup
+2015-05-27,Hawks,2594,Kyle Korver,False,True,surgery on right ankle to repair ligament damage (out indefinitely)
+2015-05-28,Hawks,202714,Shelvin Mack,False,True,separated right shoulder (out for season)
+2015-06-02,Kings,201171,Carl Landry,False,True,surgery on right wrist to repair torn ligament
+2015-06-04,Hawks,202714,Shelvin Mack,False,True,surgery to repair separated right shoulder (out for season)
+2015-06-04,Warriors,201575,Brandon Rush,False,True,placed on IL
+2015-06-04,Warriors,201578,Marreese Speights,True,False,activated from IL
+2015-06-05,Cavaliers,202681,Kyrie Irving,False,True,fractured left kneecap (out for season)
+2015-06-06,Cavaliers,202681,Kyrie Irving,False,True,surgery on left knee to repair fractured kneecap (out indefinitely)
+2015-06-16,Bulls,201959,Taj Gibson,False,True,surgery on left ankle (out for season)
+2015-06-23,Heat,201609,Goran Dragic,False,True,player declined contract option
+2015-06-30,Hawks,2594,Kyle Korver,False,True,surgery on right elbow to remove loose bodies (out indefinitely)
