@@ -837,6 +837,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-28,Mavericks,1629029,Luka Doncic,False,True,placed on IL with bruised left quadriceps
 2023-12-28,Pelicans,1626204,Larry Nance Jr.,True,False,activated from IL
 2023-12-28,Pistons,1630165,Killian Hayes,True,False,returned to lineup
+2023-12-29,Suns,1629006,Josh Okogie,False,True,sprained right ankle (DTD)
+2023-12-30,Knicks,1629656,Quentin Grimes,False,True,illness (DTD)
 2023-12-29,76ers,239,K.J. Martin,False,True,placed on IL with illness
 2023-12-29,Cavaliers,1628378,Donovan Mitchell,True,False,activated from IL
 2023-12-29,Cavaliers,1630241,Sam Merrill,True,False,returned to lineup
@@ -850,7 +852,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-29,Nets,1629661,Cameron Johnson,True,False,activated from IL
 2023-12-29,Nets,1627827,Dorian Finney-Smith,True,False,activated from IL
 2023-12-29,Nets,1629651,Nic Claxton,True,False,activated from IL
-2023-12-29,Suns,1629006,Josh Okogie,False,True,sprained right ankle (DTD)
+2023-12-29,Suns,1629006,Josh Okogie,False,True,placed on IL with sprained right ankle
 2023-12-29,Suns,1629642,Nassir Little,False,True,sore left knee (DTD)
 2023-12-29,Suns,203078,Bradley Beal,True,False,activated from IL
 2023-12-29,Wizards,201568,Danilo Gallinari,False,True,lower back spasms (DTD)
@@ -861,9 +863,24 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-30,Celtics,1628369,Jayson Tatum,True,False,returned to lineup
 2023-12-30,Celtics,204001,Kristaps Porzingis,True,False,activated from IL
 2023-12-30,Heat,202710,Jimmy Butler,True,False,activated from IL
-2023-12-30,Knicks,1629656,Quentin Grimes,False,True,illness (DTD)
+2023-12-30,Knicks,1629656,Quentin Grimes,False,True,placed on IL with illness
 2023-12-30,Knicks,1630579,Jericho Sims,True,False,activated from IL
 2023-12-30,Lakers,1629629,Cam Reddish,True,False,activated from IL
 2023-12-30,Mavericks,203552,Seth Curry,False,True,illness (DTD)
 2023-12-30,Mavericks,1629029,Luka Doncic,True,False,activated from IL
 2023-12-30,Spurs,1628380,Zach Collins,False,True,sprained right ankle (out indefinitely)
+2023-12-31,Celtics,201950,Jrue Holiday,False,True,sprained right elbow (DTD)
+2023-12-31,Grizzlies,201565,Derrick Rose,True,False,activated from IL
+2023-12-31,Grizzlies,1629723,John Konchar,True,False,returned to lineup
+2023-12-31,Grizzlies,1628379,Luke Kennard,True,False,activated from IL
+2023-12-31,Hawks,1630168,Onyeka Okongwu,False,True,illness (DTD)
+2023-12-31,Heat,202710,Jimmy Butler,False,True,right foot injury (DTD)
+2023-12-31,Knicks,1630201,Malachi Flynn,False,True,sprained right ankle (DTD)
+2023-12-31,Knicks,1629656,Quentin Grimes,True,False,activated from IL
+2023-12-31,Lakers,1629629,Cam Reddish,False,True,left groin injury (DTD)
+2023-12-31,Lakers,1626156,D'Angelo Russell,False,True,bruised tailbone (DTD)
+2023-12-31,Magic,203914,Gary Harris,True,False,activated from IL
+2023-12-31,Magic,1628976,Wendell Carter Jr.,True,False,returned to lineup
+2023-12-31,Spurs,1629640,Keldon Johnson,False,True,back spasms (DTD)
+2023-12-31,Spurs,1628984,Devonte' Graham,True,False,activated from IL
+2023-12-31,Suns,1629006,Josh Okogie,True,False,activated from IL
