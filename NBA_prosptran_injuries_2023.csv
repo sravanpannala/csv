@@ -871,11 +871,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-30,Mavericks,203552,Seth Curry,False,True,illness (DTD)
 2023-12-30,Mavericks,1629029,Luka Doncic,True,False,activated from IL
 2023-12-30,Spurs,1628380,Zach Collins,False,True,sprained right ankle (out indefinitely)
+2023-12-31,Hawks,1630168,Onyeka Okongwu,False,True,illness (DTD)
+2023-12-31,Spurs,1629640,Keldon Johnson,False,True,back spasms (DTD)
+2024-01-01,Hornets,1626179,Terry Rozier,False,True,illness (DTD)
 2023-12-31,Celtics,201950,Jrue Holiday,False,True,placed on IL with sprained right elbow
 2023-12-31,Grizzlies,201565,Derrick Rose,True,False,activated from IL
 2023-12-31,Grizzlies,1629723,John Konchar,True,False,returned to lineup
 2023-12-31,Grizzlies,1628379,Luke Kennard,True,False,activated from IL
-2023-12-31,Hawks,1630168,Onyeka Okongwu,False,True,illness (DTD)
+2023-12-31,Hawks,1630168,Onyeka Okongwu,False,True,placed on IL with illness
 2023-12-31,Heat,202710,Jimmy Butler,False,True,right foot injury (DTD)
 2023-12-31,Knicks,1630201,Malachi Flynn,False,True,sprained right ankle (DTD)
 2023-12-31,Knicks,1629656,Quentin Grimes,True,False,activated from IL
@@ -883,7 +886,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2023-12-31,Lakers,1626156,D'Angelo Russell,False,True,bruised tailbone (DTD)
 2023-12-31,Magic,203914,Gary Harris,True,False,activated from IL
 2023-12-31,Magic,1628976,Wendell Carter Jr.,True,False,returned to lineup
-2023-12-31,Spurs,1629640,Keldon Johnson,False,True,back spasms (DTD)
+2023-12-31,Spurs,1629640,Keldon Johnson,False,True,placed on IL with back spasms
 2023-12-31,Spurs,1628984,Devonte' Graham,True,False,activated from IL
 2023-12-31,Suns,1629006,Josh Okogie,True,False,activated from IL
 2024-01-01,,1631095,Jabari Smith Jr.,True,False,activated from IL
@@ -897,10 +900,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-01,Clippers,203486,Mason Plumlee,True,False,activated from IL
 2024-01-01,Heat,1629312,Haywood Highsmith,False,True,concussion protocols (DTD)
 2024-01-01,Heat,200768,Kyle Lowry,True,False,activated from IL
-2024-01-01,Hornets,1626179,Terry Rozier,False,True,illness (DTD)
+2024-01-01,Hornets,1626179,Terry Rozier,False,True,placed on IL with illness
 2024-01-01,Mavericks,202681,Kyrie Irving,True,False,activated from IL
 2024-01-01,Mavericks,203552,Seth Curry,True,False,returned to lineup
 2024-01-01,Nuggets,203932,Aaron Gordon,True,False,activated from IL
 2024-01-01,Raptors,202066,Garrett Temple,True,False,activated from IL
 2024-01-01,Suns,201142,Kevin Durant,False,True,right hamstring injury (DTD)
 2024-01-01,Suns,1629642,Nassir Little,True,False,activated from IL
+2024-01-02,76ers,1627788,Furkan Korkmaz,False,True,illness (DTD)
+2024-01-02,76ers,203496,Robert Covington,False,True,right knee injury (DTD)
+2024-01-02,Bucks,920,A.J. Green,False,True,nasal fracture (out indefinitely)
+2024-01-02,Hawks,1630168,Onyeka Okongwu,True,False,activated from IL
+2024-01-02,Hornets,1641706,Brandon Miller,False,True,bruised left hip (DTD)
+2024-01-02,Hornets,1626179,Terry Rozier,True,False,activated from IL
+2024-01-02,Lakers,1629060,Rui Hachimura,False,True,strained left calf (DTD)
+2024-01-02,Spurs,1629640,Keldon Johnson,True,False,activated from IL
