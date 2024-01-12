@@ -980,13 +980,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-06,76ers,203496,Robert Covington,True,False,activated from IL
 2024-01-06,76ers,203496,Robert Covington,False,True,illness (DTD)
 2024-01-07,Blazers,1629680,Matisse Thybulle,False,True,sprained right foot (DTD)
+2024-01-07,Kings,1626168,Trey Lyles,False,True,sprained right ankle (DTD)
+2024-01-07,Warriors,1630611,Gui Santos,False,True,sprained left ankle (DTD)
+2024-01-08,Celtics,1628369,Jayson Tatum,False,True,sprained left ankle (DTD)
+2024-01-08,Heat,1630181,R.J. Hampton,False,True,illness (DTD)
+2024-01-07,Blazers,1629680,Matisse Thybulle,False,True,placed on IL with sprained right foot
 2024-01-07,Bucks,1626166,Cameron Payne,False,True,concussion protocol (DTD)
 2024-01-07,Bucks,203081,Damian Lillard,False,True,personal reasons (DTD)
 2024-01-07,Grizzlies,1629630,Ja Morant,False,True,sore right shoulder (out for season)
 2024-01-07,Grizzlies,1631246,Vince Williams Jr.,True,False,activated from IL
 2024-01-07,Heat,1629312,Haywood Highsmith,True,False,activated from IL
 2024-01-07,Hornets,1629023,P.J. Washington,False,True,sprained right foot (DTD)
-2024-01-07,Kings,1626168,Trey Lyles,False,True,sprained right ankle (DTD)
+2024-01-07,Kings,1626168,Trey Lyles,False,True,placed on IL with sprained right ankle
 2024-01-07,Lakers,1626156,D'Angelo Russell,True,False,activated from IL
 2024-01-07,Magic,1629048,Goga Bitadze,True,False,returned to lineup
 2024-01-07,Magic,1628365,Markelle Fultz,True,False,activated from IL
@@ -998,14 +1003,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-07,Raptors,1629018,Gary Trent Jr.,True,False,returned to lineup
 2024-01-07,Spurs,1631103,Malaki Branham,True,False,returned to lineup
 2024-01-07,Suns,201142,Kevin Durant,True,False,activated from IL
-2024-01-07,Warriors,1630611,Gui Santos,False,True,sprained left ankle (DTD)
+2024-01-07,Warriors,1630611,Gui Santos,False,True,placed on IL with sprained left ankle
 2024-01-08,Bulls,1627936,Alex Caruso,True,False,returned to lineup
 2024-01-08,Bulls,1641931,Onuralp Bitim,True,False,activated from IL
 2024-01-08,Bulls,1630172,Patrick Williams,True,False,activated from IL
-2024-01-08,Celtics,1628369,Jayson Tatum,False,True,sprained left ankle (DTD)
+2024-01-08,Celtics,1628369,Jayson Tatum,False,True,placed on IL with sprained left ankle
 2024-01-08,Celtics,1630573,Sam Hauser,False,True,right shoulder impingement (DTD)
 2024-01-08,Grizzlies,1629630,Ja Morant,False,True,surgery on shoulder to repair labrum (out for season)
-2024-01-08,Heat,1630181,R.J. Hampton,False,True,illness (DTD)
+2024-01-08,Heat,1630181,R.J. Hampton,False,True,placed on IL with illness
 2024-01-08,Hornets,1628998,Cody Martin,False,True,strained groin (DTD)
 2024-01-08,Pacers,1629614,Andrew Nembhard,True,False,activated from IL
 2024-01-08,Pacers,1628971,Bruce Brown,True,False,activated from IL
@@ -1015,3 +1020,16 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-08,Suns,201569,Eric Gordon,True,False,activated from IL
 2024-01-08,Thunder,202722,Davis Bertans,False,True,illness (DTD)
 2024-01-08,Wizards,1629013,Landry Shamet,True,False,activated from IL
+2024-01-09,76ers,1627788,Furkan Korkmaz,True,False,activated from IL
+2024-01-09,76ers,202699,Tobias Harris,True,False,activated from IL
+2024-01-09,Blazers,1629680,Matisse Thybulle,True,False,activated from IL
+2024-01-09,Celtics,1628369,Jayson Tatum,True,False,activated from IL
+2024-01-09,Grizzlies,1628991,Jaren Jackson Jr.,False,True,bruised right knee (DTD)
+2024-01-09,Grizzlies,1630583,Santi Aldama,False,True,bruised left knee (DTD)
+2024-01-09,Hawks,1629726,Garrison Mathews,False,True,sprained left ankle (out indefinitely)
+2024-01-09,Heat,1630181,R.J. Hampton,True,False,activated from IL
+2024-01-09,Kings,1626168,Trey Lyles,True,False,activated from IL
+2024-01-09,Magic,1629678,Admiral Schofield,False,True,illness (DTD)
+2024-01-09,Nets,1630549,Day'Ron Sharpe,False,True,left knee injury (DTD)
+2024-01-09,Pacers,1630169,Tyrese Haliburton,False,True,strained left hamstring (DTD)
+2024-01-09,Warriors,1630611,Gui Santos,True,False,activated from IL
