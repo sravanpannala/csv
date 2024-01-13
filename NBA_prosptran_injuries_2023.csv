@@ -1004,11 +1004,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-07,Spurs,1631103,Malaki Branham,True,False,returned to lineup
 2024-01-07,Suns,201142,Kevin Durant,True,False,activated from IL
 2024-01-07,Warriors,1630611,Gui Santos,False,True,placed on IL with sprained left ankle
+2024-01-08,Celtics,1630573,Sam Hauser,False,True,right shoulder impingement (DTD)
+2024-01-08,Suns,1628962,Udoka Azubuike,False,True,illness (DTD)
 2024-01-08,Bulls,1627936,Alex Caruso,True,False,returned to lineup
 2024-01-08,Bulls,1641931,Onuralp Bitim,True,False,activated from IL
 2024-01-08,Bulls,1630172,Patrick Williams,True,False,activated from IL
 2024-01-08,Celtics,1628369,Jayson Tatum,False,True,placed on IL with sprained left ankle
-2024-01-08,Celtics,1630573,Sam Hauser,False,True,right shoulder impingement (DTD)
+2024-01-08,Celtics,1630573,Sam Hauser,False,True,placed on IL with right shoulder impingement
 2024-01-08,Grizzlies,1629630,Ja Morant,False,True,surgery on shoulder to repair labrum (out for season)
 2024-01-08,Heat,1630181,R.J. Hampton,False,True,placed on IL with illness
 2024-01-08,Hornets,1628998,Cody Martin,False,True,strained groin (DTD)
@@ -1016,7 +1018,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-08,Pacers,1628971,Bruce Brown,True,False,activated from IL
 2024-01-08,Pistons,1630595,Cade Cunningham,False,True,strained left knee (DTD)
 2024-01-08,Raptors,1627751,Jakob Poeltl,False,True,sprained left ankle (out indefinitely)
-2024-01-08,Suns,1628962,Udoka Azubuike,False,True,illness (DTD)
+2024-01-08,Suns,1628962,Udoka Azubuike,False,True,placed on IL with illness
 2024-01-08,Suns,201569,Eric Gordon,True,False,activated from IL
 2024-01-08,Thunder,202722,Davis Bertans,False,True,illness (DTD)
 2024-01-08,Wizards,1629013,Landry Shamet,True,False,activated from IL
@@ -1033,3 +1035,23 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-09,Nets,1630549,Day'Ron Sharpe,False,True,left knee injury (DTD)
 2024-01-09,Pacers,1630169,Tyrese Haliburton,False,True,strained left hamstring (DTD)
 2024-01-09,Warriors,1630611,Gui Santos,True,False,activated from IL
+2024-01-10,76ers,1629001,De'Anthony Melton,True,False,activated from IL
+2024-01-10,Bucks,203081,Damian Lillard,True,False,activated from IL
+2024-01-10,Celtics,204001,Kristaps Porzingis,False,True,bruised right knee (DTD)
+2024-01-10,Celtics,1630573,Sam Hauser,True,False,activated from IL
+2024-01-10,Hawks,203991,Clint Capela,False,True,sore right Achilles (DTD)
+2024-01-10,Hawks,202083,Wes Matthews Jr.,False,True,sore right calf (DTD)
+2024-01-10,Heat,200768,Kyle Lowry,False,True,sprained left hand (DTD)
+2024-01-10,Mavericks,1629029,Luka Doncic,False,True,sprained right ankle (DTD)
+2024-01-10,Pacers,1630188,Jalen Smith,False,True,sore lower back (DTD)
+2024-01-10,Pacers,1641716,Jarace Walker,False,True,respiratory infection (DTD)
+2024-01-10,Pelicans,1630631,Jose Alvarado,True,False,activated from IL
+2024-01-10,Pelicans,1629627,Zion Williamson,True,False,activated from IL
+2024-01-10,Raptors,1627783,Pascal Siakam,False,True,back spasms (DTD)
+2024-01-10,Spurs,1631321,Sidy Cissoko,False,True,sprained left ankle (DTD)
+2024-01-10,Suns,1629626,Bol Bol,True,False,activated from IL
+2024-01-10,Suns,1629642,Nassir Little,True,False,activated from IL
+2024-01-10,Suns,1628962,Udoka Azubuike,True,False,activated from IL
+2024-01-10,Thunder,1630846,Olivier Sarr,False,True,illness (DTD)
+2024-01-10,Timberwolves,203497,Rudy Gobert,False,True,sore left hip (DTD)
+2024-01-10,Wizards,1629013,Landry Shamet,False,True,personal reasons (DTD)
