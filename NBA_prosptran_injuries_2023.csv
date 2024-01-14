@@ -1022,13 +1022,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-08,Suns,201569,Eric Gordon,True,False,activated from IL
 2024-01-08,Thunder,202722,Davis Bertans,False,True,illness (DTD)
 2024-01-08,Wizards,1629013,Landry Shamet,True,False,activated from IL
+2024-01-09,Grizzlies,1628991,Jaren Jackson Jr.,False,True,bruised right knee (DTD)
+2024-01-09,Hawks,1629726,Garrison Mathews,False,True,sprained left ankle (out indefinitely)
+2024-01-10,Celtics,204001,Kristaps Porzingis,False,True,bruised right knee (DTD)
+2024-01-10,Hawks,203991,Clint Capela,False,True,sore right Achilles (DTD)
+2024-01-10,Thunder,1630846,Olivier Sarr,False,True,illness (DTD)
+2024-01-10,Timberwolves,203497,Rudy Gobert,False,True,sore left hip (DTD)
 2024-01-09,76ers,1627788,Furkan Korkmaz,True,False,activated from IL
 2024-01-09,76ers,202699,Tobias Harris,True,False,activated from IL
 2024-01-09,Blazers,1629680,Matisse Thybulle,True,False,activated from IL
 2024-01-09,Celtics,1628369,Jayson Tatum,True,False,activated from IL
-2024-01-09,Grizzlies,1628991,Jaren Jackson Jr.,False,True,bruised right knee (DTD)
+2024-01-09,Grizzlies,1628991,Jaren Jackson Jr.,False,True,placed on IL with bruised right knee
 2024-01-09,Grizzlies,1630583,Santi Aldama,False,True,bruised left knee (DTD)
-2024-01-09,Hawks,1629726,Garrison Mathews,False,True,sprained left ankle (out indefinitely)
+2024-01-09,Hawks,1629726,Garrison Mathews,False,True,placed on IL with sprained left ankle
 2024-01-09,Heat,1630181,R.J. Hampton,True,False,activated from IL
 2024-01-09,Kings,1626168,Trey Lyles,True,False,activated from IL
 2024-01-09,Magic,1629678,Admiral Schofield,False,True,illness (DTD)
@@ -1037,9 +1043,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-09,Warriors,1630611,Gui Santos,True,False,activated from IL
 2024-01-10,76ers,1629001,De'Anthony Melton,True,False,activated from IL
 2024-01-10,Bucks,203081,Damian Lillard,True,False,activated from IL
-2024-01-10,Celtics,204001,Kristaps Porzingis,False,True,bruised right knee (DTD)
+2024-01-10,Celtics,204001,Kristaps Porzingis,False,True,placed on IL with bruised right knee
 2024-01-10,Celtics,1630573,Sam Hauser,True,False,activated from IL
-2024-01-10,Hawks,203991,Clint Capela,False,True,sore right Achilles (DTD)
+2024-01-10,Hawks,203991,Clint Capela,False,True,placed on IL with sore right Achilles
 2024-01-10,Hawks,202083,Wes Matthews Jr.,False,True,sore right calf (DTD)
 2024-01-10,Heat,200768,Kyle Lowry,False,True,sprained left hand (DTD)
 2024-01-10,Mavericks,1629029,Luka Doncic,False,True,sprained right ankle (DTD)
@@ -1052,6 +1058,32 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-10,Suns,1629626,Bol Bol,True,False,activated from IL
 2024-01-10,Suns,1629642,Nassir Little,True,False,activated from IL
 2024-01-10,Suns,1628962,Udoka Azubuike,True,False,activated from IL
-2024-01-10,Thunder,1630846,Olivier Sarr,False,True,illness (DTD)
-2024-01-10,Timberwolves,203497,Rudy Gobert,False,True,sore left hip (DTD)
+2024-01-10,Thunder,1630846,Olivier Sarr,False,True,placed on IL with illness
+2024-01-10,Timberwolves,203497,Rudy Gobert,False,True,placed on IL with sore left hip
 2024-01-10,Wizards,1629013,Landry Shamet,False,True,personal reasons (DTD)
+2024-01-11,Bucks,1626166,Cameron Payne,True,False,activated from IL
+2024-01-11,Celtics,201143,Al Horford,False,True,illness (DTD)
+2024-01-11,Celtics,204001,Kristaps Porzingis,True,False,activated from IL
+2024-01-11,Grizzlies,203935,Marcus Smart,False,True,finger injury (out indefinitely)
+2024-01-11,Grizzlies,1628991,Jaren Jackson Jr.,True,False,activated from IL
+2024-01-11,Lakers,1626174,Christian Wood,False,True,migraine headache (DTD)
+2024-01-11,Lakers,1641721,Maxwell Lewis,False,True,sore left knee (DTD)
+2024-01-11,Magic,204060,Joe Ingles,True,False,activated from IL
+2024-01-11,Suns,1629234,Drew Eubanks,False,True,illness (DTD)
+2024-01-11,Thunder,202722,Davis Bertans,True,False,activated from IL
+2024-01-11,Thunder,1630846,Olivier Sarr,True,False,activated from IL
+2024-01-11,Warriors,1630541,Moses Moody,False,True,strained left calf (out indefinitely)
+2024-01-12,76ers,1626162,Kelly Oubre Jr.,False,True,right big toe injury (DTD)
+2024-01-12,76ers,1631254,Kenneth Lofton Jr.,False,True,sprained left shoulder (DTD)
+2024-01-12,Blazers,1631101,Shaedon Sharpe,False,True,strained right adductor (DTD)
+2024-01-12,Blazers,1631133,Jabari Walker,True,False,activated from IL
+2024-01-12,Hawks,203991,Clint Capela,True,False,activated from IL
+2024-01-12,Hawks,1629726,Garrison Mathews,True,False,activated from IL
+2024-01-12,Heat,1629639,Tyler Herro,False,True,strained right shoulder (DTD)
+2024-01-12,Heat,1628997,Caleb Martin,True,False,activated from IL
+2024-01-12,Kings,1628989,Kevin Huerter,False,True,sprained left ankle (DTD)
+2024-01-12,Pacers,1630188,Jalen Smith,True,False,returned to lineup
+2024-01-12,Pistons,202711,Bojan Bogdanovic,False,True,sore left calf (DTD)
+2024-01-12,Pistons,1630191,Isaiah Stewart,True,False,activated from IL
+2024-01-12,Raptors,1627783,Pascal Siakam,True,False,returned to lineup
+2024-01-12,Timberwolves,203497,Rudy Gobert,True,False,activated from IL
