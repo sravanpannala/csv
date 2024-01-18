@@ -1115,13 +1115,17 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-13,Suns,1629234,Drew Eubanks,True,False,activated from IL
 2024-01-13,Wizards,1631098,Johnny Davis (Christian),False,True,placed on IL with illness
 2024-01-13,Wizards,1629013,Landry Shamet,True,False,activated from IL
+2024-01-14,Bucks,1641753,Chris Livingston,False,True,illness (DTD)
+2024-01-14,Bucks,203114,Khris Middleton,False,True,right knee injury (DTD)
+2024-01-15,Celtics,1627759,Jaylen Brown,False,True,hyperextended right knee (DTD)
 2024-01-14,76ers,1629001,De'Anthony Melton,False,True,lumbar spine injury (DTD)
 2024-01-14,76ers,1626162,Kelly Oubre Jr.,True,False,returned to lineup
 2024-01-14,Blazers,1630641,Ibou Badji,False,True,bruised right hip (DTD)
+2024-01-14,Blazers,203924,Jerami Grant,False,True,illness (DTD)
 2024-01-14,Blazers,1627763,Malcolm Brogdon,False,True,groin injury (DTD)
 2024-01-14,Blazers,1629680,Matisse Thybulle,False,True,illness (DTD)
-2024-01-14,Bucks,1641753,Chris Livingston,False,True,illness (DTD)
-2024-01-14,Bucks,203114,Khris Middleton,False,True,right knee injury (DTD)
+2024-01-14,Bucks,1641753,Chris Livingston,False,True,placed on IL with illness
+2024-01-14,Bucks,203114,Khris Middleton,False,True,placed on IL with right knee injury
 2024-01-14,Bulls,1641763,Julian Phillips,False,True,fibula injury (DTD)
 2024-01-14,Clippers,1627826,Ivica Zubac,False,True,right calf injury (DTD)
 2024-01-14,Heat,201567,Kevin Love,False,True,knee injury (DTD)
@@ -1139,7 +1143,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-15,76ers,1630531,Jaden Springer,False,True,right ankle tendinitis (DTD)
 2024-01-15,76ers,1628964,Mo Bamba,False,True,right knee injury (DTD)
 2024-01-15,76ers,203954,Joel Embiid,True,False,activated from IL
-2024-01-15,Celtics,1627759,Jaylen Brown,False,True,hyperextended right knee (DTD)
+2024-01-15,Celtics,1627759,Jaylen Brown,False,True,placed on IL with hyperextended right knee
 2024-01-15,Grizzlies,1628991,Jaren Jackson Jr.,True,False,returned to lineup
 2024-01-15,Grizzlies,1630583,Santi Aldama,True,False,returned to lineup
 2024-01-15,Heat,1631170,Jaime Jaquez Jr.,False,True,strained groin (DTD)
@@ -1152,3 +1156,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-15,Raptors,1629018,Gary Trent Jr.,False,True,illness (DTD)
 2024-01-15,Raptors,1641711,Gradey Dick,False,True,sprained right thumb (DTD)
 2024-01-15,Wizards,1631098,Johnny Davis (Christian),True,False,activated from IL
+2024-01-16,76ers,1627863,Danuel House Jr.,False,True,lumbar spine injury (DTD)
+2024-01-16,Blazers,203924,Jerami Grant,True,False,returned to lineup
+2024-01-16,Blazers,1629680,Matisse Thybulle,True,False,returned to lineup
+2024-01-16,Bucks,1641753,Chris Livingston,True,False,activated from IL
+2024-01-16,Bucks,203109,Jae Crowder,True,False,activated from IL
+2024-01-16,Bucks,203114,Khris Middleton,True,False,activated from IL
+2024-01-16,Celtics,1627759,Jaylen Brown,True,False,activated from IL
+2024-01-16,Suns,1629139,Yuta Watanabe,False,True,illness (DTD)
