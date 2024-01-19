@@ -1140,6 +1140,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-14,Magic,1628365,Markelle Fultz,True,False,activated from IL
 2024-01-14,Pacers,1641716,Jarace Walker,True,False,activated from IL
 2024-01-14,Suns,1629626,Bol Bol,False,True,sore right foot (DTD)
+2024-01-15,Mavericks,1627884,Derrick Jones Jr.,False,True,bruised right calf (DTD)
+2024-01-15,Raptors,1629018,Gary Trent Jr.,False,True,illness (DTD)
 2024-01-15,76ers,1630531,Jaden Springer,False,True,right ankle tendinitis (DTD)
 2024-01-15,76ers,1628964,Mo Bamba,False,True,right knee injury (DTD)
 2024-01-15,76ers,203954,Joel Embiid,True,False,activated from IL
@@ -1149,11 +1151,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-15,Heat,1631170,Jaime Jaquez Jr.,False,True,strained groin (DTD)
 2024-01-15,Heat,202710,Jimmy Butler,True,False,activated from IL
 2024-01-15,Magic,1628976,Wendell Carter Jr.,True,False,returned to lineup
-2024-01-15,Mavericks,1627884,Derrick Jones Jr.,False,True,bruised right calf (DTD)
+2024-01-15,Mavericks,1627884,Derrick Jones Jr.,False,True,placed on IL with bruised right calf
 2024-01-15,Nets,1641727,Dariq Whitehead,False,True,right foot injury (DTD)
 2024-01-15,Pacers,1628971,Bruce Brown,False,True,bruised right knee (DTD)
 2024-01-15,Pelicans,1627742,Brandon Ingram,True,False,activated from IL
-2024-01-15,Raptors,1629018,Gary Trent Jr.,False,True,illness (DTD)
+2024-01-15,Raptors,1629018,Gary Trent Jr.,False,True,placed on IL with illness
 2024-01-15,Raptors,1641711,Gradey Dick,False,True,sprained right thumb (DTD)
 2024-01-15,Wizards,1631098,Johnny Davis (Christian),True,False,activated from IL
 2024-01-16,76ers,1627863,Danuel House Jr.,False,True,lumbar spine injury (DTD)
@@ -1164,3 +1166,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-16,Bucks,203114,Khris Middleton,True,False,activated from IL
 2024-01-16,Celtics,1627759,Jaylen Brown,True,False,activated from IL
 2024-01-16,Suns,1629139,Yuta Watanabe,False,True,illness (DTD)
+2024-01-17,Blazers,1630641,Ibou Badji,True,False,activated from IL
+2024-01-17,Blazers,1627763,Malcolm Brogdon,True,False,returned to lineup
+2024-01-17,Bucks,203507,Giannis Antetokounmpo,False,True,bruised right shoulder (DTD)
+2024-01-17,Celtics,1628401,Derrick White,False,True,sprained left ankle (DTD)
+2024-01-17,Celtics,204001,Kristaps Porzingis,False,True,right knee inflammation (DTD)
+2024-01-17,Hornets,1628373,Frank Ntilikina,True,False,activated from IL
+2024-01-17,Knicks,1628973,Jalen Brunson,True,False,returned to lineup
+2024-01-17,Mavericks,1630182,Josh Green,False,True,illness (DTD)
+2024-01-17,Mavericks,1627884,Derrick Jones Jr.,True,False,activated from IL
+2024-01-17,Mavericks,1629029,Luka Doncic,True,False,activated from IL
+2024-01-17,Pistons,202711,Bojan Bogdanovic,True,False,activated from IL
+2024-01-17,Raptors,1629018,Gary Trent Jr.,True,False,activated from IL
+2024-01-17,Raptors,1641711,Gradey Dick,True,False,returned to lineup
+2024-01-17,Rockets,203493,Reggie Bullock,False,True,sore lower back (DTD)
+2024-01-17,Wizards,1629655,Daniel Gafford,False,True,concussion protocol (DTD)
+2024-01-17,Raptors,1631132,Christian Koloko,True,False,returned to lineup
