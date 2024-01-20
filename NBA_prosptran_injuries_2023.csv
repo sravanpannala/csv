@@ -1158,6 +1158,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-15,Raptors,1629018,Gary Trent Jr.,False,True,placed on IL with illness
 2024-01-15,Raptors,1641711,Gradey Dick,False,True,sprained right thumb (DTD)
 2024-01-15,Wizards,1631098,Johnny Davis (Christian),True,False,activated from IL
+2024-01-17,Celtics,1628401,Derrick White,False,True,sprained left ankle (DTD)
+2024-01-17,Celtics,204001,Kristaps Porzingis,False,True,right knee inflammation (DTD)
 2024-01-16,76ers,1627863,Danuel House Jr.,False,True,lumbar spine injury (DTD)
 2024-01-16,Blazers,203924,Jerami Grant,True,False,returned to lineup
 2024-01-16,Blazers,1629680,Matisse Thybulle,True,False,returned to lineup
@@ -1169,8 +1171,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-17,Blazers,1630641,Ibou Badji,True,False,activated from IL
 2024-01-17,Blazers,1627763,Malcolm Brogdon,True,False,returned to lineup
 2024-01-17,Bucks,203507,Giannis Antetokounmpo,False,True,bruised right shoulder (DTD)
-2024-01-17,Celtics,1628401,Derrick White,False,True,sprained left ankle (DTD)
-2024-01-17,Celtics,204001,Kristaps Porzingis,False,True,right knee inflammation (DTD)
+2024-01-17,Celtics,1628401,Derrick White,False,True,placed on IL with sprained left ankle
+2024-01-17,Celtics,204001,Kristaps Porzingis,False,True,placed on IL with right knee inflammation
 2024-01-17,Hornets,1628373,Frank Ntilikina,True,False,activated from IL
 2024-01-17,Knicks,1628973,Jalen Brunson,True,False,returned to lineup
 2024-01-17,Mavericks,1630182,Josh Green,False,True,illness (DTD)
@@ -1182,3 +1184,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-17,Rockets,203493,Reggie Bullock,False,True,sore lower back (DTD)
 2024-01-17,Wizards,1629655,Daniel Gafford,False,True,concussion protocol (DTD)
 2024-01-17,Raptors,1631132,Christian Koloko,True,False,returned to lineup
+2024-01-18,76ers,1627863,Danuel House Jr.,True,False,returned to lineup
+2024-01-18,Bulls,1641763,Julian Phillips,True,False,activated from IL
+2024-01-18,Bulls,1630172,Patrick Williams,True,False,returned to lineup
+2024-01-18,Celtics,1628401,Derrick White,True,False,activated from IL
+2024-01-18,Celtics,204001,Kristaps Porzingis,True,False,activated from IL
+2024-01-18,Knicks,1628404,Josh Hart,False,True,left knee injury (DTD)
+2024-01-18,Nets,1641727,Dariq Whitehead,False,True,various injuries (out indefinitely)
+2024-01-18,Pacers,1629614,Andrew Nembhard,False,True,back injury (DTD)
+2024-01-18,Suns,1629139,Yuta Watanabe,True,False,returned to lineup
+2024-01-18,Thunder,1629652,Luguentz Dort,False,True,illness (DTD)
+2024-01-18,Thunder,1631172,Ousmane Dieng,False,True,illness (DTD)
