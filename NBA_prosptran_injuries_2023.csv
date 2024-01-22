@@ -1173,6 +1173,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-17,Bucks,203507,Giannis Antetokounmpo,False,True,bruised right shoulder (DTD)
 2024-01-17,Celtics,1628401,Derrick White,False,True,placed on IL with sprained left ankle
 2024-01-17,Celtics,204001,Kristaps Porzingis,False,True,placed on IL with right knee inflammation
+2024-01-17,Hornets,1641706,Brandon Miller,False,True,placed on IL with bruised lower back
 2024-01-17,Hornets,1628373,Frank Ntilikina,True,False,activated from IL
 2024-01-17,Knicks,1628973,Jalen Brunson,True,False,returned to lineup
 2024-01-17,Mavericks,1630182,Josh Green,False,True,illness (DTD)
@@ -1195,3 +1196,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-18,Suns,1629139,Yuta Watanabe,True,False,returned to lineup
 2024-01-18,Thunder,1629652,Luguentz Dort,False,True,illness (DTD)
 2024-01-18,Thunder,1631172,Ousmane Dieng,False,True,illness (DTD)
+2024-01-19,Blazers,1629014,Anfernee Simons,False,True,illness (DTD)
+2024-01-19,Blazers,1629028,Deandre Ayton,True,False,activated from IL
+2024-01-19,Hawks,1629027,Trae Young,False,True,illness (DTD)
+2024-01-19,Heat,201567,Kevin Love,True,False,activated from IL
+2024-01-19,Hornets,1630208,Nick Richards,False,True,right ankle injury (DTD)
+2024-01-19,Hornets,1641706,Brandon Miller,True,False,activated from IL
+2024-01-19,Pacers,1630543,Isaiah Jackson,False,True,concussion (DTD)
+2024-01-19,Pacers,1630174,Aaron Nesmith,True,False,activated from IL
+2024-01-19,Pacers,1630169,Tyrese Haliburton,True,False,activated from IL
+2024-01-19,Pistons,1630191,Isaiah Stewart,False,True,sprained left ankle (DTD)
+2024-01-19,Spurs,1628380,Zach Collins,True,False,activated from IL
