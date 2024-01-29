@@ -1260,6 +1260,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-23,Pacers,1630188,Jalen Smith,False,True,sore lower back (DTD)
 2024-01-23,Pacers,1630543,Isaiah Jackson,True,False,activated from IL
 2024-01-23,Rockets,201145,Jeff Green,True,False,activated from IL
+2024-01-24,Lakers,1641721,Maxwell Lewis,False,True,illness (DTD)
+2024-01-24,Rockets,1630256,Jae'Sean Tate,False,True,sprained left wrist (DTD)
+2024-01-24,Spurs,1630200,Tre Jones,False,True,sprained left ankle (DTD)
+2024-01-25,Heat,201567,Kevin Love,False,True,stomach illness (DTD)
 2024-01-24,,1631095,Jabari Smith Jr.,False,True,sprained left ankle (DTD)
 2024-01-24,76ers,1631254,Kenneth Lofton Jr.,False,True,personal reasons (DTD)
 2024-01-24,76ers,201976,Patrick Beverley,True,False,activated from IL
@@ -1272,21 +1276,55 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-01-24,Hornets,1630208,Nick Richards,True,False,activated from IL
 2024-01-24,Kings,1628426,Sasha Vezenkov,False,True,sprained right ankle (out indefinitely)
 2024-01-24,Lakers,1629629,Cam Reddish,False,True,sprained right ankle (DTD)
-2024-01-24,Lakers,1641721,Maxwell Lewis,False,True,illness (DTD)
+2024-01-24,Lakers,1641721,Maxwell Lewis,False,True,placed on IL with illness
 2024-01-24,Mavericks,203939,Dwight Powell,False,True,left eye injury (DTD)
 2024-01-24,Mavericks,202681,Kyrie Irving,False,True,sprained right thumb (DTD)
 2024-01-24,Mavericks,203957,Dante Exum,True,False,activated from IL
 2024-01-24,Mavericks,203552,Seth Curry,True,False,activated from IL
 2024-01-24,Pistons,1628420,Monte Morris,True,False,activated from IL
-2024-01-24,Rockets,1630256,Jae'Sean Tate,False,True,sprained left wrist (DTD)
-2024-01-24,Spurs,1630200,Tre Jones,False,True,sprained left ankle (DTD)
+2024-01-24,Rockets,1630256,Jae'Sean Tate,False,True,placed on IL with sprained left wrist
+2024-01-24,Spurs,1630200,Tre Jones,False,True,placed on IL with sprained left ankle
 2024-01-24,Timberwolves,201144,Mike Conley Jr.,False,True,placed on IL with illness
 2024-01-24,Wizards,1630587,Isaiah Livers,False,True,sore right hip (DTD)
 2024-01-25,76ers,202699,Tobias Harris,False,True,illness (DTD)
 2024-01-25,76ers,1630531,Jaden Springer,True,False,activated from IL
 2024-01-25,Cavaliers,1629660,Ty Jerome,False,True,surgery on right ankle (out indefinitely)
 2024-01-25,Grizzlies,1628379,Luke Kennard,True,False,activated from IL
-2024-01-25,Heat,201567,Kevin Love,False,True,stomach illness (DTD)
+2024-01-25,Heat,201567,Kevin Love,False,True,placed on IL with stomach illness
 2024-01-25,Pacers,1630188,Jalen Smith,True,False,returned to lineup
 2024-01-25,Raptors,1630193,Immanuel Quickley,False,True,bruised right quadriceps (DTD)
 2024-01-25,Timberwolves,201144,Mike Conley Jr.,True,False,activated from IL
+2024-01-26,Blazers,1627763,Malcolm Brogdon,False,True,bruised right knee (DTD)
+2024-01-26,Grizzlies,1630583,Santi Aldama,True,False,returned to lineup
+2024-01-26,Hawks,1629027,Trae Young,True,False,activated from IL
+2024-01-26,Hawks,202083,Wes Matthews Jr.,True,False,activated from IL
+2024-01-26,Heat,1631170,Jaime Jaquez Jr.,True,False,activated from IL
+2024-01-26,Heat,201567,Kevin Love,True,False,activated from IL
+2024-01-26,Mavericks,1628467,Maxi Kleber,False,True,placed on IL with dislocated toe
+2024-01-26,Nets,1629661,Cameron Johnson,False,True,personal reasons (DTD)
+2024-01-26,Pelicans,1629627,Zion Williamson,False,True,bruised left foot (DTD)
+2024-01-26,Pelicans,1630346,Matt Ryan,True,False,activated from IL
+2024-01-26,Rockets,1630256,Jae'Sean Tate,True,False,activated from IL
+2024-01-26,Rockets,203493,Reggie Bullock,True,False,activated from IL
+2024-01-26,Spurs,1630200,Tre Jones,True,False,activated from IL
+2024-01-26,Suns,201569,Eric Gordon,True,False,activated from IL
+2024-01-27,76ers,203954,Joel Embiid,False,True,sore left knee (DTD)
+2024-01-27,76ers,1630178,Tyrese Maxey,False,True,sprained left ankle (DTD)
+2024-01-27,76ers,202694,Marcus Morris,True,False,activated from IL
+2024-01-27,Bucks,203114,Khris Middleton,False,True,right knee injury (DTD)
+2024-01-27,Bulls,1630172,Patrick Williams,False,True,sore left foot (DTD)
+2024-01-27,Celtics,204001,Kristaps Porzingis,False,True,sprained left ankle (DTD)
+2024-01-27,Grizzlies,1628379,Luke Kennard,False,True,sore left knee (DTD)
+2024-01-27,Hornets,1628373,Frank Ntilikina,False,True,left hip injury (DTD)
+2024-01-27,Knicks,1628392,Isaiah Hartenstein,True,False,activated from IL
+2024-01-27,Lakers,1641721,Maxwell Lewis,True,False,activated from IL
+2024-01-27,Mavericks,203957,Dante Exum,False,True,sore right knee (DTD)
+2024-01-27,Mavericks,1627884,Derrick Jones Jr.,False,True,sprained left wrist (DTD)
+2024-01-27,Mavericks,1628467,Maxi Kleber,True,False,activated from IL
+2024-01-27,Pelicans,1629627,Zion Williamson,True,False,returned to lineup
+2024-01-27,Pistons,1630595,Cade Cunningham,True,False,activated from IL
+2024-01-27,Spurs,1628380,Zach Collins,False,True,sore right ankle (DTD)
+2024-01-27,Spurs,1631321,Sidy Cissoko,True,False,activated from IL
+2024-01-27,Thunder,1630544,Tre Mann,False,True,personal reasons (DTD)
+2024-01-27,Thunder,1630846,Olivier Sarr,True,False,activated from IL
+2024-01-27,Timberwolves,201144,Mike Conley Jr.,False,True,tightness in left hamstring (DTD)
