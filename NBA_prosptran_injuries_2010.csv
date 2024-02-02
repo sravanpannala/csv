@@ -24,6 +24,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-10-09,Nuggets,1733,Al Harrington,False,True,partially torn plantar fascia in left foot (out indefinitely)
 2010-10-12,Bucks,202359,Darington Hobson,False,True,surgery on left hip (out for season)
 2010-10-12,Kings,2223,Samuel Dalembert,False,True,strained left groin (out indefinitely)
+2010-10-17,Bobcats,201187,Dominic McGuire,False,True,stress fracture in left shin (out indefinitely)
 2010-10-18,Warriors,200811,Lou Amundson,False,True,surgery to repair fractured right index finger (out indefinitely)
 2010-10-19,Suns,2735,Josh Childress,False,True,fractured right index finger (out indefinitely)
 2010-10-22,Heat,2034,Mike Miller,False,True,surgery on right hand to repair a broken thumb and ligament damage (out indefinitely)
@@ -48,10 +49,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-10-26,Suns,1630346,Matt Janning,False,True,placed on IL
 2010-10-27,76ers,202342,Craig Brackins,False,True,placed on IL
 2010-10-27,76ers,201975,Jodie Meeks,False,True,placed on IL
+2010-10-27,Bobcats,201187,Dominic McGuire,False,True,placed on IL with stress fracture in left shin
 2010-10-27,Bobcats,2059,Eduardo Najera,False,True,placed on IL with sports hernia
 2010-10-27,Bobcats,2198,Kwame Brown,False,True,placed on IL with sprained left ankle
 2010-10-27,Bucks,201604,Chris Douglas-Roberts,False,True,placed on IL with right eye injury
 2010-10-27,Bucks,201972,Jon Brockman,False,True,sprained left ankle (DNP)
+2010-10-27,Bucks,201601,Luc Mbah a Moute,False,True,sprained right ankle (DNP)
 2010-10-27,Bucks,2072,Michael Redd,False,True,placed on IL recovering from surgery on left knee to repair torn ACL
 2010-10-27,Bulls,2430,Carlos Boozer,False,True,placed on IL with fractured bone in right pinky finger
 2010-10-27,Cavaliers,201963,Christian Eyenga,False,True,placed on IL
@@ -167,6 +170,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-11-02,Heat,436,Juwan Howard,True,False,activated from IL
 2010-11-02,Pistons,1888,Richard Hamilton,False,True,sore right foot (DNP)
 2010-11-02,Pistons,101198,Will Bynum,False,True,sore right hamstring (DNP)
+2010-11-03,Grizzlies,201960,DeMarre Carroll,False,True,placed on IL
 2010-11-03,Grizzlies,202349,Greivis Vasquez,True,False,activated from IL
 2010-11-03,Hawks,2037,Jamal Crawford,False,True,turf toe (DNP)
 2010-11-03,Hornets,978,Peja Stojakovic,False,True,placed on IL
@@ -329,6 +333,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-11-13,Spurs,2588,Matt Bonner,True,False,activated from IL
 2010-11-14,Lakers,2581,Steve Blake,False,True,placed on IL with stomach ache
 2010-11-14,Lakers,689,Theo Ratliff,True,False,activated from IL
+2010-11-14,Pistons,201969,DaJuan Summers,False,True,placed on IL
 2010-11-14,Pistons,2404,Chris Wilcox,True,False,activated from IL
 2010-11-14,Rockets,201978,Chase Budinger,False,True,sprained left ankle (DNP)
 2010-11-14,Thunder,201957,B.J. Mullens,False,True,placed on IL
@@ -404,6 +409,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-11-19,Warriors,201148,Brandan Wright,False,True,strained lower back (DNP)
 2010-11-20,Blazers,200750,Brandon Roy,False,True,sore left knee (DNP)
 2010-11-20,Bobcats,2198,Kwame Brown,False,True,placed on IL
+2010-11-20,Bobcats,201187,Dominic McGuire,True,False,activated from IL
 2010-11-20,Bucks,2568,Carlos Delfino,False,True,strained neck (DNP)
 2010-11-20,Heat,2548,Dwyane Wade,False,True,placed on IL with sprained left wrist
 2010-11-20,Heat,2048,Jamaal Magloire,True,False,activated from IL
@@ -442,6 +448,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-11-22,Warriors,201148,Brandan Wright,False,True,strained lower back (DNP)
 2010-11-23,76ers,2574,Jason Kapono,False,True,placed on IL for personal reasons
 2010-11-23,76ers,2738,Andre Iguodala,True,False,activated from IL
+2010-11-23,Bobcats,2205,DeSagana Diop,False,True,placed on IL
 2010-11-23,Bobcats,2198,Kwame Brown,True,False,activated from IL
 2010-11-23,Heat,2617,Udonis Haslem,False,True,surgery on left foot to repair torn ligament (out for season)
 2010-11-23,Nets,202345,Damion James,True,False,activated from IL
@@ -471,6 +478,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-11-26,Celtics,200765,Rajon Rondo,True,False,activated from IL
 2010-11-26,Grizzlies,201151,Acie Law,False,True,placed on IL with flu
 2010-11-26,Grizzlies,201632,Hamed Haddadi,False,True,personal reasons (DTD)
+2010-11-26,Grizzlies,201960,DeMarre Carroll,True,False,activated from IL
 2010-11-26,Mavericks,201582,Alex Ajinca,True,False,activated from IL
 2010-11-26,Raptors,2501,Reggie Evans,False,True,broken right foot (out indefinitely)
 2010-11-26,Thunder,2420,Nenad Krstic,False,True,placed on IL with back spasms
@@ -484,6 +492,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-11-27,Bucks,1894,Corey Maggette,False,True,sore left ankle (DNP)
 2010-11-27,Bucks,2400,Drew Gooden,False,True,plantar fasciitis in left foot (DNP)
 2010-11-27,Bucks,201604,Chris Douglas-Roberts,True,False,activated from IL
+2010-11-27,Bulls,101249,John Lucas III,False,True,placed on IL
 2010-11-27,Bulls,201565,Derrick Rose,True,False,activated from IL
 2010-11-27,Mavericks,201582,Alex Ajinca,False,True,placed on IL
 2010-11-27,Warriors,201148,Brandan Wright,False,True,placed on IL with strained lower back
@@ -548,9 +557,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-03,76ers,2574,Jason Kapono,True,False,activated from IL
 2010-12-03,Blazers,202337,Luke Babbitt,False,True,placed on IL
 2010-12-03,Blazers,2038,Joel Przybilla,True,False,activated from IL
+2010-12-03,Bobcats,2205,DeSagana Diop,False,True,placed on IL (P)
 2010-12-03,Bulls,703,Kurt Thomas,False,True,placed on IL
 2010-12-03,Bulls,2243,Brian Scalabrine,True,False,activated from IL
 2010-12-03,Clippers,202378,Willie Warren,False,True,placed on IL
+2010-12-03,Grizzlies,201960,DeMarre Carroll,False,True,placed on IL
 2010-12-03,Grizzlies,201589,Darrell Arthur,True,False,activated from IL
 2010-12-03,Hornets,2561,David West,False,True,stomach virus (DNP)
 2010-12-03,Magic,2730,Dwight Howard,False,True,stomach virus (DNP)
@@ -584,6 +595,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-05,Cavaliers,201581,J.J. Hickson,True,False,activated from IL
 2010-12-05,Cavaliers,101121,Joey Graham,True,False,activated from iL
 2010-12-05,Celtics,200765,Rajon Rondo,False,True,strained hamstring (DNP)
+2010-12-05,Grizzlies,201960,DeMarre Carroll,True,False,activated from IL
 2010-12-05,Hornets,2788,Didier Mbenga ,False,True,placed on IL with illness
 2010-12-05,Hornets,201189,Aaron Gray,True,False,activated from IL
 2010-12-05,Nets,202386,Ben Uzoh,False,True,placed on IL
@@ -615,6 +627,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-07,Nets,101211,Stephen Graham,False,True,placed on IL
 2010-12-07,Nets,202386,Ben Uzoh,True,False,activated from IL
 2010-12-07,Pistons,101111,Charlie Villanueva,False,True,placed on IL for personal reasons
+2010-12-07,Pistons,201969,DaJuan Summers,True,False,activated from IL
 2010-12-07,Warriors,200760,Rodney Carney,False,True,placed on IL with sprained left ankle
 2010-12-07,Warriors,200811,Lou Amundson,True,False,activated from IL
 2010-12-07,Wizards,101154,Andray Blatche,False,True,placed on IL with bruised hip
@@ -635,6 +648,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-08,Nuggets,2546,Carmelo Anthony,False,True,right knee inflammation (DNP)
 2010-12-08,Pacers,2563,Dahntay Jones,False,True,placed on IL
 2010-12-08,Pacers,1902,Jeff Foster,True,False,activated from IL
+2010-12-08,Pistons,201969,DaJuan Summers,False,True,placed on IL
 2010-12-08,Pistons,101111,Charlie Villanueva,True,False,activated from IL
 2010-12-08,Raptors,978,Peja Stojakovic,False,True,swollen left knee (DNP)
 2010-12-08,Timberwolves,2545,Darko Milicic,False,True,bruised right quadriceps (DNP)
@@ -658,6 +672,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-10,Warriors,202327,Ekpe Udoh,True,False,activated from IL
 2010-12-10,Wizards,101154,Andray Blatche,True,False,activated from IL
 2010-12-11,Bobcats,200748,Tyrus Thomas,False,True,placed on IL
+2010-12-11,Bobcats,2205,DeSagana Diop,True,False,activated from IL
 2010-12-11,Bobcats,2059,Eduardo Najera,True,False,activated from IL
 2010-12-11,Bulls,703,Kurt Thomas,False,True,placed on IL
 2010-12-11,Bulls,2243,Brian Scalabrine,True,False,activated from IL
@@ -682,6 +697,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-12,Thunder,2420,Nenad Krstic,False,True,placed on IL with sprained lower back
 2010-12-13,Bucks,1730,Brian Skinner,False,True,placed on IL
 2010-12-13,Bucks,2400,Drew Gooden,True,False,activated from IL
+2010-12-13,Grizzlies,201960,DeMarre Carroll,False,True,placed on IL
 2010-12-13,Grizzlies,201632,Hamed Haddadi,True,False,activated (P)
 2010-12-13,Hornets,2788,Didier Mbenga ,False,True,placed on IL
 2010-12-13,Hornets,201189,Aaron Gray,True,False,activated from IL
@@ -694,6 +710,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-13,Pacers,101122,Danny Granger,False,True,placed on IL with sprained left ankle
 2010-12-13,Pacers,2563,Dahntay Jones,True,False,activated from IL (P)
 2010-12-13,Pacers,202331,Paul George,True,False,activated from IL
+2010-12-14,Bobcats,2205,DeSagana Diop,False,True,placed on IL
 2010-12-14,Bobcats,2059,Eduardo Najera,False,True,placed on IL
 2010-12-14,Bobcats,201945,Gerald Henderson Jr.,True,False,activated from IL
 2010-12-14,Bobcats,200748,Tyrus Thomas,True,False,activated from IL
@@ -715,6 +732,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-14,Wizards,202380,Hamady N'Diaye,True,False,activated from IL
 2010-12-14,Wizards,202338,Kevin Seraphin,True,False,activated from IL
 2010-12-15,Bobcats,2222,Gerald Wallace,False,True,placed on IL with sprained left ankle
+2010-12-15,Bobcats,2205,DeSagana Diop,True,False,activated from IL
 2010-12-15,Bucks,2422,John Salmons,False,True,back spasms (DNP)
 2010-12-15,Bulls,201149,Joakim Noah,False,True,torn ligament in right thumb (out indefinitely)
 2010-12-15,Bulls,703,Kurt Thomas,False,True,placed on IL (P)
@@ -762,6 +780,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-17,Nets,2756,Sasha Vujacic,True,False,activated from IL
 2010-12-17,Pacers,202331,Paul George,False,True,placed on IL
 2010-12-17,Pistons,201948,Austin Daye,False,True,placed on IL with strained hamstring
+2010-12-17,Pistons,201969,DaJuan Summers,True,False,activated from IL
 2010-12-17,Raptors,978,Peja Stojakovic,False,True,placed on IL with swollen left knee
 2010-12-17,Raptors,201603,Sonny Weems,False,True,sore lower back (DNP)
 2010-12-17,Raptors,101181,Jose Calderon,True,False,activated from IL
@@ -797,6 +816,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-19,Lakers,202382,Derrick Caracter,False,True,placed on IL
 2010-12-19,Lakers,202365,Devin Ebanks,True,False,activated from IL
 2010-12-19,Nets,2624,Quinton Ross,False,True,bruised lower back (DNP)
+2010-12-19,Pacers,201177,Josh McRoberts,False,True,placed on IL with abdominal strain
 2010-12-19,Pacers,201985,A.J. Price,True,False,activated from IL
 2010-12-19,Pistons,1888,Richard Hamilton,False,True,upset stomach (DNP)
 2010-12-19,Pistons,201155,Rodney Stuckey,False,True,sore left big toe (DNP)
@@ -820,15 +840,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-20,Jazz,2246,Mehmet Okur,False,True,placed on IL with sprained right ankle
 2010-12-20,Jazz,202330,Gordon Hayward,True,False,activated from IL
 2010-12-20,Pacers,2563,Dahntay Jones,False,True,placed on IL
+2010-12-20,Pacers,201177,Josh McRoberts,True,False,activated from IL
 2010-12-20,Spurs,201588,George Hill,False,True,sprained right big toe (DNP)
 2010-12-20,Timberwolves,202178,Sundiata Gaines,False,True,placed on IL
 2010-12-20,Timberwolves,2545,Darko Milicic,True,False,activated from IL
 2010-12-20,Warriors,2429,Dan Gadzuric,False,True,strained left groin (DNP)
 2010-12-20,Bucks,2568,Carlos Delfino,True,False,activated from IL
 2010-12-20,Bucks,2568,Carlos Delfino,False,True,concussion (DNP)
+2010-12-21,Bobcats,2205,DeSagana Diop,False,True,placed on IL
 2010-12-21,Bucks,2568,Carlos Delfino,False,True,concussion (DNP)
 2010-12-21,Bucks,2400,Drew Gooden,False,True,sore left foot (DNP)
 2010-12-21,Bulls,201959,Taj Gibson,False,True,placed on IL with concussion
+2010-12-21,Bulls,101249,John Lucas III,True,False,activated from IL
 2010-12-21,Magic,2124,Malik Allen,False,True,sprained left ankle (DNP)
 2010-12-21,Mavericks,200779,Steve Novak,False,True,placed on IL
 2010-12-21,Mavericks,201582,Alex Ajinca,True,False,activated from IL
@@ -836,6 +859,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-21,Warriors,2429,Dan Gadzuric,False,True,strained left groin (DNP)
 2010-12-22,76ers,2443,Darius Songaila,False,True,placed on IL
 2010-12-22,76ers,202342,Craig Brackins,True,False,activated from IL
+2010-12-22,Bulls,101249,John Lucas III,False,True,placed on IL
 2010-12-22,Bulls,201959,Taj Gibson,True,False,activated from IL
 2010-12-22,Cavaliers,202396,Samardo Samuels,False,True,placed on IL
 2010-12-22,Cavaliers,200796,Leon Powe,True,False,activated from IL
@@ -848,6 +872,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-22,Nuggets,2408,Melvin Ely,False,True,placed on IL
 2010-12-22,Nuggets,2365,Chris Andersen,True,False,activated from IL
 2010-12-22,Nuggets,2030,Kenyon Martin (Sr.),True,False,activated from IL
+2010-12-22,Pistons,201969,DaJuan Summers,False,True,placed on IL
 2010-12-22,Pistons,201948,Austin Daye,True,False,activated from IL
 2010-12-22,Raptors,201573,Jerryd Bayless,False,True,food poisoning (DNP)
 2010-12-22,Raptors,201603,Sonny Weems,False,True,back spasms (DNP)
@@ -895,7 +920,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-26,Wizards,961,John Wallace,True,False,activated from IL
 2010-12-27,76ers,2738,Andre Iguodala,False,True,right Achilles tendinitis (DNP)
 2010-12-27,Blazers,200750,Brandon Roy,False,True,sore left knee (DNP)
+2010-12-27,Bobcats,201187,Dominic McGuire,False,True,placed on IL
 2010-12-27,Bobcats,202395,Sherron Collins,False,True,placed on IL
+2010-12-27,Bobcats,2205,DeSagana Diop,True,False,activated from IL
 2010-12-27,Bobcats,2059,Eduardo Najera,True,False,activated from IL
 2010-12-27,Bucks,2568,Carlos Delfino,False,True,placed on IL with concussion
 2010-12-27,Bucks,2400,Drew Gooden,False,True,sore left foot (DNP)
@@ -932,6 +959,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-29,Bobcats,2059,Eduardo Najera,False,True,placed on IL
 2010-12-29,Bobcats,2198,Kwame Brown,False,True,placed on IL
 2010-12-29,Bobcats,200748,Tyrus Thomas,False,True,placed on IL with sore wrist
+2010-12-29,Bobcats,201187,Dominic McGuire,True,False,activated from IL
 2010-12-29,Bobcats,2222,Gerald Wallace,True,False,activated from IL
 2010-12-29,Bobcats,202395,Sherron Collins,True,False,activated from IL
 2010-12-29,Cavaliers,2590,Mo Williams,False,True,strained left hip flexor (DNP)
@@ -948,6 +976,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2010-12-29,Pacers,201985,A.J. Price,True,False,activated from IL
 2010-12-29,Pacers,202331,Paul George,True,False,activated from IL
 2010-12-29,Pistons,201155,Rodney Stuckey,False,True,placed on IL with stomach virus
+2010-12-29,Pistons,201969,DaJuan Summers,True,False,activated from IL
 2010-12-29,Suns,202371,Gani Lawal,False,True,placed on IL
 2010-12-29,Suns,1713,Vince Carter,True,False,activated from IL
 2010-12-29,Warriors,2294,Charlie Bell,True,False,activated from IL
@@ -1007,6 +1036,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-02,Mavericks,202346,Dominique Jones,True,False,activated from IL
 2011-01-02,Cavaliers,201963,Christian Eyenga,True,False,activated from IL
 2011-01-03,76ers,201150,Spencer Hawes,False,True,strained back (DNP)
+2011-01-03,Bobcats,2205,DeSagana Diop,False,True,placed on IL with ruptured right Achilles tendon (out for season)
 2011-01-03,Bobcats,2222,Gerald Wallace,False,True,placed on IL with left ankle injury
 2011-01-03,Bobcats,1737,Nazr Mohammed,False,True,placed on IL with right knee injury
 2011-01-03,Bobcats,2059,Eduardo Najera,True,False,activated from IL
@@ -1032,6 +1062,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-04,Raptors,201603,Sonny Weems,False,True,placed on IL with back spasms
 2011-01-04,Raptors,200745,Andrea Bargnani,True,False,activated from IL
 2011-01-05,76ers,1499,Tony Battie,False,True,rotator cuff injury (DTD)
+2011-01-05,Bobcats,2205,DeSagana Diop,False,True,surgery to repair ruptured right Achilles tendon (out for season)
 2011-01-05,Bobcats,1536,Stephen Jackson,False,True,hyperextended left knee (DNP)
 2011-01-05,Bucks,201943,Brandon Jennings,False,True,surgery on left foot (out indefinitely)
 2011-01-05,Bucks,2400,Drew Gooden,False,True,plantar fasciitis in left foot (DNP)
@@ -1067,6 +1098,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-07,Cavaliers,1515,Anthony Parker,True,False,activated from IL
 2011-01-07,Cavaliers,200081,Jamario Moon,True,False,activated from IL
 2011-01-07,Grizzlies,202333,Xavier Henry,False,True,placed on IL with sore right knee
+2011-01-07,Grizzlies,201960,DeMarre Carroll,True,False,activated from IL
 2011-01-07,Nets,2211,Troy Murphy,True,False,activated from IL
 2011-01-07,Pacers,200780,Solomon Jones,False,True,placed on IL
 2011-01-07,Pacers,202362,Lance Stephenson,True,False,activated from IL
@@ -1085,9 +1117,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-08,Hawks,2041,Etan Thomas,False,True,placed on IL
 2011-01-08,Lakers,2440,Matt Barnes,False,True,torn cartilage in right knee (out indefinitely)
 2011-01-08,Nets,2734,Devin Harris,False,True,bruised right quadriceps (DNP)
+2011-01-08,Pacers,201177,Josh McRoberts,False,True,placed on IL
 2011-01-08,Pacers,202362,Lance Stephenson,False,True,placed on IL
 2011-01-08,Pacers,201985,A.J. Price,True,False,activated from IL
 2011-01-08,Pacers,200780,Solomon Jones,True,False,activated from IL
+2011-01-08,Pistons,201969,DaJuan Summers,False,True,placed on IL
 2011-01-08,Pistons,2404,Chris Wilcox,True,False,activated from IL
 2011-01-09,Cavaliers,1515,Anthony Parker,False,True,strained lower back (DNP)
 2011-01-09,Kings,201936,Tyreke Evans,False,True,placed on IL with left foot injury / sprained left ankle (CBC)
@@ -1128,8 +1162,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-12,Nets,2211,Troy Murphy,False,True,placed on IL
 2011-01-12,Nets,201627,Anthony Morrow,True,False,activated from IL
 2011-01-12,Pistons,1112,Ben Wallace,False,True,placed on IL with left ankle injury
+2011-01-12,Pistons,201969,DaJuan Summers,True,False,activated from IL
 2011-01-12,Rockets,1802,Brad Miller,False,True,sore right knee (DNP)
 2011-01-12,Warriors,202130,Reggie Williams,False,True,Achilles tendon injury (DTD)
+2011-01-13,Heat,2544,LeBron James,False,True,sprained left ankle (DNP)
 2011-01-13,Nuggets,2365,Chris Andersen,False,True,placed on IL with sore right knee and lower back
 2011-01-13,Nuggets,2408,Melvin Ely,True,False,activated from IL
 2011-01-13,Timberwolves,201563,Michael Beasley,False,True,placed on IL with sprained left ankle
@@ -1158,6 +1194,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-14,Knicks,101142,Ronny Turiaf,False,True,right hip pointer (DTD)
 2011-01-14,Pacers,201985,A.J. Price,False,True,placed on IL
 2011-01-14,Pacers,200780,Solomon Jones,False,True,placed on IL
+2011-01-14,Pacers,201177,Josh McRoberts,True,False,activated from IL
 2011-01-14,Pacers,202362,Lance Stephenson,True,False,activated from IL
 2011-01-14,Raptors,2571,Leandro Barbosa,False,True,strained right hamstring (DTD)
 2011-01-14,Raptors,201603,Sonny Weems,False,True,placed on IL with sore back
@@ -1180,6 +1217,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-15,Cavaliers,200797,Ryan Hollins,False,True,personal reasons (DNP)
 2011-01-15,Grizzlies,2754,Tony Allen,False,True,sore left knee (DNP)
 2011-01-15,Hawks,2041,Etan Thomas,False,True,personal reasons (DTD)
+2011-01-15,Heat,2544,LeBron James,False,True,placed on IL with sprained left ankle
 2011-01-15,Heat,2048,Jamaal Magloire,True,False,activated from IL
 2011-01-15,Mavericks,2199,Tyson Chandler,False,True,placed on IL with flu
 2011-01-15,Mavericks,1717,Dirk Nowitzki,True,False,activated from IL
@@ -1223,6 +1261,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-18,Hawks,2041,Etan Thomas,False,True,placed on IL
 2011-01-18,Hawks,202348,Jordan Crawford,True,False,activated from IL
 2011-01-18,Heat,2547,Chris Bosh,False,True,placed on IL with sprained left ankle
+2011-01-18,Heat,2544,LeBron James,True,False,activated from IL
 2011-01-19,Bucks,201943,Brandon Jennings,False,True,recovering from surgery on left foot (DNP)
 2011-01-19,Bucks,2422,John Salmons,False,True,sore right hip (DNP)
 2011-01-19,Celtics,979,Jermaine O'Neal,False,True,sore left knee (DNP)
@@ -1281,6 +1320,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-22,Jazz,1922,Francisco Elson,False,True,placed on IL with quadriceps injury
 2011-01-22,Jazz,202379,Jeremy Evans,True,False,activated from IL
 2011-01-22,Magic,1715,Jason Williams,False,True,foot injury (out indefinitely)
+2011-01-22,Pacers,201177,Josh McRoberts,False,True,placed on IL
 2011-01-22,Pacers,201579,Roy Hibbert,True,False,activated from IL
 2011-01-22,Pistons,101111,Charlie Villanueva,False,True,placed on IL with sprained left ankle
 2011-01-22,Pistons,1112,Ben Wallace,True,False,activated from IL
@@ -1324,6 +1364,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-26,Bucks,2422,John Salmons,False,True,strained right hip (DNP)
 2011-01-26,Clippers,201569,Eric Gordon,False,True,sprained right wrist (DNP)
 2011-01-26,Clippers,202378,Willie Warren,True,False,activated from IL
+2011-01-26,Grizzlies,201960,DeMarre Carroll,False,True,placed on IL
 2011-01-26,Grizzlies,202333,Xavier Henry,True,False,activated from IL
 2011-01-26,Hawks,202348,Jordan Crawford,False,True,placed on IL
 2011-01-26,Hawks,2694,Josh Powell,False,True,placed on IL
@@ -1343,6 +1384,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-28,Bobcats,201974,Derrick Brown,True,False,activated from IL
 2011-01-28,Bucks,2422,John Salmons,False,True,strained right hip (DNP)
 2011-01-28,Grizzlies,201632,Hamed Haddadi,False,True,placed on IL
+2011-01-28,Grizzlies,201960,DeMarre Carroll,True,False,activated from IL
 2011-01-28,Heat,2548,Dwyane Wade,False,True,sprained right wrist (DNP)
 2011-01-28,Jazz,101114,Deron Williams,False,True,strained tendon in right wrist (DNP)
 2011-01-28,Jazz,2246,Mehmet Okur,False,True,strained lower back (DTD)
@@ -1354,10 +1396,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-28,Pacers,201575,Brandon Rush,False,True,placed on IL with sprained right ankle
 2011-01-28,Pacers,201946,Tyler Hansbrough,False,True,placed on IL with pneumonia
 2011-01-28,Pacers,2563,Dahntay Jones,True,False,activated from IL
+2011-01-28,Pacers,201177,Josh McRoberts,True,False,activated from IL
 2011-01-28,Pistons,1112,Ben Wallace,False,True,family matter (DNP)
 2011-01-28,Pistons,201155,Rodney Stuckey,False,True,bruised right shoulder (DNP)
 2011-01-28,Thunder,200757,Thabo Sefolosha,False,True,placed on IL with sore/sprained knee
 2011-01-28,Thunder,201957,B.J. Mullens,True,False,activated from IL
+2011-01-28,Wizards,201580,JaVale McGee,False,True,placed on IL with flu
 2011-01-28,Wizards,2550,Kirk Hinrich,True,False,activated from IL
 2011-01-28,Wizards,2550,Kirk Hinrich,False,True,sprained right ankle (DNP)
 2011-01-29,Bucks,201604,Chris Douglas-Roberts,False,True,placed on IL with death in family
@@ -1387,6 +1431,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-31,Bucks,201604,Chris Douglas-Roberts,True,False,activated from IL
 2011-01-31,Cavaliers,200789,Daniel Gibson,False,True,bruised left quadriceps (DNP)
 2011-01-31,Clippers,201569,Eric Gordon,False,True,sprained right wrist (DNP)
+2011-01-31,Grizzlies,201960,DeMarre Carroll,False,True,placed on IL
 2011-01-31,Grizzlies,201632,Hamed Haddadi,True,False,activated from IL
 2011-01-31,Jazz,101114,Deron Williams,False,True,strained tendon in right wrist (DNP)
 2011-01-31,Magic,200755,J.J. Redick,False,True,sore left shoulder (DTD)
@@ -1396,15 +1441,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-01-31,Pacers,200780,Solomon Jones,False,True,placed on IL
 2011-01-31,Pacers,201946,Tyler Hansbrough,True,False,activated from IL
 2011-01-31,Wizards,201203,Mustafa Shakur,False,True,placed on IL
+2011-01-31,Wizards,201580,JaVale McGee,True,False,activated from IL
 2011-02-01,Hornets,2731,Emeka Okafor,False,True,placed on IL with strained left oblique muscle
 2011-02-01,Hornets,201189,Aaron Gray,True,False,activated from IL
 2011-02-01,Kings,201574,Jason Thompson,False,True,sprained right ankle (DNP)
 2011-02-01,Lakers,101115,Andrew Bynum,False,True,bone bruised in left knee (DNP)
 2011-02-01,Rockets,2407,Jared Jeffries,True,False,activated from IL
 2011-02-01,Rockets,202397,Ish Smith,False,True,placed on IL
+2011-02-02,Bobcats,201187,Dominic McGuire,False,True,placed on IL
 2011-02-02,Bobcats,201974,Derrick Brown,True,False,activated from IL
 2011-02-02,Bucks,101106,Andrew Bogut,False,True,placed on IL with bruised right knee
 2011-02-02,Bucks,2039,Keyon Dooling,False,True,flu (DNP)
+2011-02-02,Bucks,202336,Larry Sanders (b. 1988-11-21),False,True,illness (DNP)
 2011-02-02,Bucks,2422,John Salmons,True,False,activated from IL
 2011-02-02,Cavaliers,200789,Daniel Gibson,False,True,bruised left quadriceps (DNP)
 2011-02-02,Clippers,201569,Eric Gordon,False,True,sprained right wrist (DNP)
@@ -1432,6 +1480,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-03,Warriors,201151,Acie Law,False,True,placed on IL with sprained right wrist
 2011-02-03,Warriors,2294,Charlie Bell,True,False,activated from IL
 2011-02-04,Bobcats,2059,Eduardo Najera,False,True,placed on IL with illness
+2011-02-04,Bobcats,201187,Dominic McGuire,True,False,activated from IL
 2011-02-04,Cavaliers,200789,Daniel Gibson,False,True,personal reasons (DNP)
 2011-02-04,Celtics,406,Shaquille O'Neal,False,True,sore right leg / Achilles tendon (DNP)
 2011-02-04,Clippers,201569,Eric Gordon,False,True,sprained right wrist (DNP)
@@ -1450,9 +1499,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-04,Timberwolves,201961,Wayne Ellington,False,True,placed on IL for personal reasons
 2011-02-04,Timberwolves,202351,Lazar Hayward,True,False,activated from IL
 2011-02-05,Blazers,201967,Dante Cunningham,False,True,facial injury (DNP)
+2011-02-05,Bobcats,201187,Dominic McGuire,False,True,placed on IL
 2011-02-05,Bobcats,2059,Eduardo Najera,True,False,activated from IL
 2011-02-05,Bucks,201972,Jon Brockman,False,True,placed on IL
 2011-02-05,Bucks,101106,Andrew Bogut,True,False,activated from IL
+2011-02-05,Grizzlies,201960,DeMarre Carroll,True,False,activated from IL
 2011-02-05,Hawks,201143,Al Horford,False,True,placed on IL with bruised back
 2011-02-05,Hawks,202348,Jordan Crawford,True,False,activated from IL
 2011-02-05,Hornets,201160,Jason Smith,False,True,placed on IL with illness
@@ -1479,6 +1530,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-06,Knicks,202360,Andy Rautins,True,False,activated from IL
 2011-02-06,Magic,101138,Brandon Bass,False,True,sprained left ankle (DNP)
 2011-02-07,Bobcats,2679,Matt Carroll,False,True,placed on IL
+2011-02-07,Bobcats,201187,Dominic McGuire,True,False,activated from IL
 2011-02-07,Celtics,2605,Marquis Daniels,False,True,placed on IL with bruised spinal cord
 2011-02-07,Celtics,201623,Semih Erden,False,True,strained right adductor (DNP)
 2011-02-07,Celtics,406,Shaquille O'Neal,False,True,sore right leg (DNP)
@@ -1494,6 +1546,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-07,Timberwolves,201961,Wayne Ellington,True,False,activated from IL
 2011-02-07,Celtics,202340,Avery Bradley,True,False,activated from IL
 2011-02-07,Rockets,202397,Ish Smith,True,False,activated from IL
+2011-02-08,Bucks,202336,Larry Sanders (b. 1988-11-21),False,True,placed on IL with back spasms
 2011-02-08,Bucks,201972,Jon Brockman,True,False,activated from IL
 2011-02-08,Clippers,201569,Eric Gordon,False,True,sprained right wrist (DNP)
 2011-02-08,Grizzlies,200752,Rudy Gay,False,True,placed on IL with sprained right big toe
@@ -1502,6 +1555,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-08,Pacers,2551,T.J. Ford,False,True,placed on IL
 2011-02-08,Pacers,201575,Brandon Rush,True,False,activated from IL
 2011-02-08,Pistons,2404,Chris Wilcox,False,True,sore groin (DNP)
+2011-02-08,Pistons,201969,DaJuan Summers,False,True,placed on IL
 2011-02-08,Pistons,1888,Richard Hamilton,False,True,sore groin (DNP)
 2011-02-08,Pistons,201155,Rodney Stuckey,True,False,activated from IL
 2011-02-08,Raptors,201582,Alex Ajinca,False,True,sore left foot (DNP)
@@ -1557,11 +1611,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-11,Spurs,201168,Tiago Splitter,False,True,strained left hamstring (DNP)
 2011-02-11,Timberwolves,2545,Darko Milicic,False,True,strained left hip flexor (DNP)
 2011-02-11,Timberwolves,201563,Michael Beasley,False,True,sprained left ankle (DNP)
+2011-02-11,Bucks,202336,Larry Sanders (b. 1988-11-21),True,False,activated from IL
+2011-02-11,Bucks,202336,Larry Sanders (b. 1988-11-21),False,True,back spasms (DNP)
 2011-02-12,Bobcats,201974,Derrick Brown,False,True,placed on IL
 2011-02-12,Bobcats,202395,Sherron Collins,True,False,activated from IL
 2011-02-12,Cavaliers,2760,Anderson Varejao,False,True,surgery on right ankle to repair torn tendon (date approximate)
 2011-02-12,Hawks,202348,Jordan Crawford,False,True,placed on IL
 2011-02-12,Hawks,201143,Al Horford,True,False,activated from IL
+2011-02-12,Knicks,2405,Amar'e Stoudemire,False,True,placed on IL with sprained right big toe
 2011-02-12,Knicks,101142,Ronny Turiaf,True,False,activated from IL
 2011-02-12,Pacers,2551,T.J. Ford,False,True,placed on IL
 2011-02-12,Pacers,201575,Brandon Rush,True,False,activated from IL (P)
@@ -1583,11 +1640,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-13,Grizzlies,2216,Zach Randolph,True,False,activated from IL
 2011-02-13,Kings,101129,Luther Head,False,True,sore right knee (DTD)
 2011-02-13,Pistons,1888,Richard Hamilton,False,True,placed on IL with strained groin
+2011-02-13,Pistons,201969,DaJuan Summers,True,False,activated from IL
 2011-02-13,Raptors,202374,Solomon Alabi,False,True,placed on IL
 2011-02-13,Raptors,101161,Amir Johnson,True,False,activated from IL
 2011-02-13,Warriors,2429,Dan Gadzuric,False,True,back spasms (DTD)
 2011-02-13,Wizards,202380,Hamady N'Diaye,False,True,placed on IL
 2011-02-13,Wizards,2572,Josh Howard,True,False,activated from IL
+2011-02-14,Bobcats,201187,Dominic McGuire,False,True,placed on IL
 2011-02-14,Bobcats,201974,Derrick Brown,True,False,activated from IL
 2011-02-14,Bucks,1894,Corey Maggette,False,True,placed on IL witih back injury
 2011-02-14,Bucks,201604,Chris Douglas-Roberts,True,False,activated from IL
@@ -1596,7 +1655,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-14,Timberwolves,101110,Martell Webster,True,False,activated from IL
 2011-02-15,Bobcats,2059,Eduardo Najera,False,True,groin injury (DNP)
 2011-02-15,Bobcats,2679,Matt Carroll,False,True,placed on IL
+2011-02-15,Bobcats,201187,Dominic McGuire,True,False,activated from IL
 2011-02-15,Bulls,201949,James Johnson,True,False,activated from IL
+2011-02-15,Grizzlies,201960,DeMarre Carroll,False,True,placed on IL
 2011-02-15,Grizzlies,201564,O.J. Mayo,True,False,activated from IL
 2011-02-15,Heat,202354,Dexter Pittman,False,True,surgery on right knee to repair cartilage (out indefinitely)
 2011-02-15,Hornets,202347,Quincy Pondexter,True,False,activated from IL
@@ -1625,6 +1686,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-16,Jazz,101179,Ronnie Price,False,True,sprained right big toe (DNP)
 2011-02-16,Kings,201936,Tyreke Evans,False,True,plantar fasciitis in right foot (DNP)
 2011-02-16,Knicks,202360,Andy Rautins,False,True,placed on IL
+2011-02-16,Knicks,2405,Amar'e Stoudemire,True,False,activated from IL
 2011-02-16,Mavericks,202346,Dominique Jones,False,True,placed on IL with stress fracture in right foot (out for season)
 2011-02-16,Mavericks,201958,Rodrigue Beaubois,True,False,activated from IL
 2011-02-16,Pacers,1902,Jeff Foster,False,True,placed on IL with sprained ankle
@@ -1644,6 +1706,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-21,Clippers,201569,Eric Gordon,False,True,placed on IL with sprained right wrist
 2011-02-21,Clippers,202378,Willie Warren,True,False,activated from IL
 2011-02-21,Grizzlies,200752,Rudy Gay,False,True,placed on IL with partially dislocated left shoulder (out for season)
+2011-02-21,Grizzlies,201960,DeMarre Carroll,True,False,activated from IL
 2011-02-21,Kings,201936,Tyreke Evans,False,True,placed on IL with plantar fasciitis in left foot
 2011-02-21,Pacers,200780,Solomon Jones,False,True,placed on IL
 2011-02-21,Pacers,1902,Jeff Foster,True,False,activated from IL
@@ -1727,8 +1790,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-25,Warriors,200811,Lou Amundson,True,False,activated from IL
 2011-02-25,Wizards,201154,Al Thornton,False,True,placed on IL with sprained left ankle
 2011-02-25,Wizards,101154,Andray Blatche,False,True,placed on IL with hip injury
+2011-02-25,Bobcats,2205,DeSagana Diop,True,False,activated from IL
 2011-02-25,Bobcats,200748,Tyrus Thomas,True,False,activated from IL
 2011-02-25,Kings,101128,Francisco Garcia,True,False,activated from IL
+2011-02-25,Bobcats,2205,DeSagana Diop,False,True,ruptured right Achilles tendon (DNP)
 2011-02-25,Bobcats,200748,Tyrus Thomas,False,True,torn meniscus in right knee (DNP)
 2011-02-25,Kings,101128,Francisco Garcia,False,True,strained left calf (DNP)
 2011-02-25,Warriors,202399,Jeff Adrien,False,True,placed on IL
@@ -1741,8 +1806,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-26,Nets,2624,Quinton Ross,False,True,strained lower back (DNP)
 2011-02-26,Pistons,1112,Ben Wallace,False,True,death of brother (DNP)
 2011-02-26,Pistons,2419,Tayshaun Prince,False,True,back injury / illness (P) (DNP)
+2011-02-26,Pistons,1503,Tracy McGrady,False,True,headache (DNP)
+2011-02-26,Rockets,201960,DeMarre Carroll,False,True,placed on IL
 2011-02-26,Rockets,201944,Terrence Williams,True,False,activated from IL
 2011-02-27,Blazers,948,Marcus Camby,True,False,activated from IL
+2011-02-27,Bobcats,2205,DeSagana Diop,False,True,placed on IL with ruptured right Achilles tendon (out for season)
 2011-02-27,Bobcats,200748,Tyrus Thomas,False,True,torn meniscus in right knee (DNP)
 2011-02-27,Bobcats,201967,Dante Cunningham,True,False,activated from IL
 2011-02-27,Bobcats,2038,Joel Przybilla,True,False,activated from IL
@@ -1755,6 +1823,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-02-27,Hornets,2561,David West,True,False,activated from IL
 2011-02-27,Raptors,200745,Andrea Bargnani,False,True,flu (DNP)
 2011-02-27,Rockets,201609,Goran Dragic,False,True,placed on IL with flu
+2011-02-27,Rockets,201960,DeMarre Carroll,True,False,activated from IL
 2011-02-27,Spurs,202390,Gary Neal,False,True,concussion symptoms (DNP)
 2011-02-27,Suns,202081,Garret Siler,False,True,placed on IL
 2011-02-27,Suns,201166,Aaron Brooks,True,False,activated from IL
@@ -1785,10 +1854,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-01,Blazers,201164,Rudy Fernandez,False,True,illness / flu (DNP)
 2011-03-01,Bucks,101106,Andrew Bogut,False,True,strained left rib muscle (DNP)
 2011-03-01,Bucks,101141,Ersan Ilyasova,False,True,placed on IL with concussion
+2011-03-01,Bucks,201601,Luc Mbah a Moute,False,True,flu (DNP)
 2011-03-01,Magic,2240,Gilbert Arenas,False,True,sore left knee (DNP)
 2011-03-01,Pistons,1112,Ben Wallace,False,True,placed on IL for personal reasons
 2011-03-01,Pistons,2419,Tayshaun Prince,False,True,sore SI joint (DNP)
 2011-03-01,Pistons,1888,Richard Hamilton,True,False,activated from IL
+2011-03-01,Rockets,201960,DeMarre Carroll,False,True,placed on IL
 2011-03-01,Rockets,201609,Goran Dragic,True,False,activated from IL
 2011-03-01,Spurs,2225,(William) Tony Parker,False,True,placed on IL with strained left calf muscle
 2011-03-01,Spurs,201168,Tiago Splitter,True,False,activated from IL
@@ -1809,6 +1880,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-04,Bobcats,200748,Tyrus Thomas,False,True,placed on IL with torn meniscus in right knee
 2011-03-04,Bucks,101106,Andrew Bogut,False,True,placed on IL with strained left rib muscle
 2011-03-04,Bucks,101141,Ersan Ilyasova,False,True,concussion (DNP)
+2011-03-04,Bucks,201601,Luc Mbah a Moute,False,True,stomach virus (DNP)
 2011-03-04,Bucks,101141,Ersan Ilyasova,True,False,activated from IL
 2011-03-04,Bulls,2446,Rasual Butler,False,True,placed on IL
 2011-03-04,Cavaliers,1712,Antawn Jamison,False,True,placed on IL recovering from surgery to repair broken left little finger (out for season)
@@ -1893,6 +1965,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-08,Pacers,1902,Jeff Foster,False,True,placed on IL with sore back
 2011-03-08,Pacers,200780,Solomon Jones,True,False,activated from IL
 2011-03-08,Rockets,2449,Luis Scola,False,True,placed on IL with left knee injury
+2011-03-08,Rockets,201960,DeMarre Carroll,True,False,activated from IL
 2011-03-08,Suns,101112,Channing Frye,False,True,placed on IL with dislocated right shoulder
 2011-03-08,Suns,202081,Garret Siler,True,False,activated from IL
 2011-03-08,Wizards,201858,Cartier Martin,False,True,patella tendinitis in right knee (DNP)
@@ -1941,6 +2014,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-11,Magic,200755,J.J. Redick,False,True,lower abdominal strain (DNP)
 2011-03-11,Pacers,200780,Solomon Jones,False,True,placed on IL
 2011-03-11,Pacers,1902,Jeff Foster,True,False,activated from IL
+2011-03-11,Pistons,201969,DaJuan Summers,False,True,placed on IL
 2011-03-11,Pistons,1112,Ben Wallace,True,False,activated from IL
 2011-03-11,Raptors,201582,Alex Ajinca,False,True,sore right knee (DNP)
 2011-03-11,Raptors,101161,Amir Johnson,False,True,placed on IL with sprained left ankle
@@ -1956,6 +2030,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-12,Hawks,202377,Pape Sy,True,False,activated from IL
 2011-03-12,Heat,980,Zydrunas Ilgauskas,False,True,placed on IL with foot infection
 2011-03-12,Heat,2048,Jamaal Magloire,True,False,activated from IL
+2011-03-12,Hornets,202077,Jerel McNeal,False,True,placed on IL
 2011-03-12,Hornets,2556,Marcus Banks,False,True,placed on IL (out for season)
 2011-03-12,Hornets,101108,Chris Paul,True,False,activated from IL
 2011-03-12,Jazz,200794,Paul Millsap,False,True,patellar tendinitis in left knee (DNP)
@@ -2023,6 +2098,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-18,Nuggets,1733,Al Harrington,False,True,placed on IL with strained right Achilles tendon
 2011-03-18,Nuggets,201568,Danilo Gallinari,True,False,activated from IL
 2011-03-18,Pistons,1888,Richard Hamilton,False,True,placed on IL with death of grandfather
+2011-03-18,Pistons,201969,DaJuan Summers,True,False,activated from IL
 2011-03-18,Raptors,201153,Julian Wright,False,True,placed on IL
 2011-03-18,Raptors,101161,Amir Johnson,True,False,activated from IL
 2011-03-18,Spurs,201980,Danny Green,False,True,placed on IL
@@ -2049,12 +2125,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-19,Nuggets,1733,Al Harrington,True,False,activated from IL
 2011-03-19,Spurs,1495,Tim Duncan,False,True,placed on IL for rest
 2011-03-19,Spurs,201980,Danny Green,True,False,activated from IL
+2011-03-20,Clippers,201599,DeAndre Jordan,False,True,placed on IL with pneumonia
 2011-03-20,Clippers,2567,Brian Cook,True,False,activated from IL
 2011-03-20,Jazz,101179,Ronnie Price,True,False,activated from IL
 2011-03-20,Mavericks,1890,Shawn Marion,False,True,placed on IL with sprained right wrist
 2011-03-20,Mavericks,978,Peja Stojakovic,True,False,activated from IL
 2011-03-20,Nets,101114,Deron Williams,False,True,placed on IL with strained tendon in right wrist
 2011-03-20,Nets,2429,Dan Gadzuric,True,False,activated from IL
+2011-03-20,Pistons,201969,DaJuan Summers,False,True,placed on IL
 2011-03-20,Pistons,1888,Richard Hamilton,True,False,activated from IL
 2011-03-20,Raptors,201595,Joey Dorsey,False,True,placed on IL with flu
 2011-03-20,Raptors,201153,Julian Wright,True,False,activated from IL
@@ -2065,6 +2143,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-20,Rockets,201934,Hasheem Thabeet,False,True,placed on IL
 2011-03-21,Bulls,2243,Brian Scalabrine,False,True,placed on IL
 2011-03-21,Bulls,2457,Jannero Pargo,False,True,placed on IL
+2011-03-21,Bulls,101249,John Lucas III,False,True,placed on IL
 2011-03-21,Bulls,2430,Carlos Boozer,True,False,activated from IL
 2011-03-21,Cavaliers,1884,Baron Davis,False,True,back spasms (DNP)
 2011-03-21,Heat,201596,Mario Chalmers,False,True,sprained right knee (out indefinitely)
@@ -2072,6 +2151,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-21,Nets,202345,Damion James,False,True,sore right foot (DNP)
 2011-03-21,Nuggets,201167,Arron Afflalo,False,True,placed on IL with strained hamstring
 2011-03-21,Nuggets,2408,Melvin Ely,True,False,activated from IL
+2011-03-21,Spurs,201971,DeJuan Blair,False,True,placed on IL with sprained left wrist
 2011-03-21,Spurs,1495,Tim Duncan,True,False,activated from IL
 2011-03-21,Spurs,1495,Tim Duncan,False,True,sprained left ankle (out indefinitely)
 2011-03-22,Blazers,948,Marcus Camby,False,True,sprained right ankle (DNP)
@@ -2093,8 +2173,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-23,Nuggets,101109,Raymond Felton,True,False,activated from IL
 2011-03-23,Pistons,1112,Ben Wallace,False,True,left knee injury (DTD)
 2011-03-23,Pistons,1112,Ben Wallace,False,True,placed on IL with sore left knee
+2011-03-23,Pistons,201969,DaJuan Summers,True,False,activated from IL
 2011-03-23,Rockets,201978,Chase Budinger,False,True,sprained left ankle (DTD)
 2011-03-23,Rockets,201978,Chase Budinger,False,True,placed on IL
+2011-03-23,Spurs,201971,DeJuan Blair,True,False,activated from IL
 2011-03-23,Timberwolves,201567,Kevin Love,False,True,strained left groin (DTD)
 2011-03-23,Wizards,201156,Nick Young,False,True,bruised left knee (DNP)
 2011-03-24,Jazz,1905,Andrei Kirilenko,False,True,nerve damage in left knee (DNP)
@@ -2106,6 +2188,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-25,Bobcats,202066,Garrett Temple,True,False,activated from IL
 2011-03-25,Celtics,2211,Troy Murphy,False,True,sprained right ankle (DNP)
 2011-03-25,Clippers,2567,Brian Cook,False,True,placed on IL
+2011-03-25,Clippers,201599,DeAndre Jordan,True,False,activated from IL
 2011-03-25,Grizzlies,200752,Rudy Gay,False,True,surgery to repair partially dislocated left shoulder (out for season)
 2011-03-25,Heat,201596,Mario Chalmers,False,True,sprained right knee (DNP)
 2011-03-25,Hornets,2561,David West,False,True,placed on IL with torn ACL in left knee (out for season)
@@ -2137,6 +2220,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-26,Nets,202345,Damion James,False,True,sore right foot (DNP)
 2011-03-26,Nets,2624,Quinton Ross,False,True,placed on IL with bulging disc in lower back
 2011-03-26,Nets,202345,Damion James,True,False,activated from IL
+2011-03-26,Pistons,1503,Tracy McGrady,False,True,sore back (DNP)
 2011-03-26,Raptors,200745,Andrea Bargnani,False,True,sore right ankle (DNP)
 2011-03-26,Raptors,2501,Reggie Evans,False,True,placed on IL
 2011-03-26,Raptors,201595,Joey Dorsey,True,False,activated from IL
@@ -2163,6 +2247,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-28,Magic,200755,J.J. Redick,False,True,lower abdominal strain (DNP)
 2011-03-28,Magic,2749,Jameer Nelson,False,True,sprained left knee (DNP)
 2011-03-28,Spurs,2225,(William) Tony Parker,False,True,bruised left patella (DNP)
+2011-03-28,Spurs,686,Antonio McDyess,False,True,bruised lower back (DNP)
 2011-03-28,Spurs,1938,Manu Ginobili,False,True,placed on IL with bruised left quadriceps
 2011-03-28,Spurs,200809,Chris Quinn,True,False,activated from IL
 2011-03-28,Wizards,201156,Nick Young,False,True,bruised left knee (DNP)
@@ -2175,6 +2260,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-03-29,Warriors,202391,Jeremy Lin,True,False,activated from IL
 2011-03-30,Bobcats,2733,Shaun Livingston,False,True,placed on IL with tailbone injury (out for season)
 2011-03-30,Bobcats,200748,Tyrus Thomas,False,True,sore left knee (DNP)
+2011-03-30,Bucks,202336,Larry Sanders (b. 1988-11-21),False,True,back spasms (DNP)
 2011-03-30,Bulls,201149,Joakim Noah,False,True,placed on IL with sprained right ankle
 2011-03-30,Bulls,2243,Brian Scalabrine,True,False,activated from IL
 2011-03-30,Cavaliers,202396,Samardo Samuels,False,True,sprained right wrist (DNP)
@@ -2237,6 +2323,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-01,Nuggets,201167,Arron Afflalo,True,False,activated from IL
 2011-04-01,Pacers,202362,Lance Stephenson,False,True,placed on IL
 2011-04-01,Pacers,1899,James Posey,True,False,activated from IL
+2011-04-01,Pistons,1503,Tracy McGrady,False,True,placed on IL with sore back
 2011-04-01,Pistons,1112,Ben Wallace,True,False,activated from IL
 2011-04-01,Suns,959,Steve Nash,False,True,flu-like symptoms (DNP)
 2011-04-01,Timberwolves,2742,Sebastian Telfair,False,True,placed on IL for personal reasons
@@ -2271,6 +2358,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-03,Nuggets,201167,Arron Afflalo,False,True,hamstring injury (DTD)
 2011-04-03,Nuggets,2365,Chris Andersen,False,True,placed on IL with sprained right ankle
 2011-04-03,Nuggets,201585,Kosta Koufos,True,False,activated from IL
+2011-04-03,Pistons,201969,DaJuan Summers,False,True,placed on IL
+2011-04-03,Pistons,1503,Tracy McGrady,True,False,activated from IL
 2011-04-03,Raptors,200745,Andrea Bargnani,False,True,placed on IL with sore right ankle
 2011-04-03,Raptors,201595,Joey Dorsey,True,False,activated from IL
 2011-04-03,Suns,959,Steve Nash,False,True,flu (DNP)
@@ -2301,6 +2390,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-05,Nuggets,201167,Arron Afflalo,False,True,placed on IL with hamstring injury
 2011-04-05,Nuggets,2408,Melvin Ely,True,False,activated from IL
 2011-04-05,Pistons,101111,Charlie Villanueva,False,True,placed on IL with sore back
+2011-04-05,Pistons,201969,DaJuan Summers,True,False,activated from IL
 2011-04-05,Raptors,2571,Leandro Barbosa,False,True,placed on IL with sore right pinky finger (out for season)
 2011-04-05,Raptors,200745,Andrea Bargnani,True,False,activated from IL
 2011-04-05,Spurs,202341,James Anderson,False,True,placed on IL
@@ -2356,6 +2446,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-08,Hawks,202377,Pape Sy,True,False,activated from IL
 2011-04-08,Heat,2048,Jamaal Magloire,False,True,placed on IL
 2011-04-08,Heat,2548,Dwyane Wade,True,False,activated from IL
+2011-04-08,Knicks,2405,Amar'e Stoudemire,False,True,placed on IL with sprained ankle
 2011-04-08,Knicks,202360,Andy Rautins,False,True,surgery on knee (date approximate)
 2011-04-08,Knicks,2427,Roger Mason Jr.,True,False,activated from IL
 2011-04-08,Mavericks,467,Jason Kidd,False,True,placed on IL for rest
@@ -2376,6 +2467,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-09,Nuggets,201163,Wilson Chandler,False,True,sore left ankle (DNP)
 2011-04-09,Rockets,200768,Kyle Lowry,False,True,sore left foot / knee (CBC) (DNP)
 2011-04-09,Rockets,2449,Luis Scola,False,True,sore left knee (DNP)
+2011-04-09,Spurs,686,Antonio McDyess,False,True,placed on IL for rest
 2011-04-09,Spurs,202341,James Anderson,True,False,activated from IL
 2011-04-09,Timberwolves,2545,Darko Milicic,False,True,sprained left ankle (DNP)
 2011-04-09,Timberwolves,2742,Sebastian Telfair,False,True,personal reasons (DNP)
@@ -2395,6 +2487,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-10,Nets,202345,Damion James,False,True,sore right foot (DNP)
 2011-04-10,Pacers,1899,James Posey,False,True,placed on IL
 2011-04-10,Pacers,2551,T.J. Ford,True,False,activated from IL
+2011-04-10,Pistons,201969,DaJuan Summers,False,True,ill (DNP)
 2011-04-10,Pistons,101198,Will Bynum,False,True,strained right knee (DNP)
 2011-04-10,Raptors,101161,Amir Johnson,False,True,sore left ankle (DNP)
 2011-04-10,Raptors,101181,Jose Calderon,False,True,sore/strained left hamstring (DNP)
@@ -2432,6 +2525,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-11,Nuggets,201163,Wilson Chandler,False,True,placed on IL with sore left ankle
 2011-04-11,Nuggets,201167,Arron Afflalo,True,False,activated from IL
 2011-04-11,Nuggets,2365,Chris Andersen,True,False,activated from IL
+2011-04-11,Pistons,1503,Tracy McGrady,False,True,rest (DNP)
 2011-04-11,Pistons,101198,Will Bynum,False,True,strained right knee (DNP)
 2011-04-11,Raptors,101161,Amir Johnson,False,True,sore left ankle (DNP)
 2011-04-11,Raptors,101132,Linas Kleiza,False,True,placed on IL recovering from microfracture surgery on right knee to repair cartilage damage (out for season)
@@ -2462,6 +2556,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-12,Spurs,200809,Chris Quinn,True,False,activated from IL
 2011-04-13,Blazers,200750,Brandon Roy,False,True,rest (DNP)
 2011-04-13,Blazers,2222,Gerald Wallace,False,True,rest (DNP)
+2011-04-13,Blazers,200746,LaMarcus Aldridge,False,True,rest (DNP)
 2011-04-13,Blazers,948,Marcus Camby,False,True,rest (DNP)
 2011-04-13,Blazers,201587,Nicolas Batum,False,True,placed on IL for rest
 2011-04-13,Blazers,202337,Luke Babbitt,True,False,activated from IL
@@ -2484,12 +2579,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-13,Hawks,202377,Pape Sy,True,False,activated from IL
 2011-04-13,Heat,2547,Chris Bosh,False,True,rest (DNP)
 2011-04-13,Heat,2548,Dwyane Wade,False,True,rest (DNP)
+2011-04-13,Heat,2544,LeBron James,False,True,rest (DNP)
 2011-04-13,Heat,2034,Mike Miller,False,True,thumb injury (DTD)
 2011-04-13,Jazz,101139,C.J. Miles,False,True,partial muscle tear / left knee injury (DNP)
 2011-04-13,Jazz,201178,Kyrylo Fesenko,False,True,fractured right thumb (DNP)
 2011-04-13,Jazz,101179,Ronnie Price,False,True,strained left calf (DNP)
 2011-04-13,Knicks,2546,Carmelo Anthony,False,True,placed on IL for rest
 2011-04-13,Knicks,1497,Chauncey Billups,False,True,rest (DNP)
+2011-04-13,Knicks,2405,Amar'e Stoudemire,True,False,activated from IL
 2011-04-13,Lakers,101115,Andrew Bynum,False,True,placed on IL with hyperextended right knee (out for season)
 2011-04-13,Lakers,2440,Matt Barnes,False,True,placed on IL with sore right knee (out for season)
 2011-04-13,Magic,2240,Gilbert Arenas,False,True,sore left knee / rest (DNP)
@@ -2507,6 +2604,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-13,Nuggets,201163,Wilson Chandler,True,False,activated from IL
 2011-04-13,Pacers,101122,Danny Granger,False,True,placed on IL for rest
 2011-04-13,Pacers,1899,James Posey,True,False,activated from IL
+2011-04-13,Pistons,1503,Tracy McGrady,False,True,rest (DNP)
 2011-04-13,Pistons,101198,Will Bynum,False,True,strained right knee (DNP)
 2011-04-13,Raptors,101161,Amir Johnson,False,True,sore left ankle (DNP)
 2011-04-13,Raptors,101181,Jose Calderon,False,True,sore/strained left hamstring (DNP)
@@ -2516,6 +2614,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-13,Rockets,2449,Luis Scola,False,True,sore left knee (DNP)
 2011-04-13,Spurs,200809,Chris Quinn,False,True,placed on IL (out for season)
 2011-04-13,Spurs,202341,James Anderson,False,True,placed on IL
+2011-04-13,Spurs,686,Antonio McDyess,True,False,activated from IL
 2011-04-13,Spurs,1938,Manu Ginobili,True,False,activated from IL
 2011-04-13,Thunder,2555,Nick Collison,False,True,placed on IL (out for season)
 2011-04-13,Thunder,201957,B.J. Mullens,True,False,activated from IL
@@ -2530,6 +2629,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2011-04-16,76ers,2574,Jason Kapono,False,True,placed on IL
 2011-04-16,Blazers,202337,Luke Babbitt,False,True,placed on IL
 2011-04-16,Bulls,2457,Jannero Pargo,False,True,placed on IL
+2011-04-16,Bulls,101249,John Lucas III,False,True,placed on IL
 2011-04-16,Cavaliers,201196,Ramon Sessions,False,True,surgery to repair hernia (out indefinitely)
 2011-04-16,Cavaliers,202396,Samardo Samuels,False,True,surgery on right wrist (out indefinitely)
 2011-04-16,Cavaliers,201623,Semih Erden,False,True,surgery to repair separated left shoulder (out indefinitely)

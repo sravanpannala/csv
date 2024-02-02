@@ -12,6 +12,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-06,Lakers,2772,Trevor Ariza,False,True,arthroscopic surgery on right ankle (out indefinitely)
 2021-10-14,Thunder,1629603,Mamadi Diakite,False,True,fractured left hip (out indefinitely)
 2021-10-18,Bucks,1626171,Bobby Portis,False,True,placed on IL with strained left hamstring
+2021-10-18,Bucks,1628978,Donte DiVincenzo,False,True,placed on IL with recovering from surgery on left ankle
 2021-10-18,Bucks,203918,Rodney Hood,False,True,placed on IL with sore right foot
 2021-10-18,Bucks,1628400,Semi Ojeleye,False,True,placed on IL with strained left calf
 2021-10-18,Lakers,1629659,Talen Horton-Tucker,False,True,placed on IL with surgery on right thumb
@@ -39,6 +40,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-19,Magic,203487,Michael Carter-Williams,False,True,placed on IL with left ankle injury
 2021-10-19,Nets,1630549,Day'Ron Sharpe,False,True,placed on IL with toe injury
 2021-10-19,Nuggets,1627750,Jamal Murray,False,True,placed on IL with recovering from surgery on left knee to repair torn ACL (out for season)
+2021-10-19,Pacers,1627747,Caris LeVert,False,True,placed on IL with sore lower back
 2021-10-19,Pacers,1629103,Kelan Martin,False,True,placed on IL with strained left hamstring
 2021-10-19,Pacers,203933,T.J. Warren,False,True,placed on IL with recovering from surgery on left foot to repair stress fracture (out for season)
 2021-10-19,Pelicans,1629627,Zion Williamson,False,True,placed on IL with fractured right foot (out for season)
@@ -69,6 +71,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-20,Knicks,203457,Nerlens Noel,False,True,placed on IL with sore left knee
 2021-10-20,Knicks,201959,Taj Gibson,False,True,personal reasons (DTD)
 2021-10-20,Magic,203914,Gary Harris,False,True,right hamstring injury (DTD)
+2021-10-20,Pacers,1630610,DeJon Jarreau,False,True,placed on IL
 2021-10-20,Rockets,1627863,Danuel House Jr.,False,True,placed on IL for personal reasons
 2021-10-20,Rockets,1629726,Garrison Mathews,False,True,placed on IL
 2021-10-20,Wizards,1630216,Cassius Winston,False,True,placed on IL
@@ -83,6 +86,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-21,Jazz,1630235,Trent Forrest,True,False,returned to lineup
 2021-10-21,Lakers,1629134,Kendrick Nunn,False,True,placed on IL with right knee injury (out for season)
 2021-10-21,Mavericks,1630647,Eugene Omoruyi,False,True,placed on IL
+2021-10-21,Mavericks,1630605,JaQuori McLaughlin,False,True,placed on IL
 2021-10-21,Nets,1630549,Day'Ron Sharpe,True,False,activated from IL
 2021-10-21,Warriors,1630288,Jeff Dowtin Jr.,True,False,returned to lineup
 2021-10-22,76ers,1627732,Ben Simmons,False,True,personal reasons (out indefinitely)
@@ -96,12 +100,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-22,Hornets,1626179,Terry Rozier,True,False,activated from IL
 2021-10-22,Jazz,1630238,Malik Fitts,False,True,placed on IL
 2021-10-22,Kings,203090,Moe Harkless,False,True,sore left hip (DTD)
+2021-10-22,Kings,1630218,Robert Woodard II,False,True,placed on IL
 2021-10-22,Kings,1629663,Louis King,True,False,activated from IL
 2021-10-22,Knicks,1629677,Luka Samanic,True,False,returned to lineup
 2021-10-22,Lakers,1629635,Sekou Doumbouya,False,True,placed on IL
 2021-10-22,Nets,1630561,David Duke Jr.,False,True,placed on IL
 2021-10-22,Nets,1630556,Kessler Edwards,False,True,placed on IL
 2021-10-22,Nuggets,1628427,Vlatko Cancar,False,True,placed on IL with strained left hip
+2021-10-22,Pacers,1630610,DeJon Jarreau,True,False,activated from IL
 2021-10-22,Pelicans,1629756,Daulton Hommes,False,True,personal reasons (DTD)
 2021-10-22,Pelicans,1628404,Josh Hart,False,True,right quadriceps tendinosis (DTD)
 2021-10-22,Rockets,1627863,Danuel House Jr.,True,False,activated from IL
@@ -111,7 +117,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-23,Bucks,201950,Jrue Holiday,True,False,returned to lineup
 2021-10-23,Bucks,203918,Rodney Hood,True,False,activated from IL
 2021-10-23,Heat,200768,Kyle Lowry,False,True,sprained left ankle (DTD)
+2021-10-23,Pacers,1630610,DeJon Jarreau,False,True,placed on IL
 2021-10-23,Suns,1626166,Cameron Payne,False,True,strained right hamstring (DTD)
+2021-10-23,Timberwolves,1630593,McKinley Wright IV,False,True,placed on IL
 2021-10-24,76ers,203083,Andre Drummond,False,True,sprained right ankle (DTD)
 2021-10-24,Blazers,1626181,Norman Powell,False,True,placed on IL with patella tendinopathy in left knee
 2021-10-24,Celtics,1627759,Jaylen Brown,False,True,placed on IL with patella tendinopathy in left knee
@@ -119,6 +127,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-24,Hornets,1626179,Terry Rozier,False,True,placed on IL with sprained right ankle
 2021-10-24,Kings,1629663,Louis King,False,True,placed on IL
 2021-10-24,Kings,203090,Moe Harkless,True,False,returned to lineup
+2021-10-24,Kings,1630218,Robert Woodard II,True,False,activated from IL
 2021-10-24,Knicks,201959,Taj Gibson,True,False,returned to lineup
 2021-10-24,Warriors,2738,Andre Iguodala,False,True,placed on IL with sore left hip
 2021-10-25,Bucks,201950,Jrue Holiday,False,True,sprained left ankle (DTD)
@@ -142,6 +151,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-26,76ers,203083,Andre Drummond,True,False,returned to lineup
 2021-10-26,Jazz,1629671,Miye Oni,False,True,illness (DTD)
 2021-10-26,Jazz,1630238,Malik Fitts,True,False,activated from IL
+2021-10-26,Lakers,2544,LeBron James,False,True,sore right ankle (DTD)
 2021-10-26,Rockets,1629726,Garrison Mathews,True,False,returned to lineup
 2021-10-26,Thunder,202324,Derrick Favors,False,True,placed on IL
 2021-10-26,Warriors,2738,Andre Iguodala,True,False,activated from IL
@@ -155,8 +165,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-27,Heat,1630585,Marcus Garrett,False,True,placed on IL
 2021-10-27,Heat,1628997,Caleb Martin,True,False,activated from IL
 2021-10-27,Hornets,1630176,Vernon Carey Jr.,False,True,placed on IL
-2021-10-27,Nets,1629651,Nic Claxton,False,True,placed on IL with illness
+2021-10-27,Kings,1630218,Robert Woodard II,False,True,placed on IL
+2021-10-27,Nets,2049,Nic Claxton,False,True,placed on IL with illness
 2021-10-27,Rockets,1627863,Danuel House Jr.,False,True,placed on IL with sprained right foot
+2021-10-27,Spurs,203926,Doug McDermott,False,True,placed on IL with right knee inflammation
 2021-10-27,Thunder,203488,Mike Muscala,False,True,placed on IL
 2021-10-27,Thunder,202324,Derrick Favors,True,False,activated from IL
 2021-10-27,Wizards,203526,Raul Neto,False,True,left shoulder injury (DTD)
@@ -167,6 +179,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-28,Mavericks,1628425,Sterling Brown,False,True,placed on IL with sprained left ankle
 2021-10-28,Mavericks,203504,Trey Burke,False,True,NBA health and safety protocols (DTD)
 2021-10-28,Mavericks,1630647,Eugene Omoruyi,True,False,activated from IL
+2021-10-28,Mavericks,1630605,JaQuori McLaughlin,True,False,activated from IL
 2021-10-28,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with sore/strained left hamstring
 2021-10-28,Pistons,203147,(Sean) Chris Smith,True,False,returned to lineup
 2021-10-28,Pistons,203924,Jerami Grant,True,False,returned to lineup
@@ -181,19 +194,24 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-29,Heat,1628997,Caleb Martin,False,True,placed on IL
 2021-10-29,Hornets,1629023,P.J. Washington,True,False,activated from IL
 2021-10-29,Jazz,201144,Mike Conley Jr.,False,True,placed on IL with right knee injury
+2021-10-29,Lakers,2544,LeBron James,True,False,returned to lineup
+2021-10-29,Mavericks,1630605,JaQuori McLaughlin,False,True,placed on IL
 2021-10-29,Mavericks,1626246,Boban Marjanovic,True,False,returned to lineup
 2021-10-29,Mavericks,203504,Trey Burke,True,False,returned to lineup
 2021-10-29,Pacers,1630543,Isaiah Jackson,False,True,placed on IL with hyperextended left knee
+2021-10-29,Pacers,1630610,DeJon Jarreau,True,False,activated from IL
 2021-10-29,Pelicans,202066,Garrett Temple,False,True,sprained left ankle (DTD)
 2021-10-29,Pelicans,1628404,Josh Hart,True,False,returned to lineup
 2021-10-30,Bucks,1626171,Bobby Portis,False,True,placed on IL
 2021-10-30,Celtics,1628981,Bruno Fernando,False,True,placed on IL
+2021-10-30,Celtics,1629057,Robert Williams III,False,True,placed on IL with illness
 2021-10-30,Celtics,1629641,Romeo Langford,True,False,activated from IL
 2021-10-30,Heat,1628389,Bam Adebayo,False,True,placed on IL with bruised left knee
 2021-10-30,Heat,1628997,Caleb Martin,True,False,activated from IL
 2021-10-30,Jazz,1629671,Miye Oni,True,False,returned to lineup
 2021-10-30,Magic,1629643,Chuma Okeke,True,False,returned to lineup
 2021-10-30,Nets,200794,Paul Millsap,False,True,placed on IL for personal reasons
+2021-10-30,Pacers,1627747,Caris LeVert,True,False,activated from IL
 2021-10-30,Pelicans,1627742,Brandon Ingram,False,True,placed on IL with bruised right hip
 2021-10-30,Pelicans,1629756,Daulton Hommes,False,True,placed on IL with right fibula injury
 2021-10-30,Pistons,1630595,Cade Cunningham,True,False,activated from IL
@@ -206,6 +224,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-10-31,Bucks,1628400,Semi Ojeleye,False,True,placed on IL
 2021-10-31,Bucks,1626171,Bobby Portis,True,False,activated from IL
 2021-10-31,Celtics,203935,Marcus Smart,True,False,returned to lineup
+2021-10-31,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2021-10-31,Hornets,1626179,Terry Rozier,True,False,activated from IL
 2021-10-31,Hornets,1630176,Vernon Carey Jr.,True,False,activated from IL
 2021-10-31,Jazz,1630238,Malik Fitts,False,True,placed on IL
@@ -222,6 +241,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-01,Clippers,1630206,Jay Scrubb,False,True,placed on IL
 2021-11-01,Heat,1629622,Max Strus,False,True,placed on IL with sprained left knee
 2021-11-01,Magic,203914,Gary Harris,False,True,placed on IL with sprained left ankle
+2021-11-01,Pacers,1630610,DeJon Jarreau,False,True,placed on IL
 2021-11-01,Pacers,203087,Jeremy Lamb,False,True,sprained left ankle (DTD)
 2021-11-01,Pacers,1629103,Kelan Martin,True,False,activated from IL
 2021-11-01,Raptors,1630567,Scottie Barnes,False,True,placed on IL with sprained right thumb
@@ -237,6 +257,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-02,Heat,1628389,Bam Adebayo,True,False,activated from IL
 2021-11-02,Mavericks,1628467,Maxi Kleber,False,True,placed on IL with strained left oblique muscle
 2021-11-02,Mavericks,203504,Trey Burke,False,True,placed on IL with NBA health and safety protocols
+2021-11-02,Mavericks,1630605,JaQuori McLaughlin,True,False,activated from IL
 2021-11-02,Nets,200794,Paul Millsap,True,False,activated from IL
 2021-11-02,Pelicans,202066,Garrett Temple,True,False,returned to lineup
 2021-11-02,Pistons,1630595,Cade Cunningham,True,False,activated from IL
@@ -245,16 +266,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-02,Suns,1629028,Deandre Ayton,False,True,right leg injury (DTD)
 2021-11-02,Timberwolves,1626156,D'Angelo Russell,False,True,placed on IL with sprained right ankle
 2021-11-02,Warriors,1627814,Damion Lee,True,False,activated from IL
+2021-11-03,76ers,2775,NBA health and safety protocols (DTD),False,True,placed on IL with NBA health and safety protocols
 2021-11-03,76ers,202699,Tobias Harris,False,True,placed on IL with NBA health and safety protocols
 2021-11-03,76ers,203954,Joel Embiid,True,False,activated from IL
 2021-11-03,Cavaliers,1628374,Lauri Markkanen,False,True,placed on IL with NBA health and safety protocols
 2021-11-03,Cavaliers,1630698,Kevin Pangos,True,False,returned to lineup
 2021-11-03,Hornets,1630176,Vernon Carey Jr.,False,True,placed on IL
 2021-11-03,Knicks,203457,Nerlens Noel,True,False,activated from IL
+2021-11-03,Mavericks,1630605,JaQuori McLaughlin,False,True,placed on IL
 2021-11-03,Mavericks,203504,Trey Burke,True,False,activated from IL
 2021-11-03,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
 2021-11-03,Pelicans,1630529,Herb Jones (Keyshawn),False,True,placed on IL with concussion protocol
 2021-11-03,Spurs,1627751,Jakob Poeltl,False,True,placed on IL with NBA health and safety protocols
+2021-11-03,Spurs,203926,Doug McDermott,True,False,activated from IL
 2021-11-03,Timberwolves,201976,Patrick Beverley,True,False,returned to lineup
 2021-11-03,Wizards,202722,Davis Bertans,False,True,placed on IL with sprained left ankle
 2021-11-04,76ers,1627788,Furkan Korkmaz,False,True,sore right wrist (DTD)
@@ -262,6 +286,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-04,Celtics,1626196,Josh Richardson,False,True,placed on IL with bruised left foot
 2021-11-04,Jazz,1628378,Donovan Mitchell,False,True,sprained right ankle (DTD)
 2021-11-04,Jazz,1630238,Malik Fitts,True,False,activated from IL
+2021-11-04,Lakers,2544,LeBron James,False,True,placed on IL with strained abdominal
 2021-11-04,Lakers,2730,Dwight Howard,True,False,returned to lineup
 2021-11-04,Lakers,1629635,Sekou Doumbouya,True,False,activated from IL
 2021-11-04,Lakers,201961,Wayne Ellington,True,False,returned to lineup
@@ -308,6 +333,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-07,Spurs,1627751,Jakob Poeltl,True,False,activated from IL
 2021-11-07,Thunder,1630466,Gabriel Deck,True,False,returned to lineup
 2021-11-07,Wizards,1630225,Isaiah Todd,True,False,activated from IL
+2021-11-07,Kings,1630218,Robert Woodard II,False,True,left hamstring injury (DTD)
 2021-11-08,76ers,203954,Joel Embiid,False,True,placed on IL with NBA health and safety protocols
 2021-11-08,76ers,201980,Danny Green,True,False,activated from IL
 2021-11-08,Cavaliers,1629012,Collin Sexton,False,True,torn meniscus in left knee (out indefinitely)
@@ -333,6 +359,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-09,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
 2021-11-09,Rockets,1627863,Danuel House Jr.,True,False,activated from IL
 2021-11-09,Rockets,201569,Eric Gordon,True,False,activated from IL
+2021-11-09,Kings,1630218,Robert Woodard II,True,False,returned to lineup
 2021-11-10,Cavaliers,1630171,Isaac Okoro,True,False,activated from IL
 2021-11-10,Cavaliers,1630612,R.J. Nembhard Jr.,True,False,activated from IL
 2021-11-10,Grizzlies,1628415,Dillon Brooks,True,False,activated from IL
@@ -342,6 +369,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-10,Knicks,1629011,Mitchell Robinson,True,False,activated from IL
 2021-11-10,Lakers,1630559,Austin Reaves,False,True,strained left hamstring (DTD)
 2021-11-10,Lakers,200765,Rajon Rondo,False,True,strained left hamstring (DTD)
+2021-11-10,Pacers,1627747,Caris LeVert,False,True,placed on IL with sore lower back
 2021-11-10,Pelicans,1630230,Naji Marshall,False,True,sore right knee (DTD)
 2021-11-10,Pelicans,1630529,Herb Jones (Keyshawn),True,False,activated from IL
 2021-11-10,Pistons,1630165,Killian Hayes,True,False,activated from IL
@@ -397,10 +425,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-13,Nets,1630549,Day'Ron Sharpe,False,True,placed on IL for personal reasons
 2021-11-13,Nets,200794,Paul Millsap,False,True,placed on IL for personal reasons
 2021-11-13,Pacers,1629048,Goga Bitadze,False,True,placed on IL with illness
+2021-11-13,Pacers,1627747,Caris LeVert,True,False,activated from IL
 2021-11-13,Pelicans,1627742,Brandon Ingram,True,False,activated from IL
+2021-11-13,Raptors,1627832,Fred VanVleet,False,True,placed on IL with left groin injury
 2021-11-13,Raptors,1630173,Precious Achiuwa,False,True,placed on IL with right shoulder tendinitis
 2021-11-13,Raptors,203920,Khem Birch,True,False,activated from IL
 2021-11-13,Raptors,1627783,Pascal Siakam,True,False,activated from IL
+2021-11-14,Blazers,1630535,Greg Brown III,False,True,placed on IL with sprained left ankle
 2021-11-14,Blazers,1630570,Trendon Watford,True,False,activated from IL
 2021-11-14,Bucks,201588,George Hill,False,True,sore back (DTD)
 2021-11-14,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
@@ -432,6 +463,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-15,Nuggets,1630192,Zeke Nnaji,False,True,sprained right ankle (DTD)
 2021-11-15,Pacers,1630537,Chris Duarte,False,True,placed on IL with sore right shoulder
 2021-11-15,Raptors,1628449,Chris Boucher,False,True,placed on IL with sore lower back
+2021-11-15,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2021-11-15,Rockets,201569,Eric Gordon,False,True,placed on IL with right groin injury
 2021-11-15,Rockets,1629726,Garrison Mathews,True,False,activated from IL
 2021-11-15,Suns,1629028,Deandre Ayton,True,False,returned to lineup
@@ -442,6 +474,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-15,Wizards,1630216,Cassius Winston,True,False,activated from IL
 2021-11-16,76ers,1630565,Aaron Henry,False,True,placed on IL
 2021-11-16,76ers,1630531,Jaden Springer,False,True,placed on IL
+2021-11-16,Blazers,1630535,Greg Brown III,True,False,activated from IL
 2021-11-16,Cavaliers,1630596,Evan Mobley,False,True,placed on IL with sprained right elbow
 2021-11-16,Clippers,1626159,Justise Winslow,False,True,placed on IL for personal reasons
 2021-11-16,Clippers,1629611,Terance Mann,False,True,placed on IL with sprained left ankle
@@ -457,6 +490,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-17,Cavaliers,1628386,Jarrett Allen,False,True,placed on IL with illness
 2021-11-17,Cavaliers,201567,Kevin Love,True,False,activated from IL
 2021-11-17,Cavaliers,1630612,R.J. Nembhard Jr.,True,False,activated from IL
+2021-11-17,Celtics,1629057,Robert Williams III,False,True,placed on IL with sore left knee
 2021-11-17,Celtics,1630271,Brodric Thomas,True,False,activated from IL
 2021-11-17,Heat,202710,Jimmy Butler,True,False,activated from IL
 2021-11-17,Heat,1630585,Marcus Garrett,True,False,activated from IL
@@ -496,6 +530,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-19,Grizzlies,1629001,De'Anthony Melton,False,True,placed on IL with sore right groin
 2021-11-19,Grizzlies,1630241,Sam Merrill,False,True,placed on IL with sprained left ankle
 2021-11-19,Hornets,1630550,J.T. Thor,False,True,placed on IL
+2021-11-19,Lakers,2544,LeBron James,True,False,activated from IL
 2021-11-19,Nets,201142,Kevin Durant,False,True,placed on IL with sprained right shoulder
 2021-11-19,Nuggets,203999,Nikola Jokic,False,True,placed on IL with sprained right wrist
 2021-11-19,Pacers,1630537,Chris Duarte,True,False,activated from IL
@@ -540,6 +575,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-21,Nets,200794,Paul Millsap,True,False,activated from IL
 2021-11-21,Pistons,1630165,Killian Hayes,False,True,placed on IL with sprained left thumb
 2021-11-21,Suns,1627846,Abdel Nader,False,True,right knee injury (DTD)
+2021-11-21,Warriors,1627780,Gary Payton II,False,True,placed on IL with hernia
 2021-11-21,Warriors,203490,Otto Porter Jr.,True,False,returned to lineup
 2021-11-21,Hornets,1630176,Vernon Carey Jr.,True,False,returned to lineup
 2021-11-22,76ers,203552,Seth Curry,False,True,back injury (DTD)
@@ -549,12 +585,16 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-22,Celtics,1630271,Brodric Thomas,False,True,placed on IL
 2021-11-22,Celtics,1626196,Josh Richardson,False,True,placed on IL with illness
 2021-11-22,Celtics,1627759,Jaylen Brown,True,False,activated from IL
+2021-11-22,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2021-11-22,Jazz,1628962,Udoka Azubuike,True,False,activated from IL
+2021-11-22,Kings,1630218,Robert Woodard II,False,True,placed on IL
 2021-11-22,Magic,203914,Gary Harris,False,True,sprained right hand (DTD)
 2021-11-22,Mavericks,1628373,Frank Ntilikina,False,True,placed on IL with strained right calf
 2021-11-22,Nuggets,1630538,Bones Hyland,False,True,placed on IL with sprained right ankle
+2021-11-22,Spurs,203926,Doug McDermott,False,True,placed on IL with right knee inflammation
 2021-11-22,Thunder,1628983,Shai Gilgeous-Alexander,False,True,placed on IL with sprained right ankle
 2021-11-22,Thunder,203488,Mike Muscala,True,False,activated from IL
+2021-11-22,Timberwolves,1630593,McKinley Wright IV,True,False,activated from IL
 2021-11-23,Clippers,1630206,Jay Scrubb,False,True,placed on IL
 2021-11-23,Clippers,201587,Nicolas Batum,False,True,placed on IL with NBA health and safety protocols
 2021-11-23,Clippers,202694,Marcus Morris,True,False,activated from IL
@@ -564,6 +604,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-23,Mavericks,1629029,Luka Doncic,True,False,activated from IL
 2021-11-23,Nuggets,1630192,Zeke Nnaji,True,False,activated from IL
 2021-11-23,Spurs,1629111,Jock Landale,True,False,activated from IL
+2021-11-23,Warriors,1627780,Gary Payton II,True,False,activated from IL
 2021-11-23,Wizards,202722,Davis Bertans,True,False,activated from IL
 2021-11-23,Pistons,1630587,Isaiah Livers,True,False,activated from IL
 2021-11-24,76ers,202699,Tobias Harris,False,True,placed on IL with sore left hip
@@ -576,6 +617,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-24,Bulls,1627936,Alex Caruso,True,False,activated from IL
 2021-11-24,Bulls,202696,Nikola Vucevic,True,False,activated from IL
 2021-11-24,Cavaliers,1626224,Cedi Osman,True,False,activated from IL
+2021-11-24,Celtics,1629057,Robert Williams III,False,True,placed on IL with illness
 2021-11-24,Grizzlies,1628415,Dillon Brooks,True,False,activated from IL
 2021-11-24,Hornets,1629023,P.J. Washington,True,False,activated from IL
 2021-11-24,Jazz,1628962,Udoka Azubuike,False,True,placed on IL
@@ -611,6 +653,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-26,Rockets,1630224,Jalen Green,False,True,placed on IL with strained left hamstring
 2021-11-26,Spurs,1630170,Devin Vassell,False,True,placed on IL with bruised right quadriceps
 2021-11-26,Thunder,1628983,Shai Gilgeous-Alexander,True,False,activated from IL
+2021-11-26,Timberwolves,1630593,McKinley Wright IV,False,True,placed on IL
 2021-11-26,Timberwolves,201976,Patrick Beverley,False,True,placed on IL with strained left adductor
 2021-11-26,Warriors,1627814,Damion Lee,False,True,placed on IL for personal reasons
 2021-11-27,76ers,1629003,Shake Milton,False,True,sore groin (DTD)
@@ -629,6 +672,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-27,Knicks,203457,Nerlens Noel,False,True,placed on IL with sore right knee
 2021-11-27,Magic,1628964,Mo Bamba,False,True,lower back spasms (DTD)
 2021-11-27,Mavericks,1628973,Jalen Brunson,False,True,placed on IL with left foot injury
+2021-11-27,Mavericks,1630605,JaQuori McLaughlin,True,False,activated from IL
 2021-11-27,Nets,1628971,Bruce Brown,True,False,activated from IL
 2021-11-27,Wizards,203915,Spencer Dinwiddie,False,True,placed on IL with right knee injury
 2021-11-27,Jazz,1628962,Udoka Azubuike,False,True,placed on IL with right ankle injury
@@ -652,9 +696,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-29,Hornets,1628998,Cody Martin,False,True,illness (DTD)
 2021-11-29,Kings,1626158,Richaun Holmes,True,False,activated from IL
 2021-11-29,Magic,1628964,Mo Bamba,True,False,returned to lineup
+2021-11-29,Mavericks,1630605,JaQuori McLaughlin,False,True,placed on IL
 2021-11-29,Mavericks,1626161,Willie Cauley-Stein,False,True,placed on IL with illness
 2021-11-29,Mavericks,1628973,Jalen Brunson,True,False,activated from IL
 2021-11-29,Nets,203925,Joe Harris,False,True,surgery on left ankle (out for season)
+2021-11-29,Nuggets,203210,JaMychal Green,False,True,placed on IL with sprained left elbow
 2021-11-29,Nuggets,1629008,Michael Porter Jr.,False,True,surgery on back (out for season)
 2021-11-29,Nuggets,1630538,Bones Hyland,True,False,activated from IL
 2021-11-29,Nuggets,203999,Nikola Jokic,True,False,activated from IL
@@ -663,6 +709,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-29,Spurs,1629719,Devontae Cacok,True,False,activated from IL
 2021-11-29,Thunder,202324,Derrick Favors,False,True,placed on IL with illness
 2021-11-29,Thunder,203488,Mike Muscala,False,True,sore right ankle (DTD)
+2021-11-29,Timberwolves,1630183,Jaden McDaniels,False,True,placed on IL with flu
 2021-11-29,Timberwolves,1629020,Jarred Vanderbilt,False,True,flu (DTD)
 2021-11-29,Wizards,203915,Spencer Dinwiddie,True,False,activated from IL
 2021-11-29,Rockets,1630586,Usman Garuba,False,True,placed on IL with bruised right thigh
@@ -671,16 +718,20 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-11-30,Blazers,1629642,Nassir Little,False,True,placed on IL with sprained left ankle
 2021-11-30,Blazers,1629833,Keljin Blevins,True,False,activated from IL
 2021-11-30,Celtics,203471,Dennis Schröder,True,False,activated from IL
+2021-11-30,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2021-11-30,Grizzlies,1630533,Ziaire Williams,False,True,placed on IL with sore left knee
+2021-11-30,Kings,1628963,Marvin Bagley III,False,True,placed on IL with illness
 2021-11-30,Kings,203090,Moe Harkless,False,True,placed on IL with sore left knee
 2021-11-30,Knicks,1630579,Jericho Sims,False,True,placed on IL
 2021-11-30,Knicks,201565,Derrick Rose,True,False,activated from IL
 2021-11-30,Knicks,203457,Nerlens Noel,True,False,activated from IL
 2021-11-30,Knicks,201959,Taj Gibson,True,False,activated from IL
 2021-11-30,Lakers,202340,Avery Bradley,False,True,sprained right thumb (DTD)
+2021-11-30,Lakers,2544,LeBron James,False,True,placed on IL with NBA health and safety protocols
 2021-11-30,Magic,1630591,Jalen Suggs,False,True,placed on IL with fractured right thumb
 2021-11-30,Magic,1630175,Cole Anthony,True,False,activated from IL
 2021-11-30,Pacers,203200,Justin Holiday,False,True,placed on IL with NBA health and safety protocols
+2021-11-30,Kings,1630218,Robert Woodard II,False,True,sore left ankle (DTD)
 2021-12-01,Bulls,1629632,Coby White,False,True,placed on IL with NBA health and safety protocols
 2021-12-01,Clippers,1630206,Jay Scrubb,True,False,activated from IL
 2021-12-01,Clippers,202694,Marcus Morris,True,False,activated from IL
@@ -691,8 +742,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-01,Kings,1629674,Neemias Queta,True,False,activated from IL
 2021-12-01,Mavericks,1626161,Willie Cauley-Stein,False,True,placed on IL for personal reasons
 2021-12-01,Mavericks,1630647,Eugene Omoruyi,True,False,activated from IL
+2021-12-01,Mavericks,1630605,JaQuori McLaughlin,True,False,activated from IL
 2021-12-01,Nuggets,203085,Austin Rivers,False,True,placed on IL with NBA health and safety protocols
 2021-12-01,Nuggets,1630538,Bones Hyland,False,True,placed on IL with NBA health and safety protocols
+2021-12-01,Nuggets,203210,JaMychal Green,True,False,activated from IL
 2021-12-01,Pacers,1626167,Myles Turner,True,False,activated from IL
 2021-12-01,Pelicans,1628404,Josh Hart,False,True,sore left knee (DTD)
 2021-12-01,Suns,1626164,Devin Booker,False,True,left hamstring injury (DTD)
@@ -710,16 +763,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-02,Knicks,1630579,Jericho Sims,False,True,illness (DTD)
 2021-12-02,Knicks,203457,Nerlens Noel,False,True,placed on IL with sore right knee
 2021-12-02,Knicks,1629628,R.J. Barrett,False,True,placed on IL with illness
+2021-12-02,Lakers,2544,LeBron James,True,False,activated from IL
 2021-12-02,Nuggets,1629626,Bol Bol,False,True,NBA health and safety protocols (DTD)
+2021-12-02,Pacers,204456,T.J. McConnell,False,True,placed on IL with right wrist injury (surgery)
 2021-12-02,Raptors,1629018,Gary Trent Jr.,True,False,activated from IL
 2021-12-02,Rockets,201571,D.J. Augustine,True,False,activated from IL
 2021-12-02,Spurs,1629719,Devontae Cacok,False,True,placed on IL
 2021-12-02,Spurs,1630170,Devin Vassell,True,False,activated from IL
+2021-12-02,Spurs,203926,Doug McDermott,True,False,activated from IL
 2021-12-02,Thunder,1628983,Shai Gilgeous-Alexander,False,True,placed on IL with concussion
 2021-12-02,Thunder,203488,Mike Muscala,True,False,activated from IL
 2021-12-02,Warriors,1627814,Damion Lee,True,False,activated from IL
 2021-12-02,Thunder,1629026,Kenrich Williams,True,False,activated from IL
-2021-12-02,Nets,1629651,Nic Claxton,True,False,activated from IL
+2021-12-02,Nets,2049,Nic Claxton,True,False,activated from IL
 2021-12-02,Thunder,1629026,Kenrich Williams,False,True,sprained right ankle (DTD)
 2021-12-03,76ers,202699,Tobias Harris,False,True,illness (DTD)
 2021-12-03,Blazers,1629014,Anfernee Simons,False,True,placed on IL with sprained right ankle
@@ -727,7 +783,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-03,Celtics,1627759,Jaylen Brown,False,True,placed on IL with right hamstring injury
 2021-12-03,Clippers,1630206,Jay Scrubb,False,True,placed on IL
 2021-12-03,Jazz,1630190,Elijah Hughes,False,True,placed on IL with strained adductor muscle
+2021-12-03,Kings,1628963,Marvin Bagley III,True,False,activated from IL
 2021-12-03,Lakers,202340,Avery Bradley,True,False,returned to lineup
+2021-12-03,Mavericks,1630605,JaQuori McLaughlin,False,True,placed on IL
 2021-12-03,Mavericks,204001,Kristaps Porzingis,False,True,placed on IL with bruised left knee
 2021-12-03,Mavericks,1628373,Frank Ntilikina,True,False,activated from IL
 2021-12-03,Nets,1630556,Kessler Edwards,False,True,placed on IL
@@ -745,6 +803,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-04,Celtics,1629641,Romeo Langford,False,True,placed on IL with sprained left ankle
 2021-12-04,Grizzlies,1629634,Brandon Clarke,False,True,placed on IL with sore right knee
 2021-12-04,Grizzlies,1630582,Yves Pons,True,False,activated from IL
+2021-12-04,Hornets,1629667,Jalen McDaniels,False,True,placed on IL with NBA health and safety protocols
+2021-12-04,Hornets,1630163,LaMelo Ball,False,True,placed on IL with NBA health and safety protocols
 2021-12-04,Hornets,203486,Mason Plumlee,False,True,placed on IL with NBA health and safety protocols
 2021-12-04,Hornets,1626179,Terry Rozier,False,True,placed on IL with NBA health and safety protocols
 2021-12-04,Hornets,1628998,Cody Martin,True,False,returned to lineup
@@ -752,6 +812,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-04,Knicks,203457,Nerlens Noel,True,False,activated from IL
 2021-12-04,Knicks,1629628,R.J. Barrett,True,False,activated from IL
 2021-12-04,Mavericks,1629029,Luka Doncic,False,True,placed on IL with sore left ankle
+2021-12-04,Mavericks,1630605,JaQuori McLaughlin,True,False,activated from IL
 2021-12-04,Nets,201949,James Johnson,False,True,sore left shoulder (DTD)
 2021-12-04,Nuggets,1629626,Bol Bol,False,True,placed on IL with NBA health and safety protocols
 2021-12-04,Rockets,1629645,Kevin Porter Jr.,False,True,placed on IL with bruised left thigh
@@ -759,6 +820,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-04,Spurs,1628966,Keita Bates-Diop,False,True,placed on IL with sprained right ankle
 2021-12-04,Warriors,203490,Otto Porter Jr.,False,True,placed on IL with left foot injury
 2021-12-04,Jazz,1630190,Elijah Hughes,True,False,activated from IL
+2021-12-04,Kings,1630218,Robert Woodard II,True,False,activated from IL
 2021-12-05,Cavaliers,1626224,Cedi Osman,True,False,activated from IL
 2021-12-05,Hornets,1630539,Kai Jones,True,False,activated from IL
 2021-12-05,Hornets,1630575,Scottie Lewis,True,False,activated from IL
@@ -771,9 +833,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-05,Wizards,1630216,Cassius Winston,True,False,activated from IL
 2021-12-06,76ers,1630178,Tyrese Maxey,False,True,placed on IL with illness
 2021-12-06,76ers,202699,Tobias Harris,True,False,returned to lineup
+2021-12-06,Blazers,203468,C.J. McCollum,False,True,placed on IL with bruised ribs
 2021-12-06,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
 2021-12-06,Bucks,1628960,Grayson Allen,True,False,activated from IL
 2021-12-06,Bulls,1627936,Alex Caruso,False,True,placed on IL with strained right hamstring
+2021-12-06,Bulls,201942,DeMar DeRozan,False,True,placed on IL with NBA health and safety protocols
 2021-12-06,Cavaliers,1629685,Dylan Windler,False,True,placed on IL
 2021-12-06,Celtics,201143,Al Horford,True,False,activated from IL
 2021-12-06,Celtics,1629641,Romeo Langford,True,False,activated from IL
@@ -789,17 +853,21 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-06,Thunder,1628983,Shai Gilgeous-Alexander,True,False,activated from IL
 2021-12-06,Timberwolves,1626156,D'Angelo Russell,False,True,placed on IL with sore right ankle
 2021-12-06,Timberwolves,1629669,Jaylen Nowell,False,True,placed on IL with back spasms
+2021-12-06,Timberwolves,1630183,Jaden McDaniels,True,False,activated from IL
 2021-12-06,Timberwolves,1626157,Karl-Anthony Towns,True,False,returned to lineup
 2021-12-06,Wizards,1630216,Cassius Winston,False,True,placed on IL
 2021-12-06,Wizards,203915,Spencer Dinwiddie,False,True,placed on IL with right knee injury
+2021-12-07,Blazers,3,,False,False,collapsed right lung (out indefinitely)
 2021-12-07,Celtics,1628981,Bruno Fernando,False,True,placed on IL with lower back spasms
 2021-12-07,Celtics,203953,Jabari Parker,False,True,placed on IL with illness
 2021-12-07,Grizzlies,1630533,Ziaire Williams,False,True,placed on IL with sprained left ankle
 2021-12-07,Heat,202710,Jimmy Butler,False,True,placed on IL with tailbone injury
+2021-12-07,Mavericks,1630605,JaQuori McLaughlin,False,True,placed on IL
 2021-12-07,Mavericks,1628425,Sterling Brown,False,True,placed on IL with sore left foot
 2021-12-07,Mavericks,204001,Kristaps Porzingis,True,False,activated from IL
 2021-12-07,Mavericks,1629029,Luka Doncic,True,False,activated from IL
 2021-12-07,Nets,1630561,David Duke Jr.,True,False,activated from IL
+2021-12-07,Pacers,204456,T.J. McConnell,False,True,surgery on right wrist (out indefinitely)
 2021-12-07,Rockets,1627863,Danuel House Jr.,False,True,placed on IL with sprained left ankle
 2021-12-08,76ers,1630178,Tyrese Maxey,True,False,activated from IL
 2021-12-08,Blazers,203469,Cody Zeller,False,True,placed on IL with bruised right quadriceps / fractured patella in right knee
@@ -846,6 +914,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-10,Hawks,1629629,Cam Reddish,True,False,activated from IL
 2021-12-10,Hornets,1630208,Nick Richards,False,True,illness (DTD)
 2021-12-10,Hornets,1629023,P.J. Washington,False,True,illness (DTD)
+2021-12-10,Kings,1630218,Robert Woodard II,False,True,placed on IL
 2021-12-10,Knicks,1630579,Jericho Sims,False,True,placed on IL
 2021-12-10,Knicks,203457,Nerlens Noel,True,False,returned to lineup
 2021-12-10,Lakers,203076,Anthony Davis,False,True,sore left knee (DTD)
@@ -873,10 +942,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-11,Warriors,2738,Andre Iguodala,True,False,activated from IL
 2021-12-11,Wizards,1628398,Kyle Kuzma,False,True,placed on IL with NBA health and safety protocols
 2021-12-11,Wizards,1630216,Cassius Winston,True,False,activated from IL
+2021-12-12,Blazers,1630535,Greg Brown III,False,True,placed on IL with illness
 2021-12-12,Blazers,1629014,Anfernee Simons,True,False,activated from IL
 2021-12-12,Blazers,203081,Damian Lillard,True,False,activated from IL
 2021-12-12,Bucks,201588,George Hill,True,False,activated from IL
 2021-12-12,Bulls,1628972,Troy Brown Jr.,False,True,placed on IL with NBA health and safety protocols
+2021-12-12,Bulls,203897,Zach LaVine,False,True,placed on IL with NBA health and safety protocols
 2021-12-12,Celtics,1627759,Jaylen Brown,True,False,activated from IL
 2021-12-12,Hornets,1630208,Nick Richards,True,False,returned to lineup
 2021-12-12,Hornets,1626179,Terry Rozier,True,False,activated from IL
@@ -895,16 +966,21 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-13,Celtics,1630271,Brodric Thomas,True,False,activated from IL
 2021-12-13,Celtics,1630573,Sam Hauser,True,False,activated from IL
 2021-12-13,Grizzlies,1628991,Jaren Jackson Jr.,True,False,activated from IL
+2021-12-13,Hornets,1629667,Jalen McDaniels,True,False,activated from IL
 2021-12-13,Hornets,1629023,P.J. Washington,True,False,returned to lineup
 2021-12-13,Kings,1629663,Louis King,True,False,activated from IL
 2021-12-13,Knicks,202692,Alec Burks,True,False,activated from IL
 2021-12-13,Nets,200794,Paul Millsap,False,True,placed on IL with NBA health and safety protocols
+2021-12-13,Nuggets,203210,JaMychal Green,False,True,placed on IL with sprained right ankle
 2021-12-13,Suns,1630188,Jalen Smith,False,True,placed on IL with illness
 2021-12-13,Warriors,2738,Andre Iguodala,False,True,right knee injury (DTD)
 2021-12-13,Wizards,1630216,Cassius Winston,False,True,placed on IL
 2021-12-13,Hornets,203486,Mason Plumlee,True,False,activated from IL
 2021-12-13,76ers,1630531,Jaden Springer,False,True,placed on IL with concussion
 2021-12-14,Blazers,1629833,Keljin Blevins,False,True,placed on IL
+2021-12-14,Blazers,1630535,Greg Brown III,True,False,activated from IL
+2021-12-14,Bucks,202326,DeMarcus Cousins,False,True,personal reasons (DTD)
+2021-12-14,Bucks,1628978,Donte DiVincenzo,False,True,placed on IL with NBA health and safety protocols
 2021-12-14,Bucks,203507,Giannis Antetokounmpo,False,True,placed on IL with NBA health and safety protocols
 2021-12-14,Clippers,201586,Serge Ibaka,False,True,NBA health and safety protocols (DTD)
 2021-12-14,Jazz,1630215,Jared Butler,False,True,placed on IL with sore right knee
@@ -913,9 +989,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-14,Lakers,1628370,Malik Monk,False,True,placed on IL with NBA health and safety protocols
 2021-12-14,Lakers,1629659,Talen Horton-Tucker,False,True,placed on IL with NBA health and safety protocols
 2021-12-14,Nets,1628971,Bruce Brown,False,True,NBA health and safety protocols (DTD)
+2021-12-14,Nets,1627761,DeAndre' Bembry,False,True,NBA health and safety protocols (DTD)
 2021-12-14,Nets,201935,James Harden,False,True,placed on IL with NBA health and safety protocols
 2021-12-14,Nets,201949,James Johnson,False,True,placed on IL with NBA health and safety protocols
 2021-12-14,Nets,1628975,Jevon Carter,False,True,NBA health and safety protocols (DTD)
+2021-12-14,Nets,200746,LaMarcus Aldridge,False,True,placed on IL with NBA health and safety protocols
 2021-12-14,Nets,1630556,Kessler Edwards,True,False,activated from IL
 2021-12-14,Raptors,1630625,Dalano Banton,False,True,illness (DTD)
 2021-12-14,Rockets,201569,Eric Gordon,False,True,placed on IL with right groin injury
@@ -938,7 +1016,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-15,Clippers,1630206,Jay Scrubb,True,False,activated from IL
 2021-12-15,Heat,1629639,Tyler Herro,False,True,bruised right quadriceps (DTD)
 2021-12-15,Kings,1629663,Louis King,False,True,placed on IL
+2021-12-15,Kings,1628963,Marvin Bagley III,False,True,placed on IL with NBA health and safety protocols
 2021-12-15,Kings,1629056,Terence Davis,False,True,placed on IL with NBA health and safety protocols
+2021-12-15,Kings,1630218,Robert Woodard II,True,False,activated from IL
 2021-12-15,Lakers,203076,Anthony Davis,True,False,returned to lineup
 2021-12-15,Magic,203914,Gary Harris,False,True,left hamstring injury (DTD)
 2021-12-15,Magic,1628964,Mo Bamba,False,True,sprained right ankle (DTD)
@@ -947,16 +1027,21 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-15,Pacers,203200,Justin Holiday,True,False,activated from IL
 2021-12-15,Pelicans,1630631,Jose Alvarado,False,True,placed on IL
 2021-12-15,Rockets,1626174,Christian Wood,False,True,placed on IL with left knee tendinitis
+2021-12-15,Spurs,1629022,Lonnie Walker IV,False,True,placed on IL with gastroenteritis
 2021-12-15,Wizards,1628398,Kyle Kuzma,True,False,activated from IL
 2021-12-15,Hornets,202397,Ish Smith,True,False,activated from IL
+2021-12-15,Hornets,1630163,LaMelo Ball,True,False,activated from IL
+2021-12-15,Pacers,1630610,DeJon Jarreau,True,False,activated from IL
 2021-12-16,76ers,1630178,Tyrese Maxey,False,True,bruised left quadricep (DTD)
 2021-12-16,Bucks,1626171,Bobby Portis,False,True,placed on IL with NBA health and safety protocols
+2021-12-16,Bucks,202326,DeMarcus Cousins,True,False,returned to lineup
 2021-12-16,Cavaliers,1630171,Isaac Okoro,False,True,placed on IL with NBA health and safety protocols
 2021-12-16,Celtics,203953,Jabari Parker,False,True,placed on IL with NBA health and safety protocols
 2021-12-16,Kings,203458,Alex Len,False,True,placed on IL with NBA health and safety protocols
 2021-12-16,Kings,1628368,De'Aaron Fox,False,True,placed on IL with NBA health and safety protocols
 2021-12-16,Kings,1629663,Louis King,False,True,placed on IL with NBA health and safety protocols
 2021-12-16,Knicks,1630579,Jericho Sims,False,True,placed on IL
+2021-12-16,Knicks,1628995,Kevin Knox II,False,True,placed on IL with NBA health and safety protocols
 2021-12-16,Lakers,202340,Avery Bradley,False,True,placed on IL with NBA health and safety protocols
 2021-12-16,Magic,1629649,Iggy Brazdeikis,False,True,placed on IL with NBA health and safety protocols
 2021-12-16,Nets,1628975,Jevon Carter,False,True,placed on IL with NBA health and safety protocols
@@ -994,6 +1079,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-17,Nuggets,1630210,Markus Howard,False,True,placed on IL with sprained left knee
 2021-12-17,Nuggets,203085,Austin Rivers,True,False,activated from IL
 2021-12-17,Pelicans,1630631,Jose Alvarado,True,False,activated from IL
+2021-12-17,Spurs,1629022,Lonnie Walker IV,True,False,activated from IL
 2021-12-17,Timberwolves,1630162,Anthony Edwards,False,True,placed on IL with NBA health and safety protocols
 2021-12-17,Timberwolves,1627752,Taurean Prince,False,True,placed on IL with NBA health and safety protocols
 2021-12-17,Warriors,1629673,Jordan Poole,False,True,placed on IL with NBA health and safety protocols
@@ -1003,6 +1089,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-18,Bucks,1628400,Semi Ojeleye,True,False,activated from IL
 2021-12-18,Bucks,203648,Thanasis Antetokounmpo,True,False,returned to lineup
 2021-12-18,Bulls,1629632,Coby White,True,False,activated from IL
+2021-12-18,Bulls,201942,DeMar DeRozan,True,False,activated from IL
 2021-12-18,Bulls,1629750,Javonte Green,True,False,activated from IL
 2021-12-18,Cavaliers,1630596,Evan Mobley,False,True,placed on IL with NBA health and safety protocols
 2021-12-18,Cavaliers,1630612,R.J. Nembhard Jr.,True,False,activated from IL
@@ -1012,6 +1099,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-18,Clippers,202694,Marcus Morris,False,True,placed on IL with NBA health and safety protocols
 2021-12-18,Clippers,201587,Nicolas Batum,True,False,activated from IL
 2021-12-18,Knicks,201565,Derrick Rose,False,True,sore right ankle (DTD)
+2021-12-18,Knicks,1630540,Miles McBride,False,True,NBA health and safety protocols (DTD)
 2021-12-18,Lakers,203076,Anthony Davis,False,True,sprained MCL in left knee (out indefinitely)
 2021-12-18,Magic,1628976,Wendell Carter Jr.,False,True,right leg injury (DTD)
 2021-12-18,Mavericks,1630647,Eugene Omoruyi,False,True,placed on IL with right foot / toe injury
@@ -1019,7 +1107,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-18,Nets,1630549,Day'Ron Sharpe,False,True,placed on IL with NBA health and safety protocols
 2021-12-18,Nets,201142,Kevin Durant,False,True,placed on IL with NBA health and safety protocols
 2021-12-18,Nets,202681,Kyrie Irving,False,True,placed on IL with NBA health and safety protocols
-2021-12-18,Nets,1629651,Nic Claxton,False,True,placed on IL with sore left wrist
+2021-12-18,Nets,2049,Nic Claxton,False,True,placed on IL with sore left wrist
 2021-12-18,Raptors,1630625,Dalano Banton,False,True,placed on IL with NBA health and safety protocols
 2021-12-18,Raptors,1627783,Pascal Siakam,False,True,placed on IL with NBA health and safety protocols
 2021-12-18,Raptors,1628384,O.G. Anunoby,True,False,activated from IL
@@ -1057,7 +1145,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-19,Lakers,2772,Trevor Ariza,True,False,activated from IL
 2021-12-19,Mavericks,1628373,Frank Ntilikina,False,True,placed on IL with illness
 2021-12-19,Mavericks,1630182,Josh Green,False,True,placed on IL with NBA health and safety protocols
+2021-12-19,Mavericks,1630605,JaQuori McLaughlin,True,False,activated from IL
 2021-12-19,Mavericks,1628425,Sterling Brown,True,False,activated from IL
+2021-12-19,Spurs,203926,Doug McDermott,False,True,placed on IL with tooth infection
 2021-12-19,Suns,1626164,Devin Booker,True,False,returned to lineup
 2021-12-19,Timberwolves,1629006,Josh Okogie,False,True,placed on IL with NBA health and safety protocols
 2021-12-19,Warriors,203952,Andrew Wiggins,False,True,placed on IL with NBA health and safety protocols
@@ -1066,6 +1156,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-19,Warriors,203490,Otto Porter Jr.,True,False,activated from IL
 2021-12-19,76ers,1630203,Grant Riller,True,False,returned to lineup
 2021-12-20,Bulls,1627884,Derrick Jones Jr.,False,True,placed on IL with strained left hamstring
+2021-12-20,Celtics,1629057,Robert Williams III,False,True,personal reasons (DTD)
 2021-12-20,Celtics,203471,Dennis Schröder,True,False,activated from IL
 2021-12-20,Celtics,1629641,Romeo Langford,True,False,returned to lineup
 2021-12-20,Clippers,1630206,Jay Scrubb,False,True,placed on IL
@@ -1082,6 +1173,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-20,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
 2021-12-20,Raptors,1629018,Gary Trent Jr.,False,True,placed on IL with NBA health and safety protocols
 2021-12-20,Rockets,1629717,Armoni Brooks,True,False,activated from IL
+2021-12-20,Spurs,203926,Doug McDermott,True,False,activated from IL
 2021-12-20,Timberwolves,1629020,Jarred Vanderbilt,False,True,placed on IL with NBA health and safety protocols
 2021-12-20,Timberwolves,201976,Patrick Beverley,False,True,placed on IL with NBA health and safety protocols
 2021-12-20,Warriors,201939,Stephen Curry,True,False,activated from IL
@@ -1092,11 +1184,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-21,Bulls,1627936,Alex Caruso,False,True,placed on IL with sprained left foot
 2021-12-21,Bulls,1629653,Devon Dotson,False,True,NBA health and safety protocols (DTD)
 2021-12-21,Cavaliers,202334,Ed Davis (Adam),False,True,placed on IL with NBA health and safety protocols
+2021-12-21,Celtics,1629057,Robert Williams III,True,False,returned to lineup
 2021-12-21,Hawks,203991,Clint Capela,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Hawks,201568,Danilo Gallinari,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Heat,1629639,Tyler Herro,True,False,returned to lineup
 2021-12-21,Kings,1629674,Neemias Queta,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Knicks,201565,Derrick Rose,False,True,placed on IL with sore right ankle (out for season)
+2021-12-21,Knicks,1630540,Miles McBride,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Knicks,1630579,Jericho Sims,True,False,activated from IL
 2021-12-21,Lakers,203076,Anthony Davis,False,True,placed on IL with sprained MCL in left knee
 2021-12-21,Lakers,2730,Dwight Howard,True,False,activated from IL
@@ -1105,10 +1199,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-21,Mavericks,203501,Tim Hardaway Jr.,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Pelicans,1630631,Jose Alvarado,False,True,not with team (DTD)
 2021-12-21,Pistons,1630165,Killian Hayes,False,True,placed on IL with illness
+2021-12-21,Raptors,1627832,Fred VanVleet,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Raptors,1630551,Justin Champagnie,False,True,illness (DTD)
 2021-12-21,Raptors,1630201,Malachi Flynn,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Raptors,1630173,Precious Achiuwa,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Raptors,1630567,Scottie Barnes,False,True,placed on IL with NBA health and safety protocols
+2021-12-21,Timberwolves,1630593,McKinley Wright IV,True,False,activated from IL
 2021-12-21,Wizards,203484,Kentavious Caldwell-Pope,False,True,placed on IL with NBA health and safety protocols
 2021-12-21,Pelicans,1629756,Daulton Hommes,True,False,activated from IL
 2021-12-22,76ers,201980,Danny Green,False,True,placed on IL with NBA health and safety protocols
@@ -1132,6 +1228,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-22,Magic,1628539,Mychal Mulder,False,True,placed on IL with NBA health and safety protocols
 2021-12-22,Mavericks,1629029,Luka Doncic,False,True,placed on IL with NBA health and safety protocols
 2021-12-22,Mavericks,203504,Trey Burke,False,True,placed on IL with NBA health and safety protocols
+2021-12-22,Nuggets,203210,JaMychal Green,True,False,activated from IL
 2021-12-22,Pelicans,202685,Jonas Valanciunas,False,True,illness (DTD)
 2021-12-22,Pistons,1630595,Cade Cunningham,False,True,placed on IL with NBA health and safety protocols
 2021-12-22,Pistons,1630165,Killian Hayes,True,False,activated from IL
@@ -1142,6 +1239,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-23,Bulls,1628993,Alize Johnson,True,False,activated from IL
 2021-12-23,Bulls,1630245,Ayo Dosunmu,True,False,activated from IL
 2021-12-23,Bulls,1629744,Matt Thomas,True,False,activated from IL
+2021-12-23,Bulls,203897,Zach LaVine,True,False,activated from IL
 2021-12-23,Celtics,202683,Enes Kanter,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Grizzlies,1629633,Jarrett Culver,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Grizzlies,1626145,Tyus Jones,True,False,activated from IL
@@ -1153,6 +1251,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-23,Magic,1630175,Cole Anthony,True,False,returned to lineup
 2021-12-23,Magic,1628976,Wendell Carter Jr.,True,False,returned to lineup
 2021-12-23,Mavericks,1630647,Eugene Omoruyi,False,True,surgery on right toe (out indefinitely)
+2021-12-23,Mavericks,1630605,JaQuori McLaughlin,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Nets,1630560,Cam Thomas,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Nets,1630561,David Duke Jr.,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Nets,1630556,Kessler Edwards,False,True,placed on IL with NBA health and safety protocols
@@ -1166,9 +1265,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-23,Pelicans,1629638,Nickeil Alexander-Walker,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Pistons,1630191,Isaiah Stewart,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Pistons,1630165,Killian Hayes,False,True,placed on IL with NBA health and safety protocols
+2021-12-23,Pistons,203585,Rodney McGruder,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Pistons,1630240,Saben Lee,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Rockets,1630224,Jalen Green,True,False,activated from IL
 2021-12-23,Timberwolves,1626157,Karl-Anthony Towns,False,True,placed on IL with NBA health and safety protocols
+2021-12-23,Timberwolves,1630593,McKinley Wright IV,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Wizards,203078,Bradley Beal,False,True,placed on IL with NBA health and safety protocols
 2021-12-23,Wizards,1629060,Rui Hachimura,True,False,returned to lineup
 2021-12-23,Hornets,1630550,J.T. Thor,False,True,player not with team
@@ -1187,10 +1288,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-24,Heat,203473,Dewayne Dedmon,False,True,placed on IL with sprained MCL in left knee
 2021-12-24,Heat,1628997,Caleb Martin,True,False,activated from IL
 2021-12-24,Nets,1628971,Bruce Brown,True,False,returned to lineup
+2021-12-24,Nets,1627761,DeAndre' Bembry,True,False,returned to lineup
 2021-12-24,Nets,201949,James Johnson,True,False,activated from IL
-2021-12-24,Nets,1629651,Nic Claxton,True,False,activated from IL
+2021-12-24,Nets,2049,Nic Claxton,True,False,activated from IL
 2021-12-24,Warriors,1630541,Moses Moody,False,True,placed on IL with NBA health and safety protocols
+2021-12-25,Blazers,203463,Ben McLemore,False,True,placed on IL with NBA health and safety protocols
 2021-12-25,Blazers,203496,Robert Covington,False,True,placed on IL with NBA health and safety protocols
+2021-12-25,Bucks,1628978,Donte DiVincenzo,True,False,activated from IL
 2021-12-25,Cavaliers,1626224,Cedi Osman,False,True,placed on IL with NBA health and safety protocols
 2021-12-25,Celtics,203471,Dennis Schröder,False,True,placed on IL with NBA health and safety protocols
 2021-12-25,Celtics,1630271,Brodric Thomas,True,False,activated from IL
@@ -1234,6 +1338,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-26,Jazz,1628378,Donovan Mitchell,False,True,placed on IL with strained lower back
 2021-12-26,Kings,1628368,De'Aaron Fox,True,False,activated from IL
 2021-12-26,Kings,1629663,Louis King,True,False,activated from IL
+2021-12-26,Kings,1628963,Marvin Bagley III,True,False,activated from IL
 2021-12-26,Lakers,200765,Rajon Rondo,False,True,placed on IL with NBA health and safety protocols
 2021-12-26,Magic,1629168,B.J. Johnson,False,True,placed on IL with NBA health and safety protocols
 2021-12-26,Magic,1629643,Chuma Okeke,False,True,placed on IL with NBA health and safety protocols
@@ -1261,6 +1366,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-26,Warriors,203110,Draymond Green,False,True,placed on IL with NBA health and safety protocols
 2021-12-26,Wizards,203526,Raul Neto,False,True,placed on IL with NBA health and safety protocols
 2021-12-26,Mavericks,1630647,Eugene Omoruyi,True,False,activated from IL
+2021-12-26,Bulls,1628035,Alfonzo McKinnie,False,True,placed on IL with NBA health and safety protocols
 2021-12-27,Celtics,1628369,Jayson Tatum,False,True,placed on IL with NBA health and safety protocols
 2021-12-27,Celtics,203935,Marcus Smart,False,True,placed on IL with right hand injury
 2021-12-27,Celtics,1629684,Grant Williams,True,False,activated from IL
@@ -1305,6 +1411,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-28,Knicks,1627863,Danuel House Jr.,False,True,placed on IL with finger injury
 2021-12-28,Knicks,1629760,Matt Mooney,False,True,placed on IL
 2021-12-28,Knicks,1627782,Wayne Selden Jr.,False,True,placed on IL with NBA health and safety protocols
+2021-12-28,Knicks,1628995,Kevin Knox II,True,False,activated from IL
+2021-12-28,Knicks,1630540,Miles McBride,True,False,activated from IL
 2021-12-28,Lakers,201961,Wayne Ellington,False,True,placed on IL with illness
 2021-12-28,Nuggets,1628420,Monte Morris,False,True,placed on IL with sore left knee
 2021-12-28,Nuggets,1628427,Vlatko Cancar,False,True,illness (DTD)
@@ -1346,6 +1454,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-29,Mavericks,202688,Brandon Knight,False,True,placed on IL with NBA health and safety protocols
 2021-12-29,Nets,1630560,Cam Thomas,True,False,activated from IL
 2021-12-29,Nets,201142,Kevin Durant,True,False,activated from IL
+2021-12-29,Nets,200746,LaMarcus Aldridge,True,False,activated from IL
 2021-12-29,Nuggets,1629626,Bol Bol,True,False,activated from IL
 2021-12-29,Pacers,203087,Jeremy Lamb,False,True,placed on IL with NBA health and safety protocols
 2021-12-29,Spurs,1629719,Devontae Cacok,False,True,placed on IL with NBA health and safety protocols
@@ -1360,6 +1469,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-30,76ers,203083,Andre Drummond,True,False,activated from IL
 2021-12-30,76ers,1629003,Shake Milton,True,False,activated from IL
 2021-12-30,Blazers,1629014,Anfernee Simons,False,True,placed on IL with NBA health and safety protocols
+2021-12-30,Blazers,1585,Brandon Williams (b. 1975-02-27),False,True,placed on IL with NBA health and safety protocols
+2021-12-30,Blazers,203463,Ben McLemore,True,False,activated from IL
 2021-12-30,Blazers,1628372,Dennis Smith Jr.,True,False,activated from IL
 2021-12-30,Bucks,1628400,Semi Ojeleye,False,True,placed on IL with NBA health and safety protocols
 2021-12-30,Bucks,1629670,Jordan Nwora,True,False,activated from IL
@@ -1388,10 +1499,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-30,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with NBA health and safety protocols
 2021-12-30,Pistons,1628402,Frank Jackson,False,True,placed on IL with sprained right ankle
 2021-12-30,Raptors,1630625,Dalano Banton,True,False,activated from IL
+2021-12-30,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2021-12-30,Raptors,203920,Khem Birch,True,False,activated from IL
 2021-12-30,Raptors,1628384,O.G. Anunoby,True,False,activated from IL
 2021-12-30,Raptors,1630173,Precious Achiuwa,True,False,activated from IL
 2021-12-30,Raptors,1630567,Scottie Barnes,True,False,activated from IL
+2021-12-30,Rockets,1630610,DeJon Jarreau,False,True,placed on IL with NBA health and safety protocols
+2021-12-30,Suns,201580,JaVale McGee,False,True,placed on IL with NBA health and safety protocols
 2021-12-30,Suns,203901,Elfrid Payton,True,False,returned to lineup
 2021-12-30,Wizards,1630216,Cassius Winston,False,True,placed on IL with NBA health and safety protocols
 2021-12-30,Wizards,202722,Davis Bertans,False,True,placed on IL with illness
@@ -1436,6 +1550,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2021-12-31,Wizards,202954,Brad Wanamaker,False,True,placed on IL with NBA health and safety protocols
 2021-12-31,Clippers,1630589,Moses Wright,True,False,activated from IL
 2021-12-31,Knicks,1629760,Matt Mooney,True,False,activated from IL
+2022-01-01,Bucks,1628978,Donte DiVincenzo,False,True,placed on IL with sprained left ankle
 2022-01-01,Bucks,203648,Thanasis Antetokounmpo,False,True,placed on IL with NBA health and safety protocols
 2022-01-01,Bucks,1630572,Sandro Mamukelashvili,True,False,activated from IL
 2022-01-01,Bulls,1629750,Javonte Green,False,True,placed on IL with strained right adductor
@@ -1465,7 +1580,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-01,Pelicans,1628404,Josh Hart,True,False,activated from IL
 2022-01-01,Rockets,1630578,Alperen Sengun,False,True,placed on IL with sprained right ankle
 2022-01-01,Rockets,201569,Eric Gordon,False,True,placed on IL with right groin injury
+2022-01-01,Spurs,203926,Doug McDermott,False,True,placed on IL with NBA health and safety protocols
 2022-01-01,Spurs,1628966,Keita Bates-Diop,False,True,right hamstring injury (DTD)
+2022-01-01,Spurs,1629022,Lonnie Walker IV,False,True,placed on IL with NBA health and safety protocols
 2022-01-01,Thunder,1628983,Shai Gilgeous-Alexander,False,True,placed on IL with NBA health and safety protocols
 2022-01-01,Thunder,1630581,Josh Giddey,True,False,activated from IL
 2022-01-01,76ers,204020,Tyler Johnson,True,False,activated from IL
@@ -1473,28 +1590,34 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-01,Hawks,1630792,Malcolm Hill,True,False,activated from IL
 2022-01-01,Heat,1629597,Zylan Cheatham,True,False,activated from IL
 2022-01-01,Raptors,1628391,D.J. Wilson,True,False,activated from IL
+2022-01-02,Blazers,1630787,Cameron McGriff,False,True,placed on IL with NBA health and safety protocols
 2022-01-02,Blazers,203081,Damian Lillard,False,True,placed on IL with abdominal injury (out for season)
 2022-01-02,Blazers,1629014,Anfernee Simons,True,False,activated from IL
 2022-01-02,Blazers,1629833,Keljin Blevins,True,False,activated from IL
 2022-01-02,Blazers,203496,Robert Covington,True,False,activated from IL
 2022-01-02,Blazers,1630570,Trendon Watford,True,False,activated from IL
+2022-01-02,Bulls,1628035,Alfonzo McKinnie,True,False,activated from IL
 2022-01-02,Bulls,1628366,Lonzo Ball,True,False,activated from IL
 2022-01-02,Cavaliers,1629685,Dylan Windler,False,True,sore left knee (DTD)
 2022-01-02,Celtics,1630271,Brodric Thomas,False,True,placed on IL with sore lower back
+2022-01-02,Celtics,1629057,Robert Williams III,False,True,placed on IL with right big toe injury
 2022-01-02,Celtics,1629641,Romeo Langford,False,True,placed on IL with illness
 2022-01-02,Celtics,1628981,Bruno Fernando,True,False,activated from IL
 2022-01-02,Hornets,1628970,Miles Bridges,True,False,activated from IL
+2022-01-02,Kings,1630218,Robert Woodard II,False,True,placed on IL with illness
 2022-01-02,Knicks,202689,Kemba Walker,False,True,placed on IL with sore left knee
 2022-01-02,Magic,1629755,Hassani Gravett,True,False,activated from IL
 2022-01-02,Magic,1628964,Mo Bamba,True,False,activated from IL
 2022-01-02,Magic,1628539,Mychal Mulder,True,False,activated from IL
 2022-01-02,Mavericks,1628373,Frank Ntilikina,True,False,returned to lineup
+2022-01-02,Pacers,1627747,Caris LeVert,False,True,placed on IL with NBA health and safety protocols
 2022-01-02,Pacers,1629048,Goga Bitadze,False,True,placed on IL with NBA health and safety protocols
 2022-01-02,Pelicans,203107,Tomas Satoransky,False,True,placed on IL with NBA health and safety protocols
 2022-01-02,Pistons,1628476,Derrick Walton Jr.,False,True,placed on IL
 2022-01-02,Pistons,1630595,Cade Cunningham,True,False,activated from IL
 2022-01-02,Pistons,1628367,Josh Jackson,True,False,activated from IL
 2022-01-02,Pistons,1630165,Killian Hayes,True,False,activated from IL
+2022-01-02,Pistons,203585,Rodney McGruder,True,False,activated from IL
 2022-01-02,Pistons,1630240,Saben Lee,True,False,activated from IL
 2022-01-02,Pistons,1626168,Trey Lyles,True,False,activated from IL
 2022-01-02,Raptors,1630567,Scottie Barnes,True,False,activated from IL
@@ -1528,16 +1651,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-03,Knicks,1629011,Mitchell Robinson,True,False,activated from IL
 2022-01-03,Magic,2402,Moe Wagner,False,True,placed on IL with illness
 2022-01-03,Mavericks,204001,Kristaps Porzingis,False,True,placed on IL with NBA health and safety protocols
+2022-01-03,Nets,200746,LaMarcus Aldridge,False,True,placed on IL with sore right foot
 2022-01-03,Nuggets,1630538,Bones Hyland,True,False,activated from IL
 2022-01-03,Pelicans,1627742,Brandon Ingram,True,False,activated from IL
 2022-01-03,Pelicans,202685,Jonas Valanciunas,True,False,activated from IL
 2022-01-03,Rockets,1630586,Usman Garuba,False,True,placed on IL with NBA health and safety protocols
 2022-01-03,Rockets,201569,Eric Gordon,True,False,activated from IL
 2022-01-03,Rockets,1629726,Garrison Mathews,True,False,activated from IL
+2022-01-03,Timberwolves,1630593,McKinley Wright IV,True,False,activated from IL
 2022-01-03,Warriors,2738,Andre Iguodala,False,True,placed on IL with sore right knee
 2022-01-03,Wizards,1629682,Tremont Waters,False,True,placed on IL with NBA health and safety protocols
 2022-01-03,Wizards,1630216,Cassius Winston,True,False,activated from IL
 2022-01-03,Cavaliers,1627756,Denzel Valentine,True,False,activated from IL
+2022-01-03,Kings,1630218,Robert Woodard II,True,False,activated from IL
 2022-01-03,Knicks,1627782,Wayne Selden Jr.,True,False,activated from IL
 2022-01-04,76ers,1630194,Paul Reed,False,True,placed on IL with NBA health and safety protocols
 2022-01-04,76ers,1629003,Shake Milton,False,True,placed on IL with back injury
@@ -1556,6 +1682,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-04,Knicks,1629760,Matt Mooney,False,True,placed on IL
 2022-01-04,Knicks,203944,Julius Randle,True,False,activated from IL
 2022-01-04,Magic,1629643,Chuma Okeke,True,False,activated from IL
+2022-01-04,Mavericks,1630605,JaQuori McLaughlin,True,False,activated from IL
 2022-01-04,Nuggets,1628427,Vlatko Cancar,False,True,placed on IL with fractured right foot
 2022-01-04,Raptors,1629004,Svi Mykhailiuk,False,True,placed on IL with NBA health and safety protocols
 2022-01-04,Raptors,1629139,Yuta Watanabe,False,True,placed on IL with NBA health and safety protocols
@@ -1577,6 +1704,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-05,Bucks,203648,Thanasis Antetokounmpo,True,False,activated from IL
 2022-01-05,Celtics,1630202,Payton Pritchard,False,True,placed on IL with NBA health and safety protocols
 2022-01-05,Celtics,1630174,Aaron Nesmith,True,False,activated from IL
+2022-01-05,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2022-01-05,Celtics,1629641,Romeo Langford,True,False,activated from IL
 2022-01-05,Hawks,1628419,Cameron Oliver,False,True,placed on IL with NBA health and safety protocols
 2022-01-05,Hawks,1629027,Trae Young,False,True,placed on IL with bruised lower back
@@ -1589,6 +1717,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-05,Kings,1629674,Neemias Queta,False,True,not with team (DTD)
 2022-01-05,Magic,1630175,Cole Anthony,True,False,activated from IL
 2022-01-05,Nets,202681,Kyrie Irving,True,False,activated from IL
+2022-01-05,Nets,200746,LaMarcus Aldridge,True,False,activated from IL
 2022-01-05,Nuggets,1628420,Monte Morris,True,False,activated from IL
 2022-01-05,Pacers,1628470,Torrey Craig,False,True,placed on IL with right groin injury
 2022-01-05,Raptors,1630525,David Johnson (Ricardo),True,False,activated from IL
@@ -1606,6 +1735,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-05,Timberwolves,1626156,D'Angelo Russell,True,False,activated from IL
 2022-01-05,Timberwolves,1626157,Karl-Anthony Towns,True,False,activated from IL
 2022-01-05,Warriors,203490,Otto Porter Jr.,False,True,placed on IL with left foot injury
+2022-01-05,Blazers,1585,Brandon Williams (b. 1975-02-27),True,False,activated from IL
+2022-01-05,Blazers,1630787,Cameron McGriff,True,False,activated from IL
 2022-01-06,76ers,1629680,Matisse Thybulle,True,False,activated from IL
 2022-01-06,Blazers,1626204,Larry Nance Jr.,False,True,placed on IL with right knee inflammation
 2022-01-06,Bucks,201950,Jrue Holiday,False,True,NBA health and safety protocols (DTD)
@@ -1626,6 +1757,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-06,Pistons,1628402,Frank Jackson,False,True,placed on IL with NBA health and safety protocols
 2022-01-06,Pistons,1630191,Isaiah Stewart,True,False,activated from IL
 2022-01-06,Raptors,1629004,Svi Mykhailiuk,True,False,activated from IL
+2022-01-06,Rockets,1630610,DeJon Jarreau,True,False,activated from IL
 2022-01-06,Spurs,1628401,Derrick White,False,True,placed on IL with NBA health and safety protocols
 2022-01-06,Spurs,1630170,Devin Vassell,False,True,placed on IL with NBA health and safety protocols
 2022-01-06,Spurs,1629640,Keldon Johnson,False,True,placed on IL with NBA health and safety protocols
@@ -1673,8 +1805,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-07,Rockets,1629717,Armoni Brooks,True,False,activated from IL
 2022-01-07,Spurs,1630200,Tre Jones,False,True,placed on IL with NBA health and safety protocols
 2022-01-07,Spurs,1629719,Devontae Cacok,True,False,activated from IL
+2022-01-07,Spurs,1629022,Lonnie Walker IV,True,False,activated from IL
 2022-01-07,Suns,1629028,Deandre Ayton,True,False,activated from IL
 2022-01-07,Suns,203109,Jae Crowder,True,False,activated from IL
+2022-01-07,Suns,201580,JaVale McGee,True,False,activated from IL
 2022-01-07,Thunder,202324,Derrick Favors,False,True,placed on IL with sore lower back
 2022-01-07,Timberwolves,201976,Patrick Beverley,False,True,placed on IL with right groin injury
 2022-01-07,Wizards,202722,Davis Bertans,False,True,placed on IL with sprained left foot
@@ -1721,6 +1855,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-09,Magic,1628976,Wendell Carter Jr.,False,True,placed on IL with left hamstring injury
 2022-01-09,Mavericks,1626246,Boban Marjanovic,True,False,activated from IL
 2022-01-09,Mavericks,1629029,Luka Doncic,True,False,activated from IL
+2022-01-09,Nets,200746,LaMarcus Aldridge,False,True,placed on IL with sore right foot
 2022-01-09,Raptors,1629018,Gary Trent Jr.,False,True,placed on IL with left ankle injury
 2022-01-09,Rockets,1629717,Armoni Brooks,False,True,placed on IL with NBA health and safety protocols
 2022-01-09,Rockets,1630243,Trevelin Queen,False,True,placed on IL for personal reasons
@@ -1731,6 +1866,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-09,Wizards,1629682,Tremont Waters,True,False,activated from IL
 2022-01-09,Nuggets,1627822,Petr Cornelie,True,False,activated from IL
 2022-01-10,76ers,203552,Seth Curry,False,True,placed on IL with sore left ankle
+2022-01-10,Bucks,1628978,Donte DiVincenzo,True,False,activated from IL
 2022-01-10,Bucks,1626192,Pat Connaughton,True,False,activated from IL
 2022-01-10,Celtics,1630271,Brodric Thomas,True,False,activated from IL
 2022-01-10,Heat,1629216,Gabe Vincent,True,False,activated from IL
@@ -1790,13 +1926,15 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-12,Jazz,202355,Hassan Whiteside,False,True,placed on IL with NBA health and safety protocols
 2022-01-12,Jazz,203658,Norvel Pelle,False,True,placed on IL with illness
 2022-01-12,Jazz,204060,Joe Ingles,True,False,activated from IL
+2022-01-12,Kings,1630218,Robert Woodard II,False,True,placed on IL with NBA health and safety protocols
 2022-01-12,Kings,202684,Tristan Thompson,False,True,placed on IL with right quadricep injury
 2022-01-12,Knicks,203457,Nerlens Noel,True,False,activated from IL
 2022-01-12,Lakers,2546,Carmelo Anthony,False,True,placed on IL with tightness in lower back
 2022-01-12,Magic,1628964,Mo Bamba,False,True,placed on IL with sprained right toe
 2022-01-12,Magic,201577,Robin Lopez,True,False,activated from IL
-2022-01-12,Nets,1629651,Nic Claxton,False,True,placed on IL with left hamstring injury
+2022-01-12,Nets,2049,Nic Claxton,False,True,placed on IL with left hamstring injury
 2022-01-12,Nets,201935,James Harden,True,False,activated from IL
+2022-01-12,Pacers,1627747,Caris LeVert,True,False,activated from IL
 2022-01-12,Pacers,1629048,Goga Bitadze,True,False,activated from IL
 2022-01-12,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
 2022-01-12,Rockets,1629717,Armoni Brooks,True,False,activated from IL
@@ -1814,10 +1952,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-13,Grizzlies,1629681,Killian Tillie,False,True,placed on IL with NBA health and safety protocols
 2022-01-13,Magic,1630591,Jalen Suggs,True,False,activated from IL
 2022-01-13,Nets,201142,Kevin Durant,False,True,placed on IL
+2022-01-13,Nuggets,203210,JaMychal Green,False,True,placed on IL for personal reasons
 2022-01-13,Nuggets,1630210,Markus Howard,True,False,activated from IL
 2022-01-13,Nuggets,203115,Will Barton,True,False,activated from IL
 2022-01-13,Pacers,1630537,Chris Duarte,True,False,activated from IL
 2022-01-13,Pistons,202709,Cory Joseph,True,False,returned to lineup
+2022-01-13,Spurs,203926,Doug McDermott,True,False,activated from IL
 2022-01-13,Timberwolves,1629669,Jaylen Nowell,False,True,placed on IL with sprained left ankle
 2022-01-13,Warriors,1630228,Jonathan Kuminga,True,False,activated from IL
 2022-01-13,Jazz,1630238,Malik Fitts,True,False,activated from IL
@@ -1829,6 +1969,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-14,Hornets,1630539,Kai Jones,True,False,activated from IL
 2022-01-14,Jazz,200752,Rudy Gay,True,False,activated from IL
 2022-01-14,Jazz,203497,Rudy Gobert,True,False,activated from IL
+2022-01-14,Nuggets,203210,JaMychal Green,True,False,activated from IL
 2022-01-14,Pacers,203087,Jeremy Lamb,False,True,placed on IL with sore left knee
 2022-01-14,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with sore right Achilles
 2022-01-14,Raptors,1630525,David Johnson (Ricardo),False,True,placed on IL
@@ -1836,11 +1977,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-14,Rockets,1630578,Alperen Sengun,True,False,activated from IL
 2022-01-14,Spurs,1629234,Drew Eubanks,True,False,activated from IL
 2022-01-14,Suns,1630688,Ish Wainright,True,False,activated from IL
+2022-01-14,Warriors,1627780,Gary Payton II,False,True,placed on IL with tightness in lower back
 2022-01-14,Hornets,1630176,Vernon Carey Jr.,True,False,activated from IL
 2022-01-14,Suns,1628382,Justin Jackson (Aaron),True,False,activated from IL
 2022-01-15,76ers,1629680,Matisse Thybulle,False,True,placed on IL with sore/sprained right shoulder
 2022-01-15,Blazers,203469,Cody Zeller,False,True,placed on IL with right knee injury
 2022-01-15,Bulls,1628366,Lonzo Ball,False,True,placed on IL with sore left knee (surgery) (out for season)
+2022-01-15,Bulls,203897,Zach LaVine,False,True,placed on IL with left knee injury
 2022-01-15,Clippers,1628392,Isaiah Hartenstein,True,False,activated from IL
 2022-01-15,Hawks,203992,Bogdan Bogdanovic,False,True,placed on IL with sore right knee
 2022-01-15,Hawks,1630552,Jalen Johnson,True,False,activated from IL
@@ -1855,17 +1998,20 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-15,Nets,200794,Paul Millsap,False,True,placed on IL for personal reasons
 2022-01-15,Nets,201142,Kevin Durant,True,False,activated from IL
 2022-01-15,Nuggets,203085,Austin Rivers,False,True,illness (DTD)
+2022-01-15,Nuggets,203210,JaMychal Green,False,True,placed on IL with NBA health and safety protocols
 2022-01-15,Pistons,203147,(Sean) Chris Smith,True,False,returned to lineup
 2022-01-15,Raptors,203920,Khem Birch,False,True,placed on IL with fractured nose
 2022-01-15,Raptors,1630567,Scottie Barnes,False,True,right knee injury (DTD)
 2022-01-15,Spurs,1627751,Jakob Poeltl,False,True,placed on IL with back injury
 2022-01-15,Spurs,1628401,Derrick White,True,False,activated from IL
 2022-01-15,Thunder,1629676,Isaiah Roby,True,False,activated from IL
+2022-01-15,Timberwolves,1629162,Jordan McLaughlin,False,True,placed on IL with NBA health and safety protocols
 2022-01-15,Timberwolves,1629669,Jaylen Nowell,True,False,activated from IL
 2022-01-15,Warriors,201939,Stephen Curry,False,True,placed on IL with right hand injury
 2022-01-15,Wizards,202722,Davis Bertans,False,True,placed on IL with sprained left foot
 2022-01-16,Heat,200768,Kyle Lowry,False,True,placed on IL for personal reasons
 2022-01-16,Jazz,1628962,Udoka Azubuike,True,False,activated from IL
+2022-01-16,Kings,1628963,Marvin Bagley III,False,True,placed on IL with sore right shoulder
 2022-01-16,Kings,1630169,Tyrese Haliburton,False,True,placed on IL with NBA health and safety protocols
 2022-01-16,Kings,1627745,Damian Jones,True,False,activated from IL
 2022-01-16,Kings,1626158,Richaun Holmes,True,False,activated from IL
@@ -1878,12 +2024,16 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-16,Heat,1630585,Marcus Garrett,True,False,activated from IL
 2022-01-16,Thunder,1630249,Vit Krejci,False,True,placed on IL with sprained right ankle
 2022-01-17,Blazers,1629604,C.J. Elleby,False,True,placed on IL with sprained right ankle
+2022-01-17,Blazers,203468,C.J. McCollum,True,False,activated from IL
 2022-01-17,Cavaliers,1630205,Lamar Stevens,False,True,placed on IL with sore left knee
+2022-01-17,Celtics,1629057,Robert Williams III,False,True,placed on IL for personal reasons
 2022-01-17,Clippers,1626159,Justise Winslow,True,False,activated from IL
 2022-01-17,Heat,1628389,Bam Adebayo,True,False,activated from IL
 2022-01-17,Jazz,1630190,Elijah Hughes,True,False,activated from IL
 2022-01-17,Knicks,203457,Nerlens Noel,False,True,placed on IL with sore left knee
 2022-01-17,Mavericks,203493,Reggie Bullock,False,True,placed on IL with sore right knee
+2022-01-17,Nets,1627761,DeAndre' Bembry,False,True,back spasms (DTD)
+2022-01-17,Nets,200746,LaMarcus Aldridge,True,False,activated from IL
 2022-01-17,Suns,1629028,Deandre Ayton,False,True,sprained right ankle (DTD)
 2022-01-17,Suns,1629661,Cameron Johnson,True,False,returned to lineup
 2022-01-17,Wizards,203078,Bradley Beal,True,False,activated from IL
@@ -1893,13 +2043,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-18,Grizzlies,1630582,Yves Pons,True,False,activated from IL
 2022-01-18,Jazz,1628378,Donovan Mitchell,False,True,placed on IL with concussion
 2022-01-18,Jazz,1630215,Jared Butler,True,False,activated from IL
+2022-01-18,Kings,1628963,Marvin Bagley III,True,False,activated from IL
+2022-01-18,Kings,1630218,Robert Woodard II,True,False,activated from IL
 2022-01-18,Kings,202684,Tristan Thompson,True,False,activated from IL
 2022-01-18,Knicks,202689,Kemba Walker,True,False,activated from IL
 2022-01-18,Lakers,1629635,Sekou Doumbouya,False,True,placed on IL with NBA health and safety protocols
 2022-01-18,Nets,201949,James Johnson,True,False,activated from IL
 2022-01-18,Nuggets,1629626,Bol Bol,False,True,placed on IL with surgery on left foot
 2022-01-18,Nuggets,203085,Austin Rivers,True,False,returned to lineup
+2022-01-18,Pistons,203585,Rodney McGruder,False,True,placed on IL player not with team
+2022-01-18,Pistons,203585,Rodney McGruder,True,False,activated from IL
 2022-01-18,Warriors,2738,Andre Iguodala,False,True,left hip injury (DTD)
+2022-01-18,Warriors,1627780,Gary Payton II,True,False,activated from IL
 2022-01-18,Warriors,201939,Stephen Curry,True,False,activated from IL
 2022-01-18,Pistons,1630568,Luka Garza,False,True,placed on IL with NBA health and safety protocols
 2022-01-19,Blazers,1629604,C.J. Elleby,True,False,activated from IL
@@ -1917,6 +2072,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-19,Lakers,2546,Carmelo Anthony,True,False,activated from IL
 2022-01-19,Mavericks,1628425,Sterling Brown,False,True,placed on IL with sore left foot
 2022-01-19,Mavericks,203493,Reggie Bullock,True,False,activated from IL
+2022-01-19,Nets,1627761,DeAndre' Bembry,False,True,placed on IL with back spasms
 2022-01-19,Pacers,203087,Jeremy Lamb,True,False,activated from IL
 2022-01-19,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
 2022-01-19,Pistons,1630165,Killian Hayes,False,True,bruised right hip (DTD)
@@ -1928,8 +2084,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-19,Knicks,203524,Solomon Hill,True,False,activated from IL
 2022-01-19,Knicks,1627853,Ryan Arcidiacono,False,True,sprained left ankle (DTD)
 2022-01-20,Bulls,1628366,Lonzo Ball,False,True,surgery on left knee (out for season)
+2022-01-20,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2022-01-20,Jazz,200752,Rudy Gay,True,False,activated from IL
 2022-01-20,Magic,1630181,R.J. Hampton,False,True,placed on IL with left knee injury
+2022-01-20,Pacers,1627747,Caris LeVert,False,True,placed on IL with right calf injury
 2022-01-20,Pacers,1627734,Domantas Sabonis,False,True,placed on IL with sprained left ankle
 2022-01-20,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with sore right Achilles
 2022-01-20,Suns,1629028,Deandre Ayton,False,True,placed on IL with sprained right ankle
@@ -1942,6 +2100,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-21,Hawks,203991,Clint Capela,True,False,activated from IL
 2022-01-21,Kings,1630169,Tyrese Haliburton,True,False,activated from IL
 2022-01-21,Magic,1628976,Wendell Carter Jr.,True,False,activated from IL
+2022-01-21,Nets,1627761,DeAndre' Bembry,True,False,activated from IL
 2022-01-21,Pistons,1630165,Killian Hayes,False,True,placed on IL with bruised right hip
 2022-01-21,Raptors,1630525,David Johnson (Ricardo),False,True,placed on IL with NBA health and safety protocols
 2022-01-21,Raptors,1629018,Gary Trent Jr.,True,False,activated from IL
@@ -1963,6 +2122,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-23,Grizzlies,1629634,Brandon Clarke,False,True,placed on IL with sore back
 2022-01-23,Hawks,201568,Danilo Gallinari,True,False,activated from IL
 2022-01-23,Hornets,202330,Gordon Hayward,False,True,right foot injury (DTD)
+2022-01-23,Hornets,1629667,Jalen McDaniels,False,True,placed on IL with sprained left ankle
 2022-01-23,Knicks,202689,Kemba Walker,False,True,placed on IL with sore left knee
 2022-01-23,Knicks,1629629,Cam Reddish,True,False,activated from IL
 2022-01-23,Knicks,203457,Nerlens Noel,True,False,activated from IL
@@ -1972,6 +2132,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-23,Nuggets,201145,Jeff Green,False,True,placed on IL with bruised left quadricep
 2022-01-23,Nuggets,1630210,Markus Howard,False,True,placed on IL with illness
 2022-01-23,Nuggets,1630538,Bones Hyland,False,True,illness (DTD)
+2022-01-23,Nuggets,203210,JaMychal Green,True,False,activated from IL
 2022-01-23,Pelicans,1627742,Brandon Ingram,False,True,placed on IL with sprained right ankle
 2022-01-23,Pelicans,1629712,Didi Louzada Silva ,False,True,placed on IL with torn meniscus in left knee
 2022-01-23,Pistons,1630165,Killian Hayes,True,False,activated from IL
@@ -1979,11 +2140,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-23,Suns,203109,Jae Crowder,False,True,left wrist injury (DTD)
 2022-01-23,Thunder,202324,Derrick Favors,False,True,placed on IL with sore lower back
 2022-01-23,Timberwolves,201976,Patrick Beverley,False,True,placed on IL with sprained right ankle
+2022-01-23,Timberwolves,1629162,Jordan McLaughlin,True,False,activated from IL
 2022-01-23,Warriors,202691,Klay Thompson,False,True,placed on IL with sore left knee
 2022-01-24,Blazers,1626181,Norman Powell,True,False,activated from IL
 2022-01-24,Bucks,202083,Wes Matthews Jr.,False,True,placed on IL with bruised left knee
 2022-01-24,Bulls,1627936,Alex Caruso,False,True,placed on IL with fractured right wrist
 2022-01-24,Bulls,1629750,Javonte Green,True,False,activated from IL
+2022-01-24,Bulls,203897,Zach LaVine,True,False,activated from IL
 2022-01-24,Cavaliers,1628386,Jarrett Allen,False,True,placed on IL with illness
 2022-01-24,Cavaliers,200765,Rajon Rondo,True,False,activated from IL
 2022-01-24,Jazz,202711,Bojan Bogdanovic,False,True,placed on IL with finger injury
@@ -1996,7 +2159,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-24,Knicks,202689,Kemba Walker,True,False,activated from IL
 2022-01-24,Mavericks,1628373,Frank Ntilikina,True,False,activated from IL
 2022-01-24,Nuggets,1630538,Bones Hyland,True,False,returned to lineup
+2022-01-24,Pacers,1627747,Caris LeVert,True,False,activated from IL
 2022-01-24,Suns,1626166,Cameron Payne,False,True,placed on IL with sprained right wrist
+2022-01-24,Pelicans,1630530,Trey Murphy III,False,True,placed on IL with NBA health and safety protocols
 2022-01-24,Rockets,1630586,Usman Garuba,False,True,placed on IL with left wrist injury
 2022-01-25,76ers,1629680,Matisse Thybulle,True,False,activated from IL
 2022-01-25,Blazers,203469,Cody Zeller,False,True,surgery on right knee (out indefinitely)
@@ -2011,7 +2176,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-25,Magic,203914,Gary Harris,True,False,returned to lineup
 2022-01-25,Magic,203082,Terrence Ross,True,False,returned to lineup
 2022-01-25,Nets,202681,Kyrie Irving,False,True,placed on IL ineligible
-2022-01-25,Nets,1629651,Nic Claxton,True,False,activated from IL
+2022-01-25,Nets,2049,Nic Claxton,True,False,activated from IL
 2022-01-25,Nuggets,203115,Will Barton,False,True,placed on IL with right hamstring injury
 2022-01-25,Nuggets,201145,Jeff Green,True,False,activated from IL
 2022-01-25,Nuggets,1630210,Markus Howard,True,False,activated from IL
@@ -2019,8 +2184,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-25,Pelicans,202685,Jonas Valanciunas,False,True,placed on IL
 2022-01-25,Pelicans,1628404,Josh Hart,False,True,placed on IL with sprained left ankle
 2022-01-25,Pistons,1628402,Frank Jackson,True,False,activated from IL
+2022-01-25,Raptors,1627832,Fred VanVleet,False,True,placed on IL with sore right knee
 2022-01-25,Raptors,1630567,Scottie Barnes,False,True,right wrist injury (DTD)
 2022-01-25,Spurs,1628966,Keita Bates-Diop,False,True,placed on IL with NBA health and safety protocols
+2022-01-25,Suns,201580,JaVale McGee,False,True,placed on IL with sore left knee
 2022-01-25,Warriors,202691,Klay Thompson,True,False,activated from IL
 2022-01-26,Blazers,1628372,Dennis Smith Jr.,False,True,sprained right ankle (DTD)
 2022-01-26,Blazers,1629642,Nassir Little,False,True,placed on IL with torn labrum in left shoulder (out for season)
@@ -2038,12 +2205,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-26,Mavericks,203501,Tim Hardaway Jr.,False,True,placed on IL with fractured left foot (out for season)
 2022-01-26,Nets,1630549,Day'Ron Sharpe,False,True,placed on IL with illness
 2022-01-26,Nets,201935,James Harden,False,True,left hamstring injury (DTD)
-2022-01-26,Nets,1629651,Nic Claxton,False,True,left hamstring injury (DTD)
+2022-01-26,Nets,2049,Nic Claxton,False,True,left hamstring injury (DTD)
 2022-01-26,Nuggets,203115,Will Barton,True,False,activated from IL
 2022-01-26,Raptors,1630525,David Johnson (Ricardo),True,False,activated from IL
 2022-01-26,Raptors,1630567,Scottie Barnes,True,False,returned to lineup
 2022-01-26,Rockets,1630586,Usman Garuba,False,True,surgery on left wrist (out indefinitely)
 2022-01-27,76ers,201980,Danny Green,True,False,activated from IL
+2022-01-27,Lakers,2544,LeBron James,False,True,placed on IL with sore left knee
 2022-01-27,Lakers,1629635,Sekou Doumbouya,True,False,activated from IL
 2022-01-27,Pelicans,1628984,Devonte' Graham,True,False,returned to lineup
 2022-01-28,Blazers,1629604,C.J. Elleby,False,True,placed on IL with strained left hamstring
@@ -2058,7 +2226,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-28,Lakers,1628370,Malik Monk,False,True,left groin injury (DTD)
 2022-01-28,Nets,1630549,Day'Ron Sharpe,True,False,activated from IL
 2022-01-28,Nets,201935,James Harden,True,False,returned to lineup
-2022-01-28,Nets,1629651,Nic Claxton,True,False,returned to lineup
+2022-01-28,Nets,2049,Nic Claxton,True,False,returned to lineup
 2022-01-28,Nuggets,203115,Will Barton,False,True,placed on IL with illness
 2022-01-28,Pacers,1627734,Domantas Sabonis,True,False,activated from IL
 2022-01-28,Pelicans,202685,Jonas Valanciunas,False,True,placed on IL with illness
@@ -2073,6 +2241,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-29,Nets,201935,James Harden,False,True,right hand injury (DTD)
 2022-01-29,Nets,202681,Kyrie Irving,True,False,activated from IL
 2022-01-29,Pacers,1629048,Goga Bitadze,False,True,placed on IL with sore right foot
+2022-01-29,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2022-01-29,Spurs,1627749,Dejounte Murray,False,True,placed on IL with bruised left knee
 2022-01-29,Spurs,1627751,Jakob Poeltl,False,True,placed on IL with sore lower back
 2022-01-29,Thunder,1628983,Shai Gilgeous-Alexander,False,True,placed on IL with sprained right ankle
@@ -2085,12 +2254,16 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-30,Heat,1630209,Omer Yurtseven,False,True,placed on IL with NBA health and safety protocols
 2022-01-30,Jazz,1627863,Danuel House Jr.,False,True,placed on IL with NBA health and safety protocols
 2022-01-30,Jazz,1630235,Trent Forrest,False,True,placed on IL with sprained right ankle
+2022-01-30,Kings,1628963,Marvin Bagley III,False,True,placed on IL with sprained left ankle
 2022-01-30,Lakers,203076,Anthony Davis,True,False,activated from IL
 2022-01-30,Lakers,1628370,Malik Monk,True,False,returned to lineup
 2022-01-30,Mavericks,204001,Kristaps Porzingis,False,True,placed on IL with sore right knee
+2022-01-30,Nuggets,202326,DeMarcus Cousins,False,True,placed on IL with sprained right foot
 2022-01-30,Nuggets,203115,Will Barton,True,False,activated from IL
+2022-01-30,Pelicans,1630530,Trey Murphy III,True,False,activated from IL
 2022-01-30,Pistons,1630691,Jamorko Pickett,False,True,placed on IL with toe injury
 2022-01-30,Pistons,1628367,Josh Jackson,False,True,placed on IL with back injury
+2022-01-30,Suns,201580,JaVale McGee,True,False,activated from IL
 2022-01-30,Thunder,202324,Derrick Favors,True,False,activated from IL
 2022-01-30,Timberwolves,1629006,Josh Okogie,False,True,placed on IL with bruised right quadriceps
 2022-01-30,Warriors,203490,Otto Porter Jr.,False,True,placed on IL with left foot injury
@@ -2104,6 +2277,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-01-31,Heat,202710,Jimmy Butler,False,True,placed on IL with right big toe
 2022-01-31,Heat,200782,P.J. Tucker,False,True,left knee injury (DTD)
 2022-01-31,Jazz,204060,Joe Ingles,False,True,torn ACL in left knee (out for season)
+2022-01-31,Nets,200746,LaMarcus Aldridge,False,True,placed on IL with sprained left ankle
 2022-01-31,Pacers,1627734,Domantas Sabonis,False,True,placed on IL with NBA health and safety protocols
 2022-01-31,Pacers,1629052,Oshae Brissett,False,True,sore right ankle (DTD)
 2022-01-31,Pelicans,202685,Jonas Valanciunas,True,False,activated from IL
@@ -2161,10 +2335,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-03,Pistons,1630595,Cade Cunningham,False,True,right hip pointer (DTD)
 2022-02-03,Raptors,203920,Khem Birch,True,False,activated from IL
 2022-02-03,Spurs,1627749,Dejounte Murray,False,True,placed on IL with sprained left wrist
+2022-02-03,Spurs,203926,Doug McDermott,False,True,placed on IL with sprained right ankle
 2022-02-03,Thunder,1630598,Aaron Wiggins,False,True,placed on IL with sprained right ankle
 2022-02-03,Warriors,203490,Otto Porter Jr.,False,True,placed on IL with tightness in lower back
 2022-02-04,76ers,203552,Seth Curry,True,False,returned to lineup
 2022-02-04,Bulls,1629632,Coby White,False,True,strained right adductor (DTD)
+2022-02-04,Bulls,203897,Zach LaVine,False,True,placed on IL with back spasms
 2022-02-04,Hawks,201568,Danilo Gallinari,False,True,placed on IL with right hamstring injury
 2022-02-04,Hawks,101150,Lou Williams,True,False,activated from IL
 2022-02-04,Heat,1630209,Omer Yurtseven,True,False,activated from IL
@@ -2175,8 +2351,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-04,Mavericks,1628467,Maxi Kleber,False,True,left knee injury (DTD)
 2022-02-04,Nets,201935,James Harden,False,True,tightness in left hamstring (DTD)
 2022-02-04,Nuggets,203932,Aaron Gordon,False,True,placed on IL with left hamstring injury
+2022-02-04,Nuggets,202326,DeMarcus Cousins,True,False,activated from IL
 2022-02-04,Pacers,1629052,Oshae Brissett,True,False,returned to lineup
+2022-02-04,Spurs,1629022,Lonnie Walker IV,False,True,placed on IL with sore right knee
 2022-02-04,Spurs,1627749,Dejounte Murray,True,False,activated from IL
+2022-02-04,Spurs,203926,Doug McDermott,True,False,activated from IL
 2022-02-04,Spurs,1627751,Jakob Poeltl,True,False,activated from IL
 2022-02-04,Spurs,1628966,Keita Bates-Diop,True,False,activated from IL
 2022-02-04,Spurs,1628380,Zach Collins,True,False,activated from IL
@@ -2187,6 +2366,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-05,Heat,1629622,Max Strus,False,True,placed on IL with bruised right quadriceps
 2022-02-05,Heat,1628997,Caleb Martin,True,False,activated from IL
 2022-02-05,Lakers,2730,Dwight Howard,False,True,back injury (DTD)
+2022-02-05,Lakers,2544,LeBron James,True,False,activated from IL
 2022-02-05,Thunder,1629652,Luguentz Dort,False,True,placed on IL with facial injury
 2022-02-06,76ers,1629680,Matisse Thybulle,False,True,sore right shoulder (DTD)
 2022-02-06,76ers,1627788,Furkan Korkmaz,True,False,activated from IL
@@ -2194,18 +2374,20 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-06,Clippers,1627826,Ivica Zubac,True,False,activated from IL
 2022-02-06,Hawks,101150,Lou Williams,False,True,placed on IL with left hamstring injury
 2022-02-06,Hawks,201568,Danilo Gallinari,True,False,activated from IL
-2022-02-06,Nets,1629651,Nic Claxton,False,True,left hamstring injury (DTD)
+2022-02-06,Nets,2049,Nic Claxton,False,True,left hamstring injury (DTD)
 2022-02-06,Nuggets,203932,Aaron Gordon,True,False,activated from IL
 2022-02-06,Pacers,1629617,Reggie Perry,False,True,placed on IL with ineligible
 2022-02-06,Pacers,1627734,Domantas Sabonis,True,False,activated from IL
 2022-02-06,Pacers,1629048,Goga Bitadze,True,False,activated from IL
 2022-02-06,Pelicans,1628404,Josh Hart,True,False,activated from IL
 2022-02-06,Rockets,201569,Eric Gordon,False,True,placed on IL with sore left heel
+2022-02-06,Timberwolves,1630593,McKinley Wright IV,False,True,placed on IL with UCL injury in left elbow
 2022-02-06,Timberwolves,1626156,D'Angelo Russell,True,False,activated from IL
 2022-02-06,Timberwolves,1630195,Leandro Bolmaro,True,False,activated from IL
 2022-02-06,Wizards,1629655,Daniel Gafford,False,True,placed on IL with NBA health and safety protocols
 2022-02-06,Thunder,1630249,Vit Krejci,True,False,activated from IL
 2022-02-07,Bulls,1629632,Coby White,True,False,returned to lineup
+2022-02-07,Bulls,203897,Zach LaVine,True,False,activated from IL
 2022-02-07,Grizzlies,1629681,Killian Tillie,False,True,placed on IL with sore back
 2022-02-07,Grizzlies,1630582,Yves Pons,False,True,placed on IL with left thigh injury
 2022-02-07,Heat,1629639,Tyler Herro,False,True,placed on IL with sore right knee
@@ -2254,6 +2436,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-09,Pelicans,1626204,Larry Nance Jr.,False,True,surgery on right knee (out indefinitely)
 2022-02-09,Rockets,1628464,Daniel Theis,True,False,activated from IL
 2022-02-09,Spurs,1630200,Tre Jones,False,True,placed on IL with dental ailment
+2022-02-09,Spurs,1629022,Lonnie Walker IV,True,False,activated from IL
 2022-02-09,Timberwolves,201976,Patrick Beverley,False,True,placed on IL with sprained right ankle
 2022-02-09,Warriors,202691,Klay Thompson,False,True,placed on IL with right Achilles tendon injury
 2022-02-10,Heat,1628997,Caleb Martin,False,True,placed on IL with left Achilles injury
@@ -2264,6 +2447,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-10,Nets,201935,James Harden,False,True,placed on IL with tightness in left hamstring
 2022-02-10,Nets,202681,Kyrie Irving,True,False,activated from IL
 2022-02-10,Nuggets,1628420,Monte Morris,False,True,placed on IL with concussion
+2022-02-10,Raptors,1627832,Fred VanVleet,False,True,placed on IL with left groin injury
 2022-02-10,Warriors,2738,Andre Iguodala,False,True,placed on IL with tightness in lower back
 2022-02-10,Warriors,203490,Otto Porter Jr.,False,True,placed on IL with left foot injury
 2022-02-10,Warriors,202691,Klay Thompson,True,False,activated from IL
@@ -2290,6 +2474,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-11,Jazz,1627863,Danuel House Jr.,False,True,sore right shoulder (DTD)
 2022-02-12,Blazers,1628372,Dennis Smith Jr.,False,True,placed on IL with strained right elbow
 2022-02-12,Bulls,1629750,Javonte Green,False,True,placed on IL with right foot injury
+2022-02-12,Bulls,203897,Zach LaVine,False,True,placed on IL with left knee injury
 2022-02-12,Bulls,1627884,Derrick Jones Jr.,True,False,activated from IL
 2022-02-12,Cavaliers,1629636,Darius Garland,True,False,activated from IL
 2022-02-12,Clippers,1626181,Norman Powell,False,True,placed on IL with fractured left foot
@@ -2304,6 +2489,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-12,Pacers,1630543,Isaiah Jackson,False,True,placed on IL with sprained right ankle
 2022-02-12,Pacers,1630678,Terry Taylor,True,False,activated from IL
 2022-02-12,Pelicans,1626195,Willy Hernangomez,True,False,activated from IL
+2022-02-12,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2022-02-12,Spurs,1628966,Keita Bates-Diop,False,True,placed on IL with facial injury
 2022-02-12,Spurs,1628380,Zach Collins,False,True,placed on IL with left ankle injury
 2022-02-12,Thunder,1630598,Aaron Wiggins,True,False,activated from IL
@@ -2311,7 +2497,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-13,Bucks,1626192,Pat Connaughton,False,True,placed on IL with surgery on right hand
 2022-02-13,Hawks,1628381,John Collins (Martin),False,True,placed on IL with right foot injury
 2022-02-13,Jazz,1627863,Danuel House Jr.,True,False,returned to lineup
-2022-02-13,Nets,1629651,Nic Claxton,True,False,returned to lineup
+2022-02-13,Nets,200746,LaMarcus Aldridge,True,False,activated from IL
+2022-02-13,Nets,2049,Nic Claxton,True,False,returned to lineup
 2022-02-13,Pacers,1630537,Chris Duarte,False,True,left big toe injury (DTD)
 2022-02-13,Pistons,1628402,Frank Jackson,False,True,back spasms (DTD)
 2022-02-13,Spurs,1628380,Zach Collins,True,False,activated from IL
@@ -2324,6 +2511,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-14,Kings,203087,Jeremy Lamb,False,True,placed on IL with sore left ankle
 2022-02-14,Mavericks,1629033,Theo Pinson,False,True,placed on IL with fractured finger
 2022-02-14,Nets,202681,Kyrie Irving,False,True,placed on IL ineligible
+2022-02-14,Pistons,1628963,Marvin Bagley III,True,False,activated from IL
 2022-02-14,Rockets,201569,Eric Gordon,True,False,activated from IL
 2022-02-14,Spurs,1628966,Keita Bates-Diop,True,False,activated from IL
 2022-02-14,Thunder,1629652,Luguentz Dort,False,True,placed on IL with torn labrum in left shoulder (out for season)
@@ -2331,6 +2519,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-14,Pacers,1629617,Reggie Perry,True,False,activated from IL
 2022-02-15,Bucks,202083,Wes Matthews Jr.,False,True,toe injury (DTD)
 2022-02-15,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
+2022-02-15,Celtics,1629057,Robert Williams III,False,True,placed on IL with tightness in right calf
 2022-02-15,Clippers,1628379,Luke Kennard,True,False,activated from IL
 2022-02-15,Grizzlies,1629630,Ja Morant,False,True,placed on IL with sore left ankle
 2022-02-15,Heat,203473,Dewayne Dedmon,False,True,placed on IL with tightness in lower back / lower back spasms
@@ -2346,10 +2535,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-16,Kings,1630558,Davion Mitchell,False,True,placed on IL with sore right hand
 2022-02-16,Nuggets,1628420,Monte Morris,True,False,activated from IL
 2022-02-16,Pacers,1629048,Goga Bitadze,False,True,sore right foot (DTD)
+2022-02-16,Raptors,1627832,Fred VanVleet,False,True,placed on IL with bruised right knee
 2022-02-16,Rockets,1626174,Christian Wood,False,True,placed on IL with illness
 2022-02-16,Rockets,1629645,Kevin Porter Jr.,False,True,placed on IL with illness
 2022-02-16,Spurs,1630200,Tre Jones,False,True,placed on IL with sore right knee
 2022-02-16,Wizards,1629060,Rui Hachimura,False,True,placed on IL with sprained right ankle
+2022-02-17,Bucks,1627761,DeAndre' Bembry,False,True,placed on IL with left thumb injury
 2022-02-17,Bucks,1628960,Grayson Allen,False,True,placed on IL with sore left hip
 2022-02-17,Bucks,202083,Wes Matthews Jr.,True,False,returned to lineup
 2022-02-17,Heat,2617,Udonis Haslem,True,False,returned to lineup
@@ -2366,8 +2557,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-21,Blazers,1628372,Dennis Smith Jr.,True,False,activated from IL
 2022-02-23,Blazers,203994,Jusuf Nurkic,False,True,placed on IL with plantar fasciitis in left foot (out for season)
 2022-02-23,Blazers,1630553,Keon Johnson,True,False,activated from IL
+2022-02-23,Bulls,203897,Zach LaVine,True,False,activated from IL
 2022-02-23,Cavaliers,1629636,Darius Garland,False,True,placed on IL with sore lower back
 2022-02-23,Celtics,203935,Marcus Smart,True,False,activated from IL
+2022-02-23,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2022-02-23,Grizzlies,1630214,Xavier Tillman,True,False,activated from IL
 2022-02-23,Hawks,203476,Gorgui Dieng,False,True,placed on IL for personal reasons
 2022-02-23,Kings,1630558,Davion Mitchell,True,False,activated from IL
@@ -2378,6 +2571,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-23,Suns,1629013,Landry Shamet,True,False,activated from IL
 2022-02-23,Thunder,1628983,Shai Gilgeous-Alexander,True,False,activated from IL
 2022-02-24,76ers,201935,James Harden,True,False,activated from IL
+2022-02-24,Cavaliers,1627747,Caris LeVert,False,True,placed on IL with sprained right foot
 2022-02-24,Cavaliers,1628374,Lauri Markkanen,True,False,activated from IL
 2022-02-24,Heat,1628997,Caleb Martin,True,False,activated from IL
 2022-02-24,Heat,1629639,Tyler Herro,True,False,activated from IL
@@ -2390,6 +2584,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-24,Rockets,1629645,Kevin Porter Jr.,True,False,activated from IL
 2022-02-24,Spurs,1630200,Tre Jones,True,False,activated from IL
 2022-02-24,Thunder,1629660,Ty Jerome,False,True,placed on IL with sore left hip (out for season)
+2022-02-25,Bucks,1627761,DeAndre' Bembry,True,False,activated from IL
 2022-02-25,Bucks,1628960,Grayson Allen,True,False,activated from IL
 2022-02-25,Cavaliers,200765,Rajon Rondo,False,True,placed on IL with right big toe injury
 2022-02-25,Hawks,101150,Lou Williams,False,True,placed on IL with left hip injury
@@ -2406,6 +2601,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-25,Pacers,1630543,Isaiah Jackson,True,False,activated from IL
 2022-02-25,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
 2022-02-25,Raptors,1628384,O.G. Anunoby,False,True,placed on IL with fractured right finger
+2022-02-25,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2022-02-25,Spurs,1626196,Josh Richardson,False,True,placed on IL with sore right shoulder
 2022-02-25,Spurs,1630563,Joshua Primo,False,True,placed on IL with sore right wrist
 2022-02-25,Spurs,1629641,Romeo Langford,False,True,placed on IL with left groin injury
@@ -2430,6 +2626,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-27,Mavericks,203504,Trey Burke,False,True,placed on IL with sprained left shoulder
 2022-02-27,Pacers,202362,Lance Stephenson,False,True,placed on IL with sprained left ankle
 2022-02-27,Pacers,1630537,Chris Duarte,True,False,activated from IL
+2022-02-27,Pistons,1628963,Marvin Bagley III,False,True,placed on IL with sprained left ankle
 2022-02-27,Rockets,1629645,Kevin Porter Jr.,False,True,placed on IL with sprained left ankle
 2022-02-27,Spurs,1627749,Dejounte Murray,True,False,activated from IL
 2022-02-27,Spurs,1627751,Jakob Poeltl,True,False,activated from IL
@@ -2440,12 +2637,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-02-28,Magic,1628365,Markelle Fultz,True,False,activated from IL
 2022-02-28,Nets,202681,Kyrie Irving,False,True,placed on IL ineligible
 2022-02-28,Pacers,1627763,Malcolm Brogdon,False,True,right Achilles injury (DTD)
+2022-02-28,Raptors,1627832,Fred VanVleet,False,True,sore right knee (DTD)
 2022-02-28,Timberwolves,1627736,Malik Beasley,True,False,returned to lineup
 2022-02-28,Hornets,1630547,James Bouknight,False,True,placed on IL with sore neck
 2022-03-01,Nets,203083,Andre Drummond,False,True,sore left knee (DTD)
 2022-03-01,Pacers,1627763,Malcolm Brogdon,True,False,returned to lineup
 2022-03-01,Pistons,1628402,Frank Jackson,True,False,returned to lineup
 2022-03-01,Raptors,1628391,D.J. Wilson,False,True,placed on IL with sore left knee
+2022-03-01,Raptors,1627832,Fred VanVleet,False,True,placed on IL with sore right knee
 2022-03-01,Thunder,1630598,Aaron Wiggins,False,True,sprained right ankle (DTD)
 2022-03-01,Timberwolves,1630162,Anthony Edwards,False,True,patella tendinopathy in left knee (DTD)
 2022-03-01,Warriors,202357,Nemanja Bjelica,False,True,bruised right quadriceps (DTD)
@@ -2478,6 +2677,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-03,Raptors,1630525,David Johnson (Ricardo),False,True,placed on IL with left knee injury
 2022-03-03,Raptors,201152,Thaddeus Young,False,True,placed on IL with illness
 2022-03-03,Spurs,1629641,Romeo Langford,True,False,activated from IL
+2022-03-04,76ers,201599,DeAndre Jordan,False,True,not with team (DTD)
 2022-03-04,Hawks,1628381,John Collins (Martin),True,False,activated from IL
 2022-03-04,Jazz,1630215,Jared Butler,True,False,activated from IL
 2022-03-04,Knicks,1630167,Obi Toppin,False,True,placed on IL with strained left hamstring
@@ -2486,11 +2686,15 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-04,Nuggets,203085,Austin Rivers,False,True,placed on IL with illness
 2022-03-04,Nuggets,203999,Nikola Jokic,False,True,placed on IL with illness
 2022-03-04,Pacers,1629048,Goga Bitadze,False,True,sore right foot (DTD)
+2022-03-04,Pistons,1628963,Marvin Bagley III,True,False,activated from IL
 2022-03-04,Raptors,201152,Thaddeus Young,True,False,activated from IL
 2022-03-04,Rockets,201569,Eric Gordon,True,False,activated from IL
 2022-03-04,Timberwolves,1630162,Anthony Edwards,False,True,placed on IL with patella tendinopathy in left knee
+2022-03-04,Warriors,1627780,Gary Payton II,False,True,placed on IL with sore left knee
 2022-03-05,76ers,201935,James Harden,False,True,placed on IL with left hamstring injury
+2022-03-05,76ers,201599,DeAndre Jordan,True,False,returned to lineup
 2022-03-05,Blazers,1630190,Elijah Hughes,False,True,placed on IL with illness
+2022-03-05,Blazers,1630535,Greg Brown III,False,True,illness (DTD)
 2022-03-05,Bucks,202083,Wes Matthews Jr.,False,True,placed on IL with left hamstring injury
 2022-03-05,Celtics,1630174,Aaron Nesmith,False,True,placed on IL with sprained right ankle
 2022-03-05,Heat,202710,Jimmy Butler,True,False,activated from IL
@@ -2527,6 +2731,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-06,Raptors,1628391,D.J. Wilson,True,False,activated from IL
 2022-03-07,76ers,200794,Paul Millsap,False,True,placed on IL for personal reasons
 2022-03-07,Blazers,1630190,Elijah Hughes,True,False,activated from IL
+2022-03-07,Blazers,1630535,Greg Brown III,True,False,returned to lineup
 2022-03-07,Bucks,1628960,Grayson Allen,False,True,placed on IL with sore left hip
 2022-03-07,Bucks,202083,Wes Matthews Jr.,True,False,activated from IL
 2022-03-07,Bulls,202696,Nikola Vucevic,False,True,placed on IL with strained right hamstring
@@ -2541,24 +2746,29 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-07,Kings,203090,Moe Harkless,False,True,placed on IL with sprained right ankle
 2022-03-07,Kings,1626158,Richaun Holmes,False,True,personal reasons (DTD)
 2022-03-07,Knicks,201959,Taj Gibson,True,False,returned to lineup
+2022-03-07,Lakers,2544,LeBron James,False,True,sore left knee (DTD)
 2022-03-07,Magic,1628976,Wendell Carter Jr.,True,False,activated from IL
 2022-03-07,Mavericks,1628373,Frank Ntilikina,False,True,placed on IL with illness
 2022-03-07,Mavericks,1628973,Jalen Brunson,False,True,placed on IL with bruised right foot
 2022-03-07,Mavericks,1629029,Luka Doncic,True,False,activated from IL
 2022-03-07,Mavericks,1628467,Maxi Kleber,True,False,activated from IL
+2022-03-07,Nets,200746,LaMarcus Aldridge,False,True,placed on IL with right hip impingement
 2022-03-07,Nuggets,203115,Will Barton,False,True,placed on IL with sprained left ankle
 2022-03-07,Pistons,1628977,Hamidou Diallo,False,True,illness (DTD)
 2022-03-07,Rockets,1626174,Christian Wood,False,True,placed on IL with illness
 2022-03-07,Rockets,201569,Eric Gordon,False,True,placed on IL with right hamstring injury
 2022-03-07,Spurs,1630170,Devin Vassell,False,True,placed on IL with sore throat
 2022-03-07,Spurs,1628966,Keita Bates-Diop,False,True,placed on IL with sore lower back
+2022-03-07,Spurs,1629022,Lonnie Walker IV,False,True,placed on IL with stomach illness
 2022-03-07,Timberwolves,1626156,D'Angelo Russell,False,True,placed on IL with hamstring injury
+2022-03-07,Timberwolves,1630593,McKinley Wright IV,True,False,activated from IL
 2022-03-07,Timberwolves,201976,Patrick Beverley,True,False,activated from IL
 2022-03-07,Warriors,203952,Andrew Wiggins,False,True,placed on IL with sore left foot
 2022-03-07,Warriors,202691,Klay Thompson,False,True,placed on IL with right Achilles tendon injury
 2022-03-07,Warriors,203490,Otto Porter Jr.,False,True,illness (DTD)
 2022-03-07,Warriors,201939,Stephen Curry,False,True,placed on IL with sore left hand
 2022-03-08,Cavaliers,200765,Rajon Rondo,True,False,activated from IL
+2022-03-08,Hornets,1629667,Jalen McDaniels,True,False,activated from IL
 2022-03-08,Knicks,1629629,Cam Reddish,False,True,placed on IL with sprained/separated right shoulder (out for season)
 2022-03-08,Pacers,1630537,Chris Duarte,True,False,returned to lineup
 2022-03-08,Pelicans,1627742,Brandon Ingram,False,True,placed on IL with right hamstring injury
@@ -2581,18 +2791,22 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-09,Bulls,202696,Nikola Vucevic,True,False,activated from IL
 2022-03-09,Hawks,1628989,Kevin Huerter,True,False,activated from IL
 2022-03-09,Heat,202710,Jimmy Butler,False,True,placed on IL with sinus ailment
+2022-03-09,Hornets,1629667,Jalen McDaniels,False,True,sore left ankle (DTD)
 2022-03-09,Kings,1626158,Richaun Holmes,False,True,placed on IL for personal reasons
 2022-03-09,Lakers,1629659,Talen Horton-Tucker,False,True,sprained left ankle (DTD)
+2022-03-09,Lakers,2544,LeBron James,True,False,returned to lineup
 2022-03-09,Magic,1628365,Markelle Fultz,False,True,placed on IL with left knee injury
 2022-03-09,Magic,1630591,Jalen Suggs,True,False,activated from IL
 2022-03-09,Mavericks,1628973,Jalen Brunson,True,False,activated from IL
 2022-03-09,Nuggets,201145,Jeff Green,False,True,placed on IL for personal reasons
 2022-03-09,Nuggets,1630538,Bones Hyland,False,True,sore right knee (DTD)
 2022-03-09,Pistons,1630165,Killian Hayes,False,True,placed on IL with right adductor injury
+2022-03-09,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2022-03-09,Rockets,1630256,Jae'Sean Tate,False,True,placed on IL with sore left ankle
 2022-03-09,Rockets,203471,Dennis Schröder,True,False,activated from IL
 2022-03-09,Spurs,1630563,Joshua Primo,False,True,placed on IL with stomach illness
 2022-03-09,Spurs,1630170,Devin Vassell,True,False,activated from IL
+2022-03-09,Spurs,1629022,Lonnie Walker IV,True,False,activated from IL
 2022-03-09,Suns,1626164,Devin Booker,True,False,activated from IL
 2022-03-09,Thunder,1630544,Tre Mann,False,True,sprained left ankle (DTD)
 2022-03-09,Timberwolves,1629020,Jarred Vanderbilt,False,True,placed on IL with bruised left quadricep
@@ -2606,20 +2820,26 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-10,Nuggets,201145,Jeff Green,True,False,activated from IL
 2022-03-10,Nuggets,1630538,Bones Hyland,True,False,returned to lineup
 2022-03-10,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with concussion
+2022-03-10,Pelicans,203468,C.J. McCollum,False,True,placed on IL with NBA health and safety protocols
 2022-03-10,Pistons,203147,(Sean) Chris Smith,False,True,sprained left knee (DTD)
 2022-03-10,Pistons,1628977,Hamidou Diallo,False,True,placed on IL with left finger injury (out for season)
+2022-03-10,Pistons,203585,Rodney McGruder,False,True,strained left hamstring (DTD)
 2022-03-10,Timberwolves,201976,Patrick Beverley,True,False,activated from IL
 2022-03-11,Blazers,1629014,Anfernee Simons,False,True,placed on IL with left knee injury (out for season)
 2022-03-11,Heat,1628997,Caleb Martin,False,True,placed on IL with hyperextended left knee
 2022-03-11,Heat,202710,Jimmy Butler,True,False,activated from IL
+2022-03-11,Hornets,1629667,Jalen McDaniels,True,False,returned to lineup
 2022-03-11,Kings,1626158,Richaun Holmes,True,False,activated from IL
 2022-03-11,Lakers,1629659,Talen Horton-Tucker,True,False,returned to lineup
 2022-03-11,Magic,1628365,Markelle Fultz,True,False,activated from IL
 2022-03-11,Mavericks,1627827,Dorian Finney-Smith,False,True,right arm injury (DTD)
 2022-03-11,Mavericks,1628973,Jalen Brunson,False,True,placed on IL with bruised right thigh
 2022-03-11,Mavericks,1628373,Frank Ntilikina,True,False,activated from IL
+2022-03-11,Spurs,203926,Doug McDermott,False,True,placed on IL with illness
+2022-03-11,Timberwolves,1629162,Jordan McLaughlin,False,True,placed on IL with right groin injury
 2022-03-11,Timberwolves,1629020,Jarred Vanderbilt,True,False,activated from IL
 2022-03-11,Jazz,1628962,Udoka Azubuike,False,True,placed on IL with sprained right ankle (out for season)
+2022-03-12,Bulls,203897,Zach LaVine,False,True,placed on IL with sore left knee
 2022-03-12,Bulls,1627936,Alex Caruso,True,False,activated from IL
 2022-03-12,Cavaliers,1628374,Lauri Markkanen,False,True,placed on IL with sore right ankle
 2022-03-12,Heat,202710,Jimmy Butler,False,True,placed on IL with left big toe injury
@@ -2633,16 +2853,20 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-12,Kings,203090,Moe Harkless,True,False,activated from IL
 2022-03-12,Nuggets,203932,Aaron Gordon,False,True,placed on IL with sore right foot
 2022-03-12,Nuggets,203115,Will Barton,True,False,activated from IL
+2022-03-12,Raptors,1627832,Fred VanVleet,False,True,placed on IL with sore right knee
 2022-03-12,Rockets,1626174,Christian Wood,True,False,activated from IL
 2022-03-12,Rockets,1630256,Jae'Sean Tate,True,False,activated from IL
 2022-03-12,Spurs,1627749,Dejounte Murray,False,True,placed on IL with left calf injury
 2022-03-12,Spurs,1627751,Jakob Poeltl,False,True,placed on IL with sore lower back
 2022-03-12,Spurs,1630580,Joe Wieskamp,False,True,illness (DTD)
+2022-03-12,Spurs,203926,Doug McDermott,True,False,activated from IL
 2022-03-12,Spurs,1630563,Joshua Primo,True,False,activated from IL
 2022-03-12,Spurs,1628966,Keita Bates-Diop,True,False,activated from IL
 2022-03-12,Timberwolves,1629020,Jarred Vanderbilt,False,True,placed on IL with bruised left quadricep
 2022-03-12,Timberwolves,201976,Patrick Beverley,False,True,placed on IL with ear injury
+2022-03-12,Timberwolves,1629162,Jordan McLaughlin,True,False,activated from IL
 2022-03-12,Wizards,204001,Kristaps Porzingis,False,True,placed on IL with right knee injury
+2022-03-13,Bucks,1627761,DeAndre' Bembry,False,True,placed on IL with surgery on right knee
 2022-03-13,Bucks,201572,Brook Lopez,True,False,activated from IL
 2022-03-13,Bucks,201588,George Hill,True,False,activated from IL
 2022-03-13,Grizzlies,1628415,Dillon Brooks,True,False,activated from IL
@@ -2660,6 +2884,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-13,Rockets,203471,Dennis Schröder,False,True,placed on IL with illness
 2022-03-13,Rockets,201569,Eric Gordon,False,True,right knee tendinitis (DTD)
 2022-03-13,Rockets,1630586,Usman Garuba,True,False,activated from IL
+2022-03-13,Spurs,203926,Doug McDermott,False,True,placed on IL with sprained right ankle (out for season)
 2022-03-13,Spurs,1628966,Keita Bates-Diop,False,True,placed on IL with sore lower back
 2022-03-13,Spurs,1627749,Dejounte Murray,True,False,activated from IL
 2022-03-13,Spurs,1627751,Jakob Poeltl,True,False,activated from IL
@@ -2667,8 +2892,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-13,Thunder,1630544,Tre Mann,True,False,returned to lineup
 2022-03-14,76ers,201980,Danny Green,True,False,activated from IL
 2022-03-14,Bucks,1629623,Lindell Wigginton,True,False,activated from IL
+2022-03-14,Bulls,203897,Zach LaVine,True,False,activated from IL
 2022-03-14,Cavaliers,1629731,Dean Wade,False,True,placed on IL with torn meniscus in right knee (out for season)
 2022-03-14,Cavaliers,200765,Rajon Rondo,False,True,placed on IL with sprained right ankle
+2022-03-14,Cavaliers,1627747,Caris LeVert,True,False,activated from IL
 2022-03-14,Cavaliers,1628374,Lauri Markkanen,True,False,activated from IL
 2022-03-14,Hawks,201568,Danilo Gallinari,False,True,placed on IL with sore right Achilles
 2022-03-14,Heat,202710,Jimmy Butler,True,False,activated from IL
@@ -2679,7 +2906,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-14,Lakers,2730,Dwight Howard,False,True,placed on IL for personal reasons
 2022-03-14,Nuggets,203932,Aaron Gordon,True,False,activated from IL
 2022-03-14,Pistons,1630191,Isaiah Stewart,True,False,activated from IL
+2022-03-14,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2022-03-14,Spurs,1630580,Joe Wieskamp,True,False,returned to lineup
+2022-03-14,Timberwolves,1629162,Jordan McLaughlin,False,True,right groin injury (DTD)
 2022-03-14,Timberwolves,1629675,Naz Reid,False,True,placed on IL with back spasms
 2022-03-14,Timberwolves,201976,Patrick Beverley,True,False,activated from IL
 2022-03-14,Warriors,203952,Andrew Wiggins,False,True,placed on IL with illness
@@ -2701,10 +2930,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-15,Pacers,1630537,Chris Duarte,True,False,returned to lineup
 2022-03-15,Pacers,202362,Lance Stephenson,True,False,returned to lineup
 2022-03-15,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
+2022-03-15,Pelicans,203468,C.J. McCollum,True,False,activated from IL
 2022-03-15,Pistons,1630595,Cade Cunningham,False,True,illness (DTD)
 2022-03-15,Pistons,1630165,Killian Hayes,True,False,activated from IL
+2022-03-15,Pistons,203585,Rodney McGruder,True,False,returned to lineup
 2022-03-15,Rockets,203471,Dennis Schröder,True,False,activated from IL
 2022-03-15,Thunder,1630598,Aaron Wiggins,True,False,returned to lineup
+2022-03-15,Timberwolves,1630183,Jaden McDaniels,False,True,placed on IL with sprained left ankle
 2022-03-16,Blazers,1626159,Justise Winslow,True,False,activated from IL
 2022-03-16,Hawks,201568,Danilo Gallinari,True,False,activated from IL
 2022-03-16,Nets,202681,Kyrie Irving,False,True,placed on IL ineligible
@@ -2713,6 +2945,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-16,Rockets,201569,Eric Gordon,False,True,placed on IL with right knee tendinitis
 2022-03-16,Suns,203109,Jae Crowder,False,True,left groin injury (DTD)
 2022-03-16,Timberwolves,1629020,Jarred Vanderbilt,True,False,activated from IL
+2022-03-16,Timberwolves,1629162,Jordan McLaughlin,True,False,returned to lineup
 2022-03-16,Warriors,202357,Nemanja Bjelica,False,True,placed on IL with illness
 2022-03-16,Spurs,1629719,Devontae Cacok,True,False,activated from IL
 2022-03-17,Jazz,1628378,Donovan Mitchell,False,True,placed on IL with right calf injury
@@ -2754,6 +2987,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-19,Mavericks,203915,Spencer Dinwiddie,False,True,placed on IL with right knee injury
 2022-03-19,Pistons,1630165,Killian Hayes,False,True,placed on IL with bruised head
 2022-03-19,Pistons,1630595,Cade Cunningham,True,False,returned to lineup
+2022-03-19,Spurs,1629022,Lonnie Walker IV,False,True,placed on IL with lower back spasms
 2022-03-19,Timberwolves,1629675,Naz Reid,True,False,activated from IL
 2022-03-19,Warriors,203952,Andrew Wiggins,True,False,activated from IL
 2022-03-19,Wizards,1628398,Kyle Kuzma,False,True,right knee tendinitis (out for season)
@@ -2766,6 +3000,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-20,Mavericks,203915,Spencer Dinwiddie,True,False,activated from IL
 2022-03-20,Pelicans,1628984,Devonte' Graham,False,True,placed on IL with right hip injury
 2022-03-20,Pistons,203924,Jerami Grant,False,True,placed on IL with right knee inflammation
+2022-03-20,Raptors,1627832,Fred VanVleet,False,True,placed on IL with right knee injury
 2022-03-20,Raptors,1630525,David Johnson (Ricardo),True,False,activated from IL
 2022-03-20,Spurs,1626196,Josh Richardson,True,False,activated from IL
 2022-03-20,Suns,1626166,Cameron Payne,False,True,illness (DTD)
@@ -2780,6 +3015,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-21,Blazers,1626159,Justise Winslow,True,False,returned to lineup
 2022-03-21,Bucks,203114,Khris Middleton,False,True,placed on IL with sore left wrist
 2022-03-21,Celtics,203935,Marcus Smart,False,True,placed on IL with illness
+2022-03-21,Celtics,1629057,Robert Williams III,False,True,placed on IL with right knee injury
 2022-03-21,Celtics,1630174,Aaron Nesmith,True,False,activated from IL
 2022-03-21,Hawks,101150,Lou Williams,False,True,placed on IL for personal reasons
 2022-03-21,Heat,202710,Jimmy Butler,True,False,activated from IL
@@ -2793,9 +3029,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-21,Pistons,203482,Kelly Olynyk,False,True,sore left ankle (DTD)
 2022-03-21,Pistons,1630165,Killian Hayes,True,False,activated from IL
 2022-03-21,Raptors,1629018,Gary Trent Jr.,False,True,placed on IL with left big toe injury
+2022-03-21,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2022-03-21,Rockets,201569,Eric Gordon,True,False,activated from IL
 2022-03-21,Thunder,1630846,Olivier Sarr,False,True,illness (DTD)
 2022-03-21,Thunder,1628983,Shai Gilgeous-Alexander,True,False,activated from IL
+2022-03-21,Warriors,1627780,Gary Payton II,True,False,activated from IL
 2022-03-21,Wizards,1628398,Kyle Kuzma,False,True,placed on IL with right knee tendinitis (out for season)
 2022-03-22,76ers,201935,James Harden,True,False,activated from IL
 2022-03-22,76ers,203954,Joel Embiid,True,False,activated from IL
@@ -2811,10 +3049,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-22,Suns,1626166,Cameron Payne,True,False,returned to lineup
 2022-03-22,Warriors,1630541,Moses Moody,True,False,activated from IL
 2022-03-23,Celtics,203935,Marcus Smart,True,False,activated from IL
+2022-03-23,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2022-03-23,Hawks,201568,Danilo Gallinari,False,True,placed on IL with sore right Achilles
 2022-03-23,Heat,1629639,Tyler Herro,False,True,placed on IL with sprained left knee
 2022-03-23,Heat,203506,Victor Oladipo,True,False,activated from IL
 2022-03-23,Knicks,1629011,Mitchell Robinson,False,True,sore lower back (DTD)
+2022-03-23,Lakers,2544,LeBron James,False,True,placed on IL with sore left knee
 2022-03-23,Magic,1628365,Markelle Fultz,False,True,placed on IL with left knee injury
 2022-03-23,Magic,1628976,Wendell Carter Jr.,False,True,placed on IL with sprained left ankle
 2022-03-23,Nets,201609,Goran Dragic,False,True,sore left knee (DTD)
@@ -2832,6 +3072,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-23,Warriors,203490,Otto Porter Jr.,False,True,lower back injury (DTD)
 2022-03-23,Rockets,1630237,Anthony Lamb,False,True,placed on IL (out for season)
 2022-03-24,Bucks,203507,Giannis Antetokounmpo,False,True,placed on IL with sore right knee
+2022-03-24,Bulls,201942,DeMar DeRozan,False,True,placed on IL with strained left adductor
 2022-03-24,Grizzlies,1629634,Brandon Clarke,False,True,placed on IL with sore left hip
 2022-03-24,Grizzlies,1628415,Dillon Brooks,False,True,placed on IL with left ankle injury
 2022-03-24,Hawks,201568,Danilo Gallinari,True,False,activated from IL
@@ -2859,6 +3100,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-26,Bucks,201586,Serge Ibaka,False,True,placed on IL with illness
 2022-03-26,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
 2022-03-26,Bucks,203114,Khris Middleton,True,False,activated from IL
+2022-03-26,Bulls,201942,DeMar DeRozan,True,False,activated from IL
 2022-03-26,Cavaliers,1630612,R.J. Nembhard Jr.,False,True,placed on IL with illness
 2022-03-26,Celtics,201143,Al Horford,False,True,placed on IL for personal reasons
 2022-03-26,Grizzlies,1628415,Dillon Brooks,True,False,activated from IL
@@ -2875,23 +3117,28 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-26,Pistons,203924,Jerami Grant,False,True,placed on IL with strained left calf (out for season)
 2022-03-26,Rockets,201569,Eric Gordon,False,True,placed on IL with right groin injury (out for season)
 2022-03-26,Spurs,1630170,Devin Vassell,False,True,sore right Achilles (DTD)
+2022-03-26,Suns,201580,JaVale McGee,False,True,placed on IL with illness
 2022-03-26,Timberwolves,1627736,Malik Beasley,False,True,placed on IL with sprained left ankle
 2022-03-27,Cavaliers,1630612,R.J. Nembhard Jr.,True,False,activated from IL
 2022-03-27,Jazz,203497,Rudy Gobert,False,True,right leg injury (DTD)
 2022-03-27,Knicks,1629656,Quentin Grimes,False,True,placed on IL with sore right knee
 2022-03-27,Knicks,203944,Julius Randle,True,False,activated from IL
+2022-03-27,Lakers,2544,LeBron James,True,False,activated from IL
 2022-03-27,Lakers,1629659,Talen Horton-Tucker,True,False,activated from IL
 2022-03-27,Magic,1628976,Wendell Carter Jr.,True,False,activated from IL
 2022-03-27,Mavericks,202722,Davis Bertans,True,False,activated from IL
 2022-03-27,Mavericks,203504,Trey Burke,True,False,returned to lineup
+2022-03-27,Nets,200746,LaMarcus Aldridge,True,False,activated from IL
 2022-03-27,Pelicans,1626204,Larry Nance Jr.,False,True,placed on IL with right knee injury
 2022-03-27,Pelicans,1627742,Brandon Ingram,True,False,activated from IL
 2022-03-27,Wizards,1629655,Daniel Gafford,True,False,returned to lineup
+2022-03-28,Blazers,1630535,Greg Brown III,False,True,left eye injury (DTD)
 2022-03-28,Blazers,1630570,Trendon Watford,False,True,bruised left knee (out for season)
 2022-03-28,Bucks,201950,Jrue Holiday,True,False,activated from IL
 2022-03-28,Bucks,201586,Serge Ibaka,True,False,activated from IL
 2022-03-28,Celtics,1627759,Jaylen Brown,False,True,placed on IL with right knee injury
 2022-03-28,Celtics,1628369,Jayson Tatum,False,True,placed on IL with right patella tendinopathy
+2022-03-28,Celtics,1629057,Robert Williams III,False,True,placed on IL with torn meniscus in left knee
 2022-03-28,Grizzlies,1628991,Jaren Jackson Jr.,False,True,placed on IL with right thigh injury
 2022-03-28,Grizzlies,1629634,Brandon Clarke,True,False,activated from IL
 2022-03-28,Hawks,201568,Danilo Gallinari,False,True,placed on IL with right elbow injury
@@ -2901,6 +3148,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-28,Heat,1629216,Gabe Vincent,True,False,activated from IL
 2022-03-28,Kings,203458,Alex Len,False,True,illness (DTD)
 2022-03-28,Kings,1628367,Josh Jackson,False,True,placed on IL with illness
+2022-03-28,Nuggets,203210,JaMychal Green,False,True,placed on IL with sprained right wrist
 2022-03-28,Nuggets,1630267,Facundo Campazzo,True,False,activated from IL
 2022-03-28,Pacers,1629052,Oshae Brissett,False,True,sore back (DTD)
 2022-03-28,Pacers,1629048,Goga Bitadze,True,False,returned to lineup
@@ -2922,12 +3170,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-29,Celtics,201143,Al Horford,True,False,activated from IL
 2022-03-29,Clippers,202331,Paul George,True,False,activated from IL
 2022-03-29,Jazz,203497,Rudy Gobert,True,False,returned to lineup
+2022-03-29,Lakers,2544,LeBron James,False,True,placed on IL with sprained left ankle
 2022-03-29,Magic,1628976,Wendell Carter Jr.,False,True,placed on IL with sprained left wrist (out for season)
 2022-03-29,Mavericks,203504,Trey Burke,False,True,placed on IL with NBA health and safety protocols
 2022-03-29,Warriors,203110,Draymond Green,True,False,activated from IL
 2022-03-29,Warriors,202691,Klay Thompson,True,False,activated from IL
 2022-03-29,Warriors,203490,Otto Porter Jr.,True,False,activated from IL
 2022-03-30,Blazers,1630570,Trendon Watford,False,True,placed on IL with bruised left knee (out for season)
+2022-03-30,Blazers,1630535,Greg Brown III,True,False,returned to lineup
 2022-03-30,Blazers,1629712,Didi Louzada Silva ,True,False,activated from IL
 2022-03-30,Celtics,1627759,Jaylen Brown,True,False,activated from IL
 2022-03-30,Celtics,1628369,Jayson Tatum,True,False,activated from IL
@@ -2944,6 +3194,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-03-30,Pistons,1630587,Isaiah Livers,True,False,activated from IL
 2022-03-30,Raptors,203920,Khem Birch,True,False,activated from IL
 2022-03-30,Rockets,1630578,Alperen Sengun,False,True,placed on IL with bruised left leg
+2022-03-30,Spurs,1629022,Lonnie Walker IV,True,False,activated from IL
 2022-03-30,Warriors,1629683,Quinndary Weatherspoon,True,False,activated from IL
 2022-03-31,Hawks,101150,Lou Williams,False,True,placed on IL with right ankle injury
 2022-03-31,Hawks,201568,Danilo Gallinari,True,False,activated from IL
@@ -2969,14 +3220,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-01,Knicks,203944,Julius Randle,False,True,right quadricep injury (out for season)
 2022-04-01,Lakers,2546,Carmelo Anthony,False,True,placed on IL with illness
 2022-04-01,Lakers,203076,Anthony Davis,True,False,activated from IL
+2022-04-01,Lakers,2544,LeBron James,True,False,activated from IL
 2022-04-01,Mavericks,1628373,Frank Ntilikina,True,False,returned to lineup
+2022-04-01,Nuggets,203210,JaMychal Green,True,False,activated from IL
 2022-04-01,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with sore lower back (out for season)
 2022-04-01,Pacers,1630543,Isaiah Jackson,True,False,activated from IL
 2022-04-01,Pacers,1629052,Oshae Brissett,True,False,returned to lineup
 2022-04-01,Pistons,202709,Cory Joseph,False,True,lumbar spine injury (out for season)
+2022-04-01,Pistons,1628963,Marvin Bagley III,False,True,placed on IL with strained left hip (out for season)
 2022-04-01,Raptors,1629139,Yuta Watanabe,False,True,placed on IL with left quadriceps injury
 2022-04-01,Spurs,1627749,Dejounte Murray,False,True,illness (DTD)
 2022-04-01,Suns,1629661,Cameron Johnson,True,False,activated from IL
+2022-04-01,Suns,201580,JaVale McGee,True,False,activated from IL
 2022-04-01,Thunder,1630197,Aleksej Pokusevski,False,True,flu (DTD)
 2022-04-01,Timberwolves,1627736,Malik Beasley,True,False,activated from IL
 2022-04-01,Pistons,1630568,Luka Garza,True,False,activated from IL
@@ -2990,6 +3245,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-02,Hawks,101150,Lou Williams,True,False,activated from IL
 2022-04-02,Heat,1628997,Caleb Martin,True,False,activated from IL
 2022-04-02,Jazz,202355,Hassan Whiteside,True,False,activated from IL
+2022-04-02,Knicks,1630540,Miles McBride,False,True,sore right knee (DTD)
 2022-04-02,Mavericks,1628467,Maxi Kleber,False,True,sore right ankle (DTD)
 2022-04-02,Nets,1628971,Bruce Brown,False,True,placed on IL with illness
 2022-04-02,Nets,201609,Goran Dragic,False,True,placed on IL with NBA health and safety protocols
@@ -3006,7 +3262,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-03,Heat,200782,P.J. Tucker,False,True,placed on IL with left knee injury
 2022-04-03,Kings,203458,Alex Len,False,True,sore back (out for season)
 2022-04-03,Knicks,203944,Julius Randle,False,True,placed on IL with right quadricep injury (out for season)
+2022-04-03,Knicks,1630540,Miles McBride,True,False,returned to lineup
 2022-04-03,Knicks,1629656,Quentin Grimes,True,False,activated from IL
+2022-04-03,Lakers,2544,LeBron James,False,True,placed on IL with sprained left ankle (out for season)
 2022-04-03,Lakers,2546,Carmelo Anthony,True,False,activated from IL
 2022-04-03,Magic,1629678,Admiral Schofield,False,True,placed on IL with bruised left knee
 2022-04-03,Magic,1630532,Franz Wagner,False,True,placed on IL with sprained left ankle
@@ -3026,6 +3284,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-03,Pistons,203147,(Sean) Chris Smith,True,False,returned to lineup
 2022-04-03,Raptors,1629067,Isaac Bonga,False,True,placed on IL with right big toe injury
 2022-04-03,Raptors,1630201,Malachi Flynn,True,False,activated from IL
+2022-04-04,Blazers,1585,Brandon Williams (b. 1975-02-27),False,True,bruised left quadricep (DTD)
+2022-04-04,Bulls,203897,Zach LaVine,False,True,placed on IL with sore left knee
 2022-04-04,Celtics,1629752,Juwan Morgan,False,True,placed on IL with NBA health and safety protocols
 2022-04-04,Clippers,1630527,B.J. Boston Jr.,True,False,activated from IL
 2022-04-04,Grizzlies,1628415,Dillon Brooks,False,True,placed on IL with right hip injury
@@ -3052,17 +3312,21 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-04,Nets,201949,James Johnson,False,True,placed on IL with illness
 2022-04-04,Nets,1628971,Bruce Brown,True,False,activated from IL
 2022-04-04,Pacers,1629048,Goga Bitadze,False,True,placed on IL with sore right foot (out for season)
+2022-04-04,Pacers,204456,T.J. McConnell,True,False,activated from IL
 2022-04-04,Pelicans,202685,Jonas Valanciunas,False,True,placed on IL with sore right ankle
+2022-04-04,Pistons,203585,Rodney McGruder,False,True,strained left hip (DTD)
 2022-04-04,Pistons,1630595,Cade Cunningham,True,False,returned to lineup
 2022-04-04,Spurs,1629111,Jock Landale,False,True,placed on IL with sprained right foot
 2022-04-04,Spurs,1629641,Romeo Langford,False,True,placed on IL with left heel injury
 2022-04-04,Spurs,1627751,Jakob Poeltl,True,False,activated from IL
 2022-04-04,Suns,203109,Jae Crowder,True,False,returned to lineup
+2022-04-04,Timberwolves,1630183,Jaden McDaniels,True,False,activated from IL
 2022-04-05,Hawks,201568,Danilo Gallinari,False,True,left knee inflammation (DTD)
 2022-04-05,Kings,203458,Alex Len,False,True,placed on IL with sore back (out for season)
 2022-04-05,Thunder,1630544,Tre Mann,False,True,placed on IL with strained right hamstring (out for season)
 2022-04-06,76ers,1629680,Matisse Thybulle,False,True,placed on IL ineligible
 2022-04-06,Bulls,1627936,Alex Caruso,False,True,placed on IL with bruised lower back
+2022-04-06,Bulls,203897,Zach LaVine,True,False,activated from IL
 2022-04-06,Clippers,1628379,Luke Kennard,False,True,placed on IL with right hamstring injury
 2022-04-06,Clippers,1626181,Norman Powell,True,False,activated from IL
 2022-04-06,Hawks,101150,Lou Williams,False,True,placed on IL with lower back injury (out for season)
@@ -3084,7 +3348,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-06,Warriors,2738,Andre Iguodala,True,False,activated from IL
 2022-04-06,Warriors,202691,Klay Thompson,True,False,activated from IL
 2022-04-06,Warriors,203490,Otto Porter Jr.,True,False,activated from IL
+2022-04-06,Warriors,255,placed on IL with right Achilles tendon injury,True,False,activated from IL
+2022-04-07,Blazers,1585,Brandon Williams (b. 1975-02-27),True,False,returned to lineup
 2022-04-07,Bucks,1628960,Grayson Allen,False,True,placed on IL with sore left hip
+2022-04-07,Bucks,2403,placed on IL with surgery on right knee,True,False,activated from IL
 2022-04-07,Celtics,201143,Al Horford,False,True,placed on IL with sore lower back
 2022-04-07,Celtics,1628369,Jayson Tatum,False,True,placed on IL with right patella tendinopathy
 2022-04-07,Grizzlies,1629633,Jarrett Culver,False,True,placed on IL with sore right knee
@@ -3101,6 +3368,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-07,Nuggets,201145,Jeff Green,True,False,activated from IL
 2022-04-07,Pelicans,1627742,Brandon Ingram,False,True,placed on IL with right hamstring injury
 2022-04-07,Pelicans,202685,Jonas Valanciunas,True,False,activated from IL
+2022-04-07,Pistons,203585,Rodney McGruder,True,False,returned to lineup
+2022-04-07,Raptors,1627832,Fred VanVleet,False,True,placed on IL with sore right knee
+2022-04-07,Spurs,1629022,Lonnie Walker IV,False,True,placed on IL with tightness in lower back
 2022-04-07,Suns,101108,Chris Paul,True,False,returned to lineup
 2022-04-07,Suns,1629028,Deandre Ayton,True,False,returned to lineup
 2022-04-07,Suns,1626164,Devin Booker,True,False,returned to lineup
@@ -3108,6 +3378,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-07,Timberwolves,1626156,D'Angelo Russell,False,True,placed on IL with hamstring injury (out for season)
 2022-04-07,Timberwolves,201976,Patrick Beverley,True,False,activated from IL
 2022-04-07,Wizards,1630176,Vernon Carey Jr.,True,False,activated from IL
+2022-04-07,Bucks,1627761,DeAndre' Bembry,True,False,activated from IL
 2022-04-07,Celtics,1629752,Juwan Morgan,True,False,activated from IL
 2022-04-07,Nets,201949,James Johnson,True,False,activated from IL
 2022-04-07,Raptors,1629067,Isaac Bonga,True,False,activated from IL
@@ -3128,6 +3399,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-08,Spurs,1627751,Jakob Poeltl,False,True,placed on IL with tightness in lower back
 2022-04-08,Spurs,1629640,Keldon Johnson,False,True,placed on IL with sore right knee
 2022-04-08,Spurs,1629111,Jock Landale,True,False,activated from IL
+2022-04-08,Spurs,1629022,Lonnie Walker IV,True,False,activated from IL
 2022-04-08,Suns,1626166,Cameron Payne,False,True,sore right knee (DTD)
 2022-04-08,Wizards,204001,Kristaps Porzingis,False,True,placed on IL with right knee injury (out for season)
 2022-04-08,Raptors,1629067,Isaac Bonga,False,True,placed on IL with right big toe injury
@@ -3135,6 +3407,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-09,76ers,1629680,Matisse Thybulle,True,False,activated from IL
 2022-04-09,Bucks,201572,Brook Lopez,False,True,placed on IL with back injury
 2022-04-09,Bucks,201588,George Hill,False,True,placed on IL with strained abdominal
+2022-04-09,Bulls,203897,Zach LaVine,False,True,placed on IL with sore left knee
 2022-04-09,Celtics,201143,Al Horford,True,False,activated from IL
 2022-04-09,Celtics,1628369,Jayson Tatum,True,False,activated from IL
 2022-04-09,Grizzlies,1630583,Santi Aldama,False,True,placed on IL
@@ -3176,6 +3449,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-10,Hornets,1630208,Nick Richards,False,True,left hand injury (out for season)
 2022-04-10,Jazz,202711,Bojan Bogdanovic,False,True,placed on IL with left calf injury
 2022-04-10,Jazz,1628378,Donovan Mitchell,False,True,placed on IL with illness
+2022-04-10,Knicks,1630540,Miles McBride,False,True,sore right knee (out for season)
 2022-04-10,Magic,1630591,Jalen Suggs,False,True,placed on IL with right ankle injury (out for season)
 2022-04-10,Mavericks,1628373,Frank Ntilikina,False,True,placed on IL with illness
 2022-04-10,Mavericks,1628425,Sterling Brown,False,True,placed on IL with illness
@@ -3193,6 +3467,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-10,Pistons,1630595,Cade Cunningham,False,True,placed on IL with right hip injury (out for season)
 2022-04-10,Pistons,202709,Cory Joseph,False,True,placed on IL with lumbar spine injury (out for season)
 2022-04-10,Raptors,1628384,O.G. Anunoby,True,False,activated from IL
+2022-04-10,Spurs,1629022,Lonnie Walker IV,False,True,placed on IL with tightness in lower back (out for season)
 2022-04-10,Spurs,1627749,Dejounte Murray,True,False,activated from IL
 2022-04-10,Spurs,1630170,Devin Vassell,True,False,activated from IL
 2022-04-10,Spurs,1627751,Jakob Poeltl,True,False,activated from IL
@@ -3221,6 +3496,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-15,76ers,201935,James Harden,True,False,activated from IL
 2022-04-15,76ers,203954,Joel Embiid,True,False,returned to lineup
 2022-04-15,76ers,200794,Paul Millsap,True,False,activated from IL
+2022-04-15,76ers,2403,placed on IL with left knee injury,True,False,activated from IL
 2022-04-15,Grizzlies,1628415,Dillon Brooks,True,False,activated from IL
 2022-04-15,Grizzlies,1629630,Ja Morant,True,False,activated from IL
 2022-04-15,Grizzlies,1628991,Jaren Jackson Jr.,True,False,activated from IL
@@ -3230,6 +3506,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-15,Nuggets,1628420,Monte Morris,True,False,activated from IL
 2022-04-15,Nuggets,203999,Nikola Jokic,True,False,activated from IL
 2022-04-15,Nuggets,203115,Will Barton,True,False,activated from IL
+2022-04-15,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2022-04-15,Warriors,2738,Andre Iguodala,True,False,activated from IL
 2022-04-15,Warriors,203952,Andrew Wiggins,True,False,activated from IL
 2022-04-15,Warriors,203490,Otto Porter Jr.,True,False,activated from IL
@@ -3251,6 +3528,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-16,Timberwolves,1627752,Taurean Prince,True,False,returned to lineup
 2022-04-16,Warriors,201939,Stephen Curry,True,False,activated from IL
 2022-04-17,Bucks,1629670,Jordan Nwora,False,True,placed on IL with sore back
+2022-04-17,Bulls,203897,Zach LaVine,True,False,activated from IL
 2022-04-17,Hawks,1628381,John Collins (Martin),True,False,activated from IL
 2022-04-17,Heat,203473,Dewayne Dedmon,True,False,activated from IL
 2022-04-17,Heat,1629639,Tyler Herro,True,False,activated from IL
@@ -3267,6 +3545,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-21,Bucks,203114,Khris Middleton,False,True,placed on IL with sprained MCL in left knee (out for season)
 2022-04-21,Suns,1626164,Devin Booker,False,True,strained right hamstring (DTD)
 2022-04-21,Warriors,2738,Andre Iguodala,True,False,returned to lineup
+2022-04-23,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2022-04-23,Mavericks,1629029,Luka Doncic,True,False,activated from IL
 2022-04-23,Raptors,1630567,Scottie Barnes,True,False,activated from IL
 2022-04-24,Bucks,1630492,Luca Vildoza,False,True,illness (DTD)
@@ -3279,7 +3558,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-04-26,Bucks,1630492,Luca Vildoza,True,False,returned to lineup
 2022-04-26,Hawks,203992,Bogdan Bogdanovic,False,True,sore right knee (out for season)
 2022-04-26,Heat,202710,Jimmy Butler,False,True,placed on IL with right knee inflammation
+2022-04-26,Raptors,1627832,Fred VanVleet,False,True,placed on IL with left hip flexor injury (out for season)
 2022-04-27,Bulls,1627936,Alex Caruso,False,True,placed on IL with concussion protocol (out for season)
+2022-04-27,Bulls,203897,Zach LaVine,False,True,placed on IL with NBA health and safety protocols (out for season)
 2022-04-27,Warriors,2738,Andre Iguodala,False,True,placed on IL with cervical injury
 2022-04-28,Grizzlies,203500,Steven Adams,False,True,placed on IL with NBA health and safety protocols
 2022-04-28,Suns,1626164,Devin Booker,True,False,returned to lineup
@@ -3291,6 +3572,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-05-02,Heat,202710,Jimmy Butler,True,False,activated from IL
 2022-05-03,Celtics,203935,Marcus Smart,False,True,placed on IL with bruised right thigh
 2022-05-03,Grizzlies,1630533,Ziaire Williams,True,False,returned to lineup
+2022-05-04,Warriors,1627780,Gary Payton II,False,True,placed on IL with fractured left elbow
 2022-05-06,76ers,203954,Joel Embiid,True,False,activated from IL
 2022-05-06,Celtics,1630573,Sam Hauser,False,True,placed on IL with right shoulder injury
 2022-05-06,Grizzlies,203500,Steven Adams,True,False,activated from IL
@@ -3301,6 +3583,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-05-08,76ers,1630198,Isaiah Joe,False,True,placed on IL with sprained right ankle
 2022-05-08,Heat,203473,Dewayne Dedmon,False,True,placed on IL with head cold
 2022-05-09,Bucks,201586,Serge Ibaka,False,True,placed on IL with illness
+2022-05-09,Celtics,1629057,Robert Williams III,False,True,placed on IL with sore left knee
 2022-05-09,Grizzlies,1629630,Ja Morant,False,True,placed on IL with sore right knee (out for season)
 2022-05-10,76ers,1630198,Isaiah Joe,True,False,activated from IL
 2022-05-10,Bucks,201586,Serge Ibaka,True,False,activated from IL
@@ -3308,6 +3591,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-05-10,Heat,203473,Dewayne Dedmon,True,False,activated from IL
 2022-05-10,Suns,1628470,Torrey Craig,True,False,returned to lineup
 2022-05-13,Warriors,203490,Otto Porter Jr.,False,True,sore right foot (DTD)
+2022-05-15,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2022-05-17,Celtics,201143,Al Horford,False,True,placed on IL with NBA health and safety protocols
 2022-05-17,Celtics,203935,Marcus Smart,False,True,placed on IL with sprained right foot
 2022-05-17,Warriors,203490,Otto Porter Jr.,True,False,returned to lineup
@@ -3315,14 +3599,17 @@ Date,Team,playerID,Player,In,Out,Notes
 2022-05-19,Celtics,201143,Al Horford,True,False,activated from IL
 2022-05-19,Celtics,203935,Marcus Smart,True,False,activated from IL
 2022-05-20,Celtics,1628401,Derrick White,True,False,returned to lineup
+2022-05-21,Celtics,1629057,Robert Williams III,False,True,placed on IL with sore left knee
 2022-05-21,Heat,200768,Kyle Lowry,True,False,activated from IL
 2022-05-23,Celtics,203935,Marcus Smart,False,True,placed on IL with sprained right ankle
+2022-05-23,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2022-05-23,Heat,1629639,Tyler Herro,False,True,placed on IL with strained left groin
 2022-05-24,Warriors,203490,Otto Porter Jr.,False,True,sore left foot (DTD)
 2022-05-25,Celtics,203935,Marcus Smart,True,False,activated from IL
 2022-05-29,Heat,1629639,Tyler Herro,True,False,activated from IL
 2022-06-01,Celtics,1630573,Sam Hauser,True,False,activated from IL
 2022-06-02,Warriors,2738,Andre Iguodala,True,False,activated from IL
+2022-06-02,Warriors,1627780,Gary Payton II,True,False,activated from IL
 2022-06-02,Warriors,203490,Otto Porter Jr.,True,False,returned to lineup
 2022-06-05,Warriors,2738,Andre Iguodala,False,True,placed on IL with right knee inflammation
 2022-06-07,Pelicans,1627742,Brandon Ingram,False,True,surgery on right fifth finger to repair flexion contracture (out for season)

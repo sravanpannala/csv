@@ -4,23 +4,29 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-09-28,Cavaliers,1629685,Dylan Windler,False,True,stress reaction in left leg (out for season)
 2019-10-01,Wizards,202322,John Wall (Hildred),False,True,placed on IL recovering from torn left Achilles tendon (out for season)
 2019-10-11,Bucks,202339,Eric Bledsoe,False,True,rib injury (out indefinitely)
+2019-10-13,Rockets,101123,Gerald Green (b. 1986-01-26),False,True,left foot injury (out indefinitely)
 2019-10-17,Cavaliers,1627790,Ante Zizic,False,True,left foot injury (out indefinitely)
 2019-10-18,Pelicans,1629627,Zion Williamson,False,True,torn meniscus in right knee (out indefinitely)
 2019-10-21,Clippers,1629599,Amir Coffey,False,True,sprained right ankle (DTD)
+2019-10-21,Clippers,203585,Rodney McGruder,False,True,sprained right ankle (DTD)
 2019-10-21,Lakers,1628398,Kyle Kuzma,False,True,stress reaction in left ankle/foot (out indefinitely)
 2019-10-21,Pelicans,203121,Darius Miller,False,True,torn right Achilles tendon (out for season)
 2019-10-21,Pelicans,1629627,Zion Williamson,False,True,surgery on right knee to repair torn meniscus (out indefinitely)
+2019-10-21,Raptors,1627775,Patrick McCaw,False,True,placed on IL with sore left knee
 2019-10-21,Raptors,1626178,Rondae Hollis-Jefferson,False,True,placed on IL with left groin injury
 2019-10-22,Blazers,2200,Pau Gasol,False,True,left foot injury (DTD)
 2019-10-22,Bulls,1628990,Chandler Hutchison,False,True,strained left hamstring (DTD)
 2019-10-22,Celtics,1629641,Romeo Langford,False,True,sore right knee (DTD)
 2019-10-22,Celtics,1629605,Tacko Fall,False,True,concussion (DTD)
 2019-10-22,Clippers,202331,Paul George,False,True,placed on IL with right shoulder injury
+2019-10-22,Clippers,203585,Rodney McGruder,False,True,placed on IL with sprained right ankle
 2019-10-22,Grizzlies,2738,Andre Iguodala,False,True,player not with team (out indefinitely)
 2019-10-22,Grizzlies,1628367,Josh Jackson,False,True,player not with team (out indefinitely)
 2019-10-22,Heat,2617,Udonis Haslem,False,True,sprained left wrist (DTD)
 2019-10-22,Jazz,203957,Dante Exum,False,True,right knee injury (DTD)
+2019-10-22,Kings,1628385,Harry Giles III,False,True,sore left knee (DTD)
 2019-10-22,Knicks,1628443,Kadeem Allen,False,True,sore right knee (DTD)
+2019-10-22,Lakers,202326,DeMarcus Cousins,False,True,placed on IL recovering from surery on left knee to repair torn ACL
 2019-10-22,Lakers,1628398,Kyle Kuzma,False,True,placed on IL with stress reaction in left ankle/foot
 2019-10-22,Lakers,200765,Rajon Rondo,False,True,placed on IL with right calf injury
 2019-10-22,Mavericks,203939,Dwight Powell,False,True,strained left hamstring (DTD)
@@ -40,6 +46,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-10-23,Bulls,1626245,Cristiano Felicio,False,True,placed on IL
 2019-10-23,Bulls,1629622,Max Strus,False,True,placed on IL
 2019-10-23,Bulls,1627885,Shaquille Harrison,False,True,strained left hamstring (DTD)
+2019-10-23,Cavaliers,1628035,Alfonzo McKinnie,False,True,"placed on IL, player not with team"
 2019-10-23,Cavaliers,1627790,Ante Zizic,False,True,placed on IL with left foot injury
 2019-10-23,Cavaliers,203089,John Henson,False,True,placed on IL with sprained right ankle
 2019-10-23,Celtics,1629641,Romeo Langford,False,True,placed on IL with sore right knee
@@ -51,16 +58,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-10-23,Heat,202710,Jimmy Butler,False,True,personal reasons (DTD)
 2019-10-23,Heat,2617,Udonis Haslem,False,True,placed on IL with sprained left wrist (DTD)
 2019-10-23,Jazz,203957,Dante Exum,False,True,placed on IL with right knee injury
+2019-10-23,Kings,1628385,Harry Giles III,False,True,placed on IL with sore left knee
 2019-10-23,Knicks,1628443,Kadeem Allen,False,True,placed on IL with sore right knee
 2019-10-23,Knicks,1629011,Mitchell Robinson,False,True,placed on IL with sprained right ankle
 2019-10-23,Knicks,203493,Reggie Bullock,False,True,placed on IL with surgery on neck
 2019-10-23,Mavericks,203939,Dwight Powell,False,True,placed on IL with strained left hamstring
 2019-10-23,Mavericks,1629151,Ryan Broekhoff,False,True,placed on IL with sprained right ankle
-2019-10-23,Nets,1629651,Nic Claxton,False,True,placed on IL
+2019-10-23,Nets,2049,Nic Claxton,False,True,placed on IL
 2019-10-23,Nuggets,1629626,Bol Bol,False,True,placed on IL with left foot injury
 2019-10-23,Pistons,201933,Blake Griffin,False,True,placed on IL with left hamstring injury
 2019-10-23,Pistons,1629648,Jordan Bone,False,True,placed on IL
 2019-10-23,Pistons,1629635,Sekou Doumbouya,False,True,placed on IL
+2019-10-23,Rockets,1626187,Michael Frazier II,False,True,sprained right ankle (DTD)
 2019-10-23,Rockets,2403,Nene Hilario ,False,True,adductor injury (out indefinitely)
 2019-10-23,Suns,1629665,Jalen Lecque,False,True,placed on IL
 2019-10-23,Suns,1629660,Ty Jerome,False,True,placed on IL with sprained right ankle
@@ -75,25 +84,29 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-10-24,Bucks,1627733,Dragan Bender,False,True,placed on IL
 2019-10-24,Bucks,1628412,Frank Mason,False,True,placed on IL
 2019-10-24,Bucks,202339,Eric Bledsoe,True,False,returned to lineup
-2019-10-24,Celtics,2403,Enes Kanter,False,True,bruised left knee (DTD)
+2019-10-24,Celtics,202683,Enes Kanter,False,True,bruised left knee (DTD)
 2019-10-24,Hawks,203459,Allen Crabbe,False,True,placed on IL with right knee injury
 2019-10-24,Hawks,202718,Chandler Parsons,False,True,placed on IL with knee injury
 2019-10-24,Hawks,1627820,Tyrone Wallace,False,True,player not with team (DTD)
 2019-10-24,Hornets,201587,Nicolas Batum,False,True,fractured finger (DTD)
+2019-10-24,Kings,1628963,Marvin Bagley III,False,True,fractured right thumb (out indefinitely)
 2019-10-24,Rockets,2403,Nene Hilario ,False,True,placed on IL with adductor injury
 2019-10-24,Warriors,202692,Alec Burks,False,True,placed on IL with sprained right ankle
 2019-10-24,Warriors,1629346,Alen Smailagic,False,True,sprained right ankle (DTD)
 2019-10-24,Warriors,1626161,Willie Cauley-Stein,False,True,placed on IL with left foot injury
+2019-10-24,Wizards,203895,Jordan McRae,False,True,fractured finger (out indefinitely)
 2019-10-25,Bulls,1627885,Shaquille Harrison,True,False,returned to lineup
-2019-10-25,Celtics,2403,Enes Kanter,False,True,placed on IL with bruised left knee
+2019-10-25,Celtics,202683,Enes Kanter,False,True,placed on IL with bruised left knee
 2019-10-25,Hornets,203469,Cody Zeller,False,True,placed on IL for personal reasons
 2019-10-25,Hornets,201587,Nicolas Batum,False,True,placed on IL with fractured finger
 2019-10-25,Jazz,202711,Bojan Bogdanovic,False,True,placed on IL with sprained left ankle
+2019-10-25,Kings,1628963,Marvin Bagley III,False,True,placed on IL with fractured right thumb
 2019-10-25,Knicks,1628397,Ivan Rabb,True,False,returned to lineup
 2019-10-25,Knicks,1629011,Mitchell Robinson,True,False,activated from IL
 2019-10-25,Mavericks,1629676,Isaiah Roby,False,True,placed on IL
 2019-10-25,Mavericks,1629151,Ryan Broekhoff,True,False,activated from IL
 2019-10-26,76ers,203954,Joel Embiid,False,True,placed on IL with sprained right ankle
+2019-10-26,Cavaliers,1628035,Alfonzo McKinnie,True,False,activated from IL
 2019-10-26,Cavaliers,203089,John Henson,True,False,activated from IL
 2019-10-26,Celtics,1628464,Daniel Theis,False,True,placed on IL with sprained left ankle
 2019-10-26,Celtics,1629605,Tacko Fall,False,True,placed on IL with concussion
@@ -121,6 +134,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-10-28,Knicks,1628372,Dennis Smith Jr.,False,True,placed on IL for personal reasons
 2019-10-28,Pelicans,202324,Derrick Favors,False,True,sore right knee (DTD)
 2019-10-28,Pistons,1629648,Jordan Bone,False,True,placed on IL
+2019-10-28,Raptors,1627775,Patrick McCaw,True,False,activated from IL
 2019-10-28,Suns,201937,Ricky Rubio,True,False,activated from IL
 2019-10-28,Grizzlies,1628367,Josh Jackson,True,False,returned to lineup
 2019-10-28,Suns,1629607,Jared Harper,False,True,placed on IL
@@ -138,6 +152,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-10-30,Celtics,1628464,Daniel Theis,True,False,activated from IL
 2019-10-30,Celtics,1629641,Romeo Langford,True,False,activated from IL
 2019-10-30,Clippers,202695,Kawhi Leonard,False,True,placed on IL
+2019-10-30,Clippers,203585,Rodney McGruder,True,False,activated from IL
 2019-10-30,Hornets,203077,Michael Kidd-Gilchrist,True,False,returned to lineup
 2019-10-30,Pacers,1628410,Edmond Sumner,False,True,placed on IL with fractured right hand
 2019-10-30,Pacers,203087,Jeremy Lamb,True,False,activated from IL
@@ -157,10 +172,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-10-31,Warriors,201939,Stephen Curry,False,True,fractured left hand (out indefinitely)
 2019-10-31,Clippers,1629599,Amir Coffey,True,False,returned to lineup
 2019-11-01,Bucks,2594,Kyle Korver,False,True,placed on IL
+2019-11-01,Celtics,1629057,Robert Williams III,False,True,placed on IL with sore left hip
 2019-11-01,Knicks,1628443,Kadeem Allen,True,False,activated from IL
 2019-11-01,Lakers,1628398,Kyle Kuzma,True,False,activated from IL
 2019-11-01,Magic,203487,Michael Carter-Williams,False,True,placed on IL with bruised left hip
 2019-11-01,Pacers,1626167,Myles Turner,False,True,placed on IL with sprained right ankle
+2019-11-01,Raptors,1627775,Patrick McCaw,False,True,left knee injury (out indefinitely)
 2019-11-01,Warriors,201939,Stephen Curry,False,True,placed on IL with fractured left hand
 2019-11-02,76ers,203504,Trey Burke,True,False,returned to lineup
 2019-11-02,Blazers,202355,Hassan Whiteside,False,True,left knee injury (DTD)
@@ -175,6 +192,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-02,Pistons,1629648,Jordan Bone,True,False,activated from IL
 2019-11-02,Warriors,1626156,D'Angelo Russell,False,True,sprained right ankle (DTD)
 2019-11-02,Warriors,203110,Draymond Green,False,True,left index finger injury (DTD)
+2019-11-02,Wizards,203895,Jordan McRae,False,True,placed on IL with fractured finger
 2019-11-03,Bulls,1628990,Chandler Hutchison,True,False,activated from IL
 2019-11-03,Grizzlies,1628960,Grayson Allen,False,True,sore left ankle (DTD)
 2019-11-03,Heat,203079,Dion Waiters,True,False,activated from IL
@@ -186,12 +204,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-04,Blazers,202355,Hassan Whiteside,True,False,returned to lineup
 2019-11-04,Grizzlies,1628960,Grayson Allen,False,True,placed on IL with sore left ankle
 2019-11-04,Grizzlies,1628991,Jaren Jackson Jr.,False,True,placed on IL with sore right knee
-2019-11-04,Nets,1629651,Nic Claxton,True,False,activated from IL
+2019-11-04,Nets,2049,Nic Claxton,True,False,activated from IL
 2019-11-04,Pelicans,202324,Derrick Favors,True,False,returned to lineup
 2019-11-04,Pistons,201565,Derrick Rose,False,True,placed on IL with right hamstring injury
 2019-11-04,Wizards,101139,C.J. Miles,True,False,activated from IL
 2019-11-05,Cavaliers,203521,Matthew Dellavedova,True,False,activated from IL
 2019-11-05,Celtics,1629641,Romeo Langford,False,True,placed on IL with illness
+2019-11-05,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2019-11-05,Hawks,1629027,Trae Young,True,False,activated from IL
 2019-11-05,Heat,203079,Dion Waiters,False,True,placed on IL
 2019-11-05,Heat,1627884,Derrick Jones Jr.,True,False,activated from IL
@@ -201,9 +220,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-05,Nuggets,1628427,Vlatko Cancar,False,True,placed on IL
 2019-11-05,Nuggets,203115,Will Barton,True,False,activated from IL
 2019-11-05,Thunder,203500,Steven Adams,True,False,activated from IL
-2019-11-05,Celtics,2403,Enes Kanter,True,False,activated from IL
+2019-11-05,Celtics,202683,Enes Kanter,True,False,activated from IL
 2019-11-05,Magic,1628982,Melvin Frazier Jr.,True,False,activated from IL
-2019-11-05,Celtics,2403,Enes Kanter,False,True,bruised left knee (DTD)
+2019-11-05,Celtics,202683,Enes Kanter,False,True,bruised left knee (DTD)
 2019-11-05,Magic,1628982,Melvin Frazier Jr.,False,True,bruised left shoulder (DTD)
 2019-11-06,Clippers,202695,Kawhi Leonard,False,True,placed on IL
 2019-11-06,Grizzlies,1628991,Jaren Jackson Jr.,True,False,activated from IL
@@ -212,13 +231,17 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-06,Mavericks,1628467,Maxi Kleber,True,False,activated from IL
 2019-11-06,Pacers,203087,Jeremy Lamb,False,True,placed on IL with sprained left ankle
 2019-11-06,Pacers,1627734,Domantas Sabonis,True,False,activated from IL
+2019-11-06,Raptors,1627775,Patrick McCaw,False,True,surgery on left knee (date approximate)
+2019-11-06,Raptors,1627775,Patrick McCaw,False,True,placed on IL with left knee injury
+2019-11-06,Raptors,1627775,Patrick McCaw,False,True,arthroscopic surgery on left knee to remove benign mass
 2019-11-06,Rockets,201569,Eric Gordon,False,True,placed on IL with left hamstring injury
 2019-11-06,Timberwolves,201952,Jeff Teague,False,True,placed on IL with illness
 2019-11-06,Timberwolves,1628395,Jordan Bell,False,True,sprained right shoulder (DTD)
 2019-11-06,Timberwolves,203894,Shabazz Napier,False,True,strained right hamstring (DTD)
 2019-11-06,Warriors,203110,Draymond Green,False,True,placed on IL with left index finger injury
+2019-11-06,Wizards,203895,Jordan McRae,True,False,activated from IL
 2019-11-07,76ers,1627732,Ben Simmons,False,True,right shoulder injury (DTD)
-2019-11-07,Celtics,2403,Enes Kanter,False,True,placed on IL with bruised left knee
+2019-11-07,Celtics,202683,Enes Kanter,False,True,placed on IL with bruised left knee
 2019-11-07,Celtics,1627759,Jaylen Brown,True,False,activated from IL
 2019-11-07,Clippers,202695,Kawhi Leonard,True,False,activated from IL
 2019-11-07,Heat,203079,Dion Waiters,False,True,stomach illness (DTD)
@@ -231,9 +254,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-08,Bulls,203490,Otto Porter Jr.,False,True,sprained left foot (DTD)
 2019-11-08,Heat,1627884,Derrick Jones Jr.,False,True,strained left hip (DTD)
 2019-11-08,Heat,2617,Udonis Haslem,True,False,returned to lineup
+2019-11-08,Kings,1628385,Harry Giles III,True,False,activated from IL
 2019-11-08,Knicks,1629011,Mitchell Robinson,False,True,placed on IL with concussion
 2019-11-08,Lakers,202340,Avery Bradley,True,False,returned to lineup
 2019-11-08,Magic,1628982,Melvin Frazier Jr.,False,True,placed on IL for personal reasons
+2019-11-08,Nets,201599,DeAndre Jordan,False,True,placed on IL with sprained left ankle
 2019-11-08,Pacers,1629048,Goga Bitadze,False,True,placed on IL with concussion
 2019-11-08,Raptors,1626178,Rondae Hollis-Jefferson,False,True,groin injury (DTD)
 2019-11-08,Warriors,1626156,D'Angelo Russell,True,False,returned to lineup
@@ -252,17 +277,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-10,Hawks,203459,Allen Crabbe,True,False,activated from IL
 2019-11-10,Magic,1628982,Melvin Frazier Jr.,True,False,activated from IL
 2019-11-10,Magic,203082,Terrence Ross,True,False,activated from IL
+2019-11-10,Nets,201599,DeAndre Jordan,True,False,activated from IL
 2019-11-10,Raptors,200768,Kyle Lowry,False,True,placed on IL with fractured left thumb
 2019-11-10,Raptors,1626178,Rondae Hollis-Jefferson,True,False,returned to lineup
 2019-11-10,Thunder,203500,Steven Adams,False,True,placed on IL with bruised left knee
 2019-11-11,Bucks,203114,Khris Middleton,False,True,left thigh injury (DTD)
 2019-11-11,Celtics,202330,Gordon Hayward,False,True,placed on IL with fractured left hand
 2019-11-11,Celtics,202330,Gordon Hayward,False,True,surgery on left hand to repair fracture (out indefinitely)
-2019-11-11,Celtics,2403,Enes Kanter,True,False,activated from IL
+2019-11-11,Celtics,202683,Enes Kanter,True,False,activated from IL
 2019-11-11,Grizzlies,1629634,Brandon Clarke,True,False,activated from IL
 2019-11-11,Jazz,1626144,Emmanuel Mudiay,True,False,activated from IL
 2019-11-11,Kings,1628368,De'Aaron Fox,False,True,sprained left ankle (DTD)
 2019-11-11,Mavericks,1629151,Ryan Broekhoff,False,True,placed on IL
+2019-11-11,Nets,1627747,Caris LeVert,False,True,sprained right thumb (DTD)
 2019-11-11,Pelicans,1627742,Brandon Ingram,False,True,sore right knee (DTD)
 2019-11-11,Pistons,1629017,Khyri Thomas,False,True,placed on IL with stress reaction in right foot
 2019-11-11,Pistons,201933,Blake Griffin,True,False,activated from IL
@@ -283,6 +310,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-12,Kings,1628368,De'Aaron Fox,False,True,placed on IL with sprained left ankle
 2019-11-12,Knicks,1628372,Dennis Smith Jr.,True,False,activated from IL
 2019-11-12,Lakers,200765,Rajon Rondo,True,False,activated from IL
+2019-11-12,Nets,1627747,Caris LeVert,False,True,placed on IL with right thumb injury (surgery)
 2019-11-12,Nuggets,1627736,Malik Beasley,False,True,illness (DTD)
 2019-11-12,Raptors,1628384,O.G. Anunoby,False,True,right eye injury (DTD)
 2019-11-12,Rockets,201569,Eric Gordon,False,True,surgery on right knee (out indefinitely)
@@ -294,6 +322,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-13,76ers,203504,Trey Burke,True,False,activated from IL
 2019-11-13,Blazers,203918,Rodney Hood,True,False,returned to lineup
 2019-11-13,Celtics,1628464,Daniel Theis,False,True,placed on IL with finger injury
+2019-11-13,Celtics,1629057,Robert Williams III,False,True,sore right ankle (DTD)
 2019-11-13,Clippers,1629013,Landry Shamet,False,True,placed on IL with sprained left ankle
 2019-11-13,Hawks,1628989,Kevin Huerter,False,True,strained rotator cuff in left shoulder (out indefinitely)
 2019-11-13,Hornets,1628407,Dwayne Bacon,False,True,placed on IL with sore right knee
@@ -321,6 +350,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-14,Thunder,1628390,Terrance Ferguson,True,False,activated from IL
 2019-11-15,Celtics,1629641,Romeo Langford,False,True,placed on IL
 2019-11-15,Celtics,1628464,Daniel Theis,True,False,activated from IL
+2019-11-15,Celtics,1629057,Robert Williams III,True,False,returned to lineup
 2019-11-15,Kings,2772,Trevor Ariza,False,True,placed on IL with right groin injury
 2019-11-15,Lakers,202340,Avery Bradley,False,True,placed on IL with right leg injury
 2019-11-15,Lakers,203076,Anthony Davis,True,False,activated from IL
@@ -342,6 +372,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-16,Hornets,201587,Nicolas Batum,True,False,activated from IL
 2019-11-16,Nets,202681,Kyrie Irving,False,True,right shoulder injury (out indefinitely)
 2019-11-16,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with sore lower back
+2019-11-16,Pacers,204456,T.J. McConnell,False,True,placed on IL with right groin injury
 2019-11-16,Pacers,1626167,Myles Turner,True,False,activated from IL
 2019-11-16,Pelicans,200755,J.J. Redick,False,True,toe injury (DTD)
 2019-11-16,Pelicans,1626143,Jahlil Okafor,False,True,placed on IL with sprained left ankle
@@ -356,6 +387,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-17,Pelicans,1628402,Frank Jackson,False,True,neck injury (DTD)
 2019-11-17,Pelicans,200755,J.J. Redick,True,False,returned to lineup
 2019-11-17,Timberwolves,203952,Andrew Wiggins,False,True,placed on IL with illness
+2019-11-17,Wizards,203895,Jordan McRae,False,True,flu (DTD)
 2019-11-17,Pelicans,1626143,Jahlil Okafor,True,False,activated from IL
 2019-11-17,Pelicans,1626143,Jahlil Okafor,False,True,sprained left ankle (DTD)
 2019-11-18,Bulls,1628436,Luke Kornet,False,True,placed on IL recovering from surgery on sinus
@@ -401,6 +433,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-20,Timberwolves,203952,Andrew Wiggins,True,False,activated from IL
 2019-11-20,Timberwolves,203894,Shabazz Napier,True,False,activated from IL
 2019-11-20,Warriors,203110,Draymond Green,False,True,right heel injury (DTD)
+2019-11-20,Wizards,203895,Jordan McRae,True,False,returned to lineup
 2019-11-20,Blazers,2200,Pau Gasol,True,False,activated from IL
 2019-11-21,Blazers,202355,Hassan Whiteside,False,True,placed on IL with right hip injury
 2019-11-21,Magic,203932,Aaron Gordon,False,True,bruised right ankle (out indefinitely)
@@ -429,7 +462,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-23,Kings,2772,Trevor Ariza,False,True,placed on IL for personal reasons
 2019-11-23,Lakers,1627936,Alex Caruso,False,True,strained right calf (DTD)
 2019-11-23,Magic,203932,Aaron Gordon,False,True,placed on IL with bruised right ankle
+2019-11-23,Pacers,203960,JaKarr Sampson,False,True,placed on IL with sore back
 2019-11-23,Pacers,203087,Jeremy Lamb,True,False,activated from IL
+2019-11-23,Pacers,204456,T.J. McConnell,True,False,activated from IL
 2019-11-23,Pistons,201933,Blake Griffin,False,True,placed on IL with left hamstring injury
 2019-11-23,Pistons,203503,Tony Snell,False,True,placed on IL with strained left hip
 2019-11-23,Pistons,1629648,Jordan Bone,True,False,activated from IL
@@ -465,6 +500,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-25,Jazz,1628430,Nigel Williams-Goss,False,True,toe injury (DTD)
 2019-11-25,Jazz,203497,Rudy Gobert,False,True,placed on IL with sprained left ankle
 2019-11-25,Lakers,1627936,Alex Caruso,True,False,returned to lineup
+2019-11-25,Nets,201599,DeAndre Jordan,False,True,placed on IL with sore left ankle
 2019-11-25,Pacers,1628513,Naz Mitrou-Long ,False,True,placed on IL
 2019-11-25,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
 2019-11-25,Pistons,1629648,Jordan Bone,False,True,placed on IL
@@ -512,6 +548,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-27,Warriors,1629346,Alen Smailagic,True,False,returned to lineup
 2019-11-28,Bucks,2594,Kyle Korver,False,True,sore right elbow (DTD)
 2019-11-28,Bucks,1628425,Sterling Brown,False,True,sprained right shoulder (DTD)
+2019-11-28,Clippers,203585,Rodney McGruder,False,True,strained right hamstring (DTD)
 2019-11-28,76ers,1629003,Shake Milton,True,False,returned to lineup
 2019-11-29,76ers,1626196,Josh Richardson,False,True,placed on IL with right hamstring injury
 2019-11-29,76ers,1629015,Zhaire Smith,True,False,activated from IL
@@ -524,6 +561,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-29,Jazz,1629752,Juwan Morgan,False,True,placed on IL
 2019-11-29,Jazz,202334,Ed Davis (Adam),True,False,activated from IL
 2019-11-29,Magic,203932,Aaron Gordon,True,False,activated from IL
+2019-11-29,Nets,201599,DeAndre Jordan,True,False,activated from IL
 2019-11-29,Suns,203382,Aron Baynes,True,False,returned to lineup
 2019-11-29,Warriors,1626156,D'Angelo Russell,False,True,placed on IL with sprained right thumb
 2019-11-30,76ers,203124,Kyle O'Quinn,True,False,activated from IL
@@ -535,6 +573,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-11-30,Hawks,1629629,Cam Reddish,False,True,placed on IL with sprained left wrist
 2019-11-30,Hornets,203469,Cody Zeller,True,False,activated from IL
 2019-11-30,Rockets,1627863,Danuel House Jr.,False,True,placed on IL with illness
+2019-11-30,Spurs,200746,LaMarcus Aldridge,False,True,right thigh injury (DTD)
+2019-12-01,Clippers,203585,Rodney McGruder,False,True,placed on IL with strained right hamstring
 2019-12-01,Grizzlies,1629630,Ja Morant,False,True,placed on IL with back spasms
 2019-12-01,Grizzlies,202685,Jonas Valanciunas,False,True,placed on IL with illness
 2019-12-01,Grizzlies,203937,Kyle Anderson,False,True,placed on IL with right heel injury
@@ -547,6 +587,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-01,Pistons,1629635,Sekou Doumbouya,True,False,activated from IL
 2019-12-01,Raptors,1629608,Dewan Hernandez,True,False,activated from IL
 2019-12-01,Raptors,201586,Serge Ibaka,True,False,activated from IL
+2019-12-01,Spurs,200746,LaMarcus Aldridge,False,True,placed on IL with right thigh injury
 2019-12-01,Suns,1627767,Cheick Diallo,False,True,illness (DTD)
 2019-12-01,Wizards,2402,Moe Wagner,False,True,sprained left ankle (DTD)
 2019-12-01,Spurs,1629002,Chimezie Metu,True,False,activated from IL
@@ -570,6 +611,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-02,Warriors,203110,Draymond Green,False,True,right heel injury (DTD)
 2019-12-02,Warriors,1626172,Kevon Looney,True,False,activated from IL
 2019-12-03,Cavaliers,203089,John Henson,True,False,activated from IL
+2019-12-03,Clippers,203210,JaMychal Green,False,True,tailbone injury (DTD)
 2019-12-03,Grizzlies,1629634,Brandon Clarke,False,True,left oblique injury (DTD)
 2019-12-03,Hawks,203459,Allen Crabbe,False,True,placed on IL with right knee injury
 2019-12-03,Heat,201609,Goran Dragic,False,True,placed on IL with strained right groin
@@ -578,6 +620,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-03,Magic,203487,Michael Carter-Williams,True,False,activated from IL
 2019-12-03,Raptors,200768,Kyle Lowry,True,False,activated from IL
 2019-12-03,Rockets,203991,Clint Capela,True,False,activated from IL
+2019-12-03,Spurs,200746,LaMarcus Aldridge,True,False,activated from IL
 2019-12-03,Wizards,1628418,Thomas Bryant,False,True,placed on IL with right foot injury
 2019-12-04,Bucks,1627733,Dragan Bender,False,True,placed on IL
 2019-12-04,Bucks,201572,Brook Lopez,True,False,activated from IL
@@ -611,6 +654,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-05,Rockets,1627863,Danuel House Jr.,True,False,activated from IL
 2019-12-05,Thunder,1628390,Terrance Ferguson,False,True,right hip injury (DTD)
 2019-12-05,Wizards,202738,Isaiah Thomas,False,True,strained left calf (DTD)
+2019-12-05,Wizards,203895,Jordan McRae,False,True,placed on IL with surgery on finger
 2019-12-05,Wizards,101133,Ian Mahinmi,True,False,activated from IL
 2019-12-05,Wizards,2402,Moe Wagner,True,False,returned to lineup
 2019-12-06,76ers,203954,Joel Embiid,False,True,bruised left hip (DTD)
@@ -623,6 +667,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-06,Magic,203487,Michael Carter-Williams,True,False,activated from IL
 2019-12-06,Pistons,202693,Markieff Morris,False,True,neck injury (DTD)
 2019-12-06,Pistons,1629635,Sekou Doumbouya,False,True,placed on IL
+2019-12-06,Spurs,200746,LaMarcus Aldridge,True,False,returned to lineup
 2019-12-06,Thunder,1628390,Terrance Ferguson,False,True,placed on IL with right hip injury
 2019-12-06,Timberwolves,203952,Andrew Wiggins,False,True,placed on IL with sprained left thumb
 2019-12-06,Wizards,101133,Ian Mahinmi,False,True,right Achilles injury (DTD)
@@ -642,7 +687,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-08,76ers,203954,Joel Embiid,True,False,activated from IL
 2019-12-08,Blazers,1629018,Gary Trent Jr.,True,False,activated from IL
 2019-12-08,Bucks,1627733,Dragan Bender,False,True,sprained right ankle (DTD)
+2019-12-08,Celtics,1629057,Robert Williams III,False,True,sore left hip (DTD)
 2019-12-08,Clippers,202335,Patrick Patterson,False,True,back spasms (DTD)
+2019-12-08,Clippers,203210,JaMychal Green,True,False,returned to lineup
 2019-12-08,Hawks,203459,Allen Crabbe,True,False,activated from IL
 2019-12-08,Hawks,202718,Chandler Parsons,True,False,activated from IL
 2019-12-08,Hawks,1629631,De'Andre Hunter,True,False,activated from IL
@@ -657,11 +704,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-08,76ers,1629015,Zhaire Smith,False,True,right leg injury (DTD)
 2019-12-09,Bulls,1629622,Max Strus,True,False,activated from IL
 2019-12-09,Celtics,203935,Marcus Smart,False,True,placed on IL with left eye injury
+2019-12-09,Celtics,1629057,Robert Williams III,False,True,placed on IL with sore left hip
 2019-12-09,Celtics,202330,Gordon Hayward,True,False,activated from IL
+2019-12-09,Clippers,203210,JaMychal Green,False,True,placed on IL with tailbone injury
 2019-12-09,Clippers,202335,Patrick Patterson,True,False,returned to lineup
 2019-12-09,Grizzlies,1629630,Ja Morant,True,False,activated from IL
 2019-12-09,Jazz,1628430,Nigel Williams-Goss,True,False,activated from IL
 2019-12-09,Pacers,1627763,Malcolm Brogdon,True,False,activated from IL
+2019-12-09,Raptors,1627832,Fred VanVleet,False,True,bruised right knee (DTD)
 2019-12-09,Rockets,203085,Austin Rivers,False,True,flu (DTD)
 2019-12-09,Rockets,2199,Tyson Chandler,False,True,placed on IL with illness
 2019-12-09,Suns,203382,Aron Baynes,True,False,returned to lineup
@@ -672,7 +722,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-10,Heat,201949,James Johnson,False,True,illness (DTD)
 2019-12-10,Heat,1626159,Justise Winslow,False,True,placed on IL with strained lower back
 2019-12-10,Heat,1629644,K.Z. Okpala,True,False,activated from IL
-2019-12-10,Nets,1629651,Nic Claxton,False,True,left hamstring injury (DTD)
+2019-12-10,Nets,2049,Nic Claxton,False,True,left hamstring injury (DTD)
 2019-12-11,Bucks,203507,Giannis Antetokounmpo,False,True,placed on IL with right quadricep injury
 2019-12-11,Bulls,1629622,Max Strus,False,True,placed on IL
 2019-12-11,Celtics,1629641,Romeo Langford,True,False,activated from IL
@@ -681,11 +731,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-11,Grizzlies,203937,Kyle Anderson,True,False,activated from IL
 2019-12-11,Hornets,1628370,Malik Monk,False,True,finger injury (DTD)
 2019-12-11,Hornets,201587,Nicolas Batum,False,True,placed on IL with left hand injury
+2019-12-11,Kings,1628963,Marvin Bagley III,True,False,activated from IL
 2019-12-11,Knicks,1628372,Dennis Smith Jr.,False,True,illness (DTD)
 2019-12-11,Lakers,1628398,Kyle Kuzma,False,True,placed on IL with sprained left ankle
 2019-12-11,Lakers,202340,Avery Bradley,True,False,activated from IL
 2019-12-11,Magic,1628365,Markelle Fultz,False,True,placed on IL with illness
-2019-12-11,Nets,1629651,Nic Claxton,False,True,placed on IL with left hamstring injury
+2019-12-11,Nets,2049,Nic Claxton,False,True,placed on IL with left hamstring injury
+2019-12-11,Raptors,1627832,Fred VanVleet,False,True,placed on IL with bruised right knee
+2019-12-11,Raptors,1627775,Patrick McCaw,True,False,activated from IL
 2019-12-11,Rockets,203085,Austin Rivers,False,True,placed on IL with flu
 2019-12-11,Thunder,201568,Danilo Gallinari,True,False,activated from IL
 2019-12-11,Timberwolves,1628966,Keita Bates-Diop,False,True,placed on IL with illness
@@ -702,6 +755,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-13,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
 2019-12-13,Clippers,101150,Lou Williams,False,True,right calf injury (DTD)
 2019-12-13,Clippers,201976,Patrick Beverley,False,True,placed on IL with concussion
+2019-12-13,Clippers,203585,Rodney McGruder,True,False,activated from IL
 2019-12-13,Grizzlies,1629630,Ja Morant,False,True,placed on IL with back injury
 2019-12-13,Hornets,1628370,Malik Monk,True,False,returned to lineup
 2019-12-13,Jazz,1628396,Tony Bradley,False,True,placed on IL with illness
@@ -773,6 +827,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-17,Suns,1629028,Deandre Ayton,True,False,activated from IL
 2019-12-17,Warriors,1629672,Eric Paschall,True,False,activated from IL
 2019-12-17,Wizards,1629060,Rui Hachimura,False,True,groin injury (DTD)
+2019-12-17,Pacers,203960,JaKarr Sampson,True,False,activated from IL
 2019-12-17,Pacers,1628993,Alize Johnson,False,True,placed on IL with illness
 2019-12-18,Blazers,1626209,Mario Hezonja,False,True,back spasms (DTD)
 2019-12-18,Blazers,1629642,Nassir Little,True,False,returned to lineup
@@ -815,6 +870,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-20,Raptors,201188,Marc Gasol,False,True,placed on IL with strained left hamstring
 2019-12-20,Raptors,1626181,Norman Powell,False,True,placed on IL with left shoulder subluxation
 2019-12-20,Raptors,1627783,Pascal Siakam,False,True,placed on IL with groin injury
+2019-12-20,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2019-12-20,Suns,1629028,Deandre Ayton,False,True,placed on IL with sprained right ankle
 2019-12-20,Suns,1629661,Cameron Johnson,True,False,returned to lineup
 2019-12-20,Suns,1626164,Devin Booker,True,False,returned to lineup
@@ -836,6 +892,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-22,Bucks,1628412,Frank Mason,True,False,activated from IL
 2019-12-22,Bucks,202083,Wes Matthews Jr.,True,False,activated from IL
 2019-12-22,Clippers,201976,Patrick Beverley,False,True,placed on IL with right groin injury
+2019-12-22,Clippers,203210,JaMychal Green,True,False,activated from IL
+2019-12-22,Lakers,2544,LeBron James,False,True,placed on IL with strained thoracic muscle
 2019-12-22,Lakers,1628398,Kyle Kuzma,True,False,activated from IL
 2019-12-22,Magic,203487,Michael Carter-Williams,False,True,sprained left shoulder (DTD)
 2019-12-22,Raptors,1629608,Dewan Hernandez,False,True,placed on IL with sprained right ankle
@@ -862,6 +920,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-23,Suns,1629665,Jalen Lecque,False,True,placed on IL
 2019-12-23,Suns,201937,Ricky Rubio,True,False,activated from IL
 2019-12-23,Timberwolves,203894,Shabazz Napier,False,True,placed on IL with illness
+2019-12-23,Warriors,203922,Glenn Robinson III,False,True,placed on IL with sprained right ankle
 2019-12-23,Wizards,202722,Davis Bertans,False,True,placed on IL with strained right quadriceps
 2019-12-23,Pistons,1629648,Jordan Bone,False,True,sore left knee (DTD)
 2019-12-24,Heat,203079,Dion Waiters,True,False,activated from IL
@@ -869,7 +928,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-25,Bucks,1628412,Frank Mason,False,True,placed on IL with strained abdominal
 2019-12-25,Celtics,202330,Gordon Hayward,True,False,activated from IL
 2019-12-25,Clippers,201976,Patrick Beverley,True,False,activated from IL
+2019-12-25,Lakers,2544,LeBron James,True,False,activated from IL
 2019-12-25,Warriors,1626172,Kevon Looney,False,True,placed on IL with abdominal injury
+2019-12-25,Warriors,203922,Glenn Robinson III,True,False,activated from IL
 2019-12-26,Blazers,1626209,Mario Hezonja,False,True,sore lower back (DTD)
 2019-12-26,Jazz,1628430,Nigel Williams-Goss,True,False,activated from IL
 2019-12-26,Kings,203992,Bogdan Bogdanovic,True,False,activated from IL
@@ -880,6 +941,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-26,Pistons,1629635,Sekou Doumbouya,False,True,placed on IL with illness
 2019-12-26,Pistons,1628971,Bruce Brown,True,False,activated from IL
 2019-12-26,Timberwolves,203894,Shabazz Napier,True,False,activated from IL
+2019-12-26,Wizards,203895,Jordan McRae,True,False,activated from IL
 2019-12-26,Bucks,1627733,Dragan Bender,True,False,returned to lineup
 2019-12-26,Pistons,1629648,Jordan Bone,True,False,returned to lineup
 2019-12-27,Bucks,203507,Giannis Antetokounmpo,False,True,placed on IL with sore back
@@ -889,6 +951,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-27,Hawks,202323,Evan Turner,True,False,activated from IL
 2019-12-27,Hornets,1629023,P.J. Washington,True,False,activated from IL
 2019-12-27,Kings,1628368,De'Aaron Fox,False,True,back spasms (DTD)
+2019-12-27,Kings,1628963,Marvin Bagley III,False,True,left foot injury (DTD)
 2019-12-27,Magic,1628964,Mo Bamba,False,True,placed on IL with sprained right ankle
 2019-12-27,Pistons,202693,Markieff Morris,False,True,sprained left foot (DTD)
 2019-12-27,Warriors,1629672,Eric Paschall,False,True,placed on IL with bruised right hip
@@ -903,12 +966,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-28,Hawks,203458,Alex Len,True,False,activated from IL
 2019-12-28,Jazz,1628430,Nigel Williams-Goss,False,True,placed on IL
 2019-12-28,Kings,1628368,De'Aaron Fox,False,True,placed on IL with back spasms
+2019-12-28,Kings,1628963,Marvin Bagley III,False,True,placed on IL with left foot injury
 2019-12-28,Kings,2772,Trevor Ariza,False,True,illness (DTD)
 2019-12-28,Knicks,201961,Wayne Ellington,True,False,activated from IL
 2019-12-28,Mavericks,1629676,Isaiah Roby,False,True,right foot injury (DTD)
 2019-12-28,Nuggets,200794,Paul Millsap,False,True,placed on IL with bruised left knee
 2019-12-28,Pistons,202693,Markieff Morris,False,True,placed on IL with sprained left foot
 2019-12-28,Rockets,203991,Clint Capela,False,True,placed on IL with right heel injury
+2019-12-28,Rockets,1626187,Michael Frazier II,False,True,placed on IL
 2019-12-28,Rockets,200757,Thabo Sefolosha,True,False,activated from IL
 2019-12-28,Thunder,203471,Dennis Schröder,False,True,sore right ankle (DTD)
 2019-12-28,Timberwolves,203952,Andrew Wiggins,False,True,illness (DTD)
@@ -958,6 +1023,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2019-12-31,Rockets,201935,James Harden,True,False,returned to lineup
 2019-12-31,Rockets,201566,Russell Westbrook,True,False,activated from IL
 2019-12-31,Rockets,2199,Tyson Chandler,True,False,returned to lineup
+2019-12-31,Thunder,3,,False,False,activated from IL
 2019-12-31,Thunder,201568,Danilo Gallinari,True,False,activated from IL
 2019-12-31,Thunder,203471,Dennis Schröder,True,False,activated from IL
 2019-12-31,Warriors,1626156,D'Angelo Russell,False,True,right shoulder injury (DTD)
@@ -981,6 +1047,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-02,Pacers,1628410,Edmond Sumner,False,True,placed on IL with sore right knee
 2020-01-02,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with sore lower back
 2020-01-02,Timberwolves,1626203,Treveon Graham,False,True,placed on IL with illness
+2020-01-03,76ers,203516,James Ennis III,False,True,placed on IL with illness
 2020-01-03,Blazers,1626209,Mario Hezonja,True,False,returned to lineup
 2020-01-03,Cavaliers,1626204,Larry Nance Jr.,False,True,sore left knee (out indefinitely)
 2020-01-03,Celtics,202689,Kemba Walker,False,True,placed on IL with illness
@@ -1008,6 +1075,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-04,Hawks,202718,Chandler Parsons,True,False,activated from IL
 2020-01-04,Hawks,202323,Evan Turner,True,False,activated from IL
 2020-01-04,Kings,203992,Bogdan Bogdanovic,False,True,placed on IL with sore right ankle
+2020-01-04,Nets,1627747,Caris LeVert,True,False,activated from IL
 2020-01-04,Nets,202066,Garrett Temple,True,False,activated from IL
 2020-01-04,Nuggets,1628427,Vlatko Cancar,True,False,activated from IL
 2020-01-04,Pacers,1628410,Edmond Sumner,True,False,activated from IL
@@ -1017,6 +1085,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-04,Warriors,1626161,Willie Cauley-Stein,True,False,activated from IL
 2020-01-04,Wizards,203078,Bradley Beal,False,True,placed on IL with right leg injury
 2020-01-04,Wizards,1628418,Thomas Bryant,False,True,placed on IL
+2020-01-05,Blazers,203468,C.J. McCollum,False,True,illness (DTD)
 2020-01-05,Bucks,1626192,Pat Connaughton,False,True,bruised right thigh (DTD)
 2020-01-05,Cavaliers,202684,Tristan Thompson,False,True,placed on IL with illness
 2020-01-05,Cavaliers,1629645,Kevin Porter Jr.,True,False,activated from IL
@@ -1035,6 +1104,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-05,Timberwolves,203943,Noah Vonleh,True,False,returned to lineup
 2020-01-05,Timberwolves,1626203,Treveon Graham,True,False,activated from IL
 2020-01-05,Warriors,203110,Draymond Green,False,True,sprained right ankle (DTD)
+2020-01-06,76ers,203516,James Ennis III,True,False,activated from IL
+2020-01-06,Blazers,203468,C.J. McCollum,True,False,returned to lineup
 2020-01-06,Bucks,1626192,Pat Connaughton,False,True,placed on IL with bruised right thigh
 2020-01-06,Cavaliers,1629645,Kevin Porter Jr.,False,True,sprained left knee (out indefinitely)
 2020-01-06,Celtics,1629641,Romeo Langford,False,True,placed on IL with illness
@@ -1045,7 +1116,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-06,Hornets,101107,Marvin Williams,False,True,placed on IL with fractured nose
 2020-01-06,Hornets,203077,Michael Kidd-Gilchrist,False,True,placed on IL with illness
 2020-01-06,Mavericks,203501,Tim Hardaway Jr.,True,False,activated from IL
-2020-01-06,Nets,1629651,Nic Claxton,True,False,activated from IL
+2020-01-06,Nets,2049,Nic Claxton,True,False,activated from IL
 2020-01-06,Nuggets,1628427,Vlatko Cancar,False,True,placed on IL
 2020-01-06,Pelicans,201950,Jrue Holiday,False,True,left elbow injury (DTD)
 2020-01-06,Thunder,203457,Nerlens Noel,False,True,placed on IL with sprained left ankle
@@ -1064,6 +1135,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-07,Knicks,203901,Elfrid Payton,True,False,returned to lineup
 2020-01-07,Nuggets,203115,Will Barton,False,True,personal reasons (DTD)
 2020-01-07,Pistons,201933,Blake Griffin,False,True,surgery on left knee (out indefinitely)
+2020-01-07,Raptors,1627832,Fred VanVleet,False,True,strained right hamstring (DTD)
 2020-01-07,Thunder,201568,Danilo Gallinari,False,True,placed on IL with right calf injury
 2020-01-07,Warriors,203110,Draymond Green,True,False,activated from IL
 2020-01-07,Raptors,1629744,Matt Thomas,True,False,activated from IL
@@ -1090,6 +1162,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-09,Bucks,201588,George Hill,True,False,activated from IL
 2020-01-09,Clippers,202331,Paul George,False,True,strained left hamstring (DTD)
 2020-01-09,Rockets,201569,Eric Gordon,False,True,sore right knee (DTD)
+2020-01-09,Rockets,1626187,Michael Frazier II,True,False,activated from IL
 2020-01-09,Rockets,201566,Russell Westbrook,True,False,activated from IL
 2020-01-09,Thunder,201568,Danilo Gallinari,True,False,activated from IL
 2020-01-09,Wizards,202722,Davis Bertans,True,False,activated from IL
@@ -1110,6 +1183,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-11,Bucks,2594,Kyle Korver,False,True,placed on IL with sore back
 2020-01-11,Bucks,101141,Ersan Ilyasova,True,False,activated from IL
 2020-01-11,Lakers,201980,Danny Green,False,True,placed on IL with right hip injury
+2020-01-11,Lakers,2544,LeBron James,False,True,placed on IL with illness
 2020-01-11,Nuggets,203115,Will Barton,False,True,placed on IL for personal reasons
 2020-01-11,Nuggets,203115,Will Barton,True,False,activated from IL
 2020-01-11,Pelicans,202324,Derrick Favors,False,True,strained right hamstring (DTD)
@@ -1138,8 +1212,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-13,Cavaliers,203957,Dante Exum,True,False,activated from IL
 2020-01-13,Celtics,1628464,Daniel Theis,False,True,placed on IL with sore right knee
 2020-01-13,Celtics,1629738,Vincent Poirier,True,False,activated from IL
+2020-01-13,Kings,1628963,Marvin Bagley III,True,False,activated from IL
 2020-01-13,Lakers,200765,Rajon Rondo,False,True,placed on IL with fractured finger
 2020-01-13,Lakers,201980,Danny Green,True,False,activated from IL
+2020-01-13,Lakers,2544,LeBron James,True,False,activated from IL
 2020-01-13,Magic,203932,Aaron Gordon,True,False,activated from IL
 2020-01-13,Magic,201571,D.J. Augustine,True,False,returned to lineup
 2020-01-13,Nets,202066,Garrett Temple,False,True,bruised right knee (DTD)
@@ -1195,14 +1271,17 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-17,Cavaliers,202688,Brandon Knight,False,True,placed on IL with sore left knee
 2020-01-17,Grizzlies,203109,Jae Crowder,True,False,returned to lineup
 2020-01-17,Knicks,1629628,R.J. Barrett,False,True,sprained right ankle (DTD)
+2020-01-17,Nets,201599,DeAndre Jordan,False,True,finger injury (DTD)
 2020-01-17,Nets,203925,Joe Harris,False,True,sore lower back (DTD)
 2020-01-17,Rockets,203085,Austin Rivers,False,True,sprained right thumb (DTD)
+2020-01-17,Spurs,201960,DeMarre Carroll,False,True,placed on IL
 2020-01-17,Spurs,200752,Rudy Gay,False,True,placed on IL with illness
 2020-01-17,Thunder,203500,Steven Adams,False,True,placed on IL with bruised right knee
 2020-01-17,Thunder,203457,Nerlens Noel,True,False,activated from IL
 2020-01-17,Timberwolves,203459,Allen Crabbe,False,True,placed on IL with illness
 2020-01-17,Timberwolves,1626157,Karl-Anthony Towns,True,False,activated from IL
 2020-01-17,Warriors,203110,Draymond Green,False,True,left finger injury (DTD)
+2020-01-18,Blazers,203468,C.J. McCollum,False,True,sprained left ankle (DTD)
 2020-01-18,Bucks,201577,Robin Lopez,False,True,placed on IL with illness
 2020-01-18,Cavaliers,203089,John Henson,False,True,placed on IL with sore lower back
 2020-01-18,Celtics,202689,Kemba Walker,False,True,placed on IL with sore left knee
@@ -1212,15 +1291,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-18,Knicks,1629628,R.J. Barrett,False,True,placed on IL with sprained right ankle
 2020-01-18,Knicks,203493,Reggie Bullock,True,False,activated from IL
 2020-01-18,Magic,203487,Michael Carter-Williams,True,False,activated from IL
+2020-01-18,Nets,201599,DeAndre Jordan,False,True,placed on IL with finger injury
 2020-01-18,Nets,203925,Joe Harris,False,True,placed on IL with sore lower back
 2020-01-18,Pelicans,200755,J.J. Redick,True,False,returned to lineup
+2020-01-18,Raptors,1627832,Fred VanVleet,False,True,placed on IL with strained right hamstring
 2020-01-18,Raptors,1626259,Malcolm Miller,False,True,placed on IL
+2020-01-18,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2020-01-18,Rockets,203085,Austin Rivers,False,True,placed on IL with sprained right thumb
 2020-01-18,Suns,1629661,Cameron Johnson,False,True,bruised right quadriceps (DTD)
 2020-01-18,Thunder,1628383,Justin Patton,False,True,illness (DTD)
 2020-01-18,Thunder,1628390,Terrance Ferguson,False,True,placed on IL with illness
 2020-01-18,Thunder,203500,Steven Adams,True,False,activated from IL
 2020-01-18,Warriors,1629346,Alen Smailagic,False,True,placed on IL
+2020-01-18,Warriors,203922,Glenn Robinson III,False,True,sprained right ankle (DTD)
 2020-01-19,Heat,1629639,Tyler Herro,True,False,returned to lineup
 2020-01-19,Nets,201163,Wilson Chandler,False,True,left hamstring injury (DTD)
 2020-01-19,Nets,202066,Garrett Temple,True,False,activated from IL
@@ -1237,6 +1320,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-20,Nets,201163,Wilson Chandler,False,True,placed on IL with left hamstring injury
 2020-01-20,Pelicans,202324,Derrick Favors,False,True,sore lower back (DTD)
 2020-01-20,Pelicans,201950,Jrue Holiday,True,False,activated from IL
+2020-01-20,Spurs,201960,DeMarre Carroll,False,True,illness (DTD)
 2020-01-20,Suns,203382,Aron Baynes,False,True,sore left hip (DTD)
 2020-01-20,Suns,1629665,Jalen Lecque,False,True,placed on IL
 2020-01-20,Suns,1626162,Kelly Oubre Jr.,True,False,activated from IL
@@ -1253,9 +1337,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-22,Celtics,1627759,Jaylen Brown,False,True,placed on IL with sprained right ankle
 2020-01-22,Clippers,202695,Kawhi Leonard,False,True,placed on IL
 2020-01-22,Clippers,201976,Patrick Beverley,False,True,placed on IL with right groin injury
+2020-01-22,Hawks,1627761,DeAndre' Bembry,False,True,placed on IL for personal reasons
 2020-01-22,Hawks,1629027,Trae Young,False,True,placed on IL with bruised right thigh
 2020-01-22,Hawks,203458,Alex Len,True,False,activated from IL
 2020-01-22,Heat,202710,Jimmy Butler,True,False,returned to lineup
+2020-01-22,Kings,1628963,Marvin Bagley III,False,True,placed on IL with sprained left foot (out for season)
 2020-01-22,Knicks,1628372,Dennis Smith Jr.,True,False,activated from IL
 2020-01-22,Mavericks,203939,Dwight Powell,False,True,placed on IL with torn right Achilles tendon (out for season)
 2020-01-22,Nuggets,203486,Mason Plumlee,False,True,placed on IL with right foot injury
@@ -1272,19 +1358,23 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-22,Thunder,203500,Steven Adams,False,True,placed on IL with sprained left ankle
 2020-01-22,Thunder,203457,Nerlens Noel,True,False,returned to lineup
 2020-01-22,Warriors,203110,Draymond Green,True,False,returned to lineup
+2020-01-22,Warriors,203922,Glenn Robinson III,True,False,returned to lineup
 2020-01-22,Warriors,1628980,Jacob Evans,True,False,activated from IL
 2020-01-23,76ers,1626196,Josh Richardson,False,True,strained left hamstring (out indefinitely)
 2020-01-23,Cavaliers,1629731,Dean Wade,True,False,returned to lineup
 2020-01-23,Cavaliers,203089,John Henson,True,False,activated from IL
-2020-01-23,Celtics,2403,Enes Kanter,False,True,bruised right hip (DTD)
-2020-01-23,Nets,1629651,Nic Claxton,False,True,placed on IL with left shoulder injury
+2020-01-23,Celtics,202683,Enes Kanter,False,True,bruised right hip (DTD)
+2020-01-23,Lakers,201580,JaVale McGee,False,True,placed on IL with flu
+2020-01-23,Nets,2049,Nic Claxton,False,True,placed on IL with left shoulder injury
 2020-01-23,Nets,202681,Kyrie Irving,True,False,activated from IL
 2020-01-23,Nets,201163,Wilson Chandler,True,False,activated from IL
 2020-01-23,Pacers,1627763,Malcolm Brogdon,False,True,concussion (DTD)
+2020-01-23,Raptors,1627775,Patrick McCaw,False,True,fractured nose (DTD)
+2020-01-23,Spurs,201960,DeMarre Carroll,True,False,activated from IL
 2020-01-23,Wizards,1628394,Anzejs Pasecniks,True,False,activated from IL
 2020-01-24,Bucks,1628425,Sterling Brown,False,True,placed on IL with illness
 2020-01-24,Bulls,1628374,Lauri Markkanen,False,True,placed on IL with stress reaction in pelvis
-2020-01-24,Celtics,2403,Enes Kanter,False,True,placed on IL with bruised right hip
+2020-01-24,Celtics,202683,Enes Kanter,False,True,placed on IL with bruised right hip
 2020-01-24,Celtics,1628369,Jayson Tatum,False,True,strained right groin (DTD)
 2020-01-24,Clippers,202695,Kawhi Leonard,True,False,activated from IL
 2020-01-24,Hawks,1629027,Trae Young,True,False,activated from IL
@@ -1293,28 +1383,34 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-24,Nuggets,203914,Gary Harris,True,False,activated from IL
 2020-01-24,Nuggets,1629008,Michael Porter Jr.,True,False,returned to lineup
 2020-01-24,Pacers,1629048,Goga Bitadze,False,True,placed on IL with illness
+2020-01-24,Pacers,203960,JaKarr Sampson,False,True,placed on IL with sprained left ankle
 2020-01-24,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with concussion
 2020-01-24,Pacers,1628388,T.J. Leaf,False,True,placed on IL with sore right knee
 2020-01-24,Pistons,203503,Tony Snell,False,True,placed on IL with illness
 2020-01-24,Pistons,204025,Tim Frazier,True,False,activated from IL
+2020-01-24,Raptors,1627775,Patrick McCaw,False,True,placed on IL with fractured nose
 2020-01-24,Raptors,1626259,Malcolm Miller,True,False,activated from IL
+2020-01-24,Hawks,1627761,DeAndre' Bembry,True,False,activated from IL
+2020-01-24,Hawks,1627761,DeAndre' Bembry,False,True,placed on IL with right hand injury
 2020-01-25,76ers,1626196,Josh Richardson,False,True,placed on IL with strained left hamstring
 2020-01-25,Grizzlies,1628960,Grayson Allen,False,True,left hip injury (out indefinitely)
 2020-01-25,Hawks,203458,Alex Len,False,True,right hip flexor injury (DTD)
 2020-01-25,Jazz,1626144,Emmanuel Mudiay,False,True,placed on IL with sore right ankle
 2020-01-25,Jazz,1628430,Nigel Williams-Goss,True,False,activated from IL
-2020-01-25,Nets,1629651,Nic Claxton,True,False,activated from IL
+2020-01-25,Nets,2049,Nic Claxton,True,False,activated from IL
 2020-01-25,Pistons,203083,Andre Drummond,True,False,returned to lineup
 2020-01-25,Pistons,1628971,Bruce Brown,True,False,activated from IL
 2020-01-25,Thunder,201568,Danilo Gallinari,False,True,placed on IL with left thumb injury
 2020-01-25,Thunder,203457,Nerlens Noel,False,True,placed on IL with surgery to repair fractured left cheekbone
 2020-01-25,Thunder,203500,Steven Adams,True,False,activated from IL
+2020-01-26,Blazers,203468,C.J. McCollum,True,False,returned to lineup
 2020-01-26,Celtics,1627759,Jaylen Brown,True,False,activated from IL
 2020-01-26,Grizzlies,203109,Jae Crowder,False,True,placed on IL with sore right knee
 2020-01-26,Hawks,203458,Alex Len,False,True,placed on IL with right hip flexor injury
 2020-01-26,Nets,202681,Kyrie Irving,False,True,personal reasons (DTD)
 2020-01-26,Pacers,1626167,Myles Turner,False,True,placed on IL with illness
 2020-01-26,Pacers,1629048,Goga Bitadze,True,False,activated from IL
+2020-01-26,Pacers,203960,JaKarr Sampson,True,False,activated from IL
 2020-01-26,Pacers,1628388,T.J. Leaf,True,False,activated from IL
 2020-01-26,Rockets,201935,James Harden,False,True,placed on IL with bruised left thigh
 2020-01-26,Suns,203382,Aron Baynes,False,True,placed on IL with sore left hip
@@ -1330,17 +1426,20 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-27,Pistons,201565,Derrick Rose,False,True,sore right knee (DTD)
 2020-01-27,Rockets,203991,Clint Capela,False,True,placed on IL with right heel injury
 2020-01-27,Rockets,201566,Russell Westbrook,False,True,placed on IL
+2020-01-27,Spurs,200746,LaMarcus Aldridge,False,True,placed on IL with sprained right thumb
 2020-01-27,Thunder,101108,Chris Paul,False,True,placed on IL for personal reasons
 2020-01-27,Thunder,201568,Danilo Gallinari,True,False,activated from IL
 2020-01-27,Thunder,1629676,Isaiah Roby,True,False,activated from IL
 2020-01-27,Thunder,203457,Nerlens Noel,True,False,activated from IL
 2020-01-27,Timberwolves,203459,Allen Crabbe,False,True,placed on IL with left knee injury
+2020-01-27,Wizards,203895,Jordan McRae,False,True,sprained right ankle (DTD)
 2020-01-28,76ers,203954,Joel Embiid,True,False,activated from IL
 2020-01-28,Bucks,203507,Giannis Antetokounmpo,False,True,placed on IL with sore right shoulder
 2020-01-28,Celtics,1629750,Javonte Green,False,True,placed on IL with sore left knee
 2020-01-28,Grizzlies,1629001,De'Anthony Melton,False,True,sore left hand (DTD)
 2020-01-28,Grizzlies,1628960,Grayson Allen,False,True,placed on IL with left hip injury
 2020-01-28,Hawks,1628981,Bruno Fernando,False,True,placed on IL with strained left calf
+2020-01-28,Nets,201599,DeAndre Jordan,True,False,activated from IL
 2020-01-28,Pelicans,202734,E'Twaun Moore,False,True,neck spasms (DTD)
 2020-01-28,Raptors,1626178,Rondae Hollis-Jefferson,False,True,placed on IL with sprained right ankle
 2020-01-28,Thunder,101108,Chris Paul,True,False,activated from IL
@@ -1372,18 +1471,23 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-01-30,Pelicans,202734,E'Twaun Moore,True,False,returned to lineup
 2020-01-30,Raptors,1626259,Malcolm Miller,False,True,placed on IL with strained neck
 2020-01-30,Raptors,201188,Marc Gasol,False,True,placed on IL with left hamstring injury
+2020-01-30,Raptors,1627775,Patrick McCaw,True,False,activated from IL
+2020-01-30,Wizards,203895,Jordan McRae,False,True,placed on IL
 2020-01-31,Blazers,2546,Carmelo Anthony,False,True,personal reasons (DTD)
+2020-01-31,Bucks,1628978,Donte DiVincenzo,False,True,placed on IL with sprained left ankle
 2020-01-31,Bucks,1628412,Frank Mason,False,True,strained abdominal (DTD)
 2020-01-31,Bucks,201588,George Hill,False,True,placed on IL with strained left hamstring
 2020-01-31,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
 2020-01-31,Grizzlies,1629634,Brandon Clarke,False,True,placed on IL with sore left hip
 2020-01-31,Grizzlies,1629001,De'Anthony Melton,True,False,activated from IL
+2020-01-31,Lakers,201580,JaVale McGee,True,False,activated from IL
 2020-01-31,Mavericks,1629029,Luka Doncic,False,True,placed on IL with sprained right ankle
 2020-01-31,Pacers,1626167,Myles Turner,True,False,activated from IL
 2020-01-31,Rockets,203991,Clint Capela,False,True,placed on IL with right heel injury
 2020-01-31,Suns,203382,Aron Baynes,True,False,activated from IL
 2020-02-01,76ers,201143,Al Horford,True,False,activated from IL
 2020-02-01,Blazers,2546,Carmelo Anthony,True,False,returned to lineup
+2020-02-01,Bucks,1628978,Donte DiVincenzo,True,False,activated from IL
 2020-02-01,Celtics,202689,Kemba Walker,False,True,placed on IL with sore left knee
 2020-02-01,Clippers,1628476,Derrick Walton Jr.,False,True,placed on IL with right elbow injury
 2020-02-01,Clippers,202695,Kawhi Leonard,True,False,returned to lineup
@@ -1399,6 +1503,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-01,Nuggets,1629008,Michael Porter Jr.,False,True,right ankle injury (DTD)
 2020-02-01,Nuggets,203914,Gary Harris,True,False,activated from IL
 2020-02-01,Raptors,1626181,Norman Powell,False,True,fractured left hand (out indefinitely)
+2020-02-01,Spurs,200746,LaMarcus Aldridge,True,False,activated from IL
 2020-02-01,Suns,203967,Dario Saric,False,True,sprained left ankle (DTD)
 2020-02-01,Warriors,1626172,Kevon Looney,True,False,activated from IL
 2020-02-01,Wizards,1629726,Garrison Mathews,True,False,activated from IL
@@ -1422,7 +1527,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-02,Wizards,1629060,Rui Hachimura,True,False,activated from IL
 2020-02-03,Cavaliers,202684,Tristan Thompson,False,True,placed on IL with right quadricep injury
 2020-02-03,Celtics,203935,Marcus Smart,False,True,placed on IL with bruised right thigh
-2020-02-03,Celtics,2403,Enes Kanter,True,False,activated from IL
+2020-02-03,Celtics,202683,Enes Kanter,True,False,activated from IL
 2020-02-03,Clippers,1629611,Terance Mann,False,True,placed on IL
 2020-02-03,Clippers,1628476,Derrick Walton Jr.,True,False,activated from IL
 2020-02-03,Hawks,1629629,Cam Reddish,False,True,placed on IL with concussion
@@ -1464,7 +1569,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-05,Heat,1629216,Gabe Vincent,True,False,activated from IL
 2020-02-05,Magic,203920,Khem Birch,True,False,activated from IL
 2020-02-05,Mavericks,200826,Jose Barea ,False,True,placed on IL with sprained left ankle
-2020-02-05,Nets,1629651,Nic Claxton,False,True,placed on IL with sore left shoulder
+2020-02-05,Nets,2049,Nic Claxton,False,True,placed on IL with sore left shoulder
 2020-02-05,Nuggets,203924,Jerami Grant,False,True,sprained right ankle (DTD)
 2020-02-05,Nuggets,203115,Will Barton,False,True,right knee inflammation (DTD)
 2020-02-05,Pelicans,1629638,Nickeil Alexander-Walker,True,False,returned to lineup
@@ -1516,8 +1621,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-08,Hornets,1628998,Cody Martin,False,True,placed on IL with concussion
 2020-02-08,Hornets,201587,Nicolas Batum,False,True,placed on IL with illness
 2020-02-08,Knicks,1628422,Damyean Dotson,True,False,activated from IL
-2020-02-08,Nets,1629651,Nic Claxton,True,False,activated from IL
+2020-02-08,Nets,2049,Nic Claxton,True,False,activated from IL
 2020-02-08,Nuggets,203924,Jerami Grant,True,False,returned to lineup
+2020-02-08,Nuggets,203895,Jordan McRae,True,False,activated from IL
 2020-02-08,Nuggets,1628966,Keita Bates-Diop,True,False,activated from IL
 2020-02-08,Nuggets,200794,Paul Millsap,True,False,activated from IL
 2020-02-08,Pacers,203933,T.J. Warren,True,False,activated from IL
@@ -1549,6 +1655,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-10,Pistons,202693,Markieff Morris,True,False,activated from IL
 2020-02-10,Raptors,201586,Serge Ibaka,False,True,placed on IL with illness
 2020-02-10,Raptors,200768,Kyle Lowry,True,False,activated from IL
+2020-02-10,Spurs,201942,DeMar DeRozan,False,True,back spasms (DTD)
 2020-02-10,Suns,203382,Aron Baynes,False,True,placed on IL with sore left hip
 2020-02-10,Suns,1629028,Deandre Ayton,False,True,sore left ankle (DTD)
 2020-02-10,Suns,1629665,Jalen Lecque,True,False,activated from IL
@@ -1563,11 +1670,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-11,Blazers,202355,Hassan Whiteside,True,False,returned to lineup
 2020-02-11,Bucks,2594,Kyle Korver,False,True,sore back (DTD)
 2020-02-11,Pelicans,1629627,Zion Williamson,True,False,returned to lineup
+2020-02-11,Spurs,201942,DeMar DeRozan,False,True,placed on IL with back spasms
 2020-02-11,Thunder,1629647,Darius Bazley,False,True,placed on IL with right knee injury
 2020-02-11,Wizards,1628394,Anzejs Pasecniks,False,True,left hip injury (DTD)
 2020-02-11,Suns,204020,Tyler Johnson,True,False,activated from IL
 2020-02-12,Bucks,2594,Kyle Korver,False,True,placed on IL with sore back
 2020-02-12,Cavaliers,201567,Kevin Love,False,True,placed on IL with sore right Achilles
+2020-02-12,Hawks,1627761,DeAndre' Bembry,True,False,activated from IL
 2020-02-12,Hornets,1626179,Terry Rozier,False,True,placed on IL with sore left knee
 2020-02-12,Hornets,201587,Nicolas Batum,True,False,activated from IL
 2020-02-12,Jazz,201144,Mike Conley Jr.,False,True,illness (DTD)
@@ -1589,6 +1698,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-20,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
 2020-02-20,Bulls,1628990,Chandler Hutchison,False,True,right shoulder injury (DTD)
 2020-02-20,Bulls,1629655,Daniel Gafford,True,False,activated from IL
+2020-02-20,Cavaliers,1628035,Alfonzo McKinnie,False,True,left foot injury (DTD)
 2020-02-20,Cavaliers,201567,Kevin Love,True,False,activated from IL
 2020-02-20,Celtics,202689,Kemba Walker,False,True,sore left knee (DTD)
 2020-02-20,Celtics,1627759,Jaylen Brown,True,False,activated from IL
@@ -1604,6 +1714,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-20,Pelicans,1627742,Brandon Ingram,True,False,returned to lineup
 2020-02-20,Rockets,203998,Bruno Caboclo,True,False,activated from IL
 2020-02-20,Warriors,1626172,Kevon Looney,True,False,returned to lineup
+2020-02-21,Cavaliers,1628035,Alfonzo McKinnie,False,True,placed on IL with left foot injury
 2020-02-21,Cavaliers,1627790,Ante Zizic,True,False,activated from IL
 2020-02-21,Celtics,202689,Kemba Walker,False,True,placed on IL with sore left knee
 2020-02-21,Clippers,202331,Paul George,False,True,strained left hamstring (DTD)
@@ -1616,6 +1727,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-21,Nuggets,1628427,Vlatko Cancar,False,True,placed on IL
 2020-02-21,Nuggets,203115,Will Barton,True,False,returned to lineup
 2020-02-21,Pacers,1628410,Edmond Sumner,False,True,left hip injury (DTD)
+2020-02-21,Raptors,1627775,Patrick McCaw,False,True,placed on IL with flu
+2020-02-21,Spurs,201942,DeMar DeRozan,True,False,activated from IL
 2020-02-21,Suns,1629665,Jalen Lecque,False,True,placed on IL
 2020-02-21,Suns,203382,Aron Baynes,True,False,activated from IL
 2020-02-21,Suns,203967,Dario Saric,True,False,activated from IL
@@ -1630,10 +1743,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-22,Cavaliers,201567,Kevin Love,False,True,sore right Achilles (DTD)
 2020-02-22,Clippers,202331,Paul George,False,True,placed on IL with strained left hamstring
 2020-02-22,Hawks,1629631,De'Andre Hunter,False,True,placed on IL for personal reasons
+2020-02-22,Hawks,1627761,DeAndre' Bembry,False,True,placed on IL with abdominal injury
 2020-02-22,Heat,202710,Jimmy Butler,False,True,personal reasons (DTD)
 2020-02-22,Kings,203458,Alex Len,True,False,activated from IL
 2020-02-22,Mavericks,1629029,Luka Doncic,False,True,placed on IL with sore right ankle
 2020-02-22,Mavericks,1626161,Willie Cauley-Stein,False,True,placed on IL for personal reasons
+2020-02-22,Rockets,1626187,Michael Frazier II,False,True,placed on IL
 2020-02-22,Rockets,201569,Eric Gordon,True,False,activated from IL
 2020-02-22,Warriors,203110,Draymond Green,False,True,bruised pelvis (DTD)
 2020-02-23,Blazers,1626209,Mario Hezonja,True,False,activated from IL
@@ -1645,6 +1760,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-23,Timberwolves,203459,Allen Crabbe,False,True,placed on IL for personal reasons
 2020-02-23,Timberwolves,1629669,Jaylen Nowell,True,False,activated from IL
 2020-02-23,Warriors,1627737,Marquese Chriss,False,True,left calf injury (DTD)
+2020-02-23,Lakers,202326,DeMarcus Cousins,True,False,activated from IL
 2020-02-24,76ers,1627732,Ben Simmons,False,True,placed on IL with back injury
 2020-02-24,76ers,203658,Norvel Pelle,False,True,placed on IL with illness
 2020-02-24,Bucks,201572,Brook Lopez,False,True,placed on IL with sore back
@@ -1677,10 +1793,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-26,Hawks,203473,Dewayne Dedmon,False,True,placed on IL with right elbow injury
 2020-02-26,Heat,202710,Jimmy Butler,True,False,returned to lineup
 2020-02-26,Knicks,203901,Elfrid Payton,True,False,activated from IL
+2020-02-26,Lakers,2544,LeBron James,False,True,left groin injury (DTD)
 2020-02-26,Nets,201163,Wilson Chandler,False,True,placed on IL for personal reasons
 2020-02-26,Rockets,201569,Eric Gordon,False,True,placed on IL with bruised right knee
 2020-02-26,Rockets,200757,Thabo Sefolosha,False,True,illness (DTD)
 2020-02-26,Rockets,201566,Russell Westbrook,True,False,returned to lineup
+2020-02-26,Spurs,200746,LaMarcus Aldridge,False,True,placed on IL with strained right shoulder
 2020-02-26,Suns,1626162,Kelly Oubre Jr.,False,True,placed on IL with right knee injury (out for season)
 2020-02-26,Wizards,202722,Davis Bertans,True,False,activated from IL
 2020-02-27,76ers,203954,Joel Embiid,False,True,placed on IL with sprained left shoulder
@@ -1691,11 +1809,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-27,Kings,1628368,De'Aaron Fox,True,False,activated from IL
 2020-02-27,Knicks,1628372,Dennis Smith Jr.,False,True,concussion (DTD)
 2020-02-27,Knicks,201959,Taj Gibson,False,True,back spasms (DTD)
+2020-02-27,Lakers,2544,LeBron James,False,True,placed on IL with left groin injury
 2020-02-27,Nets,201163,Wilson Chandler,True,False,activated from IL
 2020-02-27,Nuggets,203943,Noah Vonleh,False,True,right ankle injury (DTD)
 2020-02-27,Pacers,203506,Victor Oladipo,True,False,activated from IL
+2020-02-27,Raptors,1627832,Fred VanVleet,False,True,left shoulder injury (DTD)
 2020-02-27,Raptors,201586,Serge Ibaka,False,True,sore right knee (DTD)
 2020-02-27,Raptors,1626181,Norman Powell,True,False,activated from IL
+2020-02-27,Raptors,1627775,Patrick McCaw,True,False,activated from IL
 2020-02-27,Rockets,200757,Thabo Sefolosha,True,False,returned to lineup
 2020-02-27,Thunder,201568,Danilo Gallinari,False,True,sore left ankle (DTD)
 2020-02-27,Warriors,1629346,Alen Smailagic,False,True,placed on IL
@@ -1709,6 +1830,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-28,Heat,1629216,Gabe Vincent,False,True,placed on IL
 2020-02-28,Nuggets,203943,Noah Vonleh,False,True,placed on IL with right ankle injury
 2020-02-28,Nuggets,1628427,Vlatko Cancar,True,False,activated from IL
+2020-02-28,Raptors,1627832,Fred VanVleet,False,True,placed on IL with left shoulder injury
 2020-02-28,Raptors,201586,Serge Ibaka,False,True,placed on IL with sore right knee
 2020-02-28,Thunder,201568,Danilo Gallinari,False,True,placed on IL with sore left ankle
 2020-02-28,Wizards,1628394,Anzejs Pasecniks,False,True,placed on IL with illness
@@ -1716,12 +1838,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-02-29,Bulls,1628976,Wendell Carter Jr.,True,False,activated from IL
 2020-02-29,Cavaliers,202684,Tristan Thompson,False,True,placed on IL with bruised left knee
 2020-02-29,Cavaliers,203083,Andre Drummond,True,False,activated from IL
+2020-02-29,Celtics,1629057,Robert Williams III,True,False,activated from IL
 2020-02-29,Heat,1629216,Gabe Vincent,True,False,activated from IL
 2020-02-29,Knicks,1628372,Dennis Smith Jr.,False,True,placed on IL with concussion
 2020-02-29,Knicks,203493,Reggie Bullock,False,True,placed on IL with illness
 2020-02-29,Knicks,1628373,Frank Ntilikina,True,False,activated from IL
 2020-02-29,Knicks,201959,Taj Gibson,True,False,returned to lineup
 2020-02-29,Lakers,201980,Danny Green,False,True,placed on IL with right hip injury
+2020-02-29,Lakers,2544,LeBron James,True,False,activated from IL
 2020-02-29,Pacers,1628410,Edmond Sumner,True,False,activated from IL
 2020-02-29,Rockets,201569,Eric Gordon,True,False,activated from IL
 2020-02-29,Warriors,203110,Draymond Green,False,True,sore left knee (DTD)
@@ -1738,6 +1862,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-03-01,Pelicans,200755,J.J. Redick,False,True,strained left hamstring (DTD)
 2020-03-01,Pistons,1627748,Thon Maker,False,True,sprained right ankle (DTD)
 2020-03-01,Raptors,1629052,Oshae Brissett,False,True,placed on IL
+2020-03-01,Raptors,1627832,Fred VanVleet,True,False,activated from IL
 2020-03-01,Spurs,1627751,Jakob Poeltl,False,True,sprained MCL in right knee (out indefinitely)
 2020-03-01,Warriors,1626172,Kevon Looney,False,True,sore left hip (out indefinitely)
 2020-03-01,Warriors,1629673,Jordan Poole,True,False,returned to lineup
@@ -1746,6 +1871,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-03-02,76ers,1626196,Josh Richardson,False,True,concussion (DTD)
 2020-03-02,Blazers,203081,Damian Lillard,False,True,placed on IL with strained right groin
 2020-03-02,Bucks,203114,Khris Middleton,True,False,activated from IL
+2020-03-02,Bulls,203897,Zach LaVine,False,True,placed on IL with strained left quadriceps (out for season)
 2020-03-02,Bulls,203490,Otto Porter Jr.,True,False,activated from IL
 2020-03-02,Cavaliers,203083,Andre Drummond,False,True,strained left calf (DTD)
 2020-03-02,Hawks,1629629,Cam Reddish,False,True,sore lower back (DTD)
@@ -1764,6 +1890,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-03-03,Lakers,203076,Anthony Davis,True,False,returned to lineup
 2020-03-03,Nuggets,200794,Paul Millsap,True,False,activated from IL
 2020-03-03,Pistons,201565,Derrick Rose,False,True,sprained right ankle (out for season)
+2020-03-03,Raptors,1627832,Fred VanVleet,False,True,placed on IL with left shoulder injury
 2020-03-03,Raptors,1629608,Dewan Hernandez,True,False,activated from IL
 2020-03-03,Spurs,201158,Marco Belinelli,False,True,placed on IL with illness
 2020-03-03,Suns,1626162,Kelly Oubre Jr.,False,True,surgery on right knee (out indefinitely)
@@ -1809,6 +1936,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-03-06,Mavericks,1627827,Dorian Finney-Smith,False,True,placed on IL with right hip injury
 2020-03-06,Mavericks,203501,Tim Hardaway Jr.,False,True,placed on IL with illness
 2020-03-06,Mavericks,200826,Jose Barea ,True,False,activated from IL
+2020-03-06,Pacers,203926,Doug McDermott,False,True,placed on IL with toe injury
 2020-03-06,Pacers,1627763,Malcolm Brogdon,False,True,placed on IL with torn left quadriceps
 2020-03-06,Pacers,203933,T.J. Warren,False,True,placed on IL with left leg injury
 2020-03-06,Pacers,203506,Victor Oladipo,True,False,activated from IL
@@ -1819,6 +1947,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-03-06,Rockets,201569,Eric Gordon,False,True,sore right knee (DTD)
 2020-03-06,Suns,1629028,Deandre Ayton,False,True,sprained left ankle (DTD)
 2020-03-07,Cavaliers,1629731,Dean Wade,False,True,sprained right ankle (DTD)
+2020-03-07,Cavaliers,1628035,Alfonzo McKinnie,True,False,activated from IL
 2020-03-07,Cavaliers,202684,Tristan Thompson,True,False,activated from IL
 2020-03-07,Hawks,1629027,Trae Young,True,False,activated from IL
 2020-03-07,Heat,203109,Jae Crowder,False,True,concussion (DTD)
@@ -1844,6 +1973,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-03-08,Pelicans,1629638,Nickeil Alexander-Walker,False,True,placed on IL with fractured right wrist
 2020-03-08,Pistons,202688,Brandon Knight,False,True,strained right hamstring (DTD)
 2020-03-08,Raptors,201188,Marc Gasol,True,False,activated from IL
+2020-03-08,Rockets,203463,Ben McLemore,False,True,gastroenteritis (DTD)
+2020-03-08,Spurs,1629022,Lonnie Walker IV,False,True,bruised left shin (out indefinitely)
 2020-03-08,Thunder,1628983,Shai Gilgeous-Alexander,False,True,placed on IL with bruised right hip
 2020-03-08,Timberwolves,1629103,Kelan Martin,False,True,placed on IL with sprained left ankle
 2020-03-08,Timberwolves,202323,Evan Turner,True,False,activated from IL
@@ -1867,8 +1998,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-03-10,Mavericks,1626161,Willie Cauley-Stein,False,True,placed on IL with illness
 2020-03-10,Mavericks,1627827,Dorian Finney-Smith,True,False,activated from IL
 2020-03-10,Pistons,202688,Brandon Knight,True,False,returned to lineup
+2020-03-10,Rockets,1626187,Michael Frazier II,False,True,fractured left forearm (out indefinitely)
+2020-03-10,Rockets,203463,Ben McLemore,True,False,returned to lineup
 2020-03-10,Rockets,201569,Eric Gordon,True,False,activated from IL
 2020-03-10,Spurs,1627749,Dejounte Murray,False,True,placed on IL with strained right calf
+2020-03-10,Spurs,200746,LaMarcus Aldridge,True,False,activated from IL
 2020-03-10,Warriors,1629065,Ky Bowman,True,False,activated from IL
 2020-03-10,Wizards,1629067,Isaac Bonga,False,True,placed on IL with groin injury
 2020-03-10,Wizards,1628394,Anzejs Pasecniks,True,False,activated from IL
@@ -1900,5 +2034,6 @@ Date,Team,playerID,Player,In,Out,Notes
 2020-03-19,Celtics,203935,Marcus Smart,False,True,COVID-19 coronavirus (out indefinitely)
 2020-05-18,Jazz,202711,Bojan Bogdanovic,False,True,surgery on right wrist (out for season)
 2020-05-20,Warriors,1626172,Kevon Looney,False,True,core muscle injury (out for season)
+2020-06-08,Spurs,200746,LaMarcus Aldridge,False,True,surgery on right shoulder (out for season)
 2020-06-22,Mavericks,201584,Courtney Lee,False,True,left calf injury (out for season)
-2020-06-24,Nets,1629651,Nic Claxton,False,True,surgery on shoulder (out for season)
+2020-06-24,Nets,2049,Nic Claxton,False,True,surgery on shoulder (out for season)
