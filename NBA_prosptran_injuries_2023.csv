@@ -1497,6 +1497,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-02,Wizards,1628963,Marvin Bagley III,False,True,bruised lower back (DTD)
 2024-02-02,Wizards,1629673,Jordan Poole,True,False,returned to lineup
 2024-02-02,Wizards,1629013,Landry Shamet,True,False,activated from IL
+2024-02-03,Hawks,1630180,Saddiq Bey,False,True,sprained left ankle (DTD)
 2024-02-03,76ers,202699,Tobias Harris,False,True,illness (DTD)
 2024-02-03,76ers,202694,Marcus Morris,True,False,activated from IL
 2024-02-03,Bucks,1641748,Andre Jackson Jr.,False,True,placed on IL with sprained right wrist
@@ -1504,7 +1505,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-03,Bulls,203897,Zach LaVine,False,True,placed on IL with surgery on foot (out for season)
 2024-02-03,Bulls,1628470,Torrey Craig,True,False,activated from IL
 2024-02-03,Grizzlies,1628991,Jaren Jackson Jr.,False,True,sore right hip (DTD)
-2024-02-03,Hawks,1630180,Saddiq Bey,False,True,sprained left ankle (DTD)
+2024-02-03,Hawks,1630180,Saddiq Bey,False,True,placed on IL with sprained left ankle
 2024-02-03,Hawks,202083,Wes Matthews Jr.,False,True,placed on IL with right calf injury
 2024-02-03,Hawks,1629631,De'Andre Hunter,True,False,activated from IL
 2024-02-03,Lakers,203076,Anthony Davis,True,False,activated from IL
@@ -1537,3 +1538,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-04,Warriors,203952,Andrew Wiggins,False,True,sprained left ankle (DTD)
 2024-02-04,Warriors,203967,Dario Saric,True,False,activated from IL
 2024-02-04,Warriors,1630541,Moses Moody,True,False,activated from IL
+2024-02-05,76ers,202699,Tobias Harris,True,False,returned to lineup
+2024-02-05,Clippers,1627826,Ivica Zubac,False,True,strained right calf (DTD)
+2024-02-05,Hawks,1630180,Saddiq Bey,True,False,activated from IL
+2024-02-05,Hawks,1630249,Vit Krejci,True,False,returned to lineup
+2024-02-05,Mavericks,202681,Kyrie Irving,True,False,activated from IL
+2024-02-05,Nets,1628372,Dennis Smith Jr.,True,False,returned to lineup
+2024-02-05,Pelicans,1630529,Herb Jones (Keyshawn),True,False,activated from IL
+2024-02-05,Pelicans,1626204,Larry Nance Jr.,True,False,activated from IL
+2024-02-05,Raptors,1629628,R.J. Barrett,False,True,left knee injury (DTD)
+2024-02-05,Rockets,1627832,Fred VanVleet,False,True,strained left adductor (DTD)
