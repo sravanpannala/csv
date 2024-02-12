@@ -1578,6 +1578,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-06,Thunder,1631114,Jalen Williams,True,False,activated from IL
 2024-02-06,Thunder,1630544,Tre Mann,True,False,activated from IL
 2024-02-06,Wizards,1628398,Kyle Kuzma,True,False,activated from IL
+2024-02-08,Suns,1626164,Devin Booker,False,True,sore left hip (DTD)
+2024-02-08,Warriors,202691,Klay Thompson,False,True,illness (DTD)
 2024-02-07,76ers,1627863,Danuel House Jr.,False,True,sore right foot (DTD)
 2024-02-07,76ers,202694,Marcus Morris,False,True,plantar fasciitis in foot (DTD)
 2024-02-07,Blazers,1627763,Malcolm Brogdon,True,False,activated from IL
@@ -1611,7 +1613,27 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-08,Nuggets,203484,Kentavious Caldwell-Pope,False,True,tightness in right hamstring (DTD)
 2024-02-08,Pacers,1631097,Bennedict Mathurin,True,False,activated from IL
 2024-02-08,Pistons,1630595,Cade Cunningham,True,False,returned to lineup
-2024-02-08,Suns,1626164,Devin Booker,False,True,sore left hip (DTD)
+2024-02-08,Suns,1626164,Devin Booker,False,True,placed on IL with sore left hip
 2024-02-08,Timberwolves,1629162,Jordan McLaughlin,False,True,right hip pointer (DTD)
-2024-02-08,Warriors,202691,Klay Thompson,False,True,illness (DTD)
+2024-02-08,Warriors,202691,Klay Thompson,False,True,placed on IL with illness
 2024-02-08,Hornets,1628373,Frank Ntilikina,True,False,activated from IL
+2024-02-09,76ers,1630178,Tyrese Maxey,False,True,illness (DTD)
+2024-02-09,Blazers,1629014,Anfernee Simons,False,True,sprained left ankle (DTD)
+2024-02-09,Bucks,203081,Damian Lillard,True,False,activated from IL
+2024-02-09,Celtics,1630531,Jaden Springer,False,True,right ankle injury (DTD)
+2024-02-09,Grizzlies,1628379,Luke Kennard,True,False,returned to lineup
+2024-02-09,Hawks,201988,Patty Mills,False,True,illness (DTD)
+2024-02-09,Hawks,202083,Wes Matthews Jr.,False,True,illness (DTD)
+2024-02-09,Hornets,202722,Davis Bertans,True,False,activated from IL
+2024-02-09,Knicks,1628392,Isaiah Hartenstein,False,True,sore Achilles (DTD)
+2024-02-09,Lakers,1631108,Max Christie,False,True,sprained right ankle (DTD)
+2024-02-09,Lakers,1626156,D'Angelo Russell,True,False,returned to lineup
+2024-02-09,Nets,1627827,Dorian Finney-Smith,True,False,activated from IL
+2024-02-09,Nuggets,1629008,Michael Porter Jr.,False,True,right knee injury (DTD)
+2024-02-09,Raptors,1629007,Jontay Porter,True,False,activated from IL
+2024-02-09,Raptors,1630534,Ochai Agbaji,True,False,activated from IL
+2024-02-09,Suns,1626164,Devin Booker,True,False,activated from IL
+2024-02-09,Thunder,1630198,Isaiah Joe,True,False,activated from IL
+2024-02-09,Warriors,1627780,Gary Payton II,True,False,activated from IL
+2024-02-09,Warriors,202691,Klay Thompson,True,False,activated from IL
+2024-02-09,Wizards,1631116,Patrick Baldwin Jr.,False,True,sprained right ankle (DTD)
