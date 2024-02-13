@@ -1596,6 +1596,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-07,Pistons,1630595,Cade Cunningham,False,True,left knee injury (DTD)
 2024-02-07,Warriors,203952,Andrew Wiggins,True,False,activated from IL
 2024-02-08,Blazers,1629028,Deandre Ayton,False,True,illness (DTD)
+2024-02-09,76ers,1630178,Tyrese Maxey,False,True,illness (DTD)
+2024-02-09,Wizards,1631116,Patrick Baldwin Jr.,False,True,sprained right ankle (DTD)
+2024-02-08,Blazers,1629028,Deandre Ayton,False,True,placed on IL with illness
 2024-02-08,Blazers,1641871,Duop Reath,False,True,right knee tendinitis (DTD)
 2024-02-08,Blazers,1627763,Malcolm Brogdon,False,True,illness (DTD)
 2024-02-08,Blazers,1630703,Scoot Henderson,False,True,sprained left foot (DTD)
@@ -1612,12 +1615,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-08,Lakers,1626156,D'Angelo Russell,False,True,sore left knee (DTD)
 2024-02-08,Nuggets,203484,Kentavious Caldwell-Pope,False,True,tightness in right hamstring (DTD)
 2024-02-08,Pacers,1631097,Bennedict Mathurin,True,False,activated from IL
+2024-02-08,Pistons,202711,Bojan Bogdanovic,False,True,placed on IL with sore left calf
 2024-02-08,Pistons,1630595,Cade Cunningham,True,False,returned to lineup
 2024-02-08,Suns,1626164,Devin Booker,False,True,placed on IL with sore left hip
 2024-02-08,Timberwolves,1629162,Jordan McLaughlin,False,True,right hip pointer (DTD)
 2024-02-08,Warriors,202691,Klay Thompson,False,True,placed on IL with illness
 2024-02-08,Hornets,1628373,Frank Ntilikina,True,False,activated from IL
-2024-02-09,76ers,1630178,Tyrese Maxey,False,True,illness (DTD)
+2024-02-09,76ers,1630178,Tyrese Maxey,False,True,placed on IL with illness
 2024-02-09,Blazers,1629014,Anfernee Simons,False,True,sprained left ankle (DTD)
 2024-02-09,Bucks,203081,Damian Lillard,True,False,activated from IL
 2024-02-09,Celtics,1630531,Jaden Springer,False,True,right ankle injury (DTD)
@@ -1636,4 +1640,24 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-09,Thunder,1630198,Isaiah Joe,True,False,activated from IL
 2024-02-09,Warriors,1627780,Gary Payton II,True,False,activated from IL
 2024-02-09,Warriors,202691,Klay Thompson,True,False,activated from IL
-2024-02-09,Wizards,1631116,Patrick Baldwin Jr.,False,True,sprained right ankle (DTD)
+2024-02-09,Wizards,1631116,Patrick Baldwin Jr.,False,True,placed on IL with sprained right ankle
+2024-02-10,,1630578,Alperen Sengun,False,True,sore lower back (DTD)
+2024-02-10,76ers,1628964,Mo Bamba,False,True,sore right knee (DTD)
+2024-02-10,76ers,1630178,Tyrese Maxey,True,False,activated from IL
+2024-02-10,Blazers,1629028,Deandre Ayton,True,False,activated from IL
+2024-02-10,Grizzlies,201565,Derrick Rose,True,False,returned to lineup
+2024-02-10,Hawks,1628981,Bruno Fernando,False,True,illness (DTD)
+2024-02-10,Hawks,1629631,De'Andre Hunter,False,True,right knee injury (DTD)
+2024-02-10,Hawks,1627749,Dejounte Murray,True,False,returned to lineup
+2024-02-10,Heat,1629312,Haywood Highsmith,True,False,activated from IL
+2024-02-10,Knicks,202711,Bojan Bogdanovic,True,False,activated from IL
+2024-02-10,Knicks,1628973,Jalen Brunson,True,False,returned to lineup
+2024-02-10,Nets,1629022,Lonnie Walker IV,True,False,activated from IL
+2024-02-10,Pacers,1630188,Jalen Smith,False,True,lower back spasms (DTD)
+2024-02-10,Pelicans,203469,Cody Zeller,False,True,sore left knee (DTD)
+2024-02-10,Pelicans,1630700,Dyson Daniels,False,True,sore left knee (DTD)
+2024-02-10,Pelicans,1629627,Zion Williamson,False,True,bruised left foot (DTD)
+2024-02-10,Pelicans,1630230,Naji Marshall,True,False,activated from IL
+2024-02-10,Rockets,1641715,Cam Whitmore,False,True,sprained right ankle (DTD)
+2024-02-10,Wizards,1628963,Marvin Bagley III,True,False,activated from IL
+2024-02-10,Wizards,1631116,Patrick Baldwin Jr.,True,False,activated from IL
