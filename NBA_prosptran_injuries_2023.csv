@@ -1670,6 +1670,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-11,Timberwolves,1629162,Jordan McLaughlin,True,False,activated from IL
 2024-02-11,Blazers,1627763,Malcolm Brogdon,True,False,activated from IL
 2024-02-11,Blazers,1627763,Malcolm Brogdon,False,True,right elbow tendinitis (DTD)
+2024-02-12,Jazz,203490,Otto Porter Jr.,False,True,sore left foot (DTD)
+2024-02-13,Celtics,204001,Kristaps Porzingis,False,True,bruised lower back (DTD)
 2024-02-12,,1630578,Alperen Sengun,True,False,activated from IL
 2024-02-12,76ers,202699,Tobias Harris,False,True,left hip impingement (DTD)
 2024-02-12,76ers,1628964,Mo Bamba,True,False,activated from IL
@@ -1682,21 +1684,21 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-12,Hawks,1629631,De'Andre Hunter,True,False,returned to lineup
 2024-02-12,Heat,1626196,Josh Richardson,False,True,dislocated right shoulder (out indefinitely)
 2024-02-12,Heat,1626179,Terry Rozier,False,True,sprained right knee (DTD)
-2024-02-12,Jazz,203490,Otto Porter Jr.,False,True,sore left foot (DTD)
+2024-02-12,Jazz,203490,Otto Porter Jr.,False,True,placed on IL with sore left foot
 2024-02-12,Jazz,1641729,Brice Sensabaugh,True,False,activated from IL
 2024-02-12,Knicks,1630613,Duane Washington Jr.,True,False,returned to lineup
 2024-02-12,Knicks,1630579,Jericho Sims,True,False,activated from IL
 2024-02-12,Nets,1630549,Day'Ron Sharpe,True,False,activated from IL
-2024-02-12,Nuggets,1641816,Hunter Tyson,False,True,fractured left finger (DTD)
 2024-02-12,Nuggets,203484,Kentavious Caldwell-Pope,True,False,activated from IL
 2024-02-12,Nuggets,1629008,Michael Porter Jr.,True,False,returned to lineup
 2024-02-12,Pacers,201949,James Johnson,False,True,illness (DTD)
 2024-02-12,Pelicans,1629627,Zion Williamson,True,False,activated from IL
 2024-02-12,Timberwolves,1631111,Wendell Moore Jr.,False,True,sore left knee (DTD)
+2024-02-12,Nuggets,1641816,Hunter Tyson,False,True,fractured left finger (DTD)
 2024-02-13,Blazers,1629014,Anfernee Simons,True,False,activated from IL
 2024-02-13,Blazers,1641871,Duop Reath,True,False,activated from IL
 2024-02-13,Blazers,1630703,Scoot Henderson,True,False,returned to lineup
-2024-02-13,Celtics,204001,Kristaps Porzingis,False,True,bruised lower back (DTD)
+2024-02-13,Celtics,204001,Kristaps Porzingis,False,True,placed on IL with bruised lower back
 2024-02-13,Clippers,202695,Kawhi Leonard,False,True,strained left adductor (DTD)
 2024-02-13,Grizzlies,1630590,Scotty Pippen Jr.,False,True,sore lower back (DTD)
 2024-02-13,Hawks,1630168,Onyeka Okongwu,False,True,sprained toe (out indefinitely)
@@ -1705,3 +1707,35 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-13,Kings,1630537,Chris Duarte,True,False,activated from IL
 2024-02-13,Nuggets,1627750,Jamal Murray,False,True,tibia injury (DTD)
 2024-02-13,Nuggets,203484,Kentavious Caldwell-Pope,False,True,tightness in right hamstring (DTD)
+2024-02-14,Bulls,1627936,Alex Caruso,True,False,returned to lineup
+2024-02-14,Cavaliers,1630241,Sam Merrill,False,True,illness (DTD)
+2024-02-14,Celtics,201143,Al Horford,False,True,sprained left toe (DTD)
+2024-02-14,Celtics,1627759,Jaylen Brown,False,True,bruised right shoulder (DTD)
+2024-02-14,Celtics,204001,Kristaps Porzingis,True,False,activated from IL
+2024-02-14,Grizzlies,201565,Derrick Rose,True,False,returned to lineup
+2024-02-14,Grizzlies,1630533,Ziaire Williams,True,False,activated from IL
+2024-02-14,Jazz,203490,Otto Porter Jr.,True,False,activated from IL
+2024-02-14,Kings,1626168,Trey Lyles,True,False,returned to lineup
+2024-02-14,Knicks,202711,Bojan Bogdanovic,False,True,sorlacl
+2024-02-14,Knicks,1628978,Donte DiVincenzo,False,True,right hamstring injury (DTD)
+2024-02-14,Lakers,2544,LeBron James,False,True,left ankle injury (DTD)
+2024-02-14,Magic,203914,Gary Harris,False,True,right calf injury (DTD)
+2024-02-14,Magic,1630591,Jalen Suggs,False,True,right groin injury (DTD)
+2024-02-14,Magic,1628365,Markelle Fultz,False,True,left knee injury (DTD)
+2024-02-14,Mavericks,1628467,Maxi Kleber,False,True,various injuries (DTD)
+2024-02-14,Mavericks,1641726,Dereck Lively II,True,False,activated from IL
+2024-02-14,Nets,1627732,Ben Simmons,False,True,left knee injury (DTD)
+2024-02-14,Nets,1629661,Cameron Johnson,True,False,activated from IL
+2024-02-14,Nuggets,1631124,Julian Strawther,False,True,sprained left ankle (DTD)
+2024-02-14,Pacers,1631097,Bennedict Mathurin,False,True,bruised right knee (DTD)
+2024-02-14,Pacers,1626167,Myles Turner,False,True,illness (DTD)
+2024-02-14,Rockets,203493,Reggie Bullock,False,True,sore lower back (DTD)
+2024-02-14,Suns,203078,Bradley Beal,False,True,left hamstring injury (DTD)
+2024-02-14,Wizards,1628398,Kyle Kuzma,False,True,illness (DTD)
+2024-02-15,Blazers,1641712,Rayan Rupert,False,True,sprained right ankle (DTD)
+2024-02-15,Blazers,1631101,Shaedon Sharpe,False,True,abdominal surgery (out indefinitely)
+2024-02-15,Grizzlies,201565,Derrick Rose,False,True,sore right ankle (DTD)
+2024-02-15,Grizzlies,1628991,Jaren Jackson Jr.,False,True,right quadriceps tendon injury (DTD)
+2024-02-15,Grizzlies,1629723,John Konchar,False,True,bruised left quadriceps (DTD)
+2024-02-15,Grizzlies,1628379,Luke Kennard,False,True,sore left knee (DTD)
+2024-02-15,Pelicans,1630700,Dyson Daniels,False,True,surgery on left knee (out indefinitely)
