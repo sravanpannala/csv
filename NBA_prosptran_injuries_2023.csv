@@ -1707,10 +1707,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-13,Kings,1630537,Chris Duarte,True,False,activated from IL
 2024-02-13,Nuggets,1627750,Jamal Murray,False,True,tibia injury (DTD)
 2024-02-13,Nuggets,203484,Kentavious Caldwell-Pope,False,True,tightness in right hamstring (DTD)
+2024-02-14,Celtics,1627759,Jaylen Brown,False,True,bruised right shoulder (DTD)
 2024-02-14,Bulls,1627936,Alex Caruso,True,False,returned to lineup
 2024-02-14,Cavaliers,1630241,Sam Merrill,False,True,illness (DTD)
 2024-02-14,Celtics,201143,Al Horford,False,True,sprained left toe (DTD)
-2024-02-14,Celtics,1627759,Jaylen Brown,False,True,bruised right shoulder (DTD)
+2024-02-14,Celtics,1627759,Jaylen Brown,False,True,placed on IL with bruised right shoulder
 2024-02-14,Celtics,204001,Kristaps Porzingis,True,False,activated from IL
 2024-02-14,Grizzlies,201565,Derrick Rose,True,False,returned to lineup
 2024-02-14,Grizzlies,1630533,Ziaire Williams,True,False,activated from IL
@@ -1739,3 +1740,5 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-15,Grizzlies,1629723,John Konchar,False,True,bruised left quadriceps (DTD)
 2024-02-15,Grizzlies,1628379,Luke Kennard,False,True,sore left knee (DTD)
 2024-02-15,Pelicans,1630700,Dyson Daniels,False,True,surgery on left knee (out indefinitely)
+2024-02-18,Celtics,1627759,Jaylen Brown,True,False,activated from IL
+2024-02-18,Clippers,202695,Kawhi Leonard,True,False,activated from IL
