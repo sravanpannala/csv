@@ -1744,6 +1744,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-18,Clippers,202695,Kawhi Leonard,True,False,activated from IL
 2024-02-20,Knicks,202711,Bojan Bogdanovic,True,False,returned to lineup
 2024-02-20,Knicks,1628978,Donte DiVincenzo,True,False,returned to lineup
+2024-02-22,Warriors,1627780,Gary Payton II,False,True,illness (DTD)
 2024-02-21,76ers,202699,Tobias Harris,True,False,activated from IL
 2024-02-21,Cavaliers,1629731,Dean Wade,True,False,activated from IL
 2024-02-21,Cavaliers,1630241,Sam Merrill,True,False,returned to lineup
@@ -1784,5 +1785,22 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-22,Pelicans,1627742,Brandon Ingram,False,True,illness (DTD)
 2024-02-22,Pelicans,203469,Cody Zeller,True,False,activated from IL
 2024-02-22,Rockets,203493,Reggie Bullock,True,False,activated from IL
-2024-02-22,Warriors,1627780,Gary Payton II,False,True,illness (DTD)
+2024-02-22,Warriors,1627780,Gary Payton II,False,True,placed on IL with illness
 2024-02-22,Pistons,1630191,Isaiah Stewart,True,False,activated from IL
+2024-02-23,76ers,1629001,De'Anthony Melton,True,False,activated from IL
+2024-02-23,Bulls,1630172,Patrick Williams,False,True,surgery on left foot (out for season)
+2024-02-23,Bulls,202880,sore left foot (DTD),False,True,placed on IL with sore left foot
+2024-02-23,Clippers,1626181,Norman Powell,False,True,sprained right ankle (DTD)
+2024-02-23,Grizzlies,201565,Derrick Rose,True,False,returned to lineup
+2024-02-23,Grizzlies,1628991,Jaren Jackson Jr.,True,False,activated from IL
+2024-02-23,Hawks,1631100,A.J. Griffin,True,False,activated from IL
+2024-02-23,Heat,1631115,Orlando Robinson,False,True,back injury (DTD)
+2024-02-23,Hornets,202722,Davis Bertans,False,True,hyperextended left knee (DTD)
+2024-02-23,Lakers,2544,LeBron James,True,False,activated from IL
+2024-02-23,Nuggets,1627750,Jamal Murray,False,True,tibia injury (DTD)
+2024-02-23,Nuggets,1630296,Braxton Key,True,False,returned to lineup
+2024-02-23,Raptors,1629628,R.J. Barrett,False,True,left knee injury (DTD)
+2024-02-23,Suns,203994,Jusuf Nurkic,False,True,sprained right ankle (DTD)
+2024-02-23,Timberwolves,1631111,Wendell Moore Jr.,True,False,activated from IL
+2024-02-23,Warriors,1627780,Gary Payton II,True,False,activated from IL
+2024-02-23,Wizards,1630166,Deni Avdija,False,True,bruised left heel (DTD)
