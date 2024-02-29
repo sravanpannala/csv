@@ -1807,6 +1807,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-23,Timberwolves,1631111,Wendell Moore Jr.,True,False,activated from IL
 2024-02-23,Warriors,1627780,Gary Payton II,True,False,activated from IL
 2024-02-23,Wizards,1630166,Deni Avdija,False,True,bruised left heel (DTD)
+2024-02-25,Kings,203458,Alex Len,False,True,illness (DTD)
+2024-02-25,Magic,203914,Gary Harris,False,True,right calf injury (DTD)
 2024-02-24,Hawks,1629027,Trae Young,False,True,left finger injury (DTD)
 2024-02-24,Pelicans,203468,C.J. McCollum,False,True,sprained left ankle (DTD)
 2024-02-24,Pistons,1631204,Marcus Sasser,False,True,sore right knee (DTD)
@@ -1818,9 +1820,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-25,Clippers,1626181,Norman Powell,True,False,returned to lineup
 2024-02-25,Grizzlies,1629723,John Konchar,False,True,sprained left thumb (DTD)
 2024-02-25,Hornets,203552,Seth Curry,False,True,sore right hip (DTD)
-2024-02-25,Kings,203458,Alex Len,False,True,illness (DTD)
+2024-02-25,Kings,203458,Alex Len,False,True,placed on IL with illness
 2024-02-25,Lakers,1630658,Colin Castleton,False,True,fractured right wrist (out indefinitely)
-2024-02-25,Magic,203914,Gary Harris,False,True,right calf injury (DTD)
+2024-02-25,Magic,203914,Gary Harris,False,True,placed on IL with right calf injury
 2024-02-25,Magic,1631094,Paolo Banchero,False,True,illness (DTD)
 2024-02-25,Magic,1628365,Markelle Fultz,True,False,activated from IL
 2024-02-25,Nuggets,1627750,Jamal Murray,True,False,activated from IL
@@ -1830,3 +1832,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-02-25,Suns,203994,Jusuf Nurkic,True,False,activated from IL
 2024-02-25,Warriors,1630611,Gui Santos,False,True,sore right knee (DTD)
 2024-02-25,Wizards,1630557,Corey Kispert,False,True,illness (DTD)
+2024-02-26,Heat,1629639,Tyler Herro,False,True,hyperextended left hnee (DTD)
+2024-02-26,Kings,203458,Alex Len,True,False,activated from IL
+2024-02-26,Magic,203914,Gary Harris,True,False,activated from IL
+2024-02-26,Warriors,101108,Chris Paul,True,False,activated from IL
+2024-02-26,Wizards,1641731,Bilal Coulibaly,False,True,bruised pelvis (DTD)
