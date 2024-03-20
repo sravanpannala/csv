@@ -2149,13 +2149,17 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-15,Raptors,1629018,Gary Trent Jr.,True,False,returned to lineup
 2024-03-15,Spurs,1629640,Keldon Johnson,True,False,activated from IL
 2024-03-15,Suns,201569,Eric Gordon,True,False,activated from IL
-2024-03-16,76ers,202699,Tobias Harris,False,True,sprained right ankle (DTD)
 2024-03-16,Blazers,1629680,Matisse Thybulle,False,True,sore right ankle (DTD)
+2024-03-16,Celtics,1628401,Derrick White,False,True,sprained left hand (DTD)
+2024-03-16,Pelicans,1626204,Larry Nance Jr.,False,True,illness (DTD)
+2024-03-17,Magic,1628371,Jonathan Isaac,False,True,left knee injury (DTD)
+2024-03-16,76ers,202699,Tobias Harris,False,True,sprained right ankle (DTD)
+2024-03-16,Blazers,1629680,Matisse Thybulle,False,True,placed on IL with sore right ankle
 2024-03-16,Blazers,1629014,Anfernee Simons,True,False,activated from IL
 2024-03-16,Blazers,1631133,Jabari Walker,True,False,activated from IL
 2024-03-16,Bucks,203114,Khris Middleton,True,False,activated from IL
 2024-03-16,Cavaliers,1629731,Dean Wade,False,True,sore right knee (DTD)
-2024-03-16,Celtics,1628401,Derrick White,False,True,sprained left hand (DTD)
+2024-03-16,Celtics,1628401,Derrick White,False,True,placed on IL with sprained left hand
 2024-03-16,Grizzlies,1630590,Scotty Pippen Jr.,False,True,left shin injury (DTD)
 2024-03-16,Grizzlies,1630217,Desmond Bane,True,False,activated from IL
 2024-03-16,Grizzlies,1628991,Jaren Jackson Jr.,True,False,activated from IL
@@ -2164,7 +2168,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-16,Kings,1628989,Kevin Huerter,True,False,activated from IL
 2024-03-16,Mavericks,1630182,Josh Green,False,True,sprained right ankle (DTD)
 2024-03-16,Pelicans,1630529,Herb Jones (Keyshawn),False,True,bruised lower back (DTD)
-2024-03-16,Pelicans,1626204,Larry Nance Jr.,False,True,illness (DTD)
+2024-03-16,Pelicans,1626204,Larry Nance Jr.,False,True,placed on IL with illness
 2024-03-16,Pistons,1629656,Quentin Grimes,False,True,sore right knee (DTD)
 2024-03-16,Timberwolves,203497,Rudy Gobert,False,True,rib injury (DTD)
 2024-03-16,Timberwolves,1628420,Monte Morris,True,False,activated from IL
@@ -2185,8 +2189,25 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-17,Hawks,203992,Bogdan Bogdanovic,True,False,returned to lineup
 2024-03-17,Heat,202710,Jimmy Butler,False,True,bruised right foot (DTD)
 2024-03-17,Heat,1631107,Nikola Jovic,False,True,strained right hamstring (DTD)
-2024-03-17,Magic,1628371,Jonathan Isaac,False,True,left knee injury (DTD)
+2024-03-17,Magic,1628371,Jonathan Isaac,False,True,placed on IL with left knee injury
 2024-03-17,Mavericks,1629029,Luka Doncic,True,False,activated from IL
 2024-03-17,Spurs,1626224,Cedi Osman,True,False,activated from IL
 2024-03-17,Wizards,1641731,Bilal Coulibaly,False,True,fractured right wrist (out for season)
 2024-03-17,Wizards,1628398,Kyle Kuzma,False,True,sore left shoulder (DTD)
+2024-03-18,Blazers,1629680,Matisse Thybulle,True,False,activated from IL
+2024-03-18,Celtics,201143,Al Horford,False,True,sprained left big toe (DTD)
+2024-03-18,Celtics,1631120,J.D. Davison,False,True,illness (DTD)
+2024-03-18,Celtics,1628369,Jayson Tatum,False,True,right ankle impingement (DTD)
+2024-03-18,Celtics,201950,Jrue Holiday,False,True,bruised right shoulder (DTD)
+2024-03-18,Celtics,1630573,Sam Hauser,False,True,sprained left ankle (DTD)
+2024-03-18,Celtics,1628401,Derrick White,True,False,activated from IL
+2024-03-18,Celtics,1627759,Jaylen Brown,True,False,returned to lineup
+2024-03-18,Celtics,204001,Kristaps Porzingis,True,False,activated from IL
+2024-03-18,Hawks,1630168,Onyeka Okongwu,True,False,activated from IL
+2024-03-18,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
+2024-03-18,Knicks,1628384,O.G. Anunoby,False,True,right elbow injury (DTD)
+2024-03-18,Magic,1628371,Jonathan Isaac,True,False,activated from IL
+2024-03-18,Pelicans,1626204,Larry Nance Jr.,True,False,activated from IL
+2024-03-18,Pistons,1630595,Cade Cunningham,False,True,left knee injury (DTD)
+2024-03-18,Pistons,1631323,Simone Fontecchio,False,True,toe injury (DTD)
+2024-03-18,Wizards,1630647,Eugene Omoruyi,False,True,sprained left ankle (DTD)
