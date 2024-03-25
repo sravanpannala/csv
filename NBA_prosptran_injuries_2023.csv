@@ -2229,15 +2229,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-19,Raptors,1630193,Immanuel Quickley,False,True,personal reasons (DTD)
 2024-03-19,Spurs,1628380,Zach Collins,False,True,concussion protocol (DTD)
 2024-03-19,Timberwolves,1629675,Naz Reid,False,True,head injury (DTD)
+2024-03-20,Clippers,1629611,Terance Mann,False,True,strained right shoulder (DTD)
+2024-03-20,Heat,1628389,Bam Adebayo,False,True,bruised lower back (DTD)
+2024-03-20,Nets,1627827,Dorian Finney-Smith,False,True,sore left ankle (DTD)
 2024-03-20,Blazers,1629680,Matisse Thybulle,False,True,sore right ankle (DTD)
 2024-03-20,Bucks,1641753,Chris Livingston,True,False,activated from IL
 2024-03-20,Bucks,1630699,MarJon Beauchamp,True,False,activated from IL
-2024-03-20,Clippers,1629611,Terance Mann,False,True,strained right shoulder (DTD)
+2024-03-20,Clippers,1629611,Terance Mann,False,True,placed on IL with strained right shoulder
 2024-03-20,Hawks,1630552,Jalen Johnson,False,True,sprained right ankle (out indefinitely)
-2024-03-20,Heat,1628389,Bam Adebayo,False,True,bruised lower back (DTD)
+2024-03-20,Heat,1628389,Bam Adebayo,False,True,placed on IL with bruised lower back
 2024-03-20,Heat,202710,Jimmy Butler,True,False,returned to lineup
 2024-03-20,Heat,1631107,Nikola Jovic,True,False,returned to lineup
-2024-03-20,Nets,1627827,Dorian Finney-Smith,False,True,sore left ankle (DTD)
+2024-03-20,Nets,1627827,Dorian Finney-Smith,False,True,placed on IL with sore left ankle
 2024-03-20,Pacers,203926,Doug McDermott,True,False,activated from IL
 2024-03-20,Pistons,1641709,Ausar Thompson,False,True,blood clots (out for season)
 2024-03-20,Pistons,201959,Taj Gibson,False,True,right hamstring injury (DTD)
@@ -2250,3 +2253,24 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-21,Lakers,1641720,Jalen Hood-Schifino,False,True,surgery on back (out for season)
 2024-03-21,Pistons,1630649,Stanley Umude,False,True,fractured right ankle (out for season)
 2024-03-21,Wizards,1630166,Deni Avdija,True,False,activated from IL
+2024-03-22,76ers,202699,Tobias Harris,True,False,activated from IL
+2024-03-22,Blazers,1629028,Deandre Ayton,False,True,left elbow tendinitis (DTD)
+2024-03-22,Celtics,201143,Al Horford,False,True,sprained left big toe (DTD)
+2024-03-22,Celtics,1628369,Jayson Tatum,False,True,right ankle impingement (DTD)
+2024-03-22,Celtics,1630573,Sam Hauser,True,False,activated from IL
+2024-03-22,Clippers,1629611,Terance Mann,True,False,activated from IL
+2024-03-22,Grizzlies,1630217,Desmond Bane,False,True,sore back (DTD)
+2024-03-22,Grizzlies,1630590,Scotty Pippen Jr.,True,False,activated from IL
+2024-03-22,Heat,1628389,Bam Adebayo,True,False,activated from IL
+2024-03-22,Lakers,1627752,Taurean Prince,False,True,personal reasons (DTD)
+2024-03-22,Lakers,1629629,Cam Reddish,True,False,activated from IL
+2024-03-22,Nets,1627827,Dorian Finney-Smith,True,False,activated from IL
+2024-03-22,Nuggets,1629618,Jalen Pickett,False,True,personal reasons (DTD)
+2024-03-22,Pacers,201949,James Johnson,False,True,personal reasons (DTD)
+2024-03-22,Pelicans,1627742,Brandon Ingram,False,True,bruised left knee (out indefinitely)
+2024-03-22,Pistons,1631105,Jalen Duren,False,True,back spasms (DTD)
+2024-03-22,Raptors,1629018,Gary Trent Jr.,False,True,tightness in lower back (DTD)
+2024-03-22,Spurs,1628380,Zach Collins,True,False,activated from IL
+2024-03-22,Timberwolves,1629675,Naz Reid,True,False,activated from IL
+2024-03-22,Timberwolves,203497,Rudy Gobert,True,False,activated from IL
+2024-03-22,Wizards,1628963,Marvin Bagley III,True,False,activated from IL
