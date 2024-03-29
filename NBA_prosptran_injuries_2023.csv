@@ -2303,6 +2303,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-23,Raptors,1629007,Jontay Porter,False,True,personal reasons (DTD)
 2024-03-23,Raptors,1629018,Gary Trent Jr.,True,False,returned to lineup
 2024-03-23,Suns,1629006,Josh Okogie,True,False,activated from IL
+2024-03-24,Wizards,1628398,Kyle Kuzma,False,True,sore left shoulder (DTD)
 2024-03-24,Bucks,920,A.J. Green,False,True,placed on IL with illness
 2024-03-24,Bucks,203114,Khris Middleton,True,False,activated from IL
 2024-03-24,Cavaliers,1630596,Evan Mobley,True,False,activated from IL
@@ -2318,7 +2319,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-24,Nuggets,1629618,Jalen Pickett,True,False,activated from IL
 2024-03-24,Pacers,201949,James Johnson,True,False,activated from IL
 2024-03-24,Pistons,1630595,Cade Cunningham,False,True,left knee injury (DTD)
-2024-03-24,Wizards,1628398,Kyle Kuzma,False,True,sore left shoulder (DTD)
+2024-03-24,Wizards,1628398,Kyle Kuzma,False,True,placed on IL with sore left shoulder
 2024-03-25,76ers,1626162,Kelly Oubre Jr.,False,True,sore left shoulder (DTD)
 2024-03-25,Blazers,1631101,Shaedon Sharpe,True,False,activated from IL
 2024-03-25,Bucks,920,A.J. Green,True,False,activated from IL
@@ -2343,3 +2344,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-25,Spurs,1641705,Victor Wembanyama,False,True,sprained left ankle (DTD)
 2024-03-25,Wizards,1630166,Deni Avdija,False,True,illness (DTD)
 2024-03-25,76ers,1630539,Kai Jones,True,False,returned to lineup
+2024-03-26,Bucks,201976,Patrick Beverley,False,True,placed on IL with surgery on right wrist
+2024-03-26,Heat,202710,Jimmy Butler,False,True,illness (DTD)
+2024-03-26,Heat,1631170,Jaime Jaquez Jr.,True,False,returned to lineup
+2024-03-26,Jazz,203903,Jordan Clarkson,False,True,sore lower back (DTD)
+2024-03-26,Lakers,2544,LeBron James,False,True,left ankle injury (DTD)
+2024-03-26,Warriors,1631218,Trayce Jackson-Davis,False,True,sore right knee (DTD)
+2024-03-26,Wizards,182,illness (DTD),True,False,returned to lineup
+2024-03-26,Wizards,1628398,Kyle Kuzma,True,False,activated from IL
