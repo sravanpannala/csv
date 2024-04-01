@@ -2356,13 +2356,16 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-26,Warriors,1631218,Trayce Jackson-Davis,False,True,placed on IL with sore right knee
 2024-03-26,Wizards,182,illness (DTD),True,False,returned to lineup
 2024-03-26,Wizards,1628398,Kyle Kuzma,True,False,activated from IL
+2024-03-27,Jazz,1630548,Johnny Juzang,False,True,back spasms (DTD)
+2024-03-27,Lakers,203076,Anthony Davis,False,True,hyperextended left knee (DTD)
+2024-03-27,Spurs,1629640,Keldon Johnson,False,True,sore right knee (DTD)
 2024-03-27,76ers,1626162,Kelly Oubre Jr.,True,False,returned to lineup
 2024-03-27,Cavaliers,1629622,Max Strus,True,False,activated from IL
 2024-03-27,Celtics,1628401,Derrick White,True,False,returned to lineup
 2024-03-27,Grizzlies,1629634,Brandon Clarke,True,False,activated from IL
-2024-03-27,Jazz,1630548,Johnny Juzang,False,True,back spasms (DTD)
+2024-03-27,Jazz,1630548,Johnny Juzang,False,True,placed on IL with back spasms
 2024-03-27,Knicks,1629011,Mitchell Robinson,True,False,activated from IL
-2024-03-27,Lakers,203076,Anthony Davis,False,True,hyperextended left knee (DTD)
+2024-03-27,Lakers,203076,Anthony Davis,False,True,placed on IL with hyperextended left knee
 2024-03-27,Lakers,1630658,Colin Castleton,True,False,activated from IL
 2024-03-27,Lakers,2544,LeBron James,True,False,returned to lineup
 2024-03-27,Nets,1630560,Cam Thomas,True,False,returned to lineup
@@ -2371,7 +2374,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-27,Pistons,1631093,Jaden Ivey,False,True,sore left knee (DTD)
 2024-03-27,Pistons,1630595,Cade Cunningham,True,False,returned to lineup
 2024-03-27,Pistons,1631105,Jalen Duren,True,False,returned to lineup
-2024-03-27,Spurs,1629640,Keldon Johnson,False,True,sore right knee (DTD)
+2024-03-27,Spurs,1629640,Keldon Johnson,False,True,placed on IL with sore right knee
 2024-03-27,Spurs,1641705,Victor Wembanyama,True,False,activated from IL
 2024-03-27,Suns,203994,Jusuf Nurkic,False,True,sprained right ankle (DTD)
 2024-03-27,Thunder,1628983,Shai Gilgeous-Alexander,False,True,bruised right quadriceps (DTD)
@@ -2386,3 +2389,27 @@ Date,Team,playerID,Player,In,Out,Notes
 2024-03-28,Magic,203914,Gary Harris,True,False,activated from IL
 2024-03-28,Pelicans,1630631,Jose Alvarado,False,True,strained right oblique (DTD)
 2024-03-28,Wizards,1626158,Richaun Holmes,False,True,bruised left toe (DTD)
+2024-03-29,Blazers,1629028,Deandre Ayton,True,False,activated from IL
+2024-03-29,Blazers,1629680,Matisse Thybulle,True,False,activated from IL
+2024-03-29,Bucks,203081,Damian Lillard,False,True,personal reasons (DTD)
+2024-03-29,Cavaliers,1627747,Caris LeVert,False,True,sore right wrist (DTD)
+2024-03-29,Cavaliers,1641854,Craig Porter Jr.,False,True,illness (DTD)
+2024-03-29,Cavaliers,1628378,Donovan Mitchell,True,False,activated from IL
+2024-03-29,Celtics,1631120,J.D. Davison,False,True,sprained left ankle (DTD)
+2024-03-29,Celtics,201143,Al Horford,True,False,returned to lineup
+2024-03-29,Grizzlies,1630217,Desmond Bane,False,True,sore back (DTD)
+2024-03-29,Grizzlies,1628379,Luke Kennard,False,True,placed on IL for personal reasons
+2024-03-29,Grizzlies,1628379,Luke Kennard,True,False,activated from IL
+2024-03-29,Heat,202710,Jimmy Butler,True,False,activated from IL
+2024-03-29,Heat,201567,Kevin Love,True,False,activated from IL
+2024-03-29,Jazz,1628374,Lauri Markkanen,False,True,sore right shoulder (DTD)
+2024-03-29,Jazz,1630548,Johnny Juzang,True,False,activated from IL
+2024-03-29,Lakers,203076,Anthony Davis,True,False,activated from IL
+2024-03-29,Magic,1628365,Markelle Fultz,False,True,left knee injury (DTD)
+2024-03-29,Pistons,1631204,Marcus Sasser,False,True,illness (DTD)
+2024-03-29,Pistons,1631093,Jaden Ivey,True,False,returned to lineup
+2024-03-29,Raptors,1630534,Ochai Agbaji,False,True,bruised right hip (DTD)
+2024-03-29,Spurs,1629640,Keldon Johnson,True,False,activated from IL
+2024-03-29,Suns,203994,Jusuf Nurkic,True,False,returned to lineup
+2024-03-29,Warriors,203967,Dario Saric,False,True,sore right knee (DTD)
+2024-03-29,Warriors,202691,Klay Thompson,False,True,right knee tendinitis (DTD)
