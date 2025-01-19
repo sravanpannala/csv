@@ -1277,11 +1277,15 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-13,Thunder,1627936,Alex Caruso,True,False,activated from IL
 2025-01-13,Timberwolves,1642265,Rob Dillingham,True,False,activated from IL
 2025-01-13,Warriors,203110,Draymond Green,False,True,illness (DTD)
+2025-01-15,Nets,1627732,Ben Simmons,False,True,lower back injury (DTD)
 2025-01-14,76ers,202331,Paul George,False,True,sore right ankle (DTD)
 2025-01-14,76ers,1630178,Tyrese Maxey,False,True,sprained left hand (DTD)
+2025-01-14,Kings,1628370,Malik Monk,False,True,placed on IL with sore right groin
 2025-01-14,Mavericks,202681,Kyrie Irving,True,False,activated from IL
 2025-01-14,Nets,2049,Nic Claxton,False,True,placed on IL with tightness in right hamstring
 2025-01-14,Nets,1629661,Cameron Johnson,True,False,activated from IL
+2025-01-14,Nets,1626156,D'Angelo Russell,True,False,activated from IL
+2025-01-14,Pacers,1630169,Tyrese Haliburton,False,True,strained left groin (DTD)
 2025-01-15,76ers,202331,Paul George,True,False,returned to lineup
 2025-01-15,76ers,1630178,Tyrese Maxey,True,False,returned to lineup
 2025-01-15,Bucks,203114,Khris Middleton,True,False,activated from IL
@@ -1299,7 +1303,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-15,Magic,203484,Kentavious Caldwell-Pope,True,False,returned to lineup
 2025-01-15,Mavericks,1641726,Dereck Lively II,False,True,sprained right ankle (DTD)
 2025-01-15,Mavericks,202681,Kyrie Irving,False,True,back injury (DTD)
-2025-01-15,Nets,1627732,Ben Simmons,False,True,lower back injury (DTD)
+2025-01-15,Nets,1627732,Ben Simmons,False,True,placed on IL with lower back injury
 2025-01-15,Nets,1629661,Cameron Johnson,False,True,sprained right ankle (DTD)
 2025-01-15,Nets,1626156,D'Angelo Russell,False,True,bruised right shin (DTD)
 2025-01-15,Nets,2049,Nic Claxton,True,False,activated from IL
@@ -1309,3 +1313,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-15,Warriors,203937,Kyle Anderson,False,True,hamstring injury (DTD)
 2025-01-15,Warriors,1627780,Gary Payton II,True,False,activated from IL
 2025-01-15,Wizards,1641774,Tristan Vukcevic,True,False,activated from IL
+2025-01-16,Blazers,1629057,Robert Williams III,True,False,activated from IL
+2025-01-16,Cavaliers,1629660,Ty Jerome,True,False,activated from IL
+2025-01-16,Jazz,1630695,Micah Potter,False,True,illness (DTD)
+2025-01-16,Kings,1628370,Malik Monk,True,False,activated from IL
+2025-01-16,Lakers,1642355,Bronny James,True,False,activated from IL
+2025-01-16,Nets,1627732,Ben Simmons,True,False,activated from IL
+2025-01-16,Nets,1626156,D'Angelo Russell,True,False,returned to lineup
+2025-01-16,Pacers,1630174,Aaron Nesmith,True,False,activated from IL
+2025-01-16,Pacers,1630169,Tyrese Haliburton,True,False,returned to lineup
+2025-01-16,Raptors,1630534,Ochai Agbaji,False,True,laceration on right hand (DTD)
+2025-01-16,Rockets,1627832,Fred VanVleet,False,True,personal reasons (DTD)
+2025-01-16,Rockets,1631106,Tari Eason,True,False,activated from IL
+2025-01-16,Suns,203078,Bradley Beal,False,True,sprained left ankle (DTD)
+2025-01-16,Timberwolves,1628978,Donte DiVincenzo,False,True,sprained left big toe (DTD)
+2025-01-16,Timberwolves,1631159,Leonard Miller,False,True,illness (DTD)
