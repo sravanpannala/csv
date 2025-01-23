@@ -1353,6 +1353,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-17,Pelicans,1642274,Yves Missi,False,True,illness (DTD)
 2025-01-17,Rockets,1627832,Fred VanVleet,True,False,activated from IL
 2025-01-17,Thunder,1628983,Shai Gilgeous-Alexander,False,True,sore right wrist (DTD)
+2025-01-19,Warriors,203110,Draymond Green,False,True,left calf injury (DTD)
 2025-01-18,76ers,1627824,Guerschon Yabusele,False,True,right knee injury (DTD)
 2025-01-18,76ers,202331,Paul George,False,True,tightness in left groin (DTD)
 2025-01-18,76ers,203083,Andre Drummond,True,False,activated from IL
@@ -1388,4 +1389,23 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-19,Nets,1629661,Cameron Johnson,True,False,returned to lineup
 2025-01-19,Thunder,1631114,Jalen Williams,False,True,right hip injury (DTD)
 2025-01-19,Thunder,1628983,Shai Gilgeous-Alexander,True,False,returned to lineup
-2025-01-19,Warriors,203110,Draymond Green,False,True,left calf injury (DTD)
+2025-01-19,Warriors,203110,Draymond Green,False,True,strained left calf (out indefinitely)
+2025-01-20,Bulls,1630245,Ayo Dosunmu,False,True,strained soleus muscle in right calf (DTD)
+2025-01-20,Bulls,1630537,Chris Duarte,False,True,personal reasons (DTD)
+2025-01-20,Bulls,1629632,Coby White,False,True,sore ankle (DTD)
+2025-01-20,Bulls,1628975,Jevon Carter,False,True,illness (DTD)
+2025-01-20,Bulls,1628366,Lonzo Ball,True,False,returned to lineup
+2025-01-20,Cavaliers,1627747,Caris LeVert,False,True,wrist injury (DTD)
+2025-01-20,Clippers,1627826,Ivica Zubac,False,True,corneal abrasion (DTD)
+2025-01-20,Clippers,202695,Kawhi Leonard,False,True,right knee injury (DTD)
+2025-01-20,Grizzlies,1629630,Ja Morant,True,False,activated from IL
+2025-01-20,Jazz,1630695,Micah Potter,True,False,activated from IL
+2025-01-20,Knicks,1626157,Karl-Anthony Towns,True,False,activated from IL
+2025-01-20,Mavericks,203939,Dwight Powell,False,True,right hip injury (DTD)
+2025-01-20,Mavericks,1629656,Quentin Grimes,False,True,back spasms (DTD)
+2025-01-20,Nets,1630533,Ziaire Williams,False,True,sprained left ankle (DTD)
+2025-01-20,Pelicans,1629627,Zion Williamson,False,True,illness (DTD)
+2025-01-20,Rockets,203500,Steven Adams,False,True,migraine headache (DTD)
+2025-01-20,Rockets,1641708,Amen Thompson,True,False,returned to lineup
+2025-01-20,Rockets,1629111,Jock Landale,True,False,activated from IL
+2025-01-20,Suns,203078,Bradley Beal,True,False,activated from IL
