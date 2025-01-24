@@ -1372,9 +1372,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-18,Rockets,1641708,Amen Thompson,False,True,tightness in left calf (DTD)
 2025-01-18,Timberwolves,1631159,Leonard Miller,True,False,activated from IL
 2025-01-18,Warriors,203110,Draymond Green,True,False,activated from IL
-2025-01-19,76ers,203083,Andre Drummond,False,True,toe injury (DTD)
 2025-01-19,Blazers,1629014,Anfernee Simons,False,True,strained right elbow (DTD)
 2025-01-19,Blazers,1629057,Robert Williams III,False,True,sore left ankle (DTD)
+2025-01-19,76ers,203083,Andre Drummond,False,True,toe injury (DTD)
+2025-01-19,Blazers,1629014,Anfernee Simons,False,True,placed on IL with strained right elbow
+2025-01-19,Blazers,1629057,Robert Williams III,False,True,placed on IL with sore left ankle
 2025-01-19,Blazers,1629028,Deandre Ayton,True,False,activated from IL
 2025-01-19,Blazers,1630166,Deni Avdija,True,False,activated from IL
 2025-01-19,Bulls,1628366,Lonzo Ball,False,True,various injuries (DTD)
@@ -1409,3 +1411,20 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-20,Rockets,1641708,Amen Thompson,True,False,returned to lineup
 2025-01-20,Rockets,1629111,Jock Landale,True,False,activated from IL
 2025-01-20,Suns,203078,Bradley Beal,True,False,activated from IL
+2025-01-21,76ers,203083,Andre Drummond,True,False,returned to lineup
+2025-01-21,76ers,1627824,Guerschon Yabusele,True,False,returned to lineup
+2025-01-21,76ers,202331,Paul George,True,False,returned to lineup
+2025-01-21,Blazers,1631200,Kris Murray,False,True,bruised chest (DTD)
+2025-01-21,Blazers,1641739,Toumani Camara,False,True,illness (DTD)
+2025-01-21,Blazers,1629014,Anfernee Simons,True,False,activated from IL
+2025-01-21,Blazers,1629057,Robert Williams III,True,False,activated from IL
+2025-01-21,Bucks,920,A.J. Green,False,True,strained left quadriceps (DTD)
+2025-01-21,Bucks,1630699,MarJon Beauchamp,True,False,activated from IL
+2025-01-21,Grizzlies,1631222,Jake LaRavia,False,True,back injury (DTD)
+2025-01-21,Heat,1642352,Keshad Johnson,False,True,left shoulder inflammation (DTD)
+2025-01-21,Heat,1629639,Tyler Herro,False,True,sore right groin (DTD)
+2025-01-21,Jazz,1642262,Cody Williams,False,True,ankle injury (DTD)
+2025-01-21,Jazz,1630695,Micah Potter,False,True,illness (DTD)
+2025-01-21,Kings,1642269,Devin Carter,True,False,activated from IL
+2025-01-21,Magic,1630175,Cole Anthony,False,True,illness (DTD)
+2025-01-21,Rockets,203500,Steven Adams,True,False,returned to lineup
