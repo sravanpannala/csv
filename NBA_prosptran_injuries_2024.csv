@@ -1392,6 +1392,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-19,Thunder,1631114,Jalen Williams,False,True,right hip injury (DTD)
 2025-01-19,Thunder,1628983,Shai Gilgeous-Alexander,True,False,returned to lineup
 2025-01-19,Warriors,203110,Draymond Green,False,True,strained left calf (out indefinitely)
+2025-01-20,Mavericks,1629656,Quentin Grimes,False,True,back spasms (DTD)
 2025-01-20,Bulls,1630245,Ayo Dosunmu,False,True,strained soleus muscle in right calf (DTD)
 2025-01-20,Bulls,1630537,Chris Duarte,False,True,personal reasons (DTD)
 2025-01-20,Bulls,1629632,Coby White,False,True,sore ankle (DTD)
@@ -1404,7 +1405,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-20,Jazz,1630695,Micah Potter,True,False,activated from IL
 2025-01-20,Knicks,1626157,Karl-Anthony Towns,True,False,activated from IL
 2025-01-20,Mavericks,203939,Dwight Powell,False,True,right hip injury (DTD)
-2025-01-20,Mavericks,1629656,Quentin Grimes,False,True,back spasms (DTD)
+2025-01-20,Mavericks,1629656,Quentin Grimes,False,True,placed on IL with back spasms
 2025-01-20,Nets,1630533,Ziaire Williams,False,True,sprained left ankle (DTD)
 2025-01-20,Pelicans,1629627,Zion Williamson,False,True,illness (DTD)
 2025-01-20,Rockets,203500,Steven Adams,False,True,migraine headache (DTD)
@@ -1428,3 +1429,24 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-21,Kings,1642269,Devin Carter,True,False,activated from IL
 2025-01-21,Magic,1630175,Cole Anthony,False,True,illness (DTD)
 2025-01-21,Rockets,203500,Steven Adams,True,False,returned to lineup
+2025-01-22,Bulls,1630245,Ayo Dosunmu,True,False,returned to lineup
+2025-01-22,Celtics,201143,Al Horford,False,True,sprained left big toe (DTD)
+2025-01-22,Celtics,201950,Jrue Holiday,False,True,right shoulder impingement (DTD)
+2025-01-22,Celtics,204001,Kristaps Porzingis,False,True,illness (DTD)
+2025-01-22,Clippers,201935,James Harden,False,True,placed on IL with sore right groin
+2025-01-22,Clippers,1627739,Kris Dunn,False,True,sore left knee (DTD)
+2025-01-22,Clippers,201587,Nicolas Batum,False,True,right finger injury (DTD)
+2025-01-22,Clippers,1626181,Norman Powell,False,True,sore back (DTD)
+2025-01-22,Clippers,201935,James Harden,True,False,activated from IL
+2025-01-22,Jazz,1641729,Brice Sensabaugh,False,True,sprained right ankle (DTD)
+2025-01-22,Jazz,1628381,John Collins (Martin),True,False,activated from IL
+2025-01-22,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
+2025-01-22,Mavericks,1641726,Dereck Lively II,False,True,fractured right ankle (out indefinitely)
+2025-01-22,Mavericks,202691,Klay Thompson,False,True,sprained left ankle (DTD)
+2025-01-22,Mavericks,1630230,Naji Marshall,False,True,illness (DTD)
+2025-01-22,Mavericks,1629656,Quentin Grimes,True,False,activated from IL
+2025-01-22,Nets,1629661,Cameron Johnson,False,True,sprained right ankle (DTD)
+2025-01-22,Nets,1626156,D'Angelo Russell,False,True,left hamstring injury (DTD)
+2025-01-22,Suns,203078,Bradley Beal,False,True,sprained left ankle (DTD)
+2025-01-22,Thunder,1630198,Isaiah Joe,False,True,illness (DTD)
+2025-01-22,Thunder,1631114,Jalen Williams,True,False,activated from IL
