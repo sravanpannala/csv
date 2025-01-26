@@ -1412,6 +1412,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-20,Rockets,1641708,Amen Thompson,True,False,returned to lineup
 2025-01-20,Rockets,1629111,Jock Landale,True,False,activated from IL
 2025-01-20,Suns,203078,Bradley Beal,True,False,activated from IL
+2025-01-22,Clippers,201587,Nicolas Batum,False,True,right finger injury (DTD)
+2025-01-22,Clippers,1626181,Norman Powell,False,True,sore back (DTD)
+2025-01-22,Clippers,201935,James Harden,True,False,activated from IL
 2025-01-21,76ers,203083,Andre Drummond,True,False,returned to lineup
 2025-01-21,76ers,1627824,Guerschon Yabusele,True,False,returned to lineup
 2025-01-21,76ers,202331,Paul George,True,False,returned to lineup
@@ -1435,9 +1438,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-22,Celtics,204001,Kristaps Porzingis,False,True,illness (DTD)
 2025-01-22,Clippers,201935,James Harden,False,True,placed on IL with sore right groin
 2025-01-22,Clippers,1627739,Kris Dunn,False,True,sore left knee (DTD)
-2025-01-22,Clippers,201587,Nicolas Batum,False,True,right finger injury (DTD)
-2025-01-22,Clippers,1626181,Norman Powell,False,True,sore back (DTD)
-2025-01-22,Clippers,201935,James Harden,True,False,activated from IL
+2025-01-22,Clippers,201587,Nicolas Batum,False,True,placed on IL with right finger injury
+2025-01-22,Clippers,1626181,Norman Powell,False,True,placed on IL with sore back
 2025-01-22,Jazz,1641729,Brice Sensabaugh,False,True,sprained right ankle (DTD)
 2025-01-22,Jazz,1628381,John Collins (Martin),True,False,activated from IL
 2025-01-22,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
@@ -1450,3 +1452,25 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-22,Suns,203078,Bradley Beal,False,True,sprained left ankle (DTD)
 2025-01-22,Thunder,1630198,Isaiah Joe,False,True,illness (DTD)
 2025-01-22,Thunder,1631114,Jalen Williams,True,False,activated from IL
+2025-01-23,76ers,203083,Andre Drummond,False,True,toe injury (DTD)
+2025-01-23,Blazers,1629028,Deandre Ayton,False,True,sore left knee (DTD)
+2025-01-23,Blazers,1631200,Kris Murray,True,False,returned to lineup
+2025-01-23,Blazers,1641739,Toumani Camara,True,False,returned to lineup
+2025-01-23,Bucks,203114,Khris Middleton,False,True,ankle injury (DTD)
+2025-01-23,Celtics,201143,Al Horford,True,False,returned to lineup
+2025-01-23,Celtics,201950,Jrue Holiday,True,False,returned to lineup
+2025-01-23,Celtics,204001,Kristaps Porzingis,True,False,returned to lineup
+2025-01-23,Clippers,1641757,Jordan Miller,False,True,illness (DTD)
+2025-01-23,Clippers,1627826,Ivica Zubac,True,False,activated from IL
+2025-01-23,Clippers,201935,James Harden,True,False,activated from IL
+2025-01-23,Clippers,202695,Kawhi Leonard,True,False,activated from IL
+2025-01-23,Clippers,201587,Nicolas Batum,True,False,activated from IL
+2025-01-23,Clippers,1626181,Norman Powell,True,False,activated from IL
+2025-01-23,Hawks,203991,Clint Capela,False,True,sore right knee (DTD)
+2025-01-23,Heat,1642352,Keshad Johnson,True,False,returned to lineup
+2025-01-23,Heat,1629639,Tyler Herro,True,False,returned to lineup
+2025-01-23,Hornets,1641706,Brandon Miller,False,True,surgery on right wrist to repair torn ligament (out for season)
+2025-01-23,Magic,1630532,Franz Wagner,True,False,activated from IL
+2025-01-23,Magic,1641724,Jett Howard,True,False,returned to lineup
+2025-01-23,Spurs,1631110,Jeremy Sochan,True,False,activated from IL
+2025-01-23,Warriors,1641764,Brandin Podziemski,True,False,activated from IL
