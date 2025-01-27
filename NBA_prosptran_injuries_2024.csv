@@ -1432,6 +1432,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-21,Kings,1642269,Devin Carter,True,False,activated from IL
 2025-01-21,Magic,1630175,Cole Anthony,False,True,illness (DTD)
 2025-01-21,Rockets,203500,Steven Adams,True,False,returned to lineup
+2025-01-22,Jazz,1641729,Brice Sensabaugh,False,True,sprained right ankle (DTD)
+2025-01-23,Hawks,203991,Clint Capela,False,True,sore right knee (DTD)
 2025-01-22,Bulls,1630245,Ayo Dosunmu,True,False,returned to lineup
 2025-01-22,Celtics,201143,Al Horford,False,True,sprained left big toe (DTD)
 2025-01-22,Celtics,201950,Jrue Holiday,False,True,right shoulder impingement (DTD)
@@ -1440,7 +1442,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-22,Clippers,1627739,Kris Dunn,False,True,sore left knee (DTD)
 2025-01-22,Clippers,201587,Nicolas Batum,False,True,placed on IL with right finger injury
 2025-01-22,Clippers,1626181,Norman Powell,False,True,placed on IL with sore back
-2025-01-22,Jazz,1641729,Brice Sensabaugh,False,True,sprained right ankle (DTD)
+2025-01-22,Jazz,1641729,Brice Sensabaugh,False,True,placed on IL with sprained right ankle
 2025-01-22,Jazz,1628381,John Collins (Martin),True,False,activated from IL
 2025-01-22,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
 2025-01-22,Mavericks,1641726,Dereck Lively II,False,True,fractured right ankle (out indefinitely)
@@ -1449,6 +1451,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-22,Mavericks,1629656,Quentin Grimes,True,False,activated from IL
 2025-01-22,Nets,1629661,Cameron Johnson,False,True,sprained right ankle (DTD)
 2025-01-22,Nets,1626156,D'Angelo Russell,False,True,left hamstring injury (DTD)
+2025-01-22,Nets,1630533,Ziaire Williams,False,True,placed on IL with sprained left ankle
 2025-01-22,Suns,203078,Bradley Beal,False,True,sprained left ankle (DTD)
 2025-01-22,Thunder,1630198,Isaiah Joe,False,True,illness (DTD)
 2025-01-22,Thunder,1631114,Jalen Williams,True,False,activated from IL
@@ -1466,7 +1469,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-23,Clippers,202695,Kawhi Leonard,True,False,activated from IL
 2025-01-23,Clippers,201587,Nicolas Batum,True,False,activated from IL
 2025-01-23,Clippers,1626181,Norman Powell,True,False,activated from IL
-2025-01-23,Hawks,203991,Clint Capela,False,True,sore right knee (DTD)
+2025-01-23,Hawks,203991,Clint Capela,False,True,placed on IL with sore right knee
 2025-01-23,Heat,1642352,Keshad Johnson,True,False,returned to lineup
 2025-01-23,Heat,1629639,Tyler Herro,True,False,returned to lineup
 2025-01-23,Hornets,1641706,Brandon Miller,False,True,surgery on right wrist to repair torn ligament (out for season)
@@ -1474,3 +1477,21 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-23,Magic,1641724,Jett Howard,True,False,returned to lineup
 2025-01-23,Spurs,1631110,Jeremy Sochan,True,False,activated from IL
 2025-01-23,Warriors,1641764,Brandin Podziemski,True,False,activated from IL
+2025-01-24,Blazers,1629057,Robert Williams III,False,True,sore right hip (DTD)
+2025-01-24,Blazers,1642270,Donovan Clingan,True,False,returned to lineup
+2025-01-24,Grizzlies,1629630,Ja Morant,False,True,illness (DTD)
+2025-01-24,Grizzlies,1630583,Santi Aldama,False,True,illness (DTD)
+2025-01-24,Hawks,1630552,Jalen Johnson,False,True,shoulder injury (DTD)
+2025-01-24,Hawks,203991,Clint Capela,True,False,activated from IL
+2025-01-24,Hawks,1626204,Larry Nance Jr.,True,False,activated from IL
+2025-01-24,Hornets,1630163,LaMelo Ball,False,True,wrist injury (DTD)
+2025-01-24,Hornets,1628970,Miles Bridges,False,True,back injury (DTD)
+2025-01-24,Hornets,203552,Seth Curry,False,True,ankle injury (DTD)
+2025-01-24,Jazz,1628381,John Collins (Martin),False,True,illness (DTD)
+2025-01-24,Jazz,1641729,Brice Sensabaugh,True,False,activated from IL
+2025-01-24,Nets,1630533,Ziaire Williams,True,False,activated from IL
+2025-01-24,Pelicans,1642274,Yves Missi,True,False,activated from IL
+2025-01-24,Pelicans,1629627,Zion Williamson,True,False,activated from IL
+2025-01-24,Raptors,203482,Kelly Olynyk,False,True,calf injury (DTD)
+2025-01-24,Suns,203994,Jusuf Nurkic,True,False,activated from IL
+2025-01-24,Warriors,203937,Kyle Anderson,True,False,activated from IL
