@@ -1455,11 +1455,17 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-22,Suns,203078,Bradley Beal,False,True,sprained left ankle (DTD)
 2025-01-22,Thunder,1630198,Isaiah Joe,False,True,illness (DTD)
 2025-01-22,Thunder,1631114,Jalen Williams,True,False,activated from IL
+2025-01-23,Bucks,203114,Khris Middleton,False,True,ankle injury (DTD)
+2025-01-24,Blazers,1629057,Robert Williams III,False,True,sore right hip (DTD)
+2025-01-24,Grizzlies,1629630,Ja Morant,False,True,illness (DTD)
+2025-01-24,Hornets,1630163,LaMelo Ball,False,True,wrist injury (DTD)
+2025-01-24,Hornets,1628970,Miles Bridges,False,True,back injury (DTD)
+2025-01-24,Hornets,203552,Seth Curry,False,True,ankle injury (DTD)
 2025-01-23,76ers,203083,Andre Drummond,False,True,toe injury (DTD)
 2025-01-23,Blazers,1629028,Deandre Ayton,False,True,sore left knee (DTD)
 2025-01-23,Blazers,1631200,Kris Murray,True,False,returned to lineup
 2025-01-23,Blazers,1641739,Toumani Camara,True,False,returned to lineup
-2025-01-23,Bucks,203114,Khris Middleton,False,True,ankle injury (DTD)
+2025-01-23,Bucks,203114,Khris Middleton,False,True,placed on IL with ankle injury
 2025-01-23,Celtics,201143,Al Horford,True,False,returned to lineup
 2025-01-23,Celtics,201950,Jrue Holiday,True,False,returned to lineup
 2025-01-23,Celtics,204001,Kristaps Porzingis,True,False,returned to lineup
@@ -1475,18 +1481,19 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-23,Hornets,1641706,Brandon Miller,False,True,surgery on right wrist to repair torn ligament (out for season)
 2025-01-23,Magic,1630532,Franz Wagner,True,False,activated from IL
 2025-01-23,Magic,1641724,Jett Howard,True,False,returned to lineup
+2025-01-23,Mavericks,202691,Klay Thompson,False,True,placed on IL with sprained left ankle
 2025-01-23,Spurs,1631110,Jeremy Sochan,True,False,activated from IL
 2025-01-23,Warriors,1641764,Brandin Podziemski,True,False,activated from IL
-2025-01-24,Blazers,1629057,Robert Williams III,False,True,sore right hip (DTD)
+2025-01-24,Blazers,1629057,Robert Williams III,False,True,sore right hand (DTD)
 2025-01-24,Blazers,1642270,Donovan Clingan,True,False,returned to lineup
-2025-01-24,Grizzlies,1629630,Ja Morant,False,True,illness (DTD)
+2025-01-24,Grizzlies,1629630,Ja Morant,False,True,placed on IL with illness
 2025-01-24,Grizzlies,1630583,Santi Aldama,False,True,illness (DTD)
 2025-01-24,Hawks,1630552,Jalen Johnson,False,True,shoulder injury (DTD)
 2025-01-24,Hawks,203991,Clint Capela,True,False,activated from IL
 2025-01-24,Hawks,1626204,Larry Nance Jr.,True,False,activated from IL
-2025-01-24,Hornets,1630163,LaMelo Ball,False,True,wrist injury (DTD)
-2025-01-24,Hornets,1628970,Miles Bridges,False,True,back injury (DTD)
-2025-01-24,Hornets,203552,Seth Curry,False,True,ankle injury (DTD)
+2025-01-24,Hornets,1630163,LaMelo Ball,False,True,placed on IL with wrist injury
+2025-01-24,Hornets,1628970,Miles Bridges,False,True,placed on IL with back injury
+2025-01-24,Hornets,203552,Seth Curry,False,True,placed on IL with ankle injury
 2025-01-24,Jazz,1628381,John Collins (Martin),False,True,illness (DTD)
 2025-01-24,Jazz,1641729,Brice Sensabaugh,True,False,activated from IL
 2025-01-24,Nets,1630533,Ziaire Williams,True,False,activated from IL
@@ -1495,3 +1502,40 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-24,Raptors,203482,Kelly Olynyk,False,True,calf injury (DTD)
 2025-01-24,Suns,203994,Jusuf Nurkic,True,False,activated from IL
 2025-01-24,Warriors,203937,Kyle Anderson,True,False,activated from IL
+2025-01-25,76ers,200768,Kyle Lowry,True,False,activated from IL
+2025-01-25,Blazers,1629057,Robert Williams III,True,False,returned to lineup
+2025-01-25,Bucks,1626171,Bobby Portis,False,True,personal reasons (DTD)
+2025-01-25,Bucks,203114,Khris Middleton,True,False,activated from IL
+2025-01-25,Cavaliers,1629731,Dean Wade,False,True,knee injury (DTD)
+2025-01-25,Cavaliers,1630596,Evan Mobley,True,False,activated from IL
+2025-01-25,Clippers,1642353,Cam Christie,False,True,ankle injury (DTD)
+2025-01-25,Grizzlies,1629630,Ja Morant,True,False,activated from IL
+2025-01-25,Hawks,1629631,De'Andre Hunter,False,True,illness (DTD)
+2025-01-25,Hornets,1628998,Cody Martin,False,True,core muscle injury (DTD)
+2025-01-25,Hornets,1631109,Mark Williams,False,True,placed on IL with right foot injury
+2025-01-25,Hornets,1630163,LaMelo Ball,True,False,activated from IL
+2025-01-25,Hornets,1628970,Miles Bridges,True,False,activated from IL
+2025-01-25,Hornets,203552,Seth Curry,True,False,activated from IL
+2025-01-25,Jazz,1630695,Micah Potter,True,False,activated from IL
+2025-01-25,Knicks,1630574,Ariel Hukporti,False,True,illness (DTD)
+2025-01-25,Knicks,1642359,Pacome Dadiet,False,True,sprained right big toe (DTD)
+2025-01-25,Lakers,1629060,Rui Hachimura,False,True,calf injury (DTD)
+2025-01-25,Lakers,1629020,Jarred Vanderbilt,True,False,activated from IL
+2025-01-25,Magic,1630175,Cole Anthony,True,False,returned to lineup
+2025-01-25,Magic,1630591,Jalen Suggs,True,False,activated from IL
+2025-01-25,Mavericks,2408,fractured rib (out indefinitely),False,True,placed on IL with fractured rib
+2025-01-25,Mavericks,1628467,Maxi Kleber,False,True,fractured right foot (out indefinitely)
+2025-01-25,Mavericks,1630702,Jaden Hardy,True,False,activated from IL
+2025-01-25,Mavericks,202691,Klay Thompson,True,False,activated from IL
+2025-01-25,Nets,1626156,D'Angelo Russell,True,False,returned to lineup
+2025-01-25,Pelicans,1627749,Dejounte Murray,False,True,finger injury (DTD)
+2025-01-25,Suns,203078,Bradley Beal,True,False,activated from IL
+2025-01-25,Thunder,1629652,Luguentz Dort,False,True,right knee injury (DTD)
+2025-01-25,Thunder,1628392,Isaiah Hartenstein,True,False,activated from IL
+2025-01-25,Thunder,1630198,Isaiah Joe,True,False,activated from IL
+2025-01-25,Nets,1627732,Ben Simmons,True,False,activated from IL
+2025-01-25,Nets,1627732,Ben Simmons,False,True,sore lower back (DTD)
+2025-01-26,Bulls,1630537,Chris Duarte,True,False,activated from IL
+2025-01-26,Hawks,1629027,Trae Young,False,True,hamstring injury (DTD)
+2025-01-26,Hornets,1631109,Mark Williams,True,False,activated from IL
+2025-01-26,Suns,1642346,Ryan Dunn,False,True,sprained left ankle (DTD)
