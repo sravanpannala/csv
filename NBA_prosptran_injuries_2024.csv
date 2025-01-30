@@ -1502,6 +1502,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-24,Raptors,203482,Kelly Olynyk,False,True,calf injury (DTD)
 2025-01-24,Suns,203994,Jusuf Nurkic,True,False,activated from IL
 2025-01-24,Warriors,203937,Kyle Anderson,True,False,activated from IL
+2025-01-25,Hawks,1629631,De'Andre Hunter,False,True,illness (DTD)
+2025-01-25,Knicks,1630574,Ariel Hukporti,False,True,illness (DTD)
+2025-01-25,Pelicans,1627749,Dejounte Murray,False,True,finger injury (DTD)
 2025-01-25,76ers,200768,Kyle Lowry,True,False,activated from IL
 2025-01-25,Blazers,1629057,Robert Williams III,True,False,returned to lineup
 2025-01-25,Bucks,1626171,Bobby Portis,False,True,personal reasons (DTD)
@@ -1510,14 +1513,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-25,Cavaliers,1630596,Evan Mobley,True,False,activated from IL
 2025-01-25,Clippers,1642353,Cam Christie,False,True,ankle injury (DTD)
 2025-01-25,Grizzlies,1629630,Ja Morant,True,False,activated from IL
-2025-01-25,Hawks,1629631,De'Andre Hunter,False,True,illness (DTD)
+2025-01-25,Hawks,1629631,De'Andre Hunter,False,True,placed on IL with illness
 2025-01-25,Hornets,1628998,Cody Martin,False,True,core muscle injury (DTD)
 2025-01-25,Hornets,1631109,Mark Williams,False,True,placed on IL with right foot injury
 2025-01-25,Hornets,1630163,LaMelo Ball,True,False,activated from IL
 2025-01-25,Hornets,1628970,Miles Bridges,True,False,activated from IL
 2025-01-25,Hornets,203552,Seth Curry,True,False,activated from IL
 2025-01-25,Jazz,1630695,Micah Potter,True,False,activated from IL
-2025-01-25,Knicks,1630574,Ariel Hukporti,False,True,illness (DTD)
+2025-01-25,Knicks,1630574,Ariel Hukporti,False,True,placed on IL with illness
 2025-01-25,Knicks,1642359,Pacome Dadiet,False,True,sprained right big toe (DTD)
 2025-01-25,Lakers,1629060,Rui Hachimura,False,True,calf injury (DTD)
 2025-01-25,Lakers,1629020,Jarred Vanderbilt,True,False,activated from IL
@@ -1528,7 +1531,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-25,Mavericks,1630702,Jaden Hardy,True,False,activated from IL
 2025-01-25,Mavericks,202691,Klay Thompson,True,False,activated from IL
 2025-01-25,Nets,1626156,D'Angelo Russell,True,False,returned to lineup
-2025-01-25,Pelicans,1627749,Dejounte Murray,False,True,finger injury (DTD)
+2025-01-25,Pelicans,1627749,Dejounte Murray,False,True,placed on IL with finger injury
 2025-01-25,Suns,203078,Bradley Beal,True,False,activated from IL
 2025-01-25,Thunder,1629652,Luguentz Dort,False,True,right knee injury (DTD)
 2025-01-25,Thunder,1628392,Isaiah Hartenstein,True,False,activated from IL
@@ -1539,3 +1542,23 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-26,Hawks,1629027,Trae Young,False,True,hamstring injury (DTD)
 2025-01-26,Hornets,1631109,Mark Williams,True,False,activated from IL
 2025-01-26,Suns,1642346,Ryan Dunn,False,True,sprained left ankle (DTD)
+2025-01-27,76ers,202331,Paul George,False,True,left finger injury (DTD)
+2025-01-27,Bucks,1641890,Tyler Smith,False,True,illness (DTD)
+2025-01-27,Celtics,1628401,Derrick White,False,True,bruised right shin (DTD)
+2025-01-27,Celtics,1630573,Sam Hauser,False,True,right hip impingement (DTD)
+2025-01-27,Grizzlies,1631222,Jake LaRavia,True,False,activated from IL
+2025-01-27,Grizzlies,1630583,Santi Aldama,True,False,activated from IL
+2025-01-27,Hawks,1630700,Dyson Daniels,False,True,sore left ankle (DTD)
+2025-01-27,Hawks,1626204,Larry Nance Jr.,False,True,right hand injury (DTD)
+2025-01-27,Hawks,1629631,De'Andre Hunter,True,False,activated from IL
+2025-01-27,Hawks,1642258,Zaccharie Risacher,True,False,activated from IL
+2025-01-27,Heat,1631170,Jaime Jaquez Jr.,False,True,illness (DTD)
+2025-01-27,Jazz,1631117,Walker Kessler,False,True,bruised left shoulder (DTD)
+2025-01-27,Jazz,203903,Jordan Clarkson,True,False,activated from IL
+2025-01-27,Knicks,1630574,Ariel Hukporti,True,False,activated from IL
+2025-01-27,Lakers,1629216,Gabe Vincent,False,True,sore left knee (DTD)
+2025-01-27,Magic,1630591,Jalen Suggs,False,True,quadriceps injury (DTD)
+2025-01-27,Magic,1629048,Goga Bitadze,True,False,activated from IL
+2025-01-27,Pelicans,1627749,Dejounte Murray,True,False,activated from IL
+2025-01-27,Raptors,1630534,Ochai Agbaji,True,False,activated from IL
+2025-01-27,Rockets,1641715,Cam Whitmore,False,True,illness (DTD)
