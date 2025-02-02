@@ -1566,6 +1566,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-27,Pelicans,1627749,Dejounte Murray,True,False,activated from IL
 2025-01-27,Raptors,1630534,Ochai Agbaji,True,False,activated from IL
 2025-01-27,Rockets,1641715,Cam Whitmore,False,True,illness (DTD)
+2025-01-29,Cavaliers,1630241,Sam Merrill,False,True,illness (DTD)
+2025-01-29,Timberwolves,1629675,Naz Reid,False,True,illness (DTD)
 2025-01-28,Blazers,1629028,Deandre Ayton,True,False,activated from IL
 2025-01-28,Celtics,1628401,Derrick White,True,False,activated from IL
 2025-01-28,Clippers,1641757,Jordan Miller,True,False,activated from IL
@@ -1588,7 +1590,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-28,Warriors,201939,Stephen Curry,False,True,knee injury (DTD)
 2025-01-29,Bulls,203897,Zach LaVine,False,True,personal reasons (DTD)
 2025-01-29,Bulls,1629632,Coby White,True,False,activated from IL
-2025-01-29,Cavaliers,1630241,Sam Merrill,False,True,illness (DTD)
+2025-01-29,Cavaliers,1630241,Sam Merrill,False,True,placed on IL with illness
 2025-01-29,Celtics,201143,Al Horford,False,True,sprained left big toe (DTD)
 2025-01-29,Hawks,1642258,Zaccharie Risacher,True,False,activated from IL
 2025-01-29,Kings,203926,Doug McDermott,False,True,illness (DTD)
@@ -1599,6 +1601,17 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-29,Pelicans,1641722,Jordan Hawkins,False,True,illness (DTD)
 2025-01-29,Raptors,1641711,Gradey Dick,False,True,illness (DTD)
 2025-01-29,Suns,1642346,Ryan Dunn,True,False,activated from IL
-2025-01-29,Timberwolves,1629675,Naz Reid,False,True,illness (DTD)
+2025-01-29,Timberwolves,1629675,Naz Reid,False,True,placed on IL with illness
 2025-01-29,Warriors,201939,Stephen Curry,True,False,returned to lineup
 2025-01-29,Wizards,1642259,Alex Sarr,False,True,sprained left ankle (DTD)
+2025-01-30,Blazers,203924,Jerami Grant,False,True,right ankle injury (DTD)
+2025-01-30,Cavaliers,1630241,Sam Merrill,True,False,activated from IL
+2025-01-30,Grizzlies,1629630,Ja Morant,False,True,right shoulder injury (DTD)
+2025-01-30,Jazz,1628381,John Collins (Martin),True,False,activated from IL
+2025-01-30,Jazz,1631117,Walker Kessler,True,False,activated from IL
+2025-01-30,Lakers,1627827,Dorian Finney-Smith,False,True,shoulder injury (DTD)
+2025-01-30,Magic,203914,Gary Harris,True,False,activated from IL
+2025-01-30,Mavericks,1628467,Maxi Kleber,False,True,surgery on right foot to repair fracture (out indefinitely)
+2025-01-30,Rockets,1630578,Alperen Sengun,False,True,bruised left calf (DTD)
+2025-01-30,Timberwolves,201144,Mike Conley Jr.,False,True,sprained right thumb (DTD)
+2025-01-30,Timberwolves,1629675,Naz Reid,True,False,activated from IL
