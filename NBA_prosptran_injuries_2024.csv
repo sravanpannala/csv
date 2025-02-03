@@ -1588,18 +1588,20 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-28,Spurs,1631321,Sidy Cissoko,False,True,concussion (out indefinitely)
 2025-01-28,Thunder,1629652,Luguentz Dort,True,False,activated from IL
 2025-01-28,Warriors,201939,Stephen Curry,False,True,knee injury (DTD)
+2025-01-29,Kings,203926,Doug McDermott,False,True,illness (DTD)
+2025-01-29,Raptors,1641711,Gradey Dick,False,True,illness (DTD)
 2025-01-29,Bulls,203897,Zach LaVine,False,True,personal reasons (DTD)
 2025-01-29,Bulls,1629632,Coby White,True,False,activated from IL
 2025-01-29,Cavaliers,1630241,Sam Merrill,False,True,placed on IL with illness
 2025-01-29,Celtics,201143,Al Horford,False,True,sprained left big toe (DTD)
 2025-01-29,Hawks,1642258,Zaccharie Risacher,True,False,activated from IL
-2025-01-29,Kings,203926,Doug McDermott,False,True,illness (DTD)
+2025-01-29,Kings,203926,Doug McDermott,False,True,placed on IL with illness
 2025-01-29,Lakers,203076,Anthony Davis,False,True,strained abdominal (out indefinitely)
 2025-01-29,Mavericks,1630230,Naji Marshall,True,False,activated from IL
 2025-01-29,Pacers,1629614,Andrew Nembhard,False,True,back injury (DTD)
 2025-01-29,Pacers,1631097,Bennedict Mathurin,False,True,illness (DTD)
 2025-01-29,Pelicans,1641722,Jordan Hawkins,False,True,illness (DTD)
-2025-01-29,Raptors,1641711,Gradey Dick,False,True,illness (DTD)
+2025-01-29,Raptors,1641711,Gradey Dick,False,True,placed on IL with illness
 2025-01-29,Suns,1642346,Ryan Dunn,True,False,activated from IL
 2025-01-29,Timberwolves,1629675,Naz Reid,False,True,placed on IL with illness
 2025-01-29,Warriors,201939,Stephen Curry,True,False,returned to lineup
@@ -1615,3 +1617,22 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-01-30,Rockets,1630578,Alperen Sengun,False,True,bruised left calf (DTD)
 2025-01-30,Timberwolves,201144,Mike Conley Jr.,False,True,sprained right thumb (DTD)
 2025-01-30,Timberwolves,1629675,Naz Reid,True,False,activated from IL
+2025-01-31,Bucks,920,A.J. Green,True,False,activated from IL
+2025-01-31,Celtics,201143,Al Horford,True,False,returned to lineup
+2025-01-31,Celtics,1630573,Sam Hauser,True,False,activated from IL
+2025-01-31,Clippers,201587,Nicolas Batum,False,True,illness (DTD)
+2025-01-31,Hornets,1630182,Josh Green,True,False,activated from IL
+2025-01-31,Kings,203926,Doug McDermott,True,False,activated from IL
+2025-01-31,Mavericks,203957,Dante Exum,True,False,activated from IL
+2025-01-31,Pacers,1629614,Andrew Nembhard,True,False,returned to lineup
+2025-01-31,Pacers,1631097,Bennedict Mathurin,True,False,returned to lineup
+2025-01-31,Pelicans,1628464,Daniel Theis,False,True,thumb injury (DTD)
+2025-01-31,Pelicans,1627749,Dejounte Murray,False,True,torn right Achilles tendon (out for season)
+2025-01-31,Pelicans,1629627,Zion Williamson,False,True,illness (DTD)
+2025-01-31,Raptors,1642347,Jamal Shead,False,True,illness (DTD)
+2025-01-31,Raptors,1641711,Gradey Dick,True,False,activated from IL
+2025-01-31,Raptors,1630193,Immanuel Quickley,True,False,activated from IL
+2025-01-31,Raptors,203482,Kelly Olynyk,True,False,activated from IL
+2025-01-31,Spurs,1631321,Sidy Cissoko,True,False,activated from IL
+2025-01-31,Thunder,1627936,Alex Caruso,False,True,ankle injury (DTD)
+2025-01-31,Timberwolves,203944,Julius Randle,False,True,groin injury (DTD)
