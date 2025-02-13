@@ -1813,6 +1813,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-07,Suns,1631102,TyTy Washington Jr.,True,False,activated from IL
 2025-02-07,Thunder,1629652,Luguentz Dort,False,True,placed on IL with back spasms
 2025-02-07,Wizards,1630551,Justin Champagnie,False,True,placed on IL with rib injury
+2025-02-08,Lakers,2544,LeBron James,False,True,ankle injury (DTD)
+2025-02-08,Timberwolves,1630162,Anthony Edwards,False,True,sore right hip (DTD)
+2025-02-09,Hornets,1630163,LaMelo Ball,False,True,ankle injury (DTD)
 2025-02-08,Bulls,1628366,Lonzo Ball,False,True,illness (DTD)
 2025-02-08,Bulls,1631207,Dalen Terry,True,False,activated from IL
 2025-02-08,Bulls,1629659,Talen Horton-Tucker,True,False,activated from IL
@@ -1824,11 +1827,11 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-08,Jazz,1631117,Walker Kessler,False,True,placed on IL with shoulder injury
 2025-02-08,Jazz,1642262,Cody Williams,True,False,activated from IL
 2025-02-08,Jazz,203903,Jordan Clarkson,True,False,activated from IL
-2025-02-08,Lakers,2544,LeBron James,False,True,ankle injury (DTD)
+2025-02-08,Lakers,2544,LeBron James,False,True,placed on IL with ankle injury
 2025-02-08,Nuggets,1629008,Michael Porter Jr.,False,True,hamstring injury (DTD)
 2025-02-08,Nuggets,1627750,Jamal Murray,True,False,activated from IL
 2025-02-08,Suns,1628960,Grayson Allen,False,True,knee injury (DTD)
-2025-02-08,Timberwolves,1630162,Anthony Edwards,False,True,sore right hip (DTD)
+2025-02-08,Timberwolves,1630162,Anthony Edwards,False,True,placed on IL with sore right hip
 2025-02-08,Timberwolves,201144,Mike Conley Jr.,False,True,finger injury (DTD)
 2025-02-08,Warriors,1630611,Gui Santos,True,False,returned to lineup
 2025-02-08,Wizards,1630264,Anthony Gill,False,True,ankle injury (DTD)
@@ -1841,7 +1844,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-09,Bucks,1641857,Liam Robbins,True,False,activated from IL
 2025-02-09,Cavaliers,1630241,Sam Merrill,True,False,returned to lineup
 2025-02-09,Clippers,203992,Bogdan Bogdanovic,True,False,activated from IL
-2025-02-09,Hornets,1630163,LaMelo Ball,False,True,ankle injury (DTD)
+2025-02-09,Hornets,1630163,LaMelo Ball,False,True,placed on IL with ankle injury
 2025-02-09,Hornets,1641733,Nick Smith Jr.,False,True,back injury (DTD)
 2025-02-09,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
 2025-02-09,Jazz,1631117,Walker Kessler,True,False,activated from IL
@@ -1850,3 +1853,25 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-09,Rockets,203500,Steven Adams,False,True,sore left ankle (DTD)
 2025-02-09,Thunder,1630198,Isaiah Joe,False,True,sore knee (DTD)
 2025-02-09,Thunder,1629652,Luguentz Dort,True,False,activated from IL
+2025-02-10,76ers,200768,Kyle Lowry,False,True,right hip injury (DTD)
+2025-02-10,Blazers,203924,Jerami Grant,False,True,sore right knee (DTD)
+2025-02-10,Blazers,1631200,Kris Murray,False,True,bruised left quadriceps (DTD)
+2025-02-10,Blazers,1629057,Robert Williams III,False,True,right knee injury (DTD)
+2025-02-10,Bucks,1626192,Pat Connaughton,True,False,activated from IL
+2025-02-10,Cavaliers,1629622,Max Strus,False,True,ankle injury (DTD)
+2025-02-10,Celtics,1627759,Jaylen Brown,False,True,right knee injury (DTD)
+2025-02-10,Heat,1631170,Jaime Jaquez Jr.,False,True,illness (DTD)
+2025-02-10,Heat,1629639,Tyler Herro,False,True,illness (DTD)
+2025-02-10,Hornets,1631209,Isaiah Wong,False,True,foot injury (DTD)
+2025-02-10,Hornets,1630182,Josh Green,True,False,activated from IL
+2025-02-10,Hornets,1630163,LaMelo Ball,True,False,activated from IL
+2025-02-10,Hornets,1641733,Nick Smith Jr.,True,False,returned to lineup
+2025-02-10,Lakers,1642355,Bronny James,False,True,strained left forearm (DTD)
+2025-02-10,Lakers,2544,LeBron James,True,False,activated from IL
+2025-02-10,Lakers,1629029,Luka Doncic,True,False,activated from IL
+2025-02-10,Mavericks,1629023,P.J. Washington,False,True,sprained right ankle (DTD)
+2025-02-10,Pelicans,1630527,B.J. Boston Jr.,False,True,ankle injury (DTD)
+2025-02-10,Pelicans,203468,C.J. McCollum,False,True,personal reasons (DTD)
+2025-02-10,Suns,201142,Kevin Durant,True,False,activated from IL
+2025-02-10,Timberwolves,1630162,Anthony Edwards,True,False,activated from IL
+2025-02-10,Wizards,1642273,Kyshawn George,True,False,returned to lineup
