@@ -1839,6 +1839,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-08,Wizards,1630551,Justin Champagnie,True,False,activated from IL
 2025-02-08,Wizards,1627763,Malcolm Brogdon,True,False,returned to lineup
 2025-02-08,Celtics,1628470,Torrey Craig,False,True,right ankle injury (DTD)
+2025-02-09,Thunder,1630198,Isaiah Joe,False,True,sore knee (DTD)
+2025-02-10,Hornets,1631209,Isaiah Wong,False,True,foot injury (DTD)
 2025-02-09,76ers,1627824,Guerschon Yabusele,True,False,activated from IL
 2025-02-09,Bucks,203507,Giannis Antetokounmpo,False,True,strained left calf (out indefinitely)
 2025-02-09,Bucks,1641857,Liam Robbins,True,False,activated from IL
@@ -1851,7 +1853,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-09,Mavericks,203076,Anthony Davis,False,True,strained left adductor (DTD)
 2025-02-09,Pistons,1630595,Cade Cunningham,True,False,returned to lineup
 2025-02-09,Rockets,203500,Steven Adams,False,True,sore left ankle (DTD)
-2025-02-09,Thunder,1630198,Isaiah Joe,False,True,sore knee (DTD)
+2025-02-09,Thunder,1630198,Isaiah Joe,False,True,placed on IL with sore knee
 2025-02-09,Thunder,1629652,Luguentz Dort,True,False,activated from IL
 2025-02-10,76ers,200768,Kyle Lowry,False,True,right hip injury (DTD)
 2025-02-10,Blazers,203924,Jerami Grant,False,True,sore right knee (DTD)
@@ -1862,7 +1864,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-10,Celtics,1627759,Jaylen Brown,False,True,right knee injury (DTD)
 2025-02-10,Heat,1631170,Jaime Jaquez Jr.,False,True,illness (DTD)
 2025-02-10,Heat,1629639,Tyler Herro,False,True,illness (DTD)
-2025-02-10,Hornets,1631209,Isaiah Wong,False,True,foot injury (DTD)
+2025-02-10,Hornets,1631209,Isaiah Wong,False,True,placed on IL with foot injury
 2025-02-10,Hornets,1630182,Josh Green,True,False,activated from IL
 2025-02-10,Hornets,1630163,LaMelo Ball,True,False,activated from IL
 2025-02-10,Hornets,1641733,Nick Smith Jr.,True,False,returned to lineup
@@ -1875,3 +1877,16 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-10,Suns,201142,Kevin Durant,True,False,activated from IL
 2025-02-10,Timberwolves,1630162,Anthony Edwards,True,False,activated from IL
 2025-02-10,Wizards,1642273,Kyshawn George,True,False,returned to lineup
+2025-02-11,76ers,201569,Eric Gordon,False,True,wrist injury (DTD)
+2025-02-11,Blazers,1629028,Deandre Ayton,False,True,calf injury (DTD)
+2025-02-11,Blazers,1630703,Scoot Henderson,False,True,sprained right ankle (DTD)
+2025-02-11,Hawks,1626204,Larry Nance Jr.,False,True,knee injury (DTD)
+2025-02-11,Hawks,1630249,Vit Krejci,False,True,back injury (DTD)
+2025-02-11,Heat,201567,Kevin Love,False,True,personal reasons (DTD)
+2025-02-11,Hornets,1630163,LaMelo Ball,False,True,ankle injury (DTD)
+2025-02-11,Hornets,1631209,Isaiah Wong,True,False,activated from IL
+2025-02-11,Mavericks,1629655,Daniel Gafford,False,True,sprained right knee (DTD)
+2025-02-11,Nets,1641721,Maxwell Lewis,True,False,activated from IL
+2025-02-11,Rockets,203500,Steven Adams,True,False,returned to lineup
+2025-02-11,Suns,1628960,Grayson Allen,True,False,activated from IL
+2025-02-11,Thunder,1630198,Isaiah Joe,True,False,activated from IL
