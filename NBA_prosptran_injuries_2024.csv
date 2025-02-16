@@ -1882,6 +1882,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-10,Suns,201142,Kevin Durant,True,False,activated from IL
 2025-02-10,Timberwolves,1630162,Anthony Edwards,True,False,activated from IL
 2025-02-10,Wizards,1642273,Kyshawn George,True,False,returned to lineup
+2025-02-11,Mavericks,1629655,Daniel Gafford,False,True,sprained right knee (DTD)
 2025-02-11,76ers,201569,Eric Gordon,False,True,wrist injury (DTD)
 2025-02-11,Blazers,1629028,Deandre Ayton,False,True,strained left calf (out indefinitely)
 2025-02-11,Blazers,1630703,Scoot Henderson,False,True,sprained right ankle (DTD)
@@ -1890,7 +1891,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-11,Heat,201567,Kevin Love,False,True,personal reasons (DTD)
 2025-02-11,Hornets,1630163,LaMelo Ball,False,True,ankle injury (DTD)
 2025-02-11,Hornets,1631209,Isaiah Wong,True,False,activated from IL
-2025-02-11,Mavericks,1629655,Daniel Gafford,False,True,sprained right knee (DTD)
+2025-02-11,Mavericks,1629655,Daniel Gafford,False,True,sprained MCL in right knee (out indefinitely)
 2025-02-11,Nets,1641721,Maxwell Lewis,True,False,activated from IL
 2025-02-11,Rockets,203500,Steven Adams,True,False,returned to lineup
 2025-02-11,Suns,1628960,Grayson Allen,True,False,activated from IL
@@ -1926,3 +1927,15 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-12,Suns,1628960,Grayson Allen,False,True,knee injury (DTD)
 2025-02-12,Suns,203995,Vasilije Micic,True,False,activated from IL
 2025-02-12,Wizards,1642259,Alex Sarr,True,False,activated from IL
+2025-02-13,Clippers,1629599,Amir Coffey,False,True,knee injury (DTD)
+2025-02-13,Clippers,1629234,Drew Eubanks,False,True,ankle injury (DTD)
+2025-02-13,Heat,203952,Andrew Wiggins,False,True,illness (DTD)
+2025-02-13,Heat,1628389,Bam Adebayo,False,True,bruised left knee (DTD)
+2025-02-13,Heat,1629130,Duncan Robinson,True,False,returned to lineup
+2025-02-13,Jazz,1631117,Walker Kessler,False,True,sprained thumb (DTD)
+2025-02-13,Mavericks,202691,Klay Thompson,False,True,sprained left foot (DTD)
+2025-02-13,Mavericks,202681,Kyrie Irving,False,True,shoulder injury (DTD)
+2025-02-13,Mavericks,203957,Dante Exum,True,False,returned to lineup
+2025-02-13,Thunder,1627936,Alex Caruso,False,True,hip injury (DTD)
+2025-02-13,Timberwolves,203497,Rudy Gobert,False,True,back injury (DTD)
+2025-02-13,Warriors,1627780,Gary Payton II,False,True,foot injury (DTD)
