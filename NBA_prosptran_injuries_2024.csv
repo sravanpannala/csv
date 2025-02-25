@@ -1975,6 +1975,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-19,Suns,1626164,Devin Booker,True,False,activated from IL
 2025-02-19,Suns,1628960,Grayson Allen,True,False,activated from IL
 2025-02-19,Wizards,1627763,Malcolm Brogdon,False,True,left leg injury (DTD)
+2025-02-20,Hornets,1630163,LaMelo Ball,False,True,ankle injury (DTD)
+2025-02-21,Grizzlies,1631246,Vince Williams Jr.,False,True,sore left knee (DTD)
 2025-02-20,Blazers,1630703,Scoot Henderson,True,False,returned to lineup
 2025-02-20,Bucks,203081,Damian Lillard,True,False,activated from IL
 2025-02-20,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
@@ -1985,7 +1987,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-20,Heat,1628389,Bam Adebayo,True,False,returned to lineup
 2025-02-20,Heat,1626179,Terry Rozier,True,False,returned to lineup
 2025-02-20,Hornets,1629610,DaQuan Jeffries,False,True,knee injury (DTD)
-2025-02-20,Hornets,1630163,LaMelo Ball,False,True,ankle injury (DTD)
+2025-02-20,Hornets,1630163,LaMelo Ball,False,True,placed on IL with ankle injury
 2025-02-20,Jazz,1631117,Walker Kessler,True,False,returned to lineup
 2025-02-20,Mavericks,202691,Klay Thompson,True,False,returned to lineup
 2025-02-20,Mavericks,202681,Kyrie Irving,True,False,returned to lineup
@@ -1998,7 +2000,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-21,Bucks,1627752,Taurean Prince,False,True,sprained left ankle (DTD)
 2025-02-21,Bulls,1630188,Jalen Smith,False,True,concussion (out indefinitely)
 2025-02-21,Cavaliers,1629731,Dean Wade,True,False,activated from IL
-2025-02-21,Grizzlies,1631246,Vince Williams Jr.,False,True,sore left knee (DTD)
+2025-02-21,Grizzlies,1631246,Vince Williams Jr.,False,True,placed on IL with sore left knee
 2025-02-21,Jazz,239,K.J. Martin,True,False,activated from IL
 2025-02-21,Knicks,1628384,O.G. Anunoby,True,False,activated from IL
 2025-02-21,Magic,1628371,Jonathan Isaac,False,True,illness (DTD)
@@ -2008,3 +2010,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-21,Timberwolves,201144,Mike Conley Jr.,True,False,activated from IL
 2025-02-21,Warriors,1627780,Gary Payton II,True,False,returned to lineup
 2025-02-21,Wizards,1630264,Anthony Gill,True,False,activated from IL
+2025-02-22,Blazers,1629057,Robert Williams III,False,True,knee injury (DTD)
+2025-02-22,Bucks,1626192,Pat Connaughton,False,True,strained right calf (DTD)
+2025-02-22,Bulls,1630245,Ayo Dosunmu,False,True,shoulder injury (DTD)
+2025-02-22,Grizzlies,1631246,Vince Williams Jr.,True,False,activated from IL
+2025-02-22,Hornets,1630163,LaMelo Ball,True,False,activated from IL
+2025-02-22,Jazz,1628381,John Collins (Martin),False,True,back injury (DTD)
+2025-02-22,Rockets,1630256,Jae'Sean Tate,False,True,back spasms (DTD)
+2025-02-22,Rockets,203500,Steven Adams,False,True,sore left ankle (DTD)
+2025-02-22,Suns,1628998,Cody Martin,False,True,sports hernia (out indefinitely)
+2025-02-22,Wizards,203114,Khris Middleton,False,True,ankle injury (DTD)
