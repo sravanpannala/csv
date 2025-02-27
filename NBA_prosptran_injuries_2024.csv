@@ -2011,6 +2011,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-21,Timberwolves,201144,Mike Conley Jr.,True,False,activated from IL
 2025-02-21,Warriors,1627780,Gary Payton II,True,False,returned to lineup
 2025-02-21,Wizards,1630264,Anthony Gill,True,False,activated from IL
+2025-02-22,Rockets,203500,Steven Adams,False,True,sore left ankle (DTD)
+2025-02-22,Wizards,203114,Khris Middleton,False,True,ankle injury (DTD)
 2025-02-22,Blazers,1629057,Robert Williams III,False,True,knee injury (DTD)
 2025-02-22,Bucks,1626192,Pat Connaughton,False,True,strained right calf (DTD)
 2025-02-22,Bulls,1630245,Ayo Dosunmu,False,True,shoulder injury (DTD)
@@ -2018,9 +2020,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-22,Hornets,1630163,LaMelo Ball,True,False,activated from IL
 2025-02-22,Jazz,1628381,John Collins (Martin),False,True,back injury (DTD)
 2025-02-22,Rockets,1630256,Jae'Sean Tate,False,True,back spasms (DTD)
-2025-02-22,Rockets,203500,Steven Adams,False,True,sore left ankle (DTD)
+2025-02-22,Rockets,203500,Steven Adams,False,True,placed on IL with sore left ankle
 2025-02-22,Suns,1628998,Cody Martin,False,True,sports hernia (out indefinitely)
-2025-02-22,Wizards,203114,Khris Middleton,False,True,ankle injury (DTD)
+2025-02-22,Wizards,203114,Khris Middleton,False,True,placed on IL with ankle injury
+2025-02-22,Wizards,203935,Marcus Smart,False,True,finger injury (DTD)
 2025-02-23,Bucks,1627752,Taurean Prince,True,False,activated from IL
 2025-02-23,Cavaliers,1629636,Darius Garland,False,True,bruised left hip (DTD)
 2025-02-23,Clippers,1627732,Ben Simmons,False,True,left knee injury (DTD)
@@ -2032,3 +2035,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-23,Suns,1628420,Monte Morris,False,True,back injury (DTD)
 2025-02-23,Warriors,1631218,Trayce Jackson-Davis,False,True,illness (DTD)
 2025-02-23,Wizards,1642259,Alex Sarr,False,True,ankle injury (DTD)
+2025-02-24,76ers,203954,Joel Embiid,False,True,knee injury (DTD)
+2025-02-24,Bulls,202696,Nikola Vucevic,False,True,tightness in right calf (DTD)
+2025-02-24,Celtics,1628436,Luke Kornet,False,True,personal reasons (DTD)
+2025-02-24,Jazz,1628374,Lauri Markkanen,False,True,back injury (DTD)
+2025-02-24,Jazz,1631117,Walker Kessler,False,True,illness (DTD)
+2025-02-24,Pacers,204456,T.J. McConnell,False,True,ankle injury (DTD)
+2025-02-24,Pistons,1631323,Simone Fontecchio,False,True,dislocated right finger (DTD)
+2025-02-24,Rockets,203500,Steven Adams,True,False,activated from IL
+2025-02-24,Spurs,1629646,Charles Bassey,False,True,bruised left knee (DTD)
+2025-02-24,Wizards,203114,Khris Middleton,True,False,activated from IL
+2025-02-24,Wizards,203935,Marcus Smart,True,False,returned to lineup
