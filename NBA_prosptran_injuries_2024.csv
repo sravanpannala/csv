@@ -2024,12 +2024,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-22,Suns,1628998,Cody Martin,False,True,sports hernia (out indefinitely)
 2025-02-22,Wizards,203114,Khris Middleton,False,True,placed on IL with ankle injury
 2025-02-22,Wizards,203935,Marcus Smart,False,True,finger injury (DTD)
+2025-02-23,Clippers,202695,Kawhi Leonard,False,True,foot injury (DTD)
+2025-02-23,Hornets,1631109,Mark Williams,False,True,left foot injury (DTD)
 2025-02-23,Bucks,1627752,Taurean Prince,True,False,activated from IL
 2025-02-23,Cavaliers,1629636,Darius Garland,False,True,bruised left hip (DTD)
 2025-02-23,Clippers,1627732,Ben Simmons,False,True,left knee injury (DTD)
-2025-02-23,Clippers,202695,Kawhi Leonard,False,True,foot injury (DTD)
+2025-02-23,Clippers,202695,Kawhi Leonard,False,True,placed on IL with foot injury
 2025-02-23,Heat,1631107,Nikola Jovic,False,True,fractured right hand (out indefinitely)
-2025-02-23,Hornets,1631109,Mark Williams,False,True,left foot injury (DTD)
+2025-02-23,Hornets,1631109,Mark Williams,False,True,placed on IL with left foot injury
 2025-02-23,Knicks,1628404,Josh Hart,True,False,activated from IL
 2025-02-23,Magic,1628371,Jonathan Isaac,True,False,returned to lineup
 2025-02-23,Suns,1628420,Monte Morris,False,True,back injury (DTD)
@@ -2046,3 +2048,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-24,Spurs,1629646,Charles Bassey,False,True,bruised left knee (DTD)
 2025-02-24,Wizards,203114,Khris Middleton,True,False,activated from IL
 2025-02-24,Wizards,203935,Marcus Smart,True,False,returned to lineup
+2025-02-25,76ers,1627824,Guerschon Yabusele,False,True,eye injury (DTD)
+2025-02-25,76ers,1642348,Justin Edwards,True,False,activated from IL
+2025-02-25,Celtics,201143,Al Horford,False,True,toe injury (DTD)
+2025-02-25,Celtics,204001,Kristaps Porzingis,False,True,illness (DTD)
+2025-02-25,Celtics,1630214,Xavier Tillman,True,False,activated from IL
+2025-02-25,Clippers,1627732,Ben Simmons,True,False,returned to lineup
+2025-02-25,Clippers,202695,Kawhi Leonard,True,False,activated from IL
+2025-02-25,Grizzlies,1642389,Zyon Pullin,False,True,knee injury (DTD)
+2025-02-25,Heat,201567,Kevin Love,True,False,returned to lineup
+2025-02-25,Hornets,1630163,LaMelo Ball,False,True,ankle injury (DTD)
+2025-02-25,Hornets,1642275,Tidjane Salaun,False,True,sprained right ankle (DTD)
+2025-02-25,Hornets,1631109,Mark Williams,True,False,activated from IL
+2025-02-25,Mavericks,203939,Dwight Powell,True,False,activated from IL
+2025-02-25,Rockets,1630256,Jae'Sean Tate,True,False,returned to lineup
+2025-02-26,76ers,201569,Eric Gordon,False,True,surgery on right wrist (out indefinitely)
