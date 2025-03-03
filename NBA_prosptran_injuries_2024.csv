@@ -2077,6 +2077,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-26,Raptors,202066,Garrett Temple,False,True,personal reasons (DTD)
 2025-02-26,Raptors,1630567,Scottie Barnes,False,True,hip injury (DTD)
 2025-02-26,Raptors,1627751,Jakob Poeltl,True,False,activated from IL
+2025-02-28,Grizzlies,1641713,G.G. Jackson,False,True,eye injury (DTD)
 2025-02-27,Cavaliers,1629636,Darius Garland,True,False,activated from IL
 2025-02-27,Hornets,203994,Jusuf Nurkic,False,True,illness (DTD)
 2025-02-27,Hornets,1631111,Wendell Moore Jr.,False,True,concussion protocol (out indefinitely)
@@ -2098,7 +2099,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-28,Celtics,204001,Kristaps Porzingis,False,True,illness (DTD)
 2025-02-28,Celtics,1627759,Jaylen Brown,True,False,activated from IL
 2025-02-28,Celtics,1628436,Luke Kornet,True,False,activated from IL
-2025-02-28,Grizzlies,1641713,G.G. Jackson,False,True,eye injury (DTD)
+2025-02-28,Grizzlies,1641713,G.G. Jackson,False,True,placed on IL with eye injury
 2025-02-28,Heat,203952,Andrew Wiggins,False,True,ankle injury (DTD)
 2025-02-28,Jazz,1629012,Collin Sexton,True,False,activated from IL
 2025-02-28,Jazz,1628381,John Collins (Martin),True,False,activated from IL
@@ -2117,3 +2118,25 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-02-28,Suns,1628960,Grayson Allen,False,True,foot injury (DTD)
 2025-02-28,Thunder,1631172,Ousmane Dieng,False,True,wrist injury (DTD)
 2025-02-28,Wizards,1629673,Jordan Poole,False,True,hyperextended right elbow (DTD)
+2025-03-01,Bulls,1630245,Ayo Dosunmu,False,True,left shoulder subluxation
+2025-03-01,Clippers,1627884,Derrick Jones Jr.,False,True,groin injury (DTD)
+2025-03-01,Grizzlies,1629634,Brandon Clarke,False,True,mouth injury (DTD)
+2025-03-01,Grizzlies,1630217,Desmond Bane,False,True,hip injury (DTD)
+2025-03-01,Grizzlies,1629630,Ja Morant,False,True,shoulder injury (DTD)
+2025-03-01,Grizzlies,1631246,Vince Williams Jr.,False,True,knee injury (DTD)
+2025-03-01,Grizzlies,1641713,G.G. Jackson,True,False,activated from IL
+2025-03-01,Hornets,203552,Seth Curry,False,True,back injury (DTD)
+2025-03-01,Hornets,1630163,LaMelo Ball,True,False,activated from IL
+2025-03-01,Hornets,1642275,Tidjane Salaun,True,False,activated from IL
+2025-03-01,Jazz,1629012,Collin Sexton,False,True,ankle injury (DTD)
+2025-03-01,Jazz,1628381,John Collins (Martin),False,True,back injury (DTD)
+2025-03-01,Jazz,203903,Jordan Clarkson,False,True,foot injury (DTD)
+2025-03-01,Mavericks,1629023,P.J. Washington,True,False,returned to lineup
+2025-03-01,Nets,1630560,Cam Thomas,False,True,left hamstring injury (DTD)
+2025-03-01,Nets,1630570,Trendon Watford,False,True,left hamstring injury (DTD)
+2025-03-01,Pelicans,203468,C.J. McCollum,True,False,returned to lineup
+2025-03-01,Raptors,1630534,Ochai Agbaji,False,True,anl
+2025-03-01,Thunder,1631096,Chet Holmgren,False,True,ankle injury (DTD)
+2025-03-01,Thunder,1630198,Isaiah Joe,False,True,back injury (DTD)
+2025-03-01,Warriors,202710,Jimmy Butler,False,True,back injury (DTD)
+2025-03-01,Wizards,1642259,Alex Sarr,True,False,activated from IL
