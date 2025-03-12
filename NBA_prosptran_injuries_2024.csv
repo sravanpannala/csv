@@ -2224,18 +2224,28 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-04,Thunder,1627936,Alex Caruso,False,True,placed on IL with sprained left ankle
 2025-03-04,Warriors,1627780,Gary Payton II,False,True,nasal injury (DTD)
 2025-03-05,Bucks,1629018,Gary Trent Jr.,False,True,sore right knee (DTD)
+2025-03-05,Hornets,1630182,Josh Green,False,True,illness (DTD)
+2025-03-06,Celtics,201143,Al Horford,False,True,sprained left big toe (DTD)
+2025-03-06,Celtics,1627759,Jaylen Brown,False,True,right knee injury (DTD)
+2025-03-06,Hornets,1631109,Mark Williams,False,True,left foot injury (DTD)
+2025-03-06,Thunder,1628392,Isaiah Hartenstein,False,True,nasal fracture (DTD)
+2025-03-06,Thunder,1629652,Luguentz Dort,False,True,knee injury (DTD)
+2025-03-05,Bucks,1629018,Gary Trent Jr.,False,True,placed on IL with hyperextended right knee
 2025-03-05,Bucks,1631157,Ryan Rollins,False,True,personal reasons (DTD)
 2025-03-05,Celtics,1628369,Jayson Tatum,False,True,placed on IL with shoulder injury
 2025-03-05,Grizzlies,1629630,Ja Morant,True,False,activated from IL
+2025-03-05,Heat,203952,Andrew Wiggins,False,True,placed on IL with ankle injury
+2025-03-05,Heat,1631170,Jaime Jaquez Jr.,False,True,placed on IL with ankle injury
 2025-03-05,Heat,1629639,Tyler Herro,False,True,illness (DTD)
 2025-03-05,Heat,1630558,Davion Mitchell,True,False,returned to lineup
-2025-03-05,Hornets,1630182,Josh Green,False,True,illness (DTD)
+2025-03-05,Hornets,1630182,Josh Green,False,True,placed on IL with illness
 2025-03-05,Jazz,1630531,Jaden Springer,False,True,back injury (DTD)
 2025-03-05,Jazz,1641718,Keyonte George,False,True,illness (DTD)
 2025-03-05,Kings,1628370,Malik Monk,False,True,sore right toe (DTD)
 2025-03-05,Mavericks,1630539,Kai Jones,False,True,strained left quadriceps (DTD)
 2025-03-05,Nuggets,1631212,Peyton Watson,True,False,activated from IL
 2025-03-05,Nuggets,1628427,Vlatko Cancar,True,False,activated from IL
+2025-03-05,Pistons,202699,Tobias Harris,False,True,placed on IL for personal reasons
 2025-03-05,Pistons,1630191,Isaiah Stewart,True,False,returned to lineup
 2025-03-05,Thunder,1631096,Chet Holmgren,False,True,bruised right lower leg (DTD)
 2025-03-05,Thunder,1630198,Isaiah Joe,True,False,activated from IL
@@ -2245,12 +2255,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-06,Blazers,1630625,Dalano Banton,False,True,personal reasons (DTD)
 2025-03-06,Bulls,1630581,Josh Giddey,True,False,activated from IL
 2025-03-06,Bulls,1628989,Kevin Huerter,True,False,activated from IL
-2025-03-06,Celtics,201143,Al Horford,False,True,sprained left big toe (DTD)
-2025-03-06,Celtics,1627759,Jaylen Brown,False,True,right knee injury (DTD)
+2025-03-06,Celtics,201143,Al Horford,False,True,placed on IL with sprained left big toe
+2025-03-06,Celtics,1627759,Jaylen Brown,False,True,placed on IL with right knee injury
 2025-03-06,Celtics,1630573,Sam Hauser,False,True,ankle injury (DTD)
 2025-03-06,Celtics,1628369,Jayson Tatum,True,False,activated from IL
 2025-03-06,Clippers,1627884,Derrick Jones Jr.,True,False,activated from IL
-2025-03-06,Hornets,1631109,Mark Williams,False,True,left foot injury (DTD)
+2025-03-06,Hornets,1631109,Mark Williams,False,True,placed on IL with left foot injury
 2025-03-06,Jazz,1629012,Collin Sexton,True,False,returned to lineup
 2025-03-06,Knicks,1630173,Precious Achiuwa,False,True,hamstring injury (DTD)
 2025-03-06,Lakers,1630559,Austin Reaves,True,False,activated from IL
@@ -2263,7 +2273,71 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-06,Raptors,1642419,Jamison Battle,True,False,activated from IL
 2025-03-06,Suns,1628420,Monte Morris,False,True,back injury (DTD)
 2025-03-06,Thunder,1641717,Cason Wallace,False,True,bruised knee (DTD)
-2025-03-06,Thunder,1628392,Isaiah Hartenstein,False,True,nasal fracture (DTD)
+2025-03-06,Thunder,1628392,Isaiah Hartenstein,False,True,placed on IL with nasal fracture
 2025-03-06,Thunder,1631114,Jalen Williams,False,True,wrist injury (DTD)
-2025-03-06,Thunder,1629652,Luguentz Dort,False,True,knee injury (DTD)
+2025-03-06,Thunder,1629652,Luguentz Dort,False,True,placed on IL with knee injury
 2025-03-06,Thunder,1627936,Alex Caruso,True,False,activated from IL
+2025-03-07,Blazers,1630166,Deni Avdija,False,True,quadriceps injury (DTD)
+2025-03-07,Blazers,203924,Jerami Grant,True,False,returned to lineup
+2025-03-07,Celtics,201143,Al Horford,True,False,activated from IL
+2025-03-07,Celtics,1627759,Jaylen Brown,True,False,activated from IL
+2025-03-07,Grizzlies,1630583,Santi Aldama,True,False,activated from IL
+2025-03-07,Heat,202692,Alec Burks,False,True,back injury (DTD)
+2025-03-07,Heat,1631170,Jaime Jaquez Jr.,True,False,activated from IL
+2025-03-07,Heat,1629639,Tyler Herro,True,False,returned to lineup
+2025-03-07,Hornets,1630182,Josh Green,True,False,activated from IL
+2025-03-07,Jazz,1641718,Keyonte George,True,False,returned to lineup
+2025-03-07,Knicks,1628973,Jalen Brunson,False,True,sprained right ankle (out indefinitely)
+2025-03-07,Knicks,1629011,Mitchell Robinson,False,True,ankle injury (DTD)
+2025-03-07,Knicks,1630173,Precious Achiuwa,True,False,returned to lineup
+2025-03-07,Lakers,1630692,Jordan Goodwin,True,False,activated from IL
+2025-03-07,Magic,1628371,Jonathan Isaac,True,False,returned to lineup
+2025-03-07,Mavericks,1641765,Olivier-Maxence Prosper,False,True,surgery on wrist to repair ligament damage (out for season) (date approximate)
+2025-03-07,Mavericks,1628997,Caleb Martin,True,False,activated from IL
+2025-03-07,Mavericks,203957,Dante Exum,True,False,returned to lineup
+2025-03-07,Nets,1629661,Cameron Johnson,False,True,placed on IL with knee injury
+2025-03-07,Nets,1641730,Noah Clowney,True,False,activated from IL
+2025-03-07,Pelicans,1630527,B.J. Boston Jr.,False,True,ankle injury (out indefinitely)
+2025-03-07,Raptors,1628449,Chris Boucher,False,True,placed on IL with dental surgery
+2025-03-07,Rockets,1642263,Reed Sheppard,False,True,fractured right thumb (out indefinitely)
+2025-03-08,76ers,202331,Paul George,False,True,groin injury (DTD)
+2025-03-08,Celtics,201950,Jrue Holiday,True,False,activated from IL
+2025-03-08,Celtics,1630573,Sam Hauser,True,False,returned to lineup
+2025-03-08,Grizzlies,1630583,Santi Aldama,False,True,calf injury (DTD)
+2025-03-08,Heat,203952,Andrew Wiggins,True,False,activated from IL
+2025-03-08,Heat,1642276,Kel'el Ware,True,False,activated from IL
+2025-03-08,Hornets,203994,Jusuf Nurkic,False,True,sore neck (DTD)
+2025-03-08,Hornets,1630163,LaMelo Ball,False,True,placed on IL with ankle injury
+2025-03-08,Jazz,1629012,Collin Sexton,False,True,ankle injury (DTD)
+2025-03-08,Lakers,1629637,Jaxson Hayes,False,True,knee injury (DTD)
+2025-03-08,Lakers,202693,Markieff Morris,True,False,activated from IL
+2025-03-08,Mavericks,1628997,Caleb Martin,False,True,hip injury (DTD)
+2025-03-08,Pacers,1631097,Bennedict Mathurin,True,False,activated from IL
+2025-03-08,Pistons,202699,Tobias Harris,True,False,activated from IL
+2025-03-08,Raptors,1642266,Ja'Kobe Walter,False,True,quadriceps injury (DTD)
+2025-03-08,Raptors,1628449,Chris Boucher,True,False,activated from IL
+2025-03-08,Thunder,1641717,Cason Wallace,True,False,returned to lineup
+2025-03-08,Thunder,1631096,Chet Holmgren,True,False,returned to lineup
+2025-03-08,Thunder,1628392,Isaiah Hartenstein,True,False,activated from IL
+2025-03-08,Thunder,1631114,Jalen Williams,True,False,returned to lineup
+2025-03-08,Thunder,1629652,Luguentz Dort,True,False,activated from IL
+2025-03-08,Warriors,1641764,Brandin Podziemski,False,True,back injury (DTD)
+2025-03-08,Wizards,1641732,Colby Jones,False,True,Achilles injury (DTD)
+2025-03-08,Wizards,1629673,Jordan Poole,True,False,activated from IL
+2025-03-08,Wizards,1626158,Richaun Holmes,True,False,returned to lineup
+2025-03-09,Bucks,1629018,Gary Trent Jr.,True,False,activated from IL
+2025-03-09,Clippers,1627732,Ben Simmons,False,True,left knee injury (out indefinitely)
+2025-03-09,Grizzlies,1628379,Luke Kennard,False,True,back injury (DTD)
+2025-03-09,Hornets,1630163,LaMelo Ball,True,False,activated from IL
+2025-03-09,Hornets,1631109,Mark Williams,True,False,activated from IL
+2025-03-09,Jazz,1631131,Oscar Tshiebwe,False,True,illness (DTD)
+2025-03-09,Kings,203109,Jae Crowder,False,True,sore lower back (DTD)
+2025-03-09,Knicks,1629011,Mitchell Robinson,True,False,returned to lineup
+2025-03-09,Lakers,2544,LeBron James,False,True,strained groin (out indefinitely)
+2025-03-09,Mavericks,1628997,Caleb Martin,True,False,returned to lineup
+2025-03-09,Nets,1630560,Cam Thomas,False,True,hamstring injury (DTD)
+2025-03-09,Nets,1630570,Trendon Watford,False,True,hamstring injury (DTD)
+2025-03-09,Nets,1629661,Cameron Johnson,True,False,activated from IL
+2025-03-09,Rockets,1641708,Amen Thompson,False,True,ankle injury (DTD)
+2025-03-09,Timberwolves,203497,Rudy Gobert,True,False,activated from IL
+2025-03-09,Wizards,1626158,Richaun Holmes,False,True,knee injury (DTD)
