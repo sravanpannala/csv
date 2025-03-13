@@ -2300,15 +2300,17 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-07,Pelicans,1630527,B.J. Boston Jr.,False,True,ankle injury (out indefinitely)
 2025-03-07,Raptors,1628449,Chris Boucher,False,True,placed on IL with dental surgery
 2025-03-07,Rockets,1642263,Reed Sheppard,False,True,fractured right thumb (out indefinitely)
+2025-03-08,Hornets,203994,Jusuf Nurkic,False,True,sore neck (DTD)
+2025-03-08,Jazz,1629012,Collin Sexton,False,True,ankle injury (DTD)
 2025-03-08,76ers,202331,Paul George,False,True,groin injury (DTD)
 2025-03-08,Celtics,201950,Jrue Holiday,True,False,activated from IL
 2025-03-08,Celtics,1630573,Sam Hauser,True,False,returned to lineup
 2025-03-08,Grizzlies,1630583,Santi Aldama,False,True,calf injury (DTD)
 2025-03-08,Heat,203952,Andrew Wiggins,True,False,activated from IL
 2025-03-08,Heat,1642276,Kel'el Ware,True,False,activated from IL
-2025-03-08,Hornets,203994,Jusuf Nurkic,False,True,sore neck (DTD)
+2025-03-08,Hornets,203994,Jusuf Nurkic,False,True,placed on IL with sore neck
 2025-03-08,Hornets,1630163,LaMelo Ball,False,True,placed on IL with ankle injury
-2025-03-08,Jazz,1629012,Collin Sexton,False,True,ankle injury (DTD)
+2025-03-08,Jazz,1629012,Collin Sexton,False,True,placed on IL with ankle injury
 2025-03-08,Lakers,1629637,Jaxson Hayes,False,True,knee injury (DTD)
 2025-03-08,Lakers,202693,Markieff Morris,True,False,activated from IL
 2025-03-08,Mavericks,1628997,Caleb Martin,False,True,hip injury (DTD)
@@ -2341,3 +2343,28 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-09,Rockets,1641708,Amen Thompson,False,True,ankle injury (DTD)
 2025-03-09,Timberwolves,203497,Rudy Gobert,True,False,activated from IL
 2025-03-09,Wizards,1626158,Richaun Holmes,False,True,knee injury (DTD)
+2025-03-10,76ers,203083,Andre Drummond,False,True,illness (DTD)
+2025-03-10,76ers,1626162,Kelly Oubre Jr.,False,True,ankle injury (DTD)
+2025-03-10,Blazers,203924,Jerami Grant,False,True,knee injury (DTD)
+2025-03-10,Blazers,1630166,Deni Avdija,True,False,returned to lineup
+2025-03-10,Bulls,202696,Nikola Vucevic,True,False,activated from IL
+2025-03-10,Bulls,1630172,Patrick Williams,True,False,activated from IL
+2025-03-10,Celtics,1628369,Jayson Tatum,False,True,knee injury (DTD)
+2025-03-10,Grizzlies,1629634,Brandon Clarke,False,True,knee injury (DTD)
+2025-03-10,Grizzlies,1631246,Vince Williams Jr.,False,True,foot injury (DTD)
+2025-03-10,Grizzlies,1641744,Zach Edey,False,True,ankle injury (DTD)
+2025-03-10,Grizzlies,1642530,Yuki Kawamura,True,False,activated from IL
+2025-03-10,Hawks,1627747,Caris LeVert,False,True,sprained left middle finger (DTD)
+2025-03-10,Hawks,1629027,Trae Young,False,True,quadriceps injury (DTD)
+2025-03-10,Hawks,1630249,Vit Krejci,True,False,activated from IL
+2025-03-10,Hornets,203994,Jusuf Nurkic,True,False,activated from IL
+2025-03-10,Jazz,1641718,Keyonte George,False,True,foot injury (DTD)
+2025-03-10,Jazz,1629012,Collin Sexton,True,False,activated from IL
+2025-03-10,Jazz,1630531,Jaden Springer,True,False,returned to lineup
+2025-03-10,Jazz,1628381,John Collins (Martin),True,False,activated from IL
+2025-03-10,Kings,1631222,Jake LaRavia,False,True,knee injury (DTD)
+2025-03-10,Kings,1628370,Malik Monk,True,False,activated from IL
+2025-03-10,Mavericks,1585,Brandon Williams (b. 1975-02-27),False,True,hamstring injury (DTD)
+2025-03-10,Nuggets,203932,Aaron Gordon,False,True,calf injury (DTD)
+2025-03-10,Spurs,1631110,Jeremy Sochan,False,True,bruised left calf (DTD)
+2025-03-10,Suns,203078,Bradley Beal,False,True,calf injury (DTD)
