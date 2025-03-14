@@ -2327,9 +2327,13 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-08,Wizards,1641732,Colby Jones,False,True,Achilles injury (DTD)
 2025-03-08,Wizards,1629673,Jordan Poole,True,False,activated from IL
 2025-03-08,Wizards,1626158,Richaun Holmes,True,False,returned to lineup
+2025-03-09,Grizzlies,1628379,Luke Kennard,False,True,back injury (DTD)
+2025-03-09,Nets,1630560,Cam Thomas,False,True,hamstring injury (DTD)
+2025-03-09,Wizards,1626158,Richaun Holmes,False,True,knee injury (DTD)
+2025-03-10,Grizzlies,1631246,Vince Williams Jr.,False,True,foot injury (DTD)
 2025-03-09,Bucks,1629018,Gary Trent Jr.,True,False,activated from IL
 2025-03-09,Clippers,1627732,Ben Simmons,False,True,left knee injury (out indefinitely)
-2025-03-09,Grizzlies,1628379,Luke Kennard,False,True,back injury (DTD)
+2025-03-09,Grizzlies,1628379,Luke Kennard,False,True,placed on IL with back injury
 2025-03-09,Hornets,1630163,LaMelo Ball,True,False,activated from IL
 2025-03-09,Hornets,1631109,Mark Williams,True,False,activated from IL
 2025-03-09,Jazz,1631131,Oscar Tshiebwe,False,True,illness (DTD)
@@ -2337,12 +2341,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-09,Knicks,1629011,Mitchell Robinson,True,False,returned to lineup
 2025-03-09,Lakers,2544,LeBron James,False,True,strained groin (out indefinitely)
 2025-03-09,Mavericks,1628997,Caleb Martin,True,False,returned to lineup
-2025-03-09,Nets,1630560,Cam Thomas,False,True,hamstring injury (DTD)
+2025-03-09,Nets,1630560,Cam Thomas,False,True,placed on IL with hamstring injury
 2025-03-09,Nets,1630570,Trendon Watford,False,True,hamstring injury (DTD)
 2025-03-09,Nets,1629661,Cameron Johnson,True,False,activated from IL
 2025-03-09,Rockets,1641708,Amen Thompson,False,True,ankle injury (DTD)
 2025-03-09,Timberwolves,203497,Rudy Gobert,True,False,activated from IL
-2025-03-09,Wizards,1626158,Richaun Holmes,False,True,knee injury (DTD)
+2025-03-09,Wizards,1626158,Richaun Holmes,False,True,placed on IL with knee injury
 2025-03-10,76ers,203083,Andre Drummond,False,True,illness (DTD)
 2025-03-10,76ers,1626162,Kelly Oubre Jr.,False,True,ankle injury (DTD)
 2025-03-10,Blazers,203924,Jerami Grant,False,True,knee injury (DTD)
@@ -2351,7 +2355,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-10,Bulls,1630172,Patrick Williams,True,False,activated from IL
 2025-03-10,Celtics,1628369,Jayson Tatum,False,True,knee injury (DTD)
 2025-03-10,Grizzlies,1629634,Brandon Clarke,False,True,knee injury (DTD)
-2025-03-10,Grizzlies,1631246,Vince Williams Jr.,False,True,foot injury (DTD)
+2025-03-10,Grizzlies,1631246,Vince Williams Jr.,False,True,placed on IL with foot injury
 2025-03-10,Grizzlies,1641744,Zach Edey,False,True,ankle injury (DTD)
 2025-03-10,Grizzlies,1642530,Yuki Kawamura,True,False,activated from IL
 2025-03-10,Hawks,1627747,Caris LeVert,False,True,sprained left middle finger (DTD)
@@ -2368,3 +2372,23 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-10,Nuggets,203932,Aaron Gordon,False,True,calf injury (DTD)
 2025-03-10,Spurs,1631110,Jeremy Sochan,False,True,bruised left calf (DTD)
 2025-03-10,Suns,203078,Bradley Beal,False,True,calf injury (DTD)
+2025-03-11,Bucks,1641890,Tyler Smith,False,True,back injury (DTD)
+2025-03-11,Bucks,1626192,Pat Connaughton,True,False,activated from IL
+2025-03-11,Bucks,1631250,Pete Nance,True,False,activated from IL
+2025-03-11,Cavaliers,1629631,De'Andre Hunter,False,True,illness (DTD)
+2025-03-11,Cavaliers,1628378,Donovan Mitchell,False,True,groin injury (DTD)
+2025-03-11,Clippers,1629234,Drew Eubanks,False,True,hip injury (DTD)
+2025-03-11,Grizzlies,1642389,Zyon Pullin,False,True,surgery on right knee (out indefinitely)
+2025-03-11,Grizzlies,1628379,Luke Kennard,True,False,activated from IL
+2025-03-11,Grizzlies,1631246,Vince Williams Jr.,True,False,activated from IL
+2025-03-11,Nets,1626156,D'Angelo Russell,False,True,ankle injury (DTD)
+2025-03-11,Nets,1630560,Cam Thomas,True,False,activated from IL
+2025-03-11,Nets,1630570,Trendon Watford,True,False,returned to lineup
+2025-03-11,Pacers,1630169,Tyrese Haliburton,True,False,activated from IL
+2025-03-11,Raptors,1629628,R.J. Barrett,False,True,personal reasons (DTD)
+2025-03-11,Rockets,1627832,Fred VanVleet,True,False,activated from IL
+2025-03-11,Thunder,1631114,Jalen Williams,False,True,hip injury (DTD)
+2025-03-11,Warriors,1630228,Jonathan Kuminga,True,False,activated from IL
+2025-03-11,Wizards,1641731,Bilal Coulibaly,False,True,bruised right hip (DTD)
+2025-03-11,Wizards,1641732,Colby Jones,True,False,activated from IL
+2025-03-11,Wizards,1626158,Richaun Holmes,True,False,activated from IL
