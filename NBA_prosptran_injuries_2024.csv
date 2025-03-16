@@ -2377,6 +2377,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-10,Nuggets,203932,Aaron Gordon,False,True,calf injury (DTD)
 2025-03-10,Spurs,1631110,Jeremy Sochan,False,True,placed on IL with bruised left calf
 2025-03-10,Suns,203078,Bradley Beal,False,True,calf injury (DTD)
+2025-03-11,Raptors,1629628,R.J. Barrett,False,True,personal reasons (DTD)
 2025-03-11,Bucks,1641890,Tyler Smith,False,True,back injury (DTD)
 2025-03-11,Bucks,1626192,Pat Connaughton,True,False,activated from IL
 2025-03-11,Bucks,1631250,Pete Nance,True,False,activated from IL
@@ -2390,7 +2391,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-11,Nets,1630560,Cam Thomas,True,False,activated from IL
 2025-03-11,Nets,1630570,Trendon Watford,True,False,returned to lineup
 2025-03-11,Pacers,1630169,Tyrese Haliburton,True,False,activated from IL
-2025-03-11,Raptors,1629628,R.J. Barrett,False,True,personal reasons (DTD)
+2025-03-11,Raptors,1629628,R.J. Barrett,False,True,placed on IL for personal reasons
 2025-03-11,Rockets,1627832,Fred VanVleet,True,False,activated from IL
 2025-03-11,Thunder,1631114,Jalen Williams,False,True,hip injury (out indefinitely)
 2025-03-11,Warriors,1630228,Jonathan Kuminga,True,False,activated from IL
@@ -2421,3 +2422,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-12,Suns,1628960,Grayson Allen,False,True,sore left foot (DTD)
 2025-03-12,Suns,1630208,Nick Richards,False,True,sore right ankle (DTD)
 2025-03-12,Thunder,1627936,Alex Caruso,False,True,illness (DTD)
+2025-03-13,76ers,1629022,Lonnie Walker IV,False,True,concussion (out indefinitely)
+2025-03-13,76ers,1627824,Guerschon Yabusele,True,False,returned to lineup
+2025-03-13,Jazz,1628381,John Collins (Martin),False,True,sprained left ankle (DTD)
+2025-03-13,Magic,1630175,Cole Anthony,False,True,toe injury (DTD)
+2025-03-13,Nets,1641730,Noah Clowney,False,True,ankle injury (DTD)
+2025-03-13,Pelicans,1642274,Yves Missi,False,True,ankle injury (DTD)
+2025-03-13,Raptors,1629628,R.J. Barrett,True,False,activated from IL
+2025-03-13,Spurs,1628368,De'Aaron Fox,False,True,surgery on finger (out for season)
+2025-03-13,Wizards,1641731,Bilal Coulibaly,False,True,hamstring injury (out indefinitely)
