@@ -2556,6 +2556,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-18,Warriors,1641764,Brandin Podziemski,True,False,activated from IL
 2025-03-18,Wizards,1630557,Corey Kispert,False,True,surgery on left thumb (out for season)
 2025-03-18,Wizards,203114,Khris Middleton,False,True,placed on IL with ankle injury
+2025-03-19,Jazz,1628374,Lauri Markkanen,False,True,personal reasons (DTD)
+2025-03-19,Mavericks,1585,Brandon Williams (b. 1975-02-27),False,True,hamstring injury (DTD)
+2025-03-19,Thunder,1641717,Cason Wallace,False,True,shoulder injury (DTD)
 2025-03-19,76ers,1627824,Guerschon Yabusele,True,False,returned to lineup
 2025-03-19,Blazers,1641739,Toumani Camara,True,False,returned to lineup
 2025-03-19,Bulls,1630581,Josh Giddey,True,False,activated from IL
@@ -2563,12 +2566,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-19,Grizzlies,1630590,Scotty Pippen Jr.,True,False,activated from IL
 2025-03-19,Heat,202692,Alec Burks,True,False,activated from IL
 2025-03-19,Hornets,1642275,Tidjane Salaun,False,True,ankle injury (DTD)
-2025-03-19,Jazz,1628374,Lauri Markkanen,False,True,personal reasons (DTD)
+2025-03-19,Jazz,1628374,Lauri Markkanen,False,True,placed on IL for personal reasons
 2025-03-19,Kings,1631222,Jake LaRavia,False,True,placed on IL with illness
 2025-03-19,Kings,203897,Zach LaVine,False,True,placed on IL for personal reasons
 2025-03-19,Lakers,1641998,Trey Jemison III,True,False,activated from IL
 2025-03-19,Magic,1630175,Cole Anthony,False,True,toe injury (DTD)
-2025-03-19,Mavericks,1585,Brandon Williams (b. 1975-02-27),False,True,hamstring injury (DTD)
+2025-03-19,Mavericks,1585,Brandon Williams (b. 1975-02-27),False,True,placed on IL with hamstring injury
 2025-03-19,Mavericks,202691,Klay Thompson,False,True,illness (DTD)
 2025-03-19,Mavericks,1630702,Jaden Hardy,True,False,returned to lineup
 2025-03-19,Mavericks,1630539,Kai Jones,True,False,activated from IL
@@ -2578,7 +2581,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-19,Pacers,1627783,Pascal Siakam,True,False,activated from IL
 2025-03-19,Raptors,1629628,R.J. Barrett,True,False,activated from IL
 2025-03-19,Spurs,1629162,Jordan McLaughlin,True,False,returned to lineup
-2025-03-19,Thunder,1641717,Cason Wallace,False,True,shoulder injury (DTD)
+2025-03-19,Thunder,1641717,Cason Wallace,False,True,placed on IL with shoulder injury
 2025-03-19,Thunder,1628392,Isaiah Hartenstein,False,True,placed on IL with back injury
 2025-03-19,Wizards,1642273,Kyshawn George,False,True,placed on IL with knee injury
 2025-03-19,Wizards,203935,Marcus Smart,True,False,activated from IL
@@ -2603,3 +2606,21 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-20,Wizards,203935,Marcus Smart,False,True,finger injury (DTD)
 2025-03-20,Wizards,203114,Khris Middleton,True,False,activated from IL
 2025-03-20,Wizards,1642273,Kyshawn George,True,False,activated from IL
+2025-03-21,76ers,1629022,Lonnie Walker IV,True,False,activated from IL
+2025-03-21,Blazers,1629014,Anfernee Simons,False,True,illness (DTD)
+2025-03-21,Blazers,1642270,Donovan Clingan,False,True,illness (DTD)
+2025-03-21,Grizzlies,1629634,Brandon Clarke,False,True,knee injury (DTD)
+2025-03-21,Hawks,203991,Clint Capela,False,True,strained ligament in left hand (out for season)
+2025-03-21,Heat,203952,Andrew Wiggins,True,False,returned to lineup
+2025-03-21,Jazz,203903,Jordan Clarkson,False,True,foot injury (DTD)
+2025-03-21,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
+2025-03-21,Jazz,1629004,Svi Mykhailiuk,True,False,activated from IL
+2025-03-21,Magic,1630243,Trevelin Queen,False,True,ankle injury (DTD)
+2025-03-21,Mavericks,1585,Brandon Williams (b. 1975-02-27),True,False,activated from IL
+2025-03-21,Nets,1626156,D'Angelo Russell,False,True,ankle injury (DTD)
+2025-03-21,Nuggets,1627750,Jamal Murray,True,False,activated from IL
+2025-03-21,Pelicans,1629627,Zion Williamson,False,True,bruised lower back (DTD)
+2025-03-21,Suns,1630208,Nick Richards,False,True,calf injury (DTD)
+2025-03-21,Suns,203995,Vasilije Micic,False,True,illness (DTD)
+2025-03-21,Thunder,1641717,Cason Wallace,True,False,activated from IL
+2025-03-21,Warriors,201939,Stephen Curry,False,True,bruised pelvis (DTD)
