@@ -2611,6 +2611,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-20,Wizards,203935,Marcus Smart,False,True,placed on IL with finger injury
 2025-03-20,Wizards,203114,Khris Middleton,True,False,activated from IL
 2025-03-20,Wizards,1642273,Kyshawn George,True,False,activated from IL
+2025-03-22,Wizards,203114,Khris Middleton,False,True,ankle injury (DTD)
 2025-03-21,76ers,1629022,Lonnie Walker IV,True,False,activated from IL
 2025-03-21,Blazers,1629014,Anfernee Simons,False,True,illness (DTD)
 2025-03-21,Blazers,1642270,Donovan Clingan,False,True,illness (DTD)
@@ -2649,5 +2650,22 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-22,Pistons,203501,Tim Hardaway Jr.,False,True,sprained right ankle (DTD)
 2025-03-22,Thunder,1642505,Alex Ducas,False,True,quadriceps injury (DTD)
 2025-03-22,Warriors,1627780,Gary Payton II,True,False,returned to lineup
-2025-03-22,Wizards,203114,Khris Middleton,False,True,ankle injury (DTD)
+2025-03-22,Wizards,203114,Khris Middleton,False,True,placed on IL with ankle injury
 2025-03-22,Wizards,203935,Marcus Smart,True,False,activated from IL
+2025-03-23,Blazers,1629014,Anfernee Simons,True,False,returned to lineup
+2025-03-23,Blazers,1642270,Donovan Clingan,True,False,returned to lineup
+2025-03-23,Blazers,1631133,Jabari Walker,True,False,activated from IL
+2025-03-23,Cavaliers,1642281,Jaylon Tyson,False,True,knee injury (DTD)
+2025-03-23,Celtics,201950,Jrue Holiday,False,True,shoulder injury (DTD)
+2025-03-23,Celtics,204001,Kristaps Porzingis,False,True,illness (DTD)
+2025-03-23,Hornets,1630182,Josh Green,False,True,shoulder injury (DTD)
+2025-03-23,Hornets,1642275,Tidjane Salaun,True,False,activated from IL
+2025-03-23,Jazz,1630531,Jaden Springer,True,False,activated from IL
+2025-03-23,Jazz,1630231,K.J. Martin,True,False,activated from IL
+2025-03-23,Pelicans,1642274,Yves Missi,False,True,hip injury (DTD)
+2025-03-23,Pistons,1630595,Cade Cunningham,False,True,calf injury (DTD)
+2025-03-23,Raptors,1628449,Chris Boucher,False,True,illness (DTD)
+2025-03-23,Raptors,1642266,Ja'Kobe Walter,True,False,activated from IL
+2025-03-23,Thunder,1631096,Chet Holmgren,False,True,hip injury (DTD)
+2025-03-23,Thunder,1629652,Luguentz Dort,True,False,activated from IL
+2025-03-23,Wizards,203114,Khris Middleton,True,False,activated from IL
