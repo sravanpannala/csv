@@ -2744,6 +2744,9 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-27,Warriors,1627780,Gary Payton II,False,True,left thumb injury (DTD)
 2025-03-27,Wizards,203935,Marcus Smart,False,True,placed on IL with illness
 2025-03-27,Wizards,203114,Khris Middleton,True,False,activated from IL
+2025-03-29,Celtics,201143,Al Horford,False,True,toe injury (DTD)
+2025-03-29,Celtics,1630202,Payton Pritchard,False,True,hip injury (DTD)
+2025-03-29,Nets,1626156,D'Angelo Russell,False,True,ankle injury (DTD)
 2025-03-28,76ers,1629022,Lonnie Walker IV,True,False,activated from IL
 2025-03-28,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
 2025-03-28,Celtics,1628369,Jayson Tatum,True,False,returned to lineup
@@ -2763,8 +2766,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-29,76ers,1641720,Jalen Hood-Schifino,True,False,activated from IL
 2025-03-29,Blazers,1630703,Scoot Henderson,False,True,concussion protocol (DTD)
 2025-03-29,Bulls,1630604,E.J. Liddell,False,True,illness (DTD)
-2025-03-29,Celtics,201143,Al Horford,False,True,toe injury (DTD)
-2025-03-29,Celtics,1630202,Payton Pritchard,False,True,hip injury (DTD)
+2025-03-29,Celtics,201143,Al Horford,False,True,placed on IL with toe injury
+2025-03-29,Celtics,1630202,Payton Pritchard,False,True,placed on IL with hip injury
 2025-03-29,Celtics,1630214,Xavier Tillman,True,False,activated from IL
 2025-03-29,Clippers,202695,Kawhi Leonard,False,True,knee injury (DTD)
 2025-03-29,Grizzlies,1629630,Ja Morant,True,False,activated from IL
@@ -2772,9 +2775,24 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-29,Hornets,203552,Seth Curry,False,True,sore right knee (DTD)
 2025-03-29,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
 2025-03-29,Mavericks,1629023,P.J. Washington,True,False,activated from IL
-2025-03-29,Nets,1626156,D'Angelo Russell,False,True,ankle injury (DTD)
+2025-03-29,Nets,1626156,D'Angelo Russell,False,True,placed on IL with ankle injury
 2025-03-29,Nets,1641730,Noah Clowney,True,False,activated from IL
 2025-03-29,Nuggets,1631119,Jaylin Williams (b. 2000-07-26),False,True,hip injury (DTD)
 2025-03-29,Pistons,202699,Tobias Harris,True,False,returned to lineup
 2025-03-29,Rockets,203500,Steven Adams,True,False,returned to lineup
 2025-03-29,Wizards,203935,Marcus Smart,True,False,activated from IL
+2025-03-30,76ers,1627824,Guerschon Yabusele,False,True,knee injury (DTD)
+2025-03-30,Bucks,920,A.J. Green,False,True,shoulder injury (DTD)
+2025-03-30,Bulls,1628989,Kevin Huerter,False,True,sprained right thumb (DTD)
+2025-03-30,Celtics,201143,Al Horford,True,False,activated from IL
+2025-03-30,Celtics,1630202,Payton Pritchard,True,False,activated from IL
+2025-03-30,Clippers,1629599,Amir Coffey,False,True,sore left knee (DTD)
+2025-03-30,Jazz,1628374,Lauri Markkanen,False,True,knee injury (DTD)
+2025-03-30,Kings,1642269,Devin Carter,False,True,bruised right shoulder (DTD)
+2025-03-30,Nets,1641730,Noah Clowney,False,True,ankle injury (DTD)
+2025-03-30,Nets,1626156,D'Angelo Russell,True,False,activated from IL
+2025-03-30,Pelicans,1641722,Jordan Hawkins,False,True,back injury (DTD)
+2025-03-30,Pistons,202699,Tobias Harris,False,True,right Achilles injury (DTD)
+2025-03-30,Raptors,1631197,Jared Rhoden,False,True,hand injury (DTD)
+2025-03-30,Rockets,1642263,Reed Sheppard,True,False,returned to lineup
+2025-03-30,Spurs,1629646,Charles Bassey,True,False,activated from IL
