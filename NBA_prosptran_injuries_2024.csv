@@ -2763,16 +2763,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-28,Warriors,201939,Stephen Curry,True,False,activated from IL
 2025-03-28,Wizards,1630264,Anthony Gill,False,True,left hip injury (DTD)
 2025-03-28,Wizards,203114,Khris Middleton,False,True,knee injury (DTD)
+2025-03-29,Clippers,202695,Kawhi Leonard,False,True,knee injury (DTD)
+2025-03-29,Hornets,203552,Seth Curry,False,True,sore right knee (DTD)
 2025-03-29,76ers,1641720,Jalen Hood-Schifino,True,False,activated from IL
 2025-03-29,Blazers,1630703,Scoot Henderson,False,True,concussion protocol (DTD)
 2025-03-29,Bulls,1630604,E.J. Liddell,False,True,illness (DTD)
 2025-03-29,Celtics,201143,Al Horford,False,True,placed on IL with toe injury
 2025-03-29,Celtics,1630202,Payton Pritchard,False,True,placed on IL with hip injury
 2025-03-29,Celtics,1630214,Xavier Tillman,True,False,activated from IL
-2025-03-29,Clippers,202695,Kawhi Leonard,False,True,knee injury (DTD)
+2025-03-29,Clippers,202695,Kawhi Leonard,False,True,placed on IL with knee injury
 2025-03-29,Grizzlies,1629630,Ja Morant,True,False,activated from IL
 2025-03-29,Grizzlies,1628963,Marvin Bagley III,True,False,activated from IL
-2025-03-29,Hornets,203552,Seth Curry,False,True,sore right knee (DTD)
+2025-03-29,Hornets,203552,Seth Curry,False,True,placed on IL with sore right knee
 2025-03-29,Jazz,1628374,Lauri Markkanen,True,False,activated from IL
 2025-03-29,Mavericks,1629023,P.J. Washington,True,False,activated from IL
 2025-03-29,Nets,1626156,D'Angelo Russell,False,True,placed on IL with ankle injury
@@ -2796,3 +2798,18 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-03-30,Raptors,1631197,Jared Rhoden,False,True,hand injury (DTD)
 2025-03-30,Rockets,1642263,Reed Sheppard,True,False,returned to lineup
 2025-03-30,Spurs,1629646,Charles Bassey,True,False,activated from IL
+2025-03-31,76ers,1627824,Guerschon Yabusele,True,False,returned to lineup
+2025-03-31,Celtics,1627759,Jaylen Brown,False,True,knee injury (DTD)
+2025-03-31,Celtics,1628436,Luke Kornet,False,True,illness (DTD)
+2025-03-31,Clippers,1627732,Ben Simmons,False,True,knee injury (DTD)
+2025-03-31,Clippers,202695,Kawhi Leonard,True,False,activated from IL
+2025-03-31,Heat,1630558,Davion Mitchell,False,True,illness (DTD)
+2025-03-31,Hornets,203552,Seth Curry,True,False,activated from IL
+2025-03-31,Jazz,1642262,Cody Williams,False,True,illness (DTD)
+2025-03-31,Jazz,1629012,Collin Sexton,False,True,pelvic injury (DTD)
+2025-03-31,Mavericks,1629655,Daniel Gafford,True,False,activated from IL
+2025-03-31,Nets,1629661,Cameron Johnson,False,True,back injury (DTD)
+2025-03-31,Nuggets,1631119,Jaylin Williams (b. 2000-07-26),True,False,returned to lineup
+2025-03-31,Pacers,1626167,Myles Turner,False,True,illness (DTD)
+2025-03-31,Suns,201142,Kevin Durant,False,True,ankle injury (DTD)
+2025-03-31,Thunder,1631096,Chet Holmgren,True,False,activated from IL
