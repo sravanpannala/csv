@@ -2932,6 +2932,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-04,Raptors,1630567,Scottie Barnes,False,True,hand injury (DTD)
 2025-04-04,Spurs,1629640,Keldon Johnson,True,False,returned to lineup
 2025-04-04,Thunder,1630198,Isaiah Joe,False,True,knee injury (DTD)
+2025-04-05,Pistons,1631105,Jalen Duren,False,True,leg injury (DTD)
 2025-04-05,Clippers,1641757,Jordan Miller,True,False,activated from IL
 2025-04-05,Grizzlies,1629630,Ja Morant,False,True,illness (DTD)
 2025-04-05,Heat,1641815,Isaiah Stevens,False,True,foot injury (DTD)
@@ -2944,7 +2945,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-05,Nets,1626156,D'Angelo Russell,False,True,ankle injury (DTD)
 2025-04-05,Nets,1630592,Jalen Wilson,True,False,activated from IL
 2025-04-05,Pacers,1627783,Pascal Siakam,False,True,right elbow injury (DTD)
-2025-04-05,Pistons,1631105,Jalen Duren,False,True,leg injury (DTD)
+2025-04-05,Pistons,1631105,Jalen Duren,False,True,placed on IL with leg injury
 2025-04-05,Pistons,1630595,Cade Cunningham,True,False,activated from IL
 2025-04-05,Thunder,1630198,Isaiah Joe,True,False,returned to lineup
 2025-04-05,Wizards,1629673,Jordan Poole,True,False,activated from IL
@@ -2967,3 +2968,15 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-06,Pacers,1641767,Ben Sheppard,False,True,toe injury (DTD)
 2025-04-06,Pelicans,1630631,Jose Alvarado,False,True,calf injury (DTD)
 2025-04-06,Wizards,1641774,Tristan Vukcevic,False,True,knee injury (DTD)
+2025-04-07,76ers,1642348,Justin Edwards,False,True,rib injury (DTD)
+2025-04-07,76ers,200768,Kyle Lowry,True,False,activated from IL
+2025-04-07,Bulls,1628989,Kevin Huerter,False,True,cervical strain (DTD)
+2025-04-07,Cavaliers,1628378,Donovan Mitchell,False,True,sprained left ankle (DTD)
+2025-04-07,Celtics,201143,Al Horford,False,True,knee injury (DTD)
+2025-04-07,Grizzlies,1629630,Ja Morant,True,False,returned to lineup
+2025-04-07,Grizzlies,1631246,Vince Williams Jr.,True,False,activated from IL
+2025-04-07,Heat,1628389,Bam Adebayo,False,True,back injury (DTD)
+2025-04-07,Heat,1629639,Tyler Herro,True,False,returned to lineup
+2025-04-07,Lakers,1629060,Rui Hachimura,False,True,knee injury (DTD)
+2025-04-07,Pistons,1631105,Jalen Duren,True,False,activated from IL
+2025-04-07,Wizards,1642273,Kyshawn George,True,False,activated from IL
