@@ -2969,28 +2969,34 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-06,Pacers,1641767,Ben Sheppard,False,True,toe injury (DTD)
 2025-04-06,Pelicans,1630631,Jose Alvarado,False,True,calf injury (DTD)
 2025-04-06,Wizards,1641774,Tristan Vukcevic,False,True,knee injury (DTD)
+2025-04-07,Bulls,1628989,Kevin Huerter,False,True,cervical strain (DTD)
+2025-04-07,Lakers,1629060,Rui Hachimura,False,True,knee injury (DTD)
+2025-04-08,Bulls,1630581,Josh Giddey,False,True,forearm injury (DTD)
+2025-04-08,Bulls,202696,Nikola Vucevic,False,True,calf injury (DTD)
+2025-04-08,Kings,1628370,Malik Monk,False,True,sore left calf (DTD)
+2025-04-08,Lakers,1642355,Bronny James,False,True,illness (DTD)
 2025-04-07,76ers,1642348,Justin Edwards,False,True,rib injury (DTD)
 2025-04-07,76ers,200768,Kyle Lowry,True,False,activated from IL
-2025-04-07,Bulls,1628989,Kevin Huerter,False,True,cervical strain (DTD)
+2025-04-07,Bulls,1628989,Kevin Huerter,False,True,placed on IL with cervical strain
 2025-04-07,Cavaliers,1628378,Donovan Mitchell,False,True,sprained left ankle (DTD)
 2025-04-07,Celtics,201143,Al Horford,False,True,knee injury (DTD)
 2025-04-07,Grizzlies,1629630,Ja Morant,True,False,returned to lineup
 2025-04-07,Grizzlies,1631246,Vince Williams Jr.,True,False,activated from IL
 2025-04-07,Heat,1628389,Bam Adebayo,False,True,back injury (DTD)
 2025-04-07,Heat,1629639,Tyler Herro,True,False,returned to lineup
-2025-04-07,Lakers,1629060,Rui Hachimura,False,True,knee injury (DTD)
+2025-04-07,Lakers,1629060,Rui Hachimura,False,True,placed on IL with knee injury
 2025-04-07,Pistons,1631105,Jalen Duren,True,False,activated from IL
 2025-04-07,Wizards,1642273,Kyshawn George,True,False,activated from IL
 2025-04-08,Bucks,203507,Giannis Antetokounmpo,True,False,activated from IL
-2025-04-08,Bulls,1630581,Josh Giddey,False,True,forearm injury (DTD)
-2025-04-08,Bulls,202696,Nikola Vucevic,False,True,calf injury (DTD)
+2025-04-08,Bulls,1630581,Josh Giddey,False,True,placed on IL with forearm injury
+2025-04-08,Bulls,202696,Nikola Vucevic,False,True,placed on IL with calf injury
 2025-04-08,Cavaliers,1641854,Craig Porter Jr.,False,True,illness (DTD)
 2025-04-08,Celtics,1628369,Jayson Tatum,True,False,returned to lineup
 2025-04-08,Celtics,204001,Kristaps Porzingis,True,False,returned to lineup
 2025-04-08,Clippers,201988,Patty Mills,False,True,illness (DTD)
 2025-04-08,Heat,1628389,Bam Adebayo,True,False,returned to lineup
-2025-04-08,Kings,1628370,Malik Monk,False,True,sore left calf (DTD)
-2025-04-08,Lakers,1642355,Bronny James,False,True,illness (DTD)
+2025-04-08,Kings,1628370,Malik Monk,False,True,strained left calf (out indefinitely)
+2025-04-08,Lakers,1642355,Bronny James,False,True,placed on IL with illness
 2025-04-08,Mavericks,1629655,Daniel Gafford,True,False,returned to lineup
 2025-04-08,Pacers,1627783,Pascal Siakam,True,False,activated from IL
 2025-04-08,Pelicans,1630631,Jose Alvarado,True,False,returned to lineup
@@ -2998,3 +3004,43 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-08,Timberwolves,1630545,Terrence Shannon Jr.,True,False,activated from IL
 2025-04-08,Warriors,1627780,Gary Payton II,False,True,knee injury (DTD)
 2025-04-08,Warriors,1642366,Quinten Post,False,True,illness (DTD)
+2025-04-09,76ers,200768,Kyle Lowry,False,True,hip injury (DTD)
+2025-04-09,Blazers,1641871,Duop Reath,True,False,returned to lineup
+2025-04-09,Bulls,1630581,Josh Giddey,True,False,activated from IL
+2025-04-09,Bulls,1628989,Kevin Huerter,True,False,activated from IL
+2025-04-09,Bulls,202696,Nikola Vucevic,True,False,activated from IL
+2025-04-09,Cavaliers,1629636,Darius Garland,False,True,toe injury (DTD)
+2025-04-09,Celtics,1628401,Derrick White,False,True,left ankle injury (DTD)
+2025-04-09,Celtics,1627759,Jaylen Brown,False,True,knee injury (DTD)
+2025-04-09,Celtics,1628369,Jayson Tatum,False,True,sprained left ankle (DTD)
+2025-04-09,Celtics,201950,Jrue Holiday,False,True,shoulder injury (DTD)
+2025-04-09,Clippers,1627732,Ben Simmons,False,True,knee injury (DTD)
+2025-04-09,Heat,1641796,Pelle Larsson,False,True,ankle injury (DTD)
+2025-04-09,Heat,203952,Andrew Wiggins,True,False,activated from IL
+2025-04-09,Hornets,1629006,Josh Okogie,False,True,hamstring injury (DTD)
+2025-04-09,Hornets,1628970,Miles Bridges,False,True,hip injury (DTD)
+2025-04-09,Hornets,1631217,Moussa Diabate,False,True,illness (DTD)
+2025-04-09,Hornets,1641878,Damion Baugh,True,False,activated from IL
+2025-04-09,Jazz,1642268,Isaiah Collier,False,True,hamstring injury (DTD)
+2025-04-09,Kings,1628370,Malik Monk,False,True,strained left calf (out indefinitely)
+2025-04-09,Knicks,1628404,Josh Hart,False,True,knee injury (DTD)
+2025-04-09,Knicks,1628384,O.G. Anunoby,False,True,thumb injury (DTD)
+2025-04-09,Lakers,1642355,Bronny James,True,False,activated from IL
+2025-04-09,Lakers,1629060,Rui Hachimura,True,False,activated from IL
+2025-04-09,Mavericks,203957,Dante Exum,True,False,activated from IL
+2025-04-09,Nuggets,1631119,Jaylin Williams (b. 2000-07-26),True,False,activated from IL
+2025-04-09,Pelicans,203482,Kelly Olynyk,False,True,Achilles injury (DTD)
+2025-04-09,Raptors,1627742,Brandon Ingram,False,True,sprained left ankle (out for season)
+2025-04-09,Raptors,1627751,Jakob Poeltl,False,True,hand injury (DTD)
+2025-04-09,Raptors,1630567,Scottie Barnes,True,False,activated from IL
+2025-04-09,Rockets,1630578,Alperen Sengun,False,True,back injury (DTD)
+2025-04-09,Rockets,1627832,Fred VanVleet,False,True,ankle injury (DTD)
+2025-04-09,Rockets,1631095,Jabari Smith Jr.,False,True,groin injury (DTD)
+2025-04-09,Suns,1630208,Nick Richards,False,True,elbow injury (DTD)
+2025-04-09,Thunder,1641717,Cason Wallace,False,True,strained right shoulder (DTD)
+2025-04-09,Thunder,1628392,Isaiah Hartenstein,False,True,Achilles injury (DTD)
+2025-04-09,Thunder,1629652,Luguentz Dort,False,True,knee injury (DTD)
+2025-04-09,Thunder,1628983,Shai Gilgeous-Alexander,False,True,shin injury (DTD)
+2025-04-09,Wizards,1630264,Anthony Gill,False,True,hamstring injury (DTD)
+2025-04-09,Wizards,1629673,Jordan Poole,False,True,bruised right elbow (DTD)
+2025-04-09,Wizards,1641774,Tristan Vukcevic,True,False,activated from IL
