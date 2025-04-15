@@ -3055,8 +3055,12 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-09,Wizards,1630264,Anthony Gill,False,True,hamstring injury (DTD)
 2025-04-09,Wizards,1629673,Jordan Poole,False,True,bruised right elbow (DTD)
 2025-04-09,Wizards,1641774,Tristan Vukcevic,True,False,activated from IL
-2025-04-10,76ers,1627824,Guerschon Yabusele,True,False,activated from IL
 2025-04-10,Bucks,1641890,Tyler Smith,False,True,ankle injury (DTD)
+2025-04-11,76ers,1642024,Alex Reese,False,True,Achilles injury (DTD)
+2025-04-11,Mavericks,203915,Spencer Dinwiddie,False,True,sore right knee (DTD)
+2025-04-11,Rockets,1630578,Alperen Sengun,False,True,personal reasons (DTD)
+2025-04-10,76ers,1627824,Guerschon Yabusele,True,False,activated from IL
+2025-04-10,Bucks,1641890,Tyler Smith,False,True,placed on IL with ankle injury
 2025-04-10,Bucks,1626192,Pat Connaughton,True,False,activated from IL
 2025-04-10,Cavaliers,1641854,Craig Porter Jr.,True,False,activated from IL
 2025-04-10,Celtics,201143,Al Horford,True,False,activated from IL
@@ -3084,7 +3088,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-10,Thunder,1642349,Ajay Mitchell,True,False,activated from IL
 2025-04-10,Thunder,1642505,Alex Ducas,True,False,activated from IL
 2025-04-10,76ers,1627824,Guerschon Yabusele,False,True,knee injury (DTD)
-2025-04-11,76ers,1642024,Alex Reese,False,True,Achilles injury (DTD)
+2025-04-11,76ers,1642024,Alex Reese,False,True,placed on IL with Achilles injury
 2025-04-11,76ers,1629656,Quentin Grimes,False,True,shoulder injury (DTD)
 2025-04-11,Bulls,1631207,Dalen Terry,False,True,right calf injury (DTD)
 2025-04-11,Bulls,1630581,Josh Giddey,False,True,forearm injury (DTD)
@@ -3095,7 +3099,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-11,Knicks,1626157,Karl-Anthony Towns,False,True,knee injury (DTD)
 2025-04-11,Knicks,1628404,Josh Hart,True,False,activated from IL
 2025-04-11,Knicks,1628384,O.G. Anunoby,True,False,activated from IL
-2025-04-11,Mavericks,203915,Spencer Dinwiddie,False,True,sore right knee (DTD)
+2025-04-11,Mavericks,203915,Spencer Dinwiddie,False,True,placed on IL with sore right knee
 2025-04-11,Mavericks,1630702,Jaden Hardy,True,False,returned to lineup
 2025-04-11,Nets,1630533,Ziaire Williams,False,True,knee injury (DTD)
 2025-04-11,Nuggets,1627750,Jamal Murray,True,False,activated from IL
@@ -3107,4 +3111,29 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-11,Warriors,1627780,Gary Payton II,True,False,activated from IL
 2025-04-11,Warriors,1642366,Quinten Post,True,False,activated from IL
 2025-04-11,Rockets,1630578,Alperen Sengun,True,False,activated from IL
-2025-04-11,Rockets,1630578,Alperen Sengun,False,True,personal reasons (DTD)
+2025-04-11,Rockets,1630578,Alperen Sengun,False,True,placed on IL for personal reasons
+2025-04-12,76ers,1642024,Alex Reese,True,False,activated from IL
+2025-04-12,Bucks,1641890,Tyler Smith,True,False,activated from IL
+2025-04-12,Cavaliers,1629636,Darius Garland,False,True,toe injury (DTD)
+2025-04-12,Cavaliers,1629660,Ty Jerome,False,True,knee injury (DTD)
+2025-04-12,Celtics,201143,Al Horford,False,True,knee injury (DTD)
+2025-04-12,Celtics,1628401,Derrick White,False,True,sprained neck (DTD)
+2025-04-12,Celtics,201950,Jrue Holiday,False,True,shoulder injury (DTD)
+2025-04-12,Hawks,1631210,Jacob Toppin,True,False,activated from IL
+2025-04-12,Heat,202692,Alec Burks,False,True,back injury (DTD)
+2025-04-12,Heat,203952,Andrew Wiggins,False,True,hamstring injury (DTD)
+2025-04-12,Hornets,1631109,Mark Williams,False,True,foot injury (DTD)
+2025-04-12,Lakers,1630559,Austin Reaves,False,True,ankle injury (DTD)
+2025-04-12,Lakers,1627827,Dorian Finney-Smith,False,True,ankle injury (DTD)
+2025-04-12,Lakers,2544,LeBron James,False,True,groin injury (DTD)
+2025-04-12,Lakers,1629029,Luka Doncic,False,True,quadriceps injury (DTD)
+2025-04-12,Lakers,1629060,Rui Hachimura,False,True,knee injury (DTD)
+2025-04-12,Mavericks,203076,Anthony Davis,False,True,groin injury (DTD)
+2025-04-12,Mavericks,202691,Klay Thompson,False,True,foot injury (DTD)
+2025-04-12,Mavericks,1629023,P.J. Washington,False,True,ankle injury (DTD)
+2025-04-12,Mavericks,203915,Spencer Dinwiddie,True,False,activated from IL
+2025-04-12,Pacers,1629614,Andrew Nembhard,True,False,returned to lineup
+2025-04-12,Pistons,1641709,Ausar Thompson,False,True,knee injury (DTD)
+2025-04-12,Rockets,1630578,Alperen Sengun,True,False,activated from IL
+2025-04-12,Rockets,1627832,Fred VanVleet,True,False,activated from IL
+2025-04-12,Rockets,1631095,Jabari Smith Jr.,True,False,activated from IL
