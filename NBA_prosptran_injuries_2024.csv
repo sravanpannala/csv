@@ -3088,9 +3088,10 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-10,Thunder,1642349,Ajay Mitchell,True,False,activated from IL
 2025-04-10,Thunder,1642505,Alex Ducas,True,False,activated from IL
 2025-04-10,76ers,1627824,Guerschon Yabusele,False,True,knee injury (DTD)
+2025-04-11,Bulls,1631207,Dalen Terry,False,True,right calf injury (DTD)
 2025-04-11,76ers,1642024,Alex Reese,False,True,placed on IL with Achilles injury
 2025-04-11,76ers,1629656,Quentin Grimes,False,True,shoulder injury (DTD)
-2025-04-11,Bulls,1631207,Dalen Terry,False,True,right calf injury (DTD)
+2025-04-11,Bulls,1631207,Dalen Terry,False,True,placed on IL with right calf injury
 2025-04-11,Bulls,1630581,Josh Giddey,False,True,forearm injury (DTD)
 2025-04-11,Cavaliers,1629636,Darius Garland,True,False,activated from IL
 2025-04-11,Clippers,1626181,Norman Powell,True,False,activated from IL
@@ -3137,3 +3138,47 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-12,Rockets,1630578,Alperen Sengun,True,False,activated from IL
 2025-04-12,Rockets,1627832,Fred VanVleet,True,False,activated from IL
 2025-04-12,Rockets,1631095,Jabari Smith Jr.,True,False,activated from IL
+2025-04-13,76ers,1629656,Quentin Grimes,True,False,returned to lineup
+2025-04-13,Blazers,1631101,Shaedon Sharpe,False,True,knee injury (DTD)
+2025-04-13,Bucks,1629018,Gary Trent Jr.,False,True,knee injury (DTD)
+2025-04-13,Bucks,203507,Giannis Antetokounmpo,False,True,shoulder injury (DTD)
+2025-04-13,Bucks,1631157,Ryan Rollins,False,True,shoulder injury (DTD)
+2025-04-13,Bucks,1627752,Taurean Prince,False,True,knee injury (DTD)
+2025-04-13,Bulls,1631207,Dalen Terry,True,False,activated from IL
+2025-04-13,Cavaliers,1630596,Evan Mobley,False,True,back injury (DTD)
+2025-04-13,Celtics,204001,Kristaps Porzingis,False,True,illness (DTD)
+2025-04-13,Clippers,1629645,Kevin Porter Jr.,False,True,wrist injury (DTD)
+2025-04-13,Clippers,1629599,Amir Coffey,True,False,activated from IL
+2025-04-13,Grizzlies,1630217,Desmond Bane,False,True,groin injury (DTD)
+2025-04-13,Grizzlies,1629630,Ja Morant,False,True,shoulder injury (DTD)
+2025-04-13,Grizzlies,1628991,Jaren Jackson Jr.,False,True,back injury (DTD)
+2025-04-13,Grizzlies,1628379,Luke Kennard,False,True,knee injury (DTD)
+2025-04-13,Grizzlies,1630583,Santi Aldama,False,True,ankle injury (DTD)
+2025-04-13,Grizzlies,1630590,Scotty Pippen Jr.,False,True,back injury (DTD)
+2025-04-13,Grizzlies,1641744,Zach Edey,False,True,ankle injury (DTD)
+2025-04-13,Hawks,1627747,Caris LeVert,False,True,knee injury (DTD)
+2025-04-13,Hawks,1630168,Onyeka Okongwu,False,True,knee injury (DTD)
+2025-04-13,Hawks,1629027,Trae Young,False,True,Achilles injury (DTD)
+2025-04-13,Hornets,1641733,Nick Smith Jr.,False,True,groin injury (DTD)
+2025-04-13,Hornets,1631217,Moussa Diabate,True,False,activated from IL
+2025-04-13,Knicks,1628973,Jalen Brunson,False,True,ankle injury (DTD)
+2025-04-13,Knicks,1628404,Josh Hart,False,True,knee injury (DTD)
+2025-04-13,Knicks,1629011,Mitchell Robinson,False,True,ankle injury (DTD)
+2025-04-13,Knicks,1628384,O.G. Anunoby,False,True,thumb injury (DTD)
+2025-04-13,Magic,202709,Cory Joseph,False,True,knee injury (DTD)
+2025-04-13,Magic,203484,Kentavious Caldwell-Pope,True,False,returned to lineup
+2025-04-13,Magic,1628976,Wendell Carter Jr.,True,False,returned to lineup
+2025-04-13,Mavericks,1585,Brandon Williams (b. 1975-02-27),False,True,oblique injury (DTD)
+2025-04-13,Mavericks,1641726,Dereck Lively II,False,True,ankle injury (DTD)
+2025-04-13,Nets,1641736,Reece Beekman,False,True,calf injury (DTD)
+2025-04-13,Nuggets,1631119,Jaylin Williams (b. 2000-07-26),False,True,ankle injury (DTD)
+2025-04-13,Pacers,1631097,Bennedict Mathurin,False,True,calf injury (DTD)
+2025-04-13,Pacers,1627783,Pascal Siakam,False,True,elbow injury (DTD)
+2025-04-13,Pacers,1630169,Tyrese Haliburton,False,True,back injury (DTD)
+2025-04-13,Pistons,1630595,Cade Cunningham,False,True,knee injury (DTD)
+2025-04-13,Raptors,1628449,Chris Boucher,False,True,illness (DTD)
+2025-04-13,Raptors,202066,Garrett Temple,False,True,knee injury (DTD)
+2025-04-13,Rockets,1631095,Jabari Smith Jr.,False,True,groin injury (DTD)
+2025-04-13,Spurs,1629640,Keldon Johnson,True,False,activated from IL
+2025-04-13,Suns,1626164,Devin Booker,False,True,calf injury (DTD)
+2025-04-13,Wizards,1630550,J.T. Thor,False,True,knee injury (DTD)
