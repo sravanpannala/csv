@@ -3113,6 +3113,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-11,Warriors,1642366,Quinten Post,True,False,activated from IL
 2025-04-11,Rockets,1630578,Alperen Sengun,True,False,activated from IL
 2025-04-11,Rockets,1630578,Alperen Sengun,False,True,placed on IL for personal reasons
+2025-04-13,Hawks,1627747,Caris LeVert,False,True,knee injury (DTD)
+2025-04-13,Hawks,1630168,Onyeka Okongwu,False,True,knee injury (DTD)
 2025-04-12,76ers,1642024,Alex Reese,True,False,activated from IL
 2025-04-12,Bucks,1641890,Tyler Smith,True,False,activated from IL
 2025-04-12,Cavaliers,1629636,Darius Garland,False,True,toe injury (DTD)
@@ -3156,8 +3158,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-04-13,Grizzlies,1630583,Santi Aldama,False,True,ankle injury (DTD)
 2025-04-13,Grizzlies,1630590,Scotty Pippen Jr.,False,True,back injury (DTD)
 2025-04-13,Grizzlies,1641744,Zach Edey,False,True,ankle injury (DTD)
-2025-04-13,Hawks,1627747,Caris LeVert,False,True,knee injury (DTD)
-2025-04-13,Hawks,1630168,Onyeka Okongwu,False,True,knee injury (DTD)
+2025-04-13,Hawks,1627747,Caris LeVert,False,True,placed on IL with knee injury (out for season)
+2025-04-13,Hawks,1630168,Onyeka Okongwu,False,True,placed on IL with knee injury (out for season)
 2025-04-13,Hawks,1629027,Trae Young,False,True,Achilles injury (DTD)
 2025-04-13,Hornets,1641733,Nick Smith Jr.,False,True,groin injury (DTD)
 2025-04-13,Hornets,1631217,Moussa Diabate,True,False,activated from IL
