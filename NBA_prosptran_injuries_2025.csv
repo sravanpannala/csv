@@ -323,6 +323,8 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-11-10,Pistons,1627747,Caris LeVert,False,True,placed on IL with knee injury
 2025-11-10,Raptors,1627751,Jakob Poeltl,True,False,activated from IL
 2025-11-10,Warriors,201939,Stephen Curry,True,False,activated from IL
+2025-11-11,Raptors,1630572,Sandro Mamukelashvili,False,True,neck injury (DTD)
+2025-11-12,Kings,203897,Zach LaVine,False,True,thigh injury (DTD)
 2025-11-11,76ers,203954,Joel Embiid,False,True,knee injury (DTD)
 2025-11-11,Cavaliers,1629636,Darius Garland,False,True,toe injury (DTD)
 2025-11-11,Cavaliers,1642281,Jaylon Tyson,False,True,concussion (DTD)
@@ -335,7 +337,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-11-11,Pacers,1630174,Aaron Nesmith,True,False,returned to lineup
 2025-11-11,Pacers,204456,T.J. McConnell,True,False,activated from IL
 2025-11-11,Pistons,1627747,Caris LeVert,True,False,activated from IL
-2025-11-11,Raptors,1630572,Sandro Mamukelashvili,False,True,neck injury (DTD)
+2025-11-11,Raptors,1630572,Sandro Mamukelashvili,False,True,placed on IL with neck injury
 2025-11-11,Spurs,1628436,Luke Kornet,True,False,activated from IL
 2025-11-11,Warriors,201143,Al Horford,False,True,placed on IL with toe injury
 2025-11-12,Bucks,203507,Giannis Antetokounmpo,False,True,knee injury (DTD)
@@ -345,7 +347,7 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-11-12,Grizzlies,203484,Kentavious Caldwell-Pope,False,True,elbow injury (DTD)
 2025-11-12,Hawks,1629638,Nickeil Alexander-Walker,True,False,activated from IL
 2025-11-12,Kings,1628370,Malik Monk,False,True,nasal fracture (DTD)
-2025-11-12,Kings,203897,Zach LaVine,False,True,thigh injury (DTD)
+2025-11-12,Kings,203897,Zach LaVine,False,True,placed on IL with thigh injury
 2025-11-12,Kings,1642269,Devin Carter,True,False,activated from IL
 2025-11-12,Knicks,1629011,Mitchell Robinson,True,False,activated from IL
 2025-11-12,Magic,1631094,Paolo Banchero,False,True,groin injury (DTD)
@@ -354,3 +356,14 @@ Date,Team,playerID,Player,In,Out,Notes
 2025-11-12,Pistons,1631105,Jalen Duren,False,True,ankle injury (DTD)
 2025-11-12,Warriors,1630228,Jonathan Kuminga,False,True,knee injury (DTD)
 2025-11-12,Warriors,201143,Al Horford,True,False,activated from IL
+2025-11-13,76ers,1631230,Dominick Barlow,True,False,activated from IL
+2025-11-13,76ers,1641780,Johni Broome,True,False,activated from IL
+2025-11-13,Cavaliers,1628366,Lonzo Ball,False,True,knee injury (DTD)
+2025-11-13,Hornets,1641750,Ryan Kalkbrenner,False,True,personal reasons (DTD)
+2025-11-13,Kings,203897,Zach LaVine,True,False,activated from IL
+2025-11-13,Knicks,1628973,Jalen Brunson,False,True,ankle injury (DTD)
+2025-11-13,Pacers,1628998,Cody Martin,False,True,illness (DTD)
+2025-11-13,Raptors,1642867,Collin Murray-Boyles,False,True,illness (DTD)
+2025-11-13,Raptors,1630534,Ochai Agbaji,False,True,back injury (DTD)
+2025-11-13,Raptors,1630572,Sandro Mamukelashvili,True,False,activated from IL
+2025-11-13,Suns,1631109,Mark Williams,False,True,knee injury (DTD)
